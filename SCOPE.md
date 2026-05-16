@@ -3,7 +3,7 @@
 **Status:** v1 DRAFT, awaiting Kol's review and amendment
 **Last updated:** 2026-05-16
 **Author:** Claude (website manager)
-**Purpose:** Capture the strategic context for `games-hub` so future design + content briefs (especially Claude Design handoffs) start from a shared understanding.
+**Purpose:** Capture the strategic context for `gametrackdaily` so future design + content briefs (especially Claude Design handoffs) start from a shared understanding.
 
 This is **not** a design brief and not an implementation plan. It is the "what is this site, why does it exist, what does it need from outside" layer.
 
@@ -11,7 +11,7 @@ This is **not** a design brief and not an implementation plan. It is the "what i
 
 ## Product identity
 
-**Repo:** `games-hub` (on disk at `W:\Websites\sites\games-hub`)
+**Repo:** `gametrackdaily` (on disk at `W:\Websites\sites\gametrackdaily`)
 **Public brand:** GameTrackDaily
 **Studio context:** E-lusion Studios — Kol's umbrella for game prototypes
 **Domain:** TBD (no CNAME committed; per Kol's policy domains are decided after the site proves itself)
