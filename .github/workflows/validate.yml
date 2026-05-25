@@ -16,8 +16,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Check index.html exists and is non-empty
-        run: test -s index.html
+      - name: Check required pages exist
+        run: |
+          test -s index.html
+          test -s releases.html
+          test -s calendar.html
+          test -s events.html
+          test -s news.html
+          test -s news-development.html
+          test -s news-gaming.html
+          test -s news-reviews.html
+          test -s news-previews.html
+          test -s reviews.html
+          test -s games.html
+          test -s game-development.html
 
       - name: HTML syntax validation
         uses: Cyb3r-Jak3/html5validator-action@v7.2.0
