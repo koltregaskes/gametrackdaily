@@ -983,15 +983,15 @@ svg {
   position: relative;
   z-index: 2;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 18px;
+  gap: 28px;
   width: min(var(--maxw), calc(100% - 48px));
   margin: 52px auto 0;
   padding: 28px 0;
   border-top: 2px solid var(--ink);
 }
 
-.footer p {
+.footer p,
+.footer a {
   margin: 0;
   color: var(--ink-3);
   font-family: var(--mono);
@@ -999,6 +999,108 @@ svg {
   letter-spacing: 0.16em;
   line-height: 1.5;
   text-transform: uppercase;
+}
+
+.footer a {
+  color: var(--ink-2);
+  transition: color 0.18s ease, transform 0.18s ease;
+}
+
+.footer a:hover {
+  color: var(--brand);
+  transform: translateX(3px);
+}
+
+.footer__brand {
+  display: grid;
+  grid-template-columns: minmax(210px, 0.42fr) minmax(0, 1fr);
+  gap: 24px;
+  align-items: end;
+}
+
+.footer__mark {
+  color: var(--ink);
+  font-size: clamp(1.25rem, 2.7vw, 2.7rem);
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.footer__mark span {
+  color: var(--brand);
+}
+
+.footer__brand p {
+  max-width: 72ch;
+  color: var(--ink-2);
+}
+
+.footer__estate {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.55fr) minmax(0, 1fr);
+  gap: 24px;
+  align-items: end;
+  padding: 28px 0;
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+}
+
+.footer__label,
+.footer__links p,
+.footer__copyright {
+  color: var(--brand);
+  font-weight: 800;
+}
+
+.footer__estate-title {
+  display: block;
+  margin-top: 8px;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: clamp(3rem, 8vw, 6.2rem);
+  letter-spacing: 0.005em;
+  line-height: 0.86;
+  text-transform: uppercase;
+}
+
+.footer__estate-title:hover {
+  color: var(--brand);
+  transform: none;
+}
+
+.footer__estate p {
+  max-width: 74ch;
+  color: var(--ink-2);
+}
+
+.footer__directory {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0;
+  border: 2px solid var(--ink);
+}
+
+.footer__links {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+  min-width: 0;
+  padding: 18px;
+}
+
+.footer__links + .footer__links {
+  border-left: 2px solid var(--ink);
+}
+
+.footer__links p {
+  margin-bottom: 4px;
+}
+
+.footer__links a {
+  min-height: 28px;
+}
+
+.footer__copyright {
+  color: var(--ink-3);
 }
 
 .glitch {
@@ -1249,8 +1351,15 @@ svg {
     grid-template-columns: 1fr;
   }
 
-  .footer p:last-child {
-    text-align: left !important;
+  .footer__brand,
+  .footer__estate,
+  .footer__directory {
+    grid-template-columns: 1fr;
+  }
+
+  .footer__links + .footer__links {
+    border-top: 2px solid var(--ink);
+    border-left: 0;
   }
 }
 

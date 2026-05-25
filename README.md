@@ -26,6 +26,7 @@ The current launch shell is designed as an editorial watch desk rather than a re
 - a stronger homepage built around launch radar, labelled provisional data, and featured public candidates
 - a cleaner masthead and page framing across the whole public shell
 - more deliberate separation between lineup, coverage, releases, and events
+- a shared footer across every route with GameTrackDaily links, project links, contact/source links, and Elusion Works as the umbrella home
 
 `Release Calendar` now stays focused on Windows PC, Xbox, and PlayStation release tracking, while `Events` handles conferences, showcases, and awards with local-time drill-downs and official watch destinations.
 

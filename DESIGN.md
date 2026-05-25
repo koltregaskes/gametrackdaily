@@ -12,6 +12,7 @@ GameTrackDaily uses a brutalist arcade watch-desk system:
 - slow marquee strips as system chrome
 - restrained motion: marquee, live dot pulse, card lift, button lift, short display-text glitch
 - platform colour coding across every major row
+- a shared footer directory with a prominent Elusion Works umbrella band
 
 ## Core Tokens
 
@@ -54,7 +55,22 @@ The arcade design can render provisional examples from the design handoff, but a
 - `events.html`
 - `news.html`
 - `reviews.html`
-- compatibility/chrome passes for `games.html`, `calendar.html`, `game-development.html`, and the four news rail pages
+- `games.html`
+- `calendar.html`
+- `game-development.html`
+- `news-development.html`
+- `news-gaming.html`
+- `news-reviews.html`
+- `news-previews.html`
+
+## Estate Footer
+
+Every rendered page uses the shared footer in `app.js`. It must keep:
+
+- a GameTrackDaily identity line
+- an Elusion Works umbrella line linked to `https://elusionworks.com/`
+- site navigation, project links, and contact/source links
+- public-boundary copy stating that private launch controls stay out of this site
 
 Not in v1:
 

@@ -386,8 +386,44 @@
   function footer() {
     return `
       <footer class="footer">
-        <p>GameTrackDaily - a curated games tracking site for Windows PC, Xbox, PlayStation, and E-lusion Studios browser demos.</p>
-        <p style="text-align:right">© 2026 Kol Tregaskes</p>
+        <div class="footer__brand">
+          <a class="footer__mark" href="index.html">GAME<span>/</span>TRACK<span>/</span>DAILY</a>
+          <p>A curated games watch desk for Windows PC, Xbox, PlayStation, and Kol's public browser demos.</p>
+        </div>
+        <section class="footer__estate" aria-label="Elusion Works umbrella">
+          <span class="footer__label">Umbrella home</span>
+          <a class="footer__estate-title" href="https://elusionworks.com/">Elusion Works</a>
+          <p>The public front door for Kol's websites, tools, games, and web experiments. Not a formal company; more the banner everything can sit beneath.</p>
+        </section>
+        <div class="footer__directory">
+          <nav class="footer__links" aria-label="GameTrackDaily pages">
+            <p>GameTrackDaily</p>
+            <a href="index.html">Home</a>
+            <a href="releases.html">Releases</a>
+            <a href="events.html">Events</a>
+            <a href="news.html">News</a>
+            <a href="reviews.html">Reviews</a>
+            <a href="games.html">Games</a>
+            <a href="game-development.html">Craft</a>
+          </nav>
+          <nav class="footer__links" aria-label="Kol projects">
+            <p>Projects</p>
+            <a href="https://elusionworks.com/">Elusion Works</a>
+            <a href="https://koltregaskes.com/">Kol's Korner</a>
+            <a href="https://theairesourcehub.com/">AI Resource Hub</a>
+            <a href="https://axylusion.com/">Axy Lusion</a>
+            <a href="https://koltregaskes.github.io/repo-foundry/">Repo Foundry</a>
+            <a href="https://koltregaskesphotography.com/">Photography</a>
+          </nav>
+          <nav class="footer__links" aria-label="Contact and source">
+            <p>Contact</p>
+            <a href="https://github.com/koltregaskes/gametrackdaily">GitHub</a>
+            <a href="https://github.com/koltregaskes">Kol on GitHub</a>
+            <a href="https://x.com/koltregaskes">X / Twitter</a>
+            <a href="https://koltregaskes.com/contact/">Contact Kol</a>
+          </nav>
+        </div>
+        <p class="footer__copyright">GameTrackDaily &copy; 2026 Kol Tregaskes. Public build only; private launch controls stay out of this site.</p>
       </footer>
     `;
   }
@@ -916,7 +952,7 @@
   }
 
   function renderGames(data) {
-    return pageFrame("home", `
+    return pageFrame("games", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// Lineup</span> E-lusion Studios</div>
         <h1 class="display hero-title">Seven games,<br><span class="acc">one slate.</span></h1>
@@ -931,7 +967,7 @@
   }
 
   function renderDevelopment(data) {
-    return pageFrame("home", `
+    return pageFrame("development", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// Craft</span> Public-safe game development reference</div>
         <h1 class="display hero-title">Build notes,<br><span class="acc">not ops.</span></h1>
