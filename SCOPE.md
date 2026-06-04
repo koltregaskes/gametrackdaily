@@ -11,7 +11,7 @@ This is **not** a design brief and not an implementation plan. It is the "what i
 
 ## Product identity
 
-**Repo:** `gametrackdaily` (on disk at `W:\Websites\sites\gametrackdaily`)
+**Repo:** `gametrackdaily`
 **Public brand:** GameTrackDaily
 **Studio context:** E-lusion Studios — Kol's umbrella for game prototypes
 **Domain:** TBD (no CNAME committed; per Kol's policy domains are decided after the site proves itself)
