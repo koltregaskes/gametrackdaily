@@ -651,7 +651,7 @@
     return pageFrame("releases", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 01</span> Release radar · Windows PC · Xbox · PlayStation</div>
-        <h1 class="display hero-title">The card,<br><span class="acc">ninety days</span> out.</h1>
+        <h1 class="display hero-title">The card, <br><span class="acc">ninety days</span> out.</h1>
         <p class="hero-lede">Every tracked release on the three platforms we cover. Filter by platform to scan one slate at a time. Brand-red rows are E-lusion Studios drops or provisional studio slots.</p>
         ${alias ? `<div class="notice"><span class="acc">Route note</span><span><code>calendar.html</code> is kept as a public-safe alias. The arcade design's canonical release surface is <a href="releases.html">releases.html</a>.</span></div>` : ""}
         ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>The public release manifest is currently seeded and has no future dated release rows. The visible dated slate uses handoff examples until the release tracker is refreshed.</span></div>` : ""}
@@ -736,7 +736,7 @@
     return pageFrame("events", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 02</span> Events watch desk · 2026</div>
-        <h1 class="display hero-title">Showcases,<br>conferences,<br><span class="acc">awards.</span></h1>
+        <h1 class="display hero-title">Showcases, <br>conferences, <br><span class="acc">awards.</span></h1>
         ${next ? `
           <article class="card" style="margin-top:32px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;padding:0">
             <div style="padding:26px 28px;background:var(--brand);color:#0a0a0c;display:flex;flex-direction:column;align-items:center;min-width:140px">
@@ -816,7 +816,7 @@
     return pageFrame("news", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 03</span> Curated wire · public rails</div>
-        <h1 class="display hero-title">Four feeds,<br><span class="acc">one watch desk.</span></h1>
+        <h1 class="display hero-title">Four feeds, <br><span class="acc">one watch desk.</span></h1>
         <p class="hero-lede">Game-dev craft, platform and industry stories, scored reviews, and unscored previews. The public pipeline is still being populated, so examples stay labelled.</p>
         <div class="tabs-row" style="margin-top:28px">
           <button class="tab-button" style="--filter:var(--ink)" data-rail-tab="all" aria-pressed="${forcedRail ? "false" : "true"}">All rails</button>
@@ -869,7 +869,7 @@
     return pageFrame("reviews", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 04</span> Critical coverage · curated, not house-review led</div>
-        <h1 class="display hero-title">Verdicts<br><span class="acc">worth your time.</span></h1>
+        <h1 class="display hero-title">Verdicts <br><span class="acc">worth your time.</span></h1>
         <p class="hero-lede">Reviews and previews from the wider games press. GameTrackDaily curates the coverage and explains the scoring language; it does not pretend to be the critic.</p>
         ${data.meta.usingProvisionalNews ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>Review rows are example coverage until the public news pipeline publishes real scored items.</span></div>` : ""}
       </section>
@@ -955,7 +955,7 @@
     return pageFrame("games", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// Lineup</span> E-lusion Studios</div>
-        <h1 class="display hero-title">Seven games,<br><span class="acc">one slate.</span></h1>
+        <h1 class="display hero-title">Seven games, <br><span class="acc">one slate.</span></h1>
         <p class="hero-lede">A public-safe roster of browser demos, desktop builds, and proof slices. The cards link out to playable demos and repositories where those are already public.</p>
       </section>
       <section class="shell" style="margin-top:36px">
@@ -970,7 +970,7 @@
     return pageFrame("development", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// Craft</span> Public-safe game development reference</div>
-        <h1 class="display hero-title">Build notes,<br><span class="acc">not ops.</span></h1>
+        <h1 class="display hero-title">Build notes, <br><span class="acc">not ops.</span></h1>
         <p class="hero-lede">A public reference layer for engines, distribution, playtesting, marketing, scope, UI, and store readiness. Private launch controls stay out of this repo.</p>
       </section>
       <section class="shell" style="margin-top:36px">
