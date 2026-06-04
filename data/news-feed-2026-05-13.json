@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:39.538Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-13",
+  "article_count": 1,
+  "archived_story_count": 656,
+  "articles": [
+    {
+      "title": "obviously not perfect but i'm very impressed.",
+      "url": "https://reddit.com/r/ChatGPT/comments/1tc2kef/obviously_not_perfect_but_im_very_impressed/",
+      "source": "Reddit r/ChatGPT",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.85,
+      "date": "2026-05-13T15:13:15.000Z",
+      "summary": "prompt is this: \"can you create a image of a steam library worth like 2k dollars? it must run on an Windows 11 GUI, steam username should be \"CHATGPTHOARDER#4\", and notable games should be listed in the library page: \\-\\[your games here\\]\"",
+      "category": "ai_tools"
+    }
+  ]
+}

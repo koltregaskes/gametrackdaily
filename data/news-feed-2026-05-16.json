@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:40.369Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-16",
+  "article_count": 1,
+  "archived_story_count": 407,
+  "articles": [
+    {
+      "title": "I rebuilt my game studio website with Claude Code and I think web dev is cooked",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tf0iqm/i_rebuilt_my_game_studio_website_with_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.62,
+      "date": "2026-05-16T17:48:36.000Z",
+      "summary": "I'm an indie game developer, not a web developer. I needed to update the website for my studio and I wanted something that actually felt like a *game studio* — so I designed the layout inspired by game UI menus. Clean sections, navigation that feels intentional, that kind of thing. A few iterations in Claude and I had it all working locally. Then I did something I've never done before: I just handed Claude Code my SSH credentials and let it deploy. It connected to my server, pushed everything, and the site was live. I didn't touch a single terminal command. But the part that genuinely surprised me: it also built a data layer that pulls live info from the Steam API — game details, screenshots, Workshop content — and structures it so it works across all our titles automatically. It's responsive on mobile too. The result: [**speedrivals.es**](http://speedrivals.es) I've shipped games. I know what it feels like when something clicks. This clicked. I don't say this lightly: I think the profession of \"web developer\" as most studios hire it is effectively over. At least for projects at this scale.",
+      "category": "ai_tools"
+    }
+  ]
+}

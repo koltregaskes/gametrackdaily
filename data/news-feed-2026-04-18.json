@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:34.730Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-18",
+  "article_count": 1,
+  "archived_story_count": 256,
+  "articles": [
+    {
+      "title": "Accidentally discovered you can teach frozen MoE models new knowledge by just steering their expert routing — no training needed",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1solnwh/accidentally_discovered_you_can_teach_frozen_moe/",
+      "source": "Reddit r/LocalLLaMA",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-04-18T02:55:05.000Z",
+      "summary": "Was probing Gemma 4's MoE routing patterns out of curiosity and noticed something weird experts route differently when the model \"knows\" something vs. when it doesn't.\n\nSo I recorded that difference and replayed it. Called it Adaptive Cognitive Intelligence (ACI).\n\nResult: A 154KB file makes Gemma 4 go from \"Starfield is NOT available on PS5\" (181 words, confidently wrong) → \"Starfield released on PS5 in April 2026 with DualSense haptics\" (31 words, correct).\n\nNo weight modification. No LoRA. No",
+      "category": "ai_models"
+    }
+  ]
+}

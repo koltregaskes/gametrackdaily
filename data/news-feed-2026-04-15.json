@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:34.201Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-15",
+  "article_count": 1,
+  "archived_story_count": 418,
+  "articles": [
+    {
+      "title": "Are gamers being used as free labeling labor? The rise of \"Simulators\" that look like AI training grounds [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1smm65q/are_gamers_being_used_as_free_labeling_labor_the/",
+      "source": "Reddit r/MachineLearning",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-04-15T23:10:18.000Z",
+      "summary": "Hey everyone,\n\nI’m an AI news curator and editor currently working on a piece about a weird trend I’ve been spotting: technical simulators that feel less like \"games\" and more like sophisticated environments for data collection or Sim-to-Real reinforcement learning.\n\nI recently came across \"Data Center\" on Steam. If you haven't seen it, it’s an incredibly granular sim about wiring, cooling, and managing rack infrastructure. While it's marketed as a tycoon/sim, the level of technical accuracy has",
+      "category": "ai_research"
+    }
+  ]
+}

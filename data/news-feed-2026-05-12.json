@@ -1,0 +1,55 @@
+{
+  "generated": "2026-06-05T00:44:39.264Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-12",
+  "article_count": 3,
+  "archived_story_count": 612,
+  "articles": [
+    {
+      "title": "After 8 months of running everything local, ive accepted the productivity tools also have to be local[D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1tbaq2a/after_8_months_of_running_everything_local_ive/",
+      "source": "Reddit r/MachineLearning",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-12T18:44:05.000Z",
+      "summary": "Quick context: M3 max 64gb, currently running llama 3.3 70b q4 as my daily driver via ollama, qwen3 coder 30b for code (switched from qwen2.5 earlier this year), mlx for the smaller stuff. tried llama 4 scout earlier this year but 64gb is too tight at q4 once you leave headroom for context, sticking with 3.3 70b until i upgrade hardware. moved off the claude api around september last year. the cost wasnt the main reason, the data was. i do contract work with NDAs and i was getting uncomfortable about how much code and how many internal docs were going through anthropics servers. Heres the thing i didnt expect. once i moved my LLM local, everything else upstream and downstream of the LLM started feeling wrong by comparison. Example. i was on rewind.ai for a long time because the screen memory thing is genuinely useful for me. then meta bought them in december and the mac app went away, like everyone elses. tried a couple of the diy alternatives that picked up steam after, screenpipe in particular, didnt quite stick for me. I was using granola for meeting notes. same story, transcripts go up. uninstalled. I think a lot of you are running into this same thing if youre being honest. y…",
+      "category": "ai_research"
+    },
+    {
+      "title": "Steam Recommender using similarity! (Undergraduate Student Project) [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1tb8k3n/steam_recommender_using_similarity_undergraduate/",
+      "source": "Reddit r/MachineLearning",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-12T17:30:32.000Z",
+      "summary": "(DISCLAIMER: I accidentally deleted the last post on this subreddit my apologies if this is your second time seeing it) Last year I made a [post](https://www.reddit.com/r/datascience/comments/1lkjxmr/steam_recommender_using_vectors_student_project/) about my steam recommender The last one was great and served its purpose of showing many people new games, But this new version is much more functional! I love making recommendation systems that tell the user WHY they got the recommendation. During a steam sale event, I always find myself trying to look for new video games to play. If I wanted to find a new game I would try to whittle it down by using steam tags, but the steam tag system is very broad \"action\". could apply to many many games. That got me thinking, what aspects do I like about my favorite games? Well I like Persona 4 because of the city vibes and jazz fusion, Spore because of the unique character creation and whimsical theme. Balatro for its unique deck building synergies. What if I could capture unique tags that identify a game that aren't just \"action\" and put them into vectors to show the (focus) of a game For example I could break persona 4 into something like Game…",
+      "category": "ai_research"
+    },
+    {
+      "title": "After 8 months of running everything local, ive accepted the productivity tools also have to be local",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1tb4bro/after_8_months_of_running_everything_local_ive/",
+      "source": "Reddit r/LocalLLaMA",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-12T15:04:52.000Z",
+      "summary": "Quick context: M3 max 64gb, currently running llama 3.3 70b q4 as my daily driver via ollama, qwen3 coder 30b for code (switched from qwen2.5 earlier this year), mlx for the smaller stuff. tried llama 4 scout earlier this year but 64gb is too tight at q4 once you leave headroom for context, sticking with 3.3 70b until i upgrade hardware. moved off the claude api around september last year. the cost wasnt the main reason, the data was. i do contract work with NDAs and i was getting uncomfortable about how much code and how many internal docs were going through anthropics servers. Heres the thing i didnt expect. once i moved my LLM local, everything else upstream and downstream of the LLM started feeling wrong by comparison. Example. i was on rewind.ai for a long time because the screen memory thing is genuinely useful for me. then meta bought them in december and the mac app went away, like everyone elses. tried a couple of the diy alternatives that picked up steam after, screenpipe in particular, didnt quite stick for me. I was using granola for meeting notes. same story, transcripts go up. uninstalled. I think a lot of you are running into this same thing if youre being honest. y…",
+      "category": "ai_models"
+    }
+  ]
+}

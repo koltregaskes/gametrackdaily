@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:44.557Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-29",
+  "article_count": 1,
+  "archived_story_count": 468,
+  "articles": [
+    {
+      "title": "Steam Deck sells out in North America within 24 hours of price hike",
+      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+      "source": "Ars Technica AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.74,
+      "date": "2026-05-31T19:11:34.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "generated": "2026-06-05T00:44:31.665Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-01",
+  "article_count": 2,
+  "archived_story_count": 894,
+  "articles": [
+    {
+      "title": "Xbox Game Pass Ultimate",
+      "url": "https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=CNavAllXboxGamePassUltimate",
+      "source": "Microsoft AI Blog",
+      "tags": [
+        "game_release",
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "game_release",
+        "gaming_platform"
+      ],
+      "importance": 0.76,
+      "date": "2026-04-01T09:35:03.773Z",
+      "summary": null,
+      "category": "ai_tools"
+    },
+    {
+      "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+      "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+      "source": "NVIDIA AI Blog",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-04-01T09:35:05.161Z",
+      "summary": null,
+      "category": "ai_tools"
+    }
+  ]
+}

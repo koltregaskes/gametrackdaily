@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:36.238Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-26",
+  "article_count": 1,
+  "archived_story_count": 311,
+  "articles": [
+    {
+      "title": "The Nintendo Switch Switch (2019)",
+      "url": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.74,
+      "date": "2026-04-24T18:33:35.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

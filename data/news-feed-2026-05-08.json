@@ -1,0 +1,70 @@
+{
+  "generated": "2026-06-05T00:44:38.339Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-08",
+  "article_count": 4,
+  "archived_story_count": 552,
+  "articles": [
+    {
+      "title": "Steam Similarity Recommender Find your next favorite game and learn WHY (student project)[P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1t7m7ai/steam_similarity_recommender_find_your_next/",
+      "source": "Reddit r/MachineLearning",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-08T22:04:29.000Z",
+      "summary": "I love making recommendation systems that tell the user WHY they got the recommendation. During a steam sale event, I always find myself trying to look for new video games to play. If I wanted to find a new game I would try to whittle it down by using steam tags, but the steam tag system is very broad \"action\". could apply to many many games. That got me thinking, what aspects do I like about my favorite games? Well I like Persona 4 because of the city vibes and jazz fusion, I like Spore because of the unique character creation and whimsical theme. and I like Balatro for its unique deck building synergies. What if I could capture unique tags that identify a game that aren't just \"action\" and put them into vectors to show the (focus) of a game For example I could break persona 4 into something like Gameplay Focus vector: \\- Day cycle 20% \\- Dungeon crawling 20% \\- Social sim 20% Tags: \\- Music: jazz fusion \\- Vibe: Small rural town I achieved this by pulling 2k reviews for 80k steam games, running them through a 4 stage pipeline that filters out the reviews to find reviews describing a video game's vibes or structure, then asking a llm to generate these reviews into vectors, niche…",
+      "category": "ai_research"
+    },
+    {
+      "title": "Local AI image/video generation like Kling motion control — what tools, and will 16GB RAM + NVIDIA work?",
+      "url": "https://reddit.com/r/StableDiffusion/comments/1t73769/local_ai_imagevideo_generation_like_kling_motion/",
+      "source": "Reddit r/StableDiffusion",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-08T09:47:33.000Z",
+      "summary": "Instead of paying for Kling for motion control AI video generation, how can I run something similar locally? I have a Windows PC with 16GB RAM and an NVIDIA GPU. What tools should I install and will my specs be enough?",
+      "category": "creative_tools"
+    },
+    {
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-08T06:56:13.000Z",
+      "summary": null,
+      "category": "tech_general"
+    },
+    {
+      "title": "Steam Similarity Recommender [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1t6x2zw/steam_similarity_recommender_p/",
+      "source": "Reddit r/MachineLearning",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-08T04:09:16.000Z",
+      "summary": "I Just made a sequel to my Steam Game recommender website! Last year I made a [post](https://www.reddit.com/r/MachineLearning/comments/1l0qucq/p_steam_recommender/) about my steam recommender The last one was great but this one I'm glad I was able to make a product that hopefully helped people find their next game. After some developing I made a new one that is much more functional! I love making recommendation systems that tell the user WHY they got the recommendation. During a steam sale event, I always find myself trying to look for new video games to play. If I wanted to find a new game I would try to whittle it down by using steam tags, but the steam tag system is very broad \"action\". could apply to many many games. That got me thinking, what aspects do I like about my favorite games? Well I like Persona 4 because of the city vibes and jazz fusion, I like Spore because of the unique character creation and whimsical theme. and I like Balatro for its unique deck building synergies. What if I could capture unique tags that identify a game that aren't just \"action\" and put them into vectors to show the (focus) of a game For example I could break persona 4 into something like Game…",
+      "category": "ai_research"
+    }
+  ]
+}

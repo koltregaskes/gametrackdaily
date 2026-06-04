@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:42.029Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-21",
+  "article_count": 1,
+  "archived_story_count": 634,
+  "articles": [
+    {
+      "title": "AMD BC-250 and the search for Cheap Compute",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1tj4unp/amd_bc250_and_the_search_for_cheap_compute/",
+      "source": "Reddit r/LocalLLaMA",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-21T00:54:42.000Z",
+      "summary": "I've been searching for disused/underappreciated compute vectors for a few months since the MI50 shot up in proce - in comes the salvaged PS5 APU on a standalone board; Zen 2, 16 GB unified GDDR6, RDNA 2 (gfx1013). They're $50-150 on eBay and ship with 24 of 40 CUs enabled. Got curious and started reading through amdgpu source. Two registers control CU availability it turns out: - `CC_GC_SHADER_ARRAY_CONFIG`, tells the driver how many CUs exist - `SPI_PG_ENABLE_STATIC_WGP_MASK`, tells the shader processor where to send work Both are writable from inside the driver init path it turns out, clearing the hardware registers. You have to set both, either one alone does nothing: pp512 numbers (Vulkan, llama.cpp): | Config | tok/s | Power | Temp | |--------|-------|-------|------| | 24 CU @ 1500 MHz | 230 | 55W | 71C | | 40 CU @ 1500 MHz | 372 | 125W | 83C | | 40 CU @ 2 GHz | 466 | 181W | 96C | I've also been working on a custom HIP kernel for gfx1013 since there isn't one, nor is there optimizations available in tensile. HIP already beats Vulkan on token generation (48 vs 30 tok/s on a 9B model), prefill is still behind but closing. The Vulkan backend uses fp16 FMA dequant which is hard…",
+      "category": "ai_models"
+    }
+  ]
+}

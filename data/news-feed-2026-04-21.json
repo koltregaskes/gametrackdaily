@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:35.366Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-21",
+  "article_count": 1,
+  "archived_story_count": 644,
+  "articles": [
+    {
+      "title": "Talk Naturally, Get Things Done Faster: Continued Conversation arrives on Gemini for Home",
+      "url": "https://www.googlenestcommunity.com/t5/Blog/Talk-Naturally-Get-Things-Done-Faster-Continued-Conversation-arrives-on/ba-p/801406",
+      "source": "The Verge AI",
+      "tags": [
+        "release_date"
+      ],
+      "matching_tags": [
+        "release_date"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-04-21T18:00:26.375Z",
+      "summary": null,
+      "category": "ai_tools"
+    }
+  ]
+}

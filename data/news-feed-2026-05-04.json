@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:37.602Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-04",
+  "article_count": 1,
+  "archived_story_count": 617,
+  "articles": [
+    {
+      "title": "half-deployed AI projects haunt my github",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t3fdwy/halfdeployed_ai_projects_haunt_my_github/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-04T11:50:39.000Z",
+      "summary": "Got 47 repos that start with 'just playing with Claude' or 'testing Llama 4 on'. Every single one dead after three commits. Like you get this spark, right? Midnight scrolling leads to some random implementation of retrieval-augmented generation for your personal notes. Brain goes full steam. You're already planning the deployment pipeline while pip installing transformers. Then day two hits. The model's hallucinating your grocery lists into poetry (weirdly beautiful but useless). Your GPU's crying. And suddenly you remember you have actual work that pays actual money. But here's the thing that gets me. These aren't just abandoned experiments, they're digital ghosts of pure optimism. Each one represents that exact moment when everything seemed possible, when you thought you'd crack the code this time, when the future felt close enough to touch. Now I scroll past them looking for that one functional script I actually need. Graveyard of good intentions, all named some variation of 'ai-helper-v2-final-actually-final'. Anyone else got a git log that reads like a museum of broken dreams?",
+      "category": "ai_tools"
+    }
+  ]
+}

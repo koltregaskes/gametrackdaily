@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:36.754Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-29",
+  "article_count": 1,
+  "archived_story_count": 700,
+  "articles": [
+    {
+      "title": "Almost insanely accurate",
+      "url": "https://reddit.com/r/ChatGPT/comments/1syu2ov/almost_insanely_accurate/",
+      "source": "Reddit r/ChatGPT",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.54,
+      "date": "2026-04-29T09:45:01.000Z",
+      "summary": "The prompt was \"Create a Cross-sectional blueprint of a massive underground steam-powered city in a post-solar-apocalypse world, constructed within a deep cylindrical subterranean structure. Layers of platforms, turbines, boilers, water systems, and dense habitation zones interconnected by ladders and walkways. Industrial steampunk aesthetic, technical diagram style, precise linework, annotations, worn blueprint paper texture, highly intricate\".\n\nOriginally it was just \"Create an image of a blue",
+      "category": "ai_tools"
+    }
+  ]
+}

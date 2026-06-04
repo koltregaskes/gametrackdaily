@@ -1,0 +1,27 @@
+{
+  "generated": "2026-06-05T00:44:36.023Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-25",
+  "article_count": 1,
+  "archived_story_count": 689,
+  "articles": [
+    {
+      "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
+      "source": "NVIDIA AI Blog",
+      "tags": [
+        "game_release",
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "game_release",
+        "gaming_platform"
+      ],
+      "importance": 0.76,
+      "date": "2026-04-25T06:00:21.406Z",
+      "summary": null,
+      "category": "ai_tools"
+    }
+  ]
+}

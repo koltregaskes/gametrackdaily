@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:40.566Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-17",
+  "article_count": 1,
+  "archived_story_count": 420,
+  "articles": [
+    {
+      "title": "Never written a line of code. Just got my game approved on Steam.",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tg444z/never_written_a_line_of_code_just_got_my_game/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.88,
+      "date": "2026-05-17T22:35:58.000Z",
+      "summary": "I've been \"going to make this game\" for years. Couldn't code. Didn't know what bash was. Couldn't open my own terminal. Talk is cheap. Until 30 days ago, making games wasn't. &gt; Enter my new BFF Claude 60k lines I didn't write but can read. 5 factions, 62 races, 87 abilities, real multiplayer over Steam. Builds on Mac, Windows, Linux, Steam Deck. Early Access June 1. I'm not a developer. I'm a guy who finally stopped finding reasons not to start. Sad. True. **Don't care.** [https://store.steampowered.com/app/4684510/ARB\\_Alien\\_Races\\_Battle/](https://store.steampowered.com/app/4684510/ARB_Alien_Races_Battle/) P.S --- If anyone would like to test I'm ready. Keys are unlocked 5/19.",
+      "category": "ai_tools"
+    }
+  ]
+}

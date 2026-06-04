@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:31.936Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-02",
+  "article_count": 2,
+  "archived_story_count": 120,
+  "articles": [
+    {
+      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7999999999999999,
+      "date": "2026-04-02T03:12:24.000Z",
+      "summary": null,
+      "category": "tech_general"
+    },
+    {
+      "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+      "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+      "source": "Ars Technica AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.74,
+      "date": "2026-04-02T18:00:16.232Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

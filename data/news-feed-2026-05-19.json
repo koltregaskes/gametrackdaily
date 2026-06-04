@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:41.082Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-19",
+  "article_count": 2,
+  "archived_story_count": 634,
+  "articles": [
+    {
+      "title": "Fictional surreal PS2 ad with Images 2.0",
+      "url": "https://reddit.com/r/ChatGPT/comments/1ti0sj6/fictional_surreal_ps2_ad_with_images_20/",
+      "source": "Reddit r/ChatGPT",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7799999999999999,
+      "date": "2026-05-19T21:21:31.000Z",
+      "summary": "Felt inspired by those early 2000s absurd and surreal advertisements for the PlayStation 2 and wanted to give it a shot. Turned out pretty well. Control scheme is reversed for some reason, just noticed.",
+      "category": "ai_tools"
+    },
+    {
+      "title": "Claude + Strava + Runna + Peloton",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tha57h/claude_strava_runna_peloton/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "release_date"
+      ],
+      "matching_tags": [
+        "release_date"
+      ],
+      "importance": 0.54,
+      "date": "2026-05-19T02:59:30.000Z",
+      "summary": "Built a personal running dashboard on top of Strava that's grown into something I actually use every day. Here's what it does: \\*\\*Overview\\*\\* — pulls all your Strava activities and gives you weekly/monthly mileage, pace trends, heart rate zones, and an AI coaching insight that reads your recent training and gives you an actual observation, not a generic tip. \\*\\*Performance\\*\\* — deeper analytics, PR tracking, long-term trend charts. \\*\\*Fuel\\*\\* — this is the part I'm most proud of. It syncs with my Runna training calendar via Google Calendar, classifies each day (rest / easy / moderate / hard / long run), and generates personalized daily macro targets that periodize automatically around your training load. Carbs scale hard with intensity — rest days are low, long run days are aggressive. It looks 14 days ahead so you can plan meals around what's coming. On rest days it integrates Peloton cross-training recommendations and adjusts your nutrition targets to reflect the actual workout load — a pull day gets different macros than a pure rest day. \\*\\*Train\\*\\* — a 7-day weekly view that lays out your Runna runs alongside recommended Peloton workouts for non-run days. The recommend…",
+      "category": "ai_tools"
+    }
+  ]
+}

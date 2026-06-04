@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:28.863Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-03-17",
+  "article_count": 2,
+  "archived_story_count": 140,
+  "articles": [
+    {
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7,
+      "date": "2026-03-17T15:16:29.000Z",
+      "summary": null,
+      "category": "tech_general"
+    },
+    {
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7,
+      "date": "2026-03-13T13:40:21.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

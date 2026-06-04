@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:40.086Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-15",
+  "article_count": 2,
+  "archived_story_count": 629,
+  "articles": [
+    {
+      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
+      "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+      "source": "The Verge AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-05-15T06:00:29.269Z",
+      "summary": null,
+      "category": "ai_tools"
+    },
+    {
+      "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+      "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+      "source": "The Verge AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-05-15T06:00:29.267Z",
+      "summary": null,
+      "category": "ai_tools"
+    }
+  ]
+}

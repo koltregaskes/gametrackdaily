@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:39.023Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-11",
+  "article_count": 2,
+  "archived_story_count": 572,
+  "articles": [
+    {
+      "title": "Claude FM",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tahkhu/claude_fm/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "release_date"
+      ],
+      "matching_tags": [
+        "release_date"
+      ],
+      "importance": 0.88,
+      "date": "2026-05-11T21:45:11.000Z",
+      "summary": "**I emailed one of the musicians on Claude FM and he had NO idea his music was being used** So for those who don't know, Anthropic recently started a 24/7 lofi/ambient music livestream on YouTube called Claude FM. The song titles and artist names show up in the top right corner of the stream. I've been listening in a lot lately and kept hearing this one artist, Ben Seretan, whose music honestly hits different very calming, great for focus. His stuff was coming on constantly, felt like significant part of the rotation. So I did some digging, found his email, and sent him a thank you note. He responded and literally asked *\"what Claude live stream were you watching?\"* he had zero idea. I have attached the email screenshots for your convenience. When I explained what Claude FM was and that his music was playing there non stop, his response was basically: *\"Wow. No, I truly had no idea how strange. I think I'm grateful? But I also think I'm not getting paid?\"* He then asked if I had any insight into how this happened or who put it together. Which now has me wondering... **do any of the artists on Claude FM actually know their music is being used? And are they being compensated?** The…",
+      "category": "ai_tools"
+    },
+    {
+      "title": "I told Claude to create a PS5 controller in blender",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ta5ddv/i_told_claude_to_create_a_ps5_controller_in/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7999999999999999,
+      "date": "2026-05-11T14:43:03.000Z",
+      "summary": "nice try",
+      "category": "ai_tools"
+    }
+  ]
+}

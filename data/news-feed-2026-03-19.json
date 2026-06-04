@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:29.203Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-03-19",
+  "article_count": 1,
+  "archived_story_count": 98,
+  "articles": [
+    {
+      "title": "An update on Steam / GOG changes for OpenTTD",
+      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7,
+      "date": "2026-03-19T17:27:17.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

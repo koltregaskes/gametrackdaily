@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:38.019Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-06",
+  "article_count": 2,
+  "archived_story_count": 542,
+  "articles": [
+    {
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 1,
+      "date": "2026-05-06T15:44:13.000Z",
+      "summary": null,
+      "category": "tech_general"
+    },
+    {
+      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+      "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.82,
+      "date": "2026-05-05T22:43:47.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

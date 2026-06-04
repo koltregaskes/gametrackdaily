@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:45.748Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-06-03",
+  "article_count": 1,
+  "archived_story_count": 269,
+  "articles": [
+    {
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.88,
+      "date": "2026-06-03T10:24:25.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

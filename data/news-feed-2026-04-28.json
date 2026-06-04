@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:36.541Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-28",
+  "article_count": 1,
+  "archived_story_count": 683,
+  "articles": [
+    {
+      "title": "Steam Controller: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/04/steam-controller-the-ars-technica-review/",
+      "source": "Ars Technica AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-04-28T06:01:02.344Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

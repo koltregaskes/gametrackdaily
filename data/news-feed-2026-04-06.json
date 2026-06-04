@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:32.659Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-06",
+  "article_count": 1,
+  "archived_story_count": 651,
+  "articles": [
+    {
+      "title": "I spent 3 months evolving SmartGallery into a free professional Local First DAM. v2.11 launches on April 9th",
+      "url": "https://reddit.com/r/StableDiffusion/comments/1se8sfd/i_spent_3_months_evolving_smartgallery_into_a/",
+      "source": "Reddit r/StableDiffusion",
+      "tags": [
+        "release_date"
+      ],
+      "matching_tags": [
+        "release_date"
+      ],
+      "importance": 0.8600000000000001,
+      "date": "2026-04-06T19:25:53.000Z",
+      "summary": "https://preview.redd.it/btvzkruzemtg1.png?width=1899&amp;format=png&amp;auto=webp&amp;s=3891b8f2a7df98942a0643eb649e623f817211ae\n\n**Hi everyone!**\n\nMany of you know SmartGallery as a standalone gallery for ComfyUI. For the last 3 months, I have been working to turn it into a complete Digital Asset Manager (DAM) for AI creators.\n\n* I just launched the new website with the full documentation and feature list of the upcoming v2.11: [**https://smartgallerydam.com**](https://smartgallerydam.com)\n* **",
+      "category": "creative_tools"
+    }
+  ]
+}

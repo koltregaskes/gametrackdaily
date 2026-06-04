@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:37.087Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-01",
+  "article_count": 1,
+  "archived_story_count": 600,
+  "articles": [
+    {
+      "title": "Best way to move a long Claude project chat into a fresh chat without losing context?",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t0i3rp/best_way_to_move_a_long_claude_project_chat_into/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7999999999999999,
+      "date": "2026-05-01T03:41:31.000Z",
+      "summary": "I’ve been using one Claude chat for about 2 weeks for a large project, and it’s starting to get really slow/laggy on my Windows PC in both the browser and desktop app. Weirdly, it still feels fine on my iPhone.\n\nI don’t want to lose all the context and start over. I tried asking Claude to “print out the full context” and moving that into a new chat, but the new chat didn’t really understand the project the same way.\n\nFor people working on long projects, what’s the best way to migrate context int",
+      "category": "ai_tools"
+    }
+  ]
+}

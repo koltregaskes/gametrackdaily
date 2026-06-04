@@ -1,0 +1,40 @@
+{
+  "generated": "2026-06-05T00:44:43.929Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-27",
+  "article_count": 2,
+  "archived_story_count": 680,
+  "articles": [
+    {
+      "title": "OpenAI&#x27;s Roon argues aggregate token consumption is a highly valuable metric for tracking AI progressHe compared token metrics to pre-industrial steam power usage.",
+      "url": "https://www.digg.com/ai/fmotsgal",
+      "source": "Digg AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.94,
+      "date": "2026-05-27T15:24:18.746Z",
+      "summary": null,
+      "category": "ai_tools"
+    },
+    {
+      "title": "Valve raises Steam Deck prices by more than $200",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7999999999999999,
+      "date": "2026-05-27T17:58:47.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

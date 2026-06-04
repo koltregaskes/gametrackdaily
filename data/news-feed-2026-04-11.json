@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:33.640Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-11",
+  "article_count": 1,
+  "archived_story_count": 346,
+  "articles": [
+    {
+      "title": "I released a small movie guessing game to the public. Within hours, bots were scanning for WordPress admin panels, SSH keys, and cloud metadata endpoints.",
+      "url": "https://reddit.com/r/ClaudeAI/comments/1simegh/i_released_a_small_movie_guessing_game_to_the/",
+      "source": "Reddit r/ClaudeAI",
+      "tags": [
+        "release_date"
+      ],
+      "matching_tags": [
+        "release_date"
+      ],
+      "importance": 0.9400000000000001,
+      "date": "2026-04-11T15:41:13.000Z",
+      "summary": "I built [Screendle.com](http://Screendle.com), a daily movie guessing game. Wordle but for films. You get progressively revealed clues: sanitized plot synopsis, release date, runtime, box office, actors. Express + React, Postgres, single Docker container. I used Claude to accelerate my output and what would have took months took weeks. The big thing here is its my first ever proper release to the public which is always scary. I'm lucky I come from a Software Engineering background so already kin",
+      "category": "ai_tools"
+    }
+  ]
+}

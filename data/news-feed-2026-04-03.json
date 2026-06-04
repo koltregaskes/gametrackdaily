@@ -1,0 +1,25 @@
+{
+  "generated": "2026-06-05T00:44:32.133Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-04-03",
+  "article_count": 1,
+  "archived_story_count": 351,
+  "articles": [
+    {
+      "title": "Significant progress made on Xbox 360 recompilation",
+      "url": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
+      "source": "Hacker News",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.7,
+      "date": "2026-03-29T12:53:03.000Z",
+      "summary": null,
+      "category": "tech_general"
+    }
+  ]
+}

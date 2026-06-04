@@ -1,0 +1,70 @@
+{
+  "generated": "2026-06-05T00:44:38.528Z",
+  "generatedBy": "Studio news backfill",
+  "site": "GameTrackDaily",
+  "date": "2026-05-09",
+  "article_count": 4,
+  "archived_story_count": 631,
+  "articles": [
+    {
+      "title": "Building Steam",
+      "url": "https://reddit.com/r/midjourney/comments/1t834nw/building_steam/",
+      "source": "Reddit r/midjourney",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.8200000000000001,
+      "date": "2026-05-09T12:03:40.000Z",
+      "summary": "Building Steam",
+      "category": "creative_tools"
+    },
+    {
+      "title": "Codex is gaining steam",
+      "url": "https://www.bensbites.com/p/codex-is-gaining-steam",
+      "source": "Ben's Bites",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.78,
+      "date": "2026-05-09T18:00:17.000Z",
+      "summary": null,
+      "category": "ai_tools"
+    },
+    {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "source": "The Verge AI",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.6799999999999999,
+      "date": "2026-05-09T18:00:31.324Z",
+      "summary": null,
+      "category": "ai_tools"
+    },
+    {
+      "title": "Why Xbox is Rethinking its AI in Gaming Strategy",
+      "url": "https://aimagazine.com/news/why-xbox-is-rethinking-its-ai-in-gaming-strategy",
+      "source": "AI Magazine",
+      "tags": [
+        "gaming_platform"
+      ],
+      "matching_tags": [
+        "gaming_platform"
+      ],
+      "importance": 0.58,
+      "date": "2026-05-09T18:00:34.432Z",
+      "summary": null,
+      "category": "ai_tools"
+    }
+  ]
+}
