@@ -330,7 +330,7 @@
   function gameArt(src, label = "", height = 200, accent = "var(--brand)") {
     return `
       <div class="game-art" style="--art-height:${height}px;--platform:${accent}">
-        ${src ? `<img src="${esc(src)}" alt="" loading="lazy" decoding="async">` : ""}
+        ${src ? `<img src="${esc(src)}" alt="" width="1200" height="720" loading="eager" decoding="async">` : ""}
         ${label ? `<span class="game-art__label">${esc(label)}</span>` : ""}
       </div>
     `;
@@ -363,13 +363,16 @@
       ["events", "Events", "events.html"],
       ["news", "News", "news.html"],
       ["reviews", "Reviews", "reviews.html"],
-      ["games", "Games", "games.html"],
+      ["games", "Games", "games.html#games"],
       ["development", "Craft", "game-development.html"],
     ];
     const brandCurrent = active === "home" ? ' aria-current="page"' : "";
     return `
       <header class="nav">
-        <a class="nav__brand" href="index.html"${brandCurrent}>GAME<span class="slash">/</span>TRACK<span class="slash">/</span>DAILY</a>
+        <a class="nav__brand" href="index.html"${brandCurrent}>
+          <span class="nav__monogram" aria-hidden="true">G/T/D</span>
+          <span class="nav__wordmark">Game<span class="slash">/</span>Track<span class="slash">/</span>Daily</span>
+        </a>
         <nav class="nav__links" aria-label="Primary">
           ${links.map(([id, label, href]) => `
             <a class="nav__link" href="${href}" ${active === id ? 'aria-current="page"' : ""}>${label}</a>
@@ -449,32 +452,7 @@
     `;
   }
 
-  function nextRelease(data) {
-    return data.releases
-      .filter((release) => release.date)
-      .map((release) => ({ ...release, t: new Date(`${release.date}T22:00:00Z`).getTime() }))
-      .filter((release) => release.t >= NOW() - DAY)
-      .sort((a, b) => a.t - b.t)[0];
-  }
-
-  function nextEvent(data) {
-    return data.events
-      .map((event) => ({ ...event, t: new Date(event.startAtUTC).getTime() }))
-      .filter((event) => event.t >= NOW() - DAY)
-      .sort((a, b) => a.t - b.t)[0];
-  }
-
   function renderHome(data) {
-    const release = nextRelease(data);
-    const event = nextEvent(data);
-    const heroTarget = release || event;
-    const targetIso = release ? `${release.date}T22:00:00Z` : event?.startAtUTC;
-    const title = release ? release.title : event?.title || "Schedule pending";
-    const heroType = release ? "Next tracked drop" : "Next confirmed event";
-    const platforms = release ? release.platforms : event?.platforms || ["pc"];
-    const launchers = release ? release.launcher : [event?.watchLabel || "Official page"];
-    const genre = release ? release.genre : event?.kind || "Event";
-    const heroArtSrc = data.games.find((game) => game.id === "civicrise")?.art || data.games[0]?.art;
     const thisWeek = data.releases.filter((item) => {
       const t = new Date(`${item.date}T22:00:00Z`).getTime();
       return t >= NOW() - DAY && t < NOW() + 7 * DAY;
@@ -492,42 +470,11 @@
     ];
 
     return pageFrame("home", `
-      <section class="hero shell">
-        <div class="hero-grid">
-          <div class="hero__stack">
-            <div>
-              <div class="eyebrow"><span class="acc">●</span> ${esc(heroType)} · T-minus</div>
-              ${targetIso ? `<div class="countdown" data-countdown="${esc(targetIso)}" data-countdown-style="big"></div>` : ""}
-              <div style="margin-top:22px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap">
-                <h1 class="display glitch" style="font-size:clamp(2.4rem,5.5vw,4.4rem);margin:0">${esc(title)}</h1>
-                ${release?.ours ? '<span class="tag brand">OURS</span>' : ""}
-              </div>
-              <div style="margin-top:14px;display:flex;gap:18px;align-items:center;flex-wrap:wrap">
-                ${platformPills(platforms)}
-                ${launcherList(launchers)}
-                <span class="eyebrow">${esc(genre)}</span>
-              </div>
-              ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>The public release manifest currently has no future dated releases. These release rows come from the design handoff and are labelled as examples until the release pipeline is refreshed.</span></div>` : ""}
-            </div>
-            <div class="action-row">
-              <a class="btn btn--brand" href="releases.html">See the release schedule <span class="arrow">-></span></a>
-              <a class="btn btn--ghost" href="events.html">Tonight's events</a>
-            </div>
-          </div>
-          <article class="card" style="overflow:hidden">
-            <div style="position:absolute;top:14px;left:14px;z-index:3"><span class="tag live">TRACKED</span></div>
-            ${gameArt(heroArtSrc, "MAIN EVENT", 460)}
-            <div style="padding:18px;border-top:2px solid var(--ink)">
-              <div class="eyebrow">// ${release ? `Launch window · ${fmtDate(release.date).month} ${fmtDate(release.date).day}` : "Event window"}</div>
-              <div class="display" style="font-size:34px;margin-top:6px">${release ? "Target time <span class='acc'>22:00 BST</span>" : "Official page <span class='acc'>linked</span>"}</div>
-              <p class="copy" style="margin:10px 0 0;font-size:14px">Curated tracking for launches, showcases, and studio demos. Seeded values stay marked until a public pipeline proves them.</p>
-            </div>
-          </article>
-        </div>
-      </section>
+      ${gameIndex(data)}
 
       <section class="shell">
-        <div class="cols-4 rise-stagger" style="margin-top:20px">
+        ${sectionHead("TRACKING", "Release and event watch", `<a class="btn btn--ghost btn--small" href="releases.html">Open schedule <span class="arrow">-></span></a>`)}
+        <div class="cols-4 rise-stagger">
           ${metrics.map(([k, v, c]) => `<div class="metric"><div class="eyebrow">${esc(k)}</div><div class="bignum metric__value" style="color:${c}">${esc(v)}</div></div>`).join("")}
         </div>
       </section>
@@ -543,16 +490,6 @@
         ${sectionHead("ROUND 02", "The two-week horizon", `<span class="tag">${next2.length} bouts · mixed platforms</span>`)}
         <div class="cols-2">
           ${next2.length ? next2.map((r, i) => vsCell(r, i % 2 ? "R" : "L")).join("") : data.undated.slice(0, 4).map((r, i) => vsCell({ ...r, date: "" }, i % 2 ? "R" : "L")).join("")}
-        </div>
-      </section>
-
-      <section class="shell" style="margin-top:44px">
-        ${sectionHead("ROSTER", `Our slate <span class="acc">-</span> seven in motion`, `<span class="pf pf--browser boxed"><span class="pf-dot"></span>Browser</span><span class="pf pf--pc boxed"><span class="pf-dot"></span>PC</span>`)}
-        <div class="cols-4 rise-stagger">
-          ${data.games.slice(0, 4).map((game, i) => rosterCard(game, i + 1)).join("")}
-        </div>
-        <div class="cols-3 rise-stagger" style="margin-top:-2px">
-          ${data.games.slice(4, 7).map((game, i) => rosterCard(game, i + 5)).join("")}
         </div>
       </section>
 
@@ -626,23 +563,77 @@
 
   function rosterCard(game, index) {
     const flagship = game.stage === "Flagship";
+    const destination = game.play || game.repo;
+    const titleId = `game-title-${game.id}`;
+    const searchText = [
+      game.title,
+      game.tagline,
+      game.cat,
+      game.stage,
+      game.status,
+      game.summary,
+      ...game.platforms,
+    ].filter(Boolean).join(" ").toLowerCase();
+    const art = gameArt(game.art, game.status, 216, platformColour(game.platforms[0]));
+    const linkedArt = destination
+      ? `<a class="game-plate__art" href="${esc(destination)}" target="_blank" rel="noreferrer" aria-label="Open ${esc(game.title)}">${art}</a>`
+      : `<div class="game-plate__art">${art}</div>`;
     return `
-      <article class="roster-card card ${flagship ? "card--ours" : ""}" style="display:flex;flex-direction:column;border:${flagship ? "2px solid var(--brand)" : "none"}">
-        ${gameArt(game.art, "", 170, platformColour(game.platforms[0]))}
-        <div style="display:flex;flex-direction:column;gap:8px;flex:1;padding-top:16px">
-          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px">
-            <span class="eyebrow" style="font-size:10px">No. ${String(index).padStart(2, "0")} · ${esc(game.stage)}</span>
+      <article
+        class="game-plate ${flagship ? "game-plate--flagship" : ""}"
+        id="game-${esc(game.id)}"
+        data-game-card
+        data-platforms="${esc(game.platforms.join(" "))}"
+        data-search="${esc(searchText)}"
+        tabindex="-1"
+        aria-labelledby="${esc(titleId)}"
+      >
+        ${linkedArt}
+        <div class="game-plate__body">
+          <div class="game-plate__meta">
+            <span class="eyebrow">No. ${String(index).padStart(2, "0")} / ${esc(game.stage)}</span>
             ${platformPills(game.platforms)}
           </div>
-          <h3 class="display glitch" style="font-size:28px;line-height:.95;margin:0">${esc(game.title)}</h3>
-          <div class="eyebrow" style="font-size:10px;color:var(--brand)">${esc(game.cat)}</div>
-          <p class="copy" style="margin:4px 0 0;font-size:13px">${esc(game.tagline)}.</p>
-          <div style="margin-top:auto;padding-top:14px;display:flex;gap:10px;flex-wrap:wrap">
+          <h2 class="display game-plate__title" id="${esc(titleId)}">${esc(game.title)}</h2>
+          <div class="eyebrow game-plate__category">${esc(game.cat)}</div>
+          <p class="copy game-plate__copy">${esc(game.summary || `${game.tagline}.`)}</p>
+          <div class="game-plate__actions">
             ${game.play ? `<a class="btn btn--brand btn--small" href="${esc(game.play)}" target="_blank" rel="noreferrer">Play demo <span class="arrow">-></span></a>` : `<span class="tag">${esc(game.status)}</span>`}
             ${game.repo ? `<a class="btn btn--ghost btn--small" href="${esc(game.repo)}" target="_blank" rel="noreferrer">Repo <span class="arrow">-></span></a>` : ""}
           </div>
         </div>
       </article>
+    `;
+  }
+
+  function gameIndex(data) {
+    const count = data.games.length;
+    return `
+      <section class="game-index shell" id="games" tabindex="-1" aria-labelledby="games-title">
+        <header class="game-index__head">
+          <div>
+            <div class="eyebrow"><span class="acc">// Game index</span> Public studio slate</div>
+            <h1 class="display game-index__title" id="games-title">Games <span class="acc">&amp; interactive experiments</span></h1>
+          </div>
+          <p class="copy game-index__lede">Search the actual playable demos, desktop builds, and proof slices. Every plate below is backed by the public game manifest.</p>
+        </header>
+        <form class="game-toolbar" data-game-controls role="search">
+          <label class="game-search">
+            <span>Search projects</span>
+            <input type="search" inputmode="search" autocomplete="off" placeholder="Title, genre or stage" data-game-search>
+          </label>
+          <div class="segmented game-filters" aria-label="Filter games by platform">
+            <button type="button" class="is-active" data-game-filter="all" aria-pressed="true">All</button>
+            <button type="button" data-game-filter="browser" aria-pressed="false">Browser</button>
+            <button type="button" data-game-filter="pc" aria-pressed="false">Desktop</button>
+          </div>
+          <output class="game-count" data-game-count aria-live="polite">${count} projects</output>
+        </form>
+        <div class="game-grid rise-stagger" data-game-grid>
+          ${data.games.map((game, index) => rosterCard(game, index + 1)).join("")}
+        </div>
+        <div class="notice is-hidden" data-game-empty><span class="acc">No matches</span><span>Try another title, genre, stage, or platform.</span></div>
+      </section>
     `;
   }
 
@@ -952,18 +943,62 @@
   }
 
   function renderGames(data) {
-    return pageFrame("games", `
-      <section class="hero shell">
-        <div class="eyebrow"><span class="acc">// Lineup</span> E-lusion Studios</div>
-        <h1 class="display hero-title">Seven games, <br><span class="acc">one slate.</span></h1>
-        <p class="hero-lede">A public-safe roster of browser demos, desktop builds, and proof slices. The cards link out to playable demos and repositories where those are already public.</p>
-      </section>
-      <section class="shell" style="margin-top:36px">
-        ${sectionHead("ROSTER", "Browse the slate", `<span class="tag">${data.games.length} projects</span>`)}
-        <div class="cols-4 rise-stagger">${data.games.slice(0, 4).map((game, i) => rosterCard(game, i + 1)).join("")}</div>
-        <div class="cols-3 rise-stagger" style="margin-top:-2px">${data.games.slice(4).map((game, i) => rosterCard(game, i + 5)).join("")}</div>
-      </section>
-    `);
+    return pageFrame("games", gameIndex(data));
+  }
+
+  function wireGameControls() {
+    const controls = $("[data-game-controls]");
+    const input = $("[data-game-search]");
+    const cards = $$("[data-game-card]");
+    const buttons = $$("[data-game-filter]");
+    const output = $("[data-game-count]");
+    const empty = $("[data-game-empty]");
+    if (!controls || !input || !cards.length) return;
+
+    let platform = "all";
+    const apply = () => {
+      const query = input.value.trim().toLowerCase();
+      let visible = 0;
+      cards.forEach((card) => {
+        const platforms = card.dataset.platforms.split(/\s+/);
+        const platformMatch = platform === "all" || platforms.includes(platform);
+        const searchMatch = !query || card.dataset.search.includes(query);
+        const show = platformMatch && searchMatch;
+        card.classList.toggle("is-hidden", !show);
+        if (show) visible += 1;
+      });
+      output.textContent = `${visible} project${visible === 1 ? "" : "s"}`;
+      empty.classList.toggle("is-hidden", visible !== 0);
+    };
+
+    controls.addEventListener("submit", (event) => event.preventDefault());
+    input.addEventListener("input", apply);
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        platform = button.dataset.gameFilter;
+        buttons.forEach((item) => {
+          const active = item === button;
+          item.classList.toggle("is-active", active);
+          item.setAttribute("aria-pressed", String(active));
+        });
+        apply();
+      });
+    });
+  }
+
+  function wireHashFocus() {
+    const focusTarget = () => {
+      const id = decodeURIComponent(window.location.hash.slice(1));
+      if (!id) return;
+      const target = document.getElementById(id);
+      if (!target) return;
+      window.requestAnimationFrame(() => {
+        target.focus();
+        window.setTimeout(() => target.scrollIntoView({ block: "start", inline: "nearest" }), 0);
+      });
+    };
+    focusTarget();
+    window.addEventListener("hashchange", focusTarget);
   }
 
   function renderDevelopment(data) {
@@ -1217,6 +1252,8 @@
     injectJsonLd(page, data);
     wireReleaseControls();
     wireNewsTabs();
+    wireGameControls();
+    wireHashFocus();
     wireScanlines();
     bootTimers();
   }
