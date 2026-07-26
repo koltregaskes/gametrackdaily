@@ -80,7 +80,8 @@ fails, and reads both back inside the same rollback boundary to prove their
 hashes, timestamps and counts match the consumed inputs. An exclusive lock
 rejects overlapping writers. If a crashed process leaves
 `data/.public-data-stage.lock`, verify that no staging process is active before
-removing that ignored lock file. The command does not commit, push, merge or
+removing that ignored lock file. Source timestamps cannot move backwards over
+readable current public metadata. The command does not commit, push, merge or
 deploy. Those remain separate review actions.
 
 Run the staging contract tests with:

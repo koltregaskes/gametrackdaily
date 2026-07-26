@@ -1,6 +1,7 @@
 import { createHash, randomUUID } from 'node:crypto';
 import {
   mkdir,
+  lstat,
   open,
   readFile,
   realpath,
@@ -325,6 +326,24 @@ function normalisedPath(filePath) {
   return process.platform === 'win32' ? resolved.toLowerCase() : resolved;
 }
 
+async function assertOutputDirectoryBoundary(outputDir, repositoryRoot) {
+  if (path.basename(outputDir).toLowerCase() !== 'data') {
+    fail('public output directory must be the checkout data directory');
+  }
+  const [outputMetadata, canonicalOutputDir, canonicalRepositoryRoot] = await Promise.all([
+    lstat(outputDir),
+    realpath(outputDir),
+    realpath(repositoryRoot),
+  ]);
+  const expectedCanonicalOutput = path.join(canonicalRepositoryRoot, 'data');
+  if (
+    outputMetadata.isSymbolicLink()
+    || normalisedPath(canonicalOutputDir) !== normalisedPath(expectedCanonicalOutput)
+  ) {
+    fail('public output directory must be a real data directory inside this checkout');
+  }
+}
+
 function assertDistinctInputAndOutput(inputPath, outputPath, label) {
   if (normalisedPath(inputPath) === normalisedPath(outputPath)) {
     fail(`${label} input and public output resolve to the same file`);
@@ -501,6 +520,25 @@ async function withExclusivePublisherLock(lockPath, callback) {
   }
 }
 
+async function readExistingPublicTimestamp(filePath, timestampKey) {
+  try {
+    const value = JSON.parse(await readFile(filePath, 'utf8'));
+    const timestampMs = Date.parse(value?.[timestampKey]);
+    return Number.isFinite(timestampMs) ? timestampMs : null;
+  } catch (error) {
+    if (error.code === 'ENOENT' || error instanceof SyntaxError) return null;
+    throw error;
+  }
+}
+
+async function assertMonotonicPublicTimestamp(filePath, timestampKey, sourceTimestamp, label) {
+  const currentTimestampMs = await readExistingPublicTimestamp(filePath, timestampKey);
+  if (currentTimestampMs === null) return;
+  if (Date.parse(sourceTimestamp) < currentTimestampMs) {
+    fail(`${label} source timestamp is older than the current public ${label} timestamp`);
+  }
+}
+
 export async function stagePublicData({
   newsInput,
   calendarInput,
@@ -528,6 +566,7 @@ export async function stagePublicData({
   const newsOutput = path.join(resolvedOutputDir, PUBLIC_DATA_FILES.news);
   const calendarOutput = path.join(resolvedOutputDir, PUBLIC_DATA_FILES.calendar);
 
+  await assertOutputDirectoryBoundary(resolvedOutputDir, resolvedRepositoryRoot);
   assertDistinctInputAndOutput(resolvedNewsInput, newsOutput, 'news');
   assertDistinctInputAndOutput(resolvedCalendarInput, calendarOutput, 'calendar');
   await Promise.all([
@@ -585,6 +624,20 @@ export async function stagePublicData({
   await mkdir(resolvedOutputDir, { recursive: true });
   const lockPath = path.join(resolvedOutputDir, '.public-data-stage.lock');
   await withExclusivePublisherLock(lockPath, async () => {
+    await Promise.all([
+      assertMonotonicPublicTimestamp(
+        newsOutput,
+        'generated',
+        newsSummary.timestamp,
+        'news',
+      ),
+      assertMonotonicPublicTimestamp(
+        calendarOutput,
+        'updatedAt',
+        calendarSummary.timestamp,
+        'calendar',
+      ),
+    ]);
     await writePublicOutputPair({
       newsOutput,
       calendarOutput,

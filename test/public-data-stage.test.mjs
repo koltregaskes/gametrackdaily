@@ -6,6 +6,7 @@ import {
   readFile,
   rename,
   rm,
+  symlink,
   writeFile,
 } from 'node:fs/promises';
 import os from 'node:os';
@@ -173,13 +174,21 @@ test('stale source data fails before either public output changes', async (t) =>
 });
 
 test('input and public output cannot be the same file', async (t) => {
-  const { sourceDir } = await createWorkspace(t);
-  const inputs = await writeSources(sourceDir);
+  const { root, outputDir } = await createWorkspace(t);
+  const newsInput = path.join(outputDir, 'games-news.json');
+  const calendarSourceDir = path.join(root, 'calendar-source');
+  const calendarInput = path.join(calendarSourceDir, 'release-calendar.json');
+  await mkdir(calendarSourceDir, { recursive: true });
+  await Promise.all([
+    writeFile(newsInput, `${JSON.stringify(newsFixture(), null, 2)}\n`),
+    writeFile(calendarInput, `${JSON.stringify(calendarFixture(), null, 2)}\n`),
+  ]);
 
   await assert.rejects(
     stagePublicData({
-      ...inputs,
-      outputDir: sourceDir,
+      newsInput,
+      calendarInput,
+      outputDir,
       now: NOW,
       maxSourceAgeHours: 72,
       write: true,
@@ -655,4 +664,66 @@ test('readback verification failure rolls both public outputs back', async (t) =
 
   assert.equal(await readFile(newsOutput, 'utf8'), 'preserve-news\n');
   assert.equal(await readFile(calendarOutput, 'utf8'), 'preserve-calendar\n');
+});
+
+test('a linked public data directory cannot redirect outputs outside the checkout', async (t) => {
+  const { root, sourceDir, outputDir } = await createWorkspace(t);
+  const inputs = await writeSources(sourceDir);
+  const externalOutput = path.join(root, 'external-public-data');
+  await rm(outputDir, { recursive: true });
+  await mkdir(externalOutput, { recursive: true });
+  await symlink(
+    externalOutput,
+    outputDir,
+    process.platform === 'win32' ? 'junction' : 'dir',
+  );
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: true,
+    }),
+    /public output directory must be a real data directory inside this checkout/,
+  );
+  await assert.rejects(readFile(path.join(externalOutput, 'games-news.json')));
+  await assert.rejects(readFile(path.join(externalOutput, 'release-calendar.json')));
+});
+
+test('staging cannot move public source timestamps backwards', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const inputs = await writeSources(sourceDir);
+  const currentNews = newsFixture('2026-07-26T09:00:00.000Z');
+  currentNews.feeds[0].items[0].publishedAt = '2026-07-26T08:45:00.000Z';
+  const currentCalendar = calendarFixture('2026-07-26T09:00:00.000Z');
+  await Promise.all([
+    writeFile(
+      path.join(outputDir, 'games-news.json'),
+      `${JSON.stringify(currentNews, null, 2)}\n`,
+    ),
+    writeFile(
+      path.join(outputDir, 'release-calendar.json'),
+      `${JSON.stringify(currentCalendar, null, 2)}\n`,
+    ),
+  ]);
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: true,
+    }),
+    /news source timestamp is older than the current public news timestamp/,
+  );
+
+  const publicNews = JSON.parse(await readFile(path.join(outputDir, 'games-news.json'), 'utf8'));
+  const publicCalendar = JSON.parse(
+    await readFile(path.join(outputDir, 'release-calendar.json'), 'utf8'),
+  );
+  assert.equal(publicNews.generated, '2026-07-26T09:00:00.000Z');
+  assert.equal(publicCalendar.updatedAt, '2026-07-26T09:00:00.000Z');
 });
