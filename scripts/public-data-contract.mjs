@@ -1,6 +1,7 @@
 import { createHash, randomUUID } from 'node:crypto';
 import {
   mkdir,
+  open,
   readFile,
   realpath,
   rename,
@@ -113,12 +114,20 @@ function requireIsoDate(value, label) {
   return date;
 }
 
-function sourceFreshness(value, label, now, maxSourceAgeHours) {
+function requireIsoTimestamp(value, label) {
   const timestamp = requireString(value, label);
-  const timestampMs = Date.parse(timestamp);
-  if (!Number.isFinite(timestampMs)) {
+  if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/.test(timestamp)) {
+    fail(`${label} must use an ISO UTC timestamp with milliseconds`);
+  }
+  const parsed = new Date(timestamp);
+  if (!Number.isFinite(parsed.getTime()) || parsed.toISOString() !== timestamp) {
     fail(`${label} is not a valid timestamp`);
   }
+  return { timestamp, timestampMs: parsed.getTime() };
+}
+
+function sourceFreshness(value, label, now, maxSourceAgeHours) {
+  const { timestamp, timestampMs } = requireIsoTimestamp(value, label);
 
   const nowMs = now.getTime();
   const futureAllowanceMs = 5 * 60 * 1000;
@@ -146,35 +155,55 @@ function assertPublicSafeJson(value, label, keyPath = label) {
   }
 
   if (!isObject(value)) {
+    const inspectedValue = typeof value === 'string' ? value.trim() : value;
     if (
-      typeof value === 'string'
+      typeof inspectedValue === 'string'
       && (
-        /^[a-z]:[\\/]/i.test(value)
-        || /^\\\\/.test(value)
-        || /^file:\/\//i.test(value)
-        || /^\/(?:home|users|private|tmp|var|etc|opt|root|mnt|srv|workspaces?)(?:\/|$)/i.test(value)
-        || /^(?:postgres(?:ql)?|mysql|mongodb(?:\+srv)?):\/\//i.test(value)
-        || /^-----BEGIN [A-Z ]*PRIVATE KEY-----/.test(value)
-        || /^(?:sk-[a-z0-9_-]{16,}|ghp_[a-z0-9]{20,}|github_pat_[a-z0-9_]{20,}|xox[baprs]-[a-z0-9-]{20,})$/i.test(value)
+        /^[a-z]:[\\/]/i.test(inspectedValue)
+        || /^\\\\/.test(inspectedValue)
+        || /^file:\/\//i.test(inspectedValue)
+        || /^\//.test(inspectedValue)
+        || /^~[\\/]/.test(inspectedValue)
+        || /^(?:postgres(?:ql)?|mysql|mongodb(?:\+srv)?):\/\//i.test(inspectedValue)
+        || /^-----BEGIN [A-Z ]*PRIVATE KEY-----/.test(inspectedValue)
+        || /^(?:sk-[a-z0-9_-]{16,}|ghp_[a-z0-9]{20,}|github_pat_[a-z0-9_]{20,}|xox[baprs]-[a-z0-9-]{20,})$/i
+          .test(inspectedValue)
       )
     ) {
       fail(`${keyPath} contains a machine-local path`);
     }
-    if (typeof value === 'string' && /^https?:\/\//i.test(value)) {
-      requireHttpUrl(value, keyPath);
+    if (typeof inspectedValue === 'string' && /^https?:\/\//i.test(inspectedValue)) {
+      requireHttpUrl(inspectedValue, keyPath);
     }
     return;
   }
 
   for (const [key, child] of Object.entries(value)) {
-    const normalisedKey = key.replace(/([a-z0-9])([A-Z])/g, '$1_$2').toLowerCase();
+    const normalisedKey = key
+      .replace(/([a-z0-9])([A-Z])/g, '$1_$2')
+      .replace(/[^a-z0-9]+/gi, '_')
+      .replace(/^_+|_+$/g, '')
+      .toLowerCase();
+    const compactKey = normalisedKey.replaceAll('_', '');
     if (
-      /(password|secret|credential|private_key|token|api_key|database_url|connection_string)/
-        .test(normalisedKey)
+      [
+        'password',
+        'secret',
+        'credential',
+        'privatekey',
+        'token',
+        'apikey',
+        'databaseurl',
+        'connectionstring',
+        'authorization',
+        'authentication',
+        'cookie',
+      ].some((fragment) => compactKey.includes(fragment))
+      || /^(auth|session|sessionid|sessionkey)$/.test(compactKey)
     ) {
       fail(`${keyPath}.${key} is not allowed in public data`);
     }
-    if ((normalisedKey === '_example' || normalisedKey === 'example') && child === true) {
+    if (normalisedKey === 'example' && child === true) {
       fail(`${keyPath}.${key} is marked as example data`);
     }
     assertPublicSafeJson(child, label, `${keyPath}.${key}`);
@@ -199,6 +228,13 @@ export function validateNewsData(news, options) {
     if (!isObject(feed)) fail(`news.feeds[${feedIndex}] must be an object`);
     requireString(feed.id, `news.feeds[${feedIndex}].id`);
     requireString(feed.title, `news.feeds[${feedIndex}].title`);
+    const feedGenerated = requireIsoTimestamp(
+      feed.generatedAt,
+      `news.feeds[${feedIndex}].generatedAt`,
+    );
+    if (feedGenerated.timestamp !== freshness.timestamp) {
+      fail(`news.feeds[${feedIndex}].generatedAt must match news.generated`);
+    }
     const items = requireArray(feed.items, `news.feeds[${feedIndex}].items`);
 
     items.forEach((item, itemIndex) => {
@@ -207,9 +243,9 @@ export function validateNewsData(news, options) {
       requireString(item.title, `${itemLabel}.title`);
       requireString(item.source, `${itemLabel}.source`);
       requireHttpUrl(item.url, `${itemLabel}.url`);
-      requireString(item.publishedAt, `${itemLabel}.publishedAt`);
-      if (!Number.isFinite(Date.parse(item.publishedAt))) {
-        fail(`${itemLabel}.publishedAt is not a valid timestamp`);
+      const published = requireIsoTimestamp(item.publishedAt, `${itemLabel}.publishedAt`);
+      if (published.timestampMs > options.now.getTime() + 5 * 60 * 1000) {
+        fail(`${itemLabel}.publishedAt is more than five minutes in the future`);
       }
       itemCount += 1;
     });
@@ -302,7 +338,7 @@ function assertInputOutsideDirectory(inputPath, directory, label, directoryLabel
   }
 }
 
-async function assertInputPathBoundary(inputPath, outputPath, repositoryRoot, label) {
+async function assertInputPathBoundary(inputPath, repositoryRoot, label) {
   assertInputOutsideDirectory(inputPath, repositoryRoot, label, 'public checkout');
 
   const [canonicalInput, canonicalRepositoryRoot] = await Promise.all([
@@ -315,17 +351,59 @@ async function assertInputPathBoundary(inputPath, outputPath, repositoryRoot, la
     label,
     'canonical public checkout',
   );
+}
 
+async function optionalStat(filePath) {
   try {
-    const [inputStats, outputStats] = await Promise.all([
-      stat(inputPath),
-      stat(outputPath),
-    ]);
-    if (inputStats.dev === outputStats.dev && inputStats.ino === outputStats.ino) {
-      fail(`${label} input and public output resolve to the same filesystem object`);
-    }
+    return await stat(filePath);
   } catch (error) {
-    if (error.code !== 'ENOENT') throw error;
+    if (error.code === 'ENOENT') return null;
+    throw error;
+  }
+}
+
+function isSameFilesystemObject(left, right) {
+  return (
+    left !== null
+    && right !== null
+    && left.dev === right.dev
+    && left.ino === right.ino
+  );
+}
+
+async function assertDistinctFilesystemObjects({
+  newsInput,
+  calendarInput,
+  newsOutput,
+  calendarOutput,
+}) {
+  const [newsInputStats, calendarInputStats, newsOutputStats, calendarOutputStats] =
+    await Promise.all([
+      stat(newsInput),
+      stat(calendarInput),
+      optionalStat(newsOutput),
+      optionalStat(calendarOutput),
+    ]);
+
+  if (isSameFilesystemObject(newsInputStats, calendarInputStats)) {
+    fail('news and calendar inputs resolve to the same filesystem object');
+  }
+
+  const outputs = [
+    ['news', newsOutputStats],
+    ['calendar', calendarOutputStats],
+  ];
+  for (const [inputLabel, inputStats] of [
+    ['news', newsInputStats],
+    ['calendar', calendarInputStats],
+  ]) {
+    for (const [outputLabel, outputStats] of outputs) {
+      if (isSameFilesystemObject(inputStats, outputStats)) {
+        fail(
+          `${inputLabel} input and ${outputLabel} public output resolve to the same filesystem object`,
+        );
+      }
+    }
   }
 }
 
@@ -354,6 +432,7 @@ async function writePublicOutputPair({
   newsBuffer,
   calendarBuffer,
   replaceFile,
+  verify,
 }) {
   const [originalNews, originalCalendar] = await Promise.all([
     readOptionalFile(newsOutput),
@@ -372,6 +451,7 @@ async function writePublicOutputPair({
     replaced.push({ output: newsOutput, original: originalNews });
     await replaceFile(calendarTemporary, calendarOutput);
     replaced.push({ output: calendarOutput, original: originalCalendar });
+    await verify();
   } catch (error) {
     const rollbackErrors = [];
     for (const entry of replaced.reverse()) {
@@ -395,6 +475,29 @@ async function writePublicOutputPair({
       rm(newsTemporary, { force: true }),
       rm(calendarTemporary, { force: true }),
     ]);
+  }
+}
+
+async function withExclusivePublisherLock(lockPath, callback) {
+  let lockHandle;
+  try {
+    lockHandle = await open(lockPath, 'wx');
+  } catch (error) {
+    if (error.code === 'EEXIST') {
+      fail(`Public-data staging lock is already held: ${lockPath}`);
+    }
+    throw error;
+  }
+
+  try {
+    await lockHandle.writeFile(`${JSON.stringify({
+      pid: process.pid,
+      acquiredAt: new Date().toISOString(),
+    })}\n`);
+    return await callback();
+  } finally {
+    await lockHandle.close();
+    await rm(lockPath, { force: true });
   }
 }
 
@@ -430,17 +533,21 @@ export async function stagePublicData({
   await Promise.all([
     assertInputPathBoundary(
       resolvedNewsInput,
-      newsOutput,
       resolvedRepositoryRoot,
       'news',
     ),
     assertInputPathBoundary(
       resolvedCalendarInput,
-      calendarOutput,
       resolvedRepositoryRoot,
       'calendar',
     ),
   ]);
+  await assertDistinctFilesystemObjects({
+    newsInput: resolvedNewsInput,
+    calendarInput: resolvedCalendarInput,
+    newsOutput,
+    calendarOutput,
+  });
 
   const [newsSource, calendarSource] = await Promise.all([
     readJsonInput(resolvedNewsInput, 'news'),
@@ -476,41 +583,48 @@ export async function stagePublicData({
   if (!write) return result;
 
   await mkdir(resolvedOutputDir, { recursive: true });
-  await writePublicOutputPair({
-    newsOutput,
-    calendarOutput,
-    newsBuffer: newsSource.buffer,
-    calendarBuffer: calendarSource.buffer,
-    replaceFile,
+  const lockPath = path.join(resolvedOutputDir, '.public-data-stage.lock');
+  await withExclusivePublisherLock(lockPath, async () => {
+    await writePublicOutputPair({
+      newsOutput,
+      calendarOutput,
+      newsBuffer: newsSource.buffer,
+      calendarBuffer: calendarSource.buffer,
+      replaceFile,
+      verify: async () => {
+        const [writtenNews, writtenCalendar] = await Promise.all([
+          readJsonInput(newsOutput, 'written news'),
+          readJsonInput(calendarOutput, 'written calendar'),
+        ]);
+
+        if (writtenNews.sha256 !== newsSource.sha256) {
+          fail('public news output hash does not match the consumed news input');
+        }
+        if (writtenCalendar.sha256 !== calendarSource.sha256) {
+          fail('public calendar output hash does not match the consumed calendar input');
+        }
+
+        const writtenNewsSummary = validateNewsData(writtenNews.value, validationOptions);
+        const writtenCalendarSummary = validateCalendarData(
+          writtenCalendar.value,
+          validationOptions,
+        );
+        if (
+          writtenNewsSummary.timestamp !== newsSummary.timestamp
+          || writtenNewsSummary.itemCount !== newsSummary.itemCount
+        ) {
+          fail('public news output metadata does not match the consumed news input');
+        }
+        if (
+          writtenCalendarSummary.timestamp !== calendarSummary.timestamp
+          || writtenCalendarSummary.releaseCount !== calendarSummary.releaseCount
+          || writtenCalendarSummary.eventCount !== calendarSummary.eventCount
+        ) {
+          fail('public calendar output metadata does not match the consumed calendar input');
+        }
+      },
+    });
   });
-
-  const [writtenNews, writtenCalendar] = await Promise.all([
-    readJsonInput(newsOutput, 'written news'),
-    readJsonInput(calendarOutput, 'written calendar'),
-  ]);
-
-  if (writtenNews.sha256 !== newsSource.sha256) {
-    fail('public news output hash does not match the consumed news input');
-  }
-  if (writtenCalendar.sha256 !== calendarSource.sha256) {
-    fail('public calendar output hash does not match the consumed calendar input');
-  }
-
-  const writtenNewsSummary = validateNewsData(writtenNews.value, validationOptions);
-  const writtenCalendarSummary = validateCalendarData(writtenCalendar.value, validationOptions);
-  if (
-    writtenNewsSummary.timestamp !== newsSummary.timestamp
-    || writtenNewsSummary.itemCount !== newsSummary.itemCount
-  ) {
-    fail('public news output metadata does not match the consumed news input');
-  }
-  if (
-    writtenCalendarSummary.timestamp !== calendarSummary.timestamp
-    || writtenCalendarSummary.releaseCount !== calendarSummary.releaseCount
-    || writtenCalendarSummary.eventCount !== calendarSummary.eventCount
-  ) {
-    fail('public calendar output metadata does not match the consumed calendar input');
-  }
 
   return result;
 }

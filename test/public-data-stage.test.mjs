@@ -290,6 +290,61 @@ test('secret-shaped and machine-local values are rejected', async (t) => {
       /must not target a local or private host/,
     );
   }
+
+  for (const [unsafeValue, expectedError] of [
+    ['  C:\\Users\\alice\\secret.json', /contains a machine-local path/],
+    ['\n/home/alice/secret.json', /contains a machine-local path/],
+    ['/data/private.json', /contains a machine-local path/],
+    ['/app/.env', /contains a machine-local path/],
+    ['/usr/local/secrets', /contains a machine-local path/],
+    ['/run/credentials', /contains a machine-local path/],
+    ['/proc/self/environ', /contains a machine-local path/],
+    [' https://user:pass@example.com/private', /must not contain URL credentials/],
+    ['\thttp://localhost/private', /must not target a local or private host/],
+  ]) {
+    const whitespaceNews = newsFixture();
+    whitespaceNews.metadata = { evidence: unsafeValue };
+    inputs = await writeSources(sourceDir, { news: whitespaceNews });
+
+    await assert.rejects(
+      stagePublicData({
+        ...inputs,
+        outputDir,
+        now: NOW,
+        maxSourceAgeHours: 72,
+        write: false,
+      }),
+      expectedError,
+    );
+  }
+
+  for (const unsafeKey of [
+    'api-key',
+    'api.key',
+    'api key',
+    'apikey',
+    'private-key',
+    'database-url',
+    'connection-string',
+    'authorization',
+    'cookie',
+    'session',
+  ]) {
+    const unsafeKeyNews = newsFixture();
+    unsafeKeyNews.metadata = { [unsafeKey]: 'must-not-publish' };
+    inputs = await writeSources(sourceDir, { news: unsafeKeyNews });
+
+    await assert.rejects(
+      stagePublicData({
+        ...inputs,
+        outputDir,
+        now: NOW,
+        maxSourceAgeHours: 72,
+        write: false,
+      }),
+      /is not allowed in public data/,
+    );
+  }
 });
 
 test('example-marked release and event rows are rejected', async (t) => {
@@ -433,6 +488,171 @@ test('an external hard link to a public output is rejected', async (t) => {
       maxSourceAgeHours: 72,
       write: false,
     }),
-    /news input and public output resolve to the same filesystem object/,
+    /news input and news public output resolve to the same filesystem object/,
   );
+});
+
+test('an input hard-linked to the other public output is rejected', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const publicCalendar = path.join(outputDir, 'release-calendar.json');
+  const externalNews = path.join(sourceDir, 'games-news.json');
+  const calendarInput = path.join(sourceDir, 'release-calendar.json');
+  await writeFile(publicCalendar, `${JSON.stringify(calendarFixture(), null, 2)}\n`);
+  await link(publicCalendar, externalNews);
+  await writeFile(calendarInput, `${JSON.stringify(calendarFixture(), null, 2)}\n`);
+
+  await assert.rejects(
+    stagePublicData({
+      newsInput: externalNews,
+      calendarInput,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /news input and calendar public output resolve to the same filesystem object/,
+  );
+});
+
+test('news and calendar inputs cannot be hard links to one source object', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const newsInput = path.join(sourceDir, 'games-news.json');
+  const calendarInput = path.join(sourceDir, 'release-calendar.json');
+  await writeFile(newsInput, `${JSON.stringify(newsFixture(), null, 2)}\n`);
+  await link(newsInput, calendarInput);
+
+  await assert.rejects(
+    stagePublicData({
+      newsInput,
+      calendarInput,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /news and calendar inputs resolve to the same filesystem object/,
+  );
+});
+
+test('malformed and future news timestamps are rejected', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+
+  for (const [publishedAt, expectedError] of [
+    ['1', /must use an ISO UTC timestamp with milliseconds/],
+    ['2026-02-31T07:00:00.000Z', /is not a valid timestamp/],
+    ['2099-01-01T00:00:00.000Z', /is more than five minutes in the future/],
+  ]) {
+    const invalidNews = newsFixture();
+    invalidNews.feeds[0].items[0].publishedAt = publishedAt;
+    const inputs = await writeSources(sourceDir, { news: invalidNews });
+
+    await assert.rejects(
+      stagePublicData({
+        ...inputs,
+        outputDir,
+        now: NOW,
+        maxSourceAgeHours: 72,
+        write: false,
+      }),
+      expectedError,
+    );
+  }
+});
+
+test('a second writer is rejected while the first writer holds the lock', async (t) => {
+  const { root, sourceDir, outputDir } = await createWorkspace(t);
+  const firstInputs = await writeSources(sourceDir);
+  const secondSourceDir = path.join(root, 'source-second');
+  await mkdir(secondSourceDir, { recursive: true });
+  const secondNews = newsFixture();
+  secondNews.feeds[0].items[0].title = 'Second writer story';
+  const secondCalendar = calendarFixture();
+  secondCalendar.releases[0].title = 'Second writer release';
+  const secondInputs = await writeSources(secondSourceDir, {
+    news: secondNews,
+    calendar: secondCalendar,
+  });
+
+  let releaseFirstWriter;
+  const firstWriterCanContinue = new Promise((resolve) => {
+    releaseFirstWriter = resolve;
+  });
+  let announceFirstWriter;
+  const firstWriterHasLock = new Promise((resolve) => {
+    announceFirstWriter = resolve;
+  });
+  let held = false;
+  const holdFirstReplacement = async (source, target) => {
+    if (!held) {
+      held = true;
+      announceFirstWriter();
+      await firstWriterCanContinue;
+    }
+    await rename(source, target);
+  };
+
+  const firstWrite = stagePublicData({
+    ...firstInputs,
+    outputDir,
+    now: NOW,
+    maxSourceAgeHours: 72,
+    write: true,
+  }, {
+    replaceFile: holdFirstReplacement,
+  });
+  await firstWriterHasLock;
+
+  await assert.rejects(
+    stagePublicData({
+      ...secondInputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: true,
+    }),
+    /Public-data staging lock is already held/,
+  );
+
+  releaseFirstWriter();
+  await firstWrite;
+  const publicNews = JSON.parse(await readFile(path.join(outputDir, 'games-news.json'), 'utf8'));
+  const publicCalendar = JSON.parse(
+    await readFile(path.join(outputDir, 'release-calendar.json'), 'utf8'),
+  );
+  assert.equal(publicNews.feeds[0].items[0].title, 'A current public story');
+  assert.equal(publicCalendar.releases[0].title, 'Release One');
+});
+
+test('readback verification failure rolls both public outputs back', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const inputs = await writeSources(sourceDir);
+  const newsOutput = path.join(outputDir, 'games-news.json');
+  const calendarOutput = path.join(outputDir, 'release-calendar.json');
+  await Promise.all([
+    writeFile(newsOutput, 'preserve-news\n'),
+    writeFile(calendarOutput, 'preserve-calendar\n'),
+  ]);
+
+  const corruptAfterPairReplacement = async (source, target) => {
+    await rename(source, target);
+    if (target === calendarOutput) {
+      await writeFile(newsOutput, 'corrupt-after-write\n');
+    }
+  };
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: true,
+    }, {
+      replaceFile: corruptAfterPairReplacement,
+    }),
+    /Any replaced public output was rolled back/,
+  );
+
+  assert.equal(await readFile(newsOutput, 'utf8'), 'preserve-news\n');
+  assert.equal(await readFile(calendarOutput, 'utf8'), 'preserve-calendar\n');
 });

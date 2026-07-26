@@ -6,6 +6,8 @@ Thumbs.db
 .env
 .env.*
 local-hub/
+data/.public-data-stage.lock
+data/*.tmp-*
 
 # Local-only planning and scratch docs
 docs/local/
