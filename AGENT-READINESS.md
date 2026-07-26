@@ -24,6 +24,9 @@ The site must be easy for AI agents and search systems to interpret without inve
 - Official event/watch links must point to official event pages where available.
 - Keep E-lusion Studios owned game rows visually distinct from external tracked releases.
 - Keep private manager-console data out of this repo and out of public HTML.
+- Stage generated news and calendar data through `scripts/stage-public-data.mjs`
+  so freshness, exact consumed input paths and public-output parity are proven
+  before any Git review.
 
 ## Semantic HTML Rules
 
