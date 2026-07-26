@@ -14,8 +14,6 @@ function usage() {
     --news-input <path-to-games-news.json> \\
     --calendar-input <path-to-release-calendar.json> \\
     [--output-dir <public-data-directory>] \\
-    [--max-source-age-hours <hours>] \\
-    [--now <ISO timestamp>] \\
     [--write]
 
 Without --write, the command validates and reports the exact inputs and intended
@@ -29,8 +27,6 @@ function parseArguments(argv) {
     ['--news-input', 'newsInput'],
     ['--calendar-input', 'calendarInput'],
     ['--output-dir', 'outputDir'],
-    ['--max-source-age-hours', 'maxSourceAgeHours'],
-    ['--now', 'now'],
   ]);
 
   for (let index = 0; index < argv.length; index += 1) {
@@ -56,10 +52,6 @@ function parseArguments(argv) {
     throw new Error(`Both --news-input and --calendar-input are required\n\n${usage()}`);
   }
 
-  const parsedAge = values.maxSourceAgeHours === undefined
-    ? DEFAULT_MAX_SOURCE_AGE_HOURS
-    : Number(values.maxSourceAgeHours);
-  const parsedNow = values.now === undefined ? new Date() : new Date(values.now);
   const outputDir = path.resolve(values.outputDir || PUBLIC_DATA_DIRECTORY);
   const normalise = (value) => (
     process.platform === 'win32' ? value.toLowerCase() : value
@@ -74,8 +66,8 @@ function parseArguments(argv) {
     newsInput: values.newsInput,
     calendarInput: values.calendarInput,
     outputDir,
-    maxSourceAgeHours: parsedAge,
-    now: parsedNow,
+    maxSourceAgeHours: DEFAULT_MAX_SOURCE_AGE_HOURS,
+    now: new Date(),
     write: values.write === true,
   };
 }

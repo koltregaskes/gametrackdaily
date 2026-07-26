@@ -1,5 +1,13 @@
 import { createHash, randomUUID } from 'node:crypto';
-import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
+import {
+  mkdir,
+  readFile,
+  realpath,
+  rename,
+  rm,
+  stat,
+  writeFile,
+} from 'node:fs/promises';
 import path from 'node:path';
 
 export const PUBLIC_DATA_FILES = Object.freeze({
@@ -31,11 +39,75 @@ function requireArray(value, label) {
   return value;
 }
 
+function isPrivateIpv4(hostname) {
+  const parts = hostname.split('.');
+  if (parts.length !== 4 || parts.some((part) => !/^\d{1,3}$/.test(part))) return false;
+  const octets = parts.map(Number);
+  if (octets.some((octet) => octet < 0 || octet > 255)) return false;
+  const [first, second] = octets;
+  return (
+    first === 0
+    || first === 10
+    || first === 127
+    || (first === 169 && second === 254)
+    || (first === 172 && second >= 16 && second <= 31)
+    || (first === 192 && second === 168)
+    || (first === 100 && second >= 64 && second <= 127)
+    || (first === 198 && (second === 18 || second === 19))
+    || first >= 224
+  );
+}
+
+function isPrivateHostname(hostname) {
+  const host = hostname.toLowerCase().replace(/^\[|\]$/g, '');
+  const isIpv6 = host.includes(':');
+  return (
+    host === 'localhost'
+    || host === '::'
+    || host === '::1'
+    || host.endsWith('.localhost')
+    || host.endsWith('.local')
+    || host.endsWith('.internal')
+    || host.endsWith('.lan')
+    || host.endsWith('.test')
+    || host.endsWith('.invalid')
+    || (isIpv6 && host.startsWith('fc'))
+    || (isIpv6 && host.startsWith('fd'))
+    || (isIpv6 && /^fe[89ab]/.test(host))
+    || (isIpv6 && host.startsWith('::ffff:'))
+    || isPrivateIpv4(host)
+  );
+}
+
 function requireHttpUrl(value, label) {
-  const url = new URL(requireString(value, label));
+  const rawUrl = requireString(value, label);
+  let url;
+  try {
+    url = new URL(rawUrl);
+  } catch {
+    fail(`${label} must be a valid URL`);
+  }
   if (url.protocol !== 'https:' && url.protocol !== 'http:') {
     fail(`${label} must use http or https`);
   }
+  if (url.username || url.password) {
+    fail(`${label} must not contain URL credentials`);
+  }
+  if (isPrivateHostname(url.hostname)) {
+    fail(`${label} must not target a local or private host`);
+  }
+}
+
+function requireIsoDate(value, label) {
+  const date = requireString(value, label);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    fail(`${label} must use YYYY-MM-DD`);
+  }
+  const parsed = new Date(`${date}T00:00:00.000Z`);
+  if (!Number.isFinite(parsed.getTime()) || parsed.toISOString().slice(0, 10) !== date) {
+    fail(`${label} is not a valid calendar date`);
+  }
+  return date;
 }
 
 function sourceFreshness(value, label, now, maxSourceAgeHours) {
@@ -77,16 +149,30 @@ function assertPublicSafeJson(value, label, keyPath = label) {
         /^[a-z]:[\\/]/i.test(value)
         || /^\\\\/.test(value)
         || /^file:\/\//i.test(value)
+        || /^\/(?:home|users|private|tmp|var|etc|opt|root|mnt|srv|workspaces?)(?:\/|$)/i.test(value)
+        || /^(?:postgres(?:ql)?|mysql|mongodb(?:\+srv)?):\/\//i.test(value)
+        || /^-----BEGIN [A-Z ]*PRIVATE KEY-----/.test(value)
+        || /^(?:sk-[a-z0-9_-]{16,}|ghp_[a-z0-9]{20,}|github_pat_[a-z0-9_]{20,}|xox[baprs]-[a-z0-9-]{20,})$/i.test(value)
       )
     ) {
       fail(`${keyPath} contains a machine-local path`);
+    }
+    if (typeof value === 'string' && /^https?:\/\//i.test(value)) {
+      requireHttpUrl(value, keyPath);
     }
     return;
   }
 
   for (const [key, child] of Object.entries(value)) {
-    if (/^(password|secret|token|accessToken|apiKey|databaseUrl|connectionString)$/i.test(key)) {
+    const normalisedKey = key.replace(/([a-z0-9])([A-Z])/g, '$1_$2').toLowerCase();
+    if (
+      /(password|secret|credential|private_key|token|api_key|database_url|connection_string)/
+        .test(normalisedKey)
+    ) {
       fail(`${keyPath}.${key} is not allowed in public data`);
+    }
+    if ((normalisedKey === '_example' || normalisedKey === 'example') && child === true) {
+      fail(`${keyPath}.${key} is marked as example data`);
     }
     assertPublicSafeJson(child, label, `${keyPath}.${key}`);
   }
@@ -122,9 +208,6 @@ export function validateNewsData(news, options) {
       if (!Number.isFinite(Date.parse(item.publishedAt))) {
         fail(`${itemLabel}.publishedAt is not a valid timestamp`);
       }
-      if (item._example === true) {
-        fail(`${itemLabel} is marked as example data`);
-      }
       itemCount += 1;
     });
   });
@@ -154,8 +237,7 @@ export function validateCalendarData(calendar, options) {
     if (!isObject(release)) fail(`${releaseLabel} must be an object`);
     requireString(release.id, `${releaseLabel}.id`);
     requireString(release.title, `${releaseLabel}.title`);
-    const date = requireString(release.date, `${releaseLabel}.date`);
-    if (!Number.isFinite(Date.parse(date))) fail(`${releaseLabel}.date is not a valid date`);
+    requireIsoDate(release.date, `${releaseLabel}.date`);
     if (requireArray(release.platforms, `${releaseLabel}.platforms`).length === 0) {
       fail(`${releaseLabel}.platforms must contain at least one platform`);
     }
@@ -166,8 +248,7 @@ export function validateCalendarData(calendar, options) {
     if (!isObject(event)) fail(`${eventLabel} must be an object`);
     requireString(event.id, `${eventLabel}.id`);
     requireString(event.title, `${eventLabel}.title`);
-    const date = requireString(event.date, `${eventLabel}.date`);
-    if (!Number.isFinite(Date.parse(date))) fail(`${eventLabel}.date is not a valid date`);
+    requireIsoDate(event.date, `${eventLabel}.date`);
     requireHttpUrl(event.officialUrl, `${eventLabel}.officialUrl`);
   });
 
@@ -211,17 +292,107 @@ function assertDistinctInputAndOutput(inputPath, outputPath, label) {
   }
 }
 
-function assertInputOutsideOutputDirectory(inputPath, outputDir, label) {
-  const relative = path.relative(outputDir, inputPath);
+function assertInputOutsideDirectory(inputPath, directory, label, directoryLabel) {
+  const relative = path.relative(directory, inputPath);
   if (relative === '' || (!relative.startsWith('..') && !path.isAbsolute(relative))) {
-    fail(`${label} input must be staged outside the public output directory`);
+    fail(`${label} input must be staged outside the ${directoryLabel}`);
+  }
+}
+
+async function assertInputPathBoundary(inputPath, outputPath, repositoryRoot, label) {
+  assertInputOutsideDirectory(inputPath, repositoryRoot, label, 'public checkout');
+
+  const [canonicalInput, canonicalRepositoryRoot] = await Promise.all([
+    realpath(inputPath),
+    realpath(repositoryRoot),
+  ]);
+  assertInputOutsideDirectory(
+    canonicalInput,
+    canonicalRepositoryRoot,
+    label,
+    'canonical public checkout',
+  );
+
+  try {
+    const [inputStats, outputStats] = await Promise.all([
+      stat(inputPath),
+      stat(outputPath),
+    ]);
+    if (inputStats.dev === outputStats.dev && inputStats.ino === outputStats.ino) {
+      fail(`${label} input and public output resolve to the same filesystem object`);
+    }
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
   }
 }
 
 async function writeAtomically(outputPath, buffer) {
   const temporaryPath = `${outputPath}.tmp-${process.pid}-${randomUUID()}`;
-  await writeFile(temporaryPath, buffer);
-  await rename(temporaryPath, outputPath);
+  try {
+    await writeFile(temporaryPath, buffer);
+    await rename(temporaryPath, outputPath);
+  } finally {
+    await rm(temporaryPath, { force: true });
+  }
+}
+
+async function readOptionalFile(filePath) {
+  try {
+    return { exists: true, buffer: await readFile(filePath) };
+  } catch (error) {
+    if (error.code === 'ENOENT') return { exists: false, buffer: null };
+    throw error;
+  }
+}
+
+async function writePublicOutputPair({
+  newsOutput,
+  calendarOutput,
+  newsBuffer,
+  calendarBuffer,
+  replaceFile,
+}) {
+  const [originalNews, originalCalendar] = await Promise.all([
+    readOptionalFile(newsOutput),
+    readOptionalFile(calendarOutput),
+  ]);
+  const newsTemporary = `${newsOutput}.tmp-${process.pid}-${randomUUID()}`;
+  const calendarTemporary = `${calendarOutput}.tmp-${process.pid}-${randomUUID()}`;
+  const replaced = [];
+
+  try {
+    await Promise.all([
+      writeFile(newsTemporary, newsBuffer),
+      writeFile(calendarTemporary, calendarBuffer),
+    ]);
+    await replaceFile(newsTemporary, newsOutput);
+    replaced.push({ output: newsOutput, original: originalNews });
+    await replaceFile(calendarTemporary, calendarOutput);
+    replaced.push({ output: calendarOutput, original: originalCalendar });
+  } catch (error) {
+    const rollbackErrors = [];
+    for (const entry of replaced.reverse()) {
+      try {
+        if (entry.original.exists) {
+          await writeAtomically(entry.output, entry.original.buffer);
+        } else {
+          await rm(entry.output, { force: true });
+        }
+      } catch (rollbackError) {
+        rollbackErrors.push(`${entry.output}: ${rollbackError.message}`);
+      }
+    }
+
+    const rollbackSummary = rollbackErrors.length === 0
+      ? 'Any replaced public output was rolled back.'
+      : `Rollback also failed for ${rollbackErrors.join('; ')}`;
+    fail(`Public output pair could not be replaced: ${error.message}. ${rollbackSummary}`);
+  } finally {
+    await Promise.all([
+      rm(newsTemporary, { force: true }),
+      rm(calendarTemporary, { force: true }),
+    ]);
+  }
 }
 
 export async function stagePublicData({
@@ -231,24 +402,42 @@ export async function stagePublicData({
   maxSourceAgeHours = DEFAULT_MAX_SOURCE_AGE_HOURS,
   now = new Date(),
   write = false,
-}) {
+}, {
+  replaceFile = rename,
+} = {}) {
   if (!(now instanceof Date) || !Number.isFinite(now.getTime())) {
     fail('now must be a valid Date');
   }
   if (!Number.isFinite(maxSourceAgeHours) || maxSourceAgeHours <= 0) {
     fail('maxSourceAgeHours must be a positive number');
   }
+  if (maxSourceAgeHours > DEFAULT_MAX_SOURCE_AGE_HOURS) {
+    fail(`maxSourceAgeHours cannot exceed ${DEFAULT_MAX_SOURCE_AGE_HOURS}`);
+  }
 
   const resolvedNewsInput = path.resolve(requireString(newsInput, 'newsInput'));
   const resolvedCalendarInput = path.resolve(requireString(calendarInput, 'calendarInput'));
   const resolvedOutputDir = path.resolve(requireString(outputDir, 'outputDir'));
+  const resolvedRepositoryRoot = path.dirname(resolvedOutputDir);
   const newsOutput = path.join(resolvedOutputDir, PUBLIC_DATA_FILES.news);
   const calendarOutput = path.join(resolvedOutputDir, PUBLIC_DATA_FILES.calendar);
 
   assertDistinctInputAndOutput(resolvedNewsInput, newsOutput, 'news');
   assertDistinctInputAndOutput(resolvedCalendarInput, calendarOutput, 'calendar');
-  assertInputOutsideOutputDirectory(resolvedNewsInput, resolvedOutputDir, 'news');
-  assertInputOutsideOutputDirectory(resolvedCalendarInput, resolvedOutputDir, 'calendar');
+  await Promise.all([
+    assertInputPathBoundary(
+      resolvedNewsInput,
+      newsOutput,
+      resolvedRepositoryRoot,
+      'news',
+    ),
+    assertInputPathBoundary(
+      resolvedCalendarInput,
+      calendarOutput,
+      resolvedRepositoryRoot,
+      'calendar',
+    ),
+  ]);
 
   const [newsSource, calendarSource] = await Promise.all([
     readJsonInput(resolvedNewsInput, 'news'),
@@ -284,10 +473,13 @@ export async function stagePublicData({
   if (!write) return result;
 
   await mkdir(resolvedOutputDir, { recursive: true });
-  await Promise.all([
-    writeAtomically(newsOutput, newsSource.buffer),
-    writeAtomically(calendarOutput, calendarSource.buffer),
-  ]);
+  await writePublicOutputPair({
+    newsOutput,
+    calendarOutput,
+    newsBuffer: newsSource.buffer,
+    calendarBuffer: calendarSource.buffer,
+    replaceFile,
+  });
 
   const [writtenNews, writtenCalendar] = await Promise.all([
     readJsonInput(newsOutput, 'written news'),

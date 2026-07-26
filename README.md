@@ -51,7 +51,8 @@ Then open `http://127.0.0.1:8790`.
 ## Guarded public-data staging
 
 Current news and calendar generators must write to a staging directory outside
-this public checkout. Reviewable public files are then prepared with:
+this public checkout. Inputs anywhere inside the checkout are rejected.
+Reviewable public files are then prepared with:
 
 ```powershell
 node scripts/stage-public-data.mjs `
@@ -74,9 +75,10 @@ node scripts/stage-public-data.mjs `
 ```
 
 The write step validates both inputs before changing either output, writes each
-public file atomically, and reads them back to prove their hashes,
-timestamps and counts match the consumed inputs. It does not commit, push,
-merge or deploy. Those remain separate review actions.
+public file atomically, rolls back the first file if the second replacement
+fails, and reads both back to prove their hashes, timestamps and counts match
+the consumed inputs. It does not commit, push, merge or deploy. Those remain
+separate review actions.
 
 Run the staging contract tests with:
 

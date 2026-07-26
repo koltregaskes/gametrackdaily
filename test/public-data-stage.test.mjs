@@ -1,9 +1,18 @@
 import assert from 'node:assert/strict';
-import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import {
+  link,
+  mkdir,
+  mkdtemp,
+  readFile,
+  rename,
+  rm,
+  writeFile,
+} from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
 import { stagePublicData } from '../scripts/public-data-contract.mjs';
+import { runCli } from '../scripts/stage-public-data.mjs';
 
 const NOW = new Date('2026-07-26T10:00:00.000Z');
 
@@ -110,6 +119,10 @@ test('dry-run reports exact consumed paths without changing public outputs', asy
 test('write mode proves public outputs match the consumed inputs', async (t) => {
   const { sourceDir, outputDir } = await createWorkspace(t);
   const inputs = await writeSources(sourceDir);
+  await Promise.all([
+    writeFile(path.join(outputDir, 'games-news.json'), 'old-news\n'),
+    writeFile(path.join(outputDir, 'release-calendar.json'), 'old-calendar\n'),
+  ]);
 
   const result = await stagePublicData({
     ...inputs,
@@ -172,5 +185,231 @@ test('input and public output cannot be the same file', async (t) => {
       write: true,
     }),
     /news input and public output resolve to the same file/,
+  );
+});
+
+test('inputs staged elsewhere inside the public checkout are rejected', async (t) => {
+  const { root, outputDir } = await createWorkspace(t);
+  const checkoutStaging = path.join(root, 'public', 'staging');
+  await mkdir(checkoutStaging, { recursive: true });
+  const inputs = await writeSources(checkoutStaging);
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /news input must be staged outside the public checkout/,
+  );
+});
+
+test('secret-shaped and machine-local values are rejected', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const secretNews = newsFixture();
+  secretNews.metadata = { clientSecret: 'top-secret-value' };
+  let inputs = await writeSources(sourceDir, { news: secretNews });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /clientSecret is not allowed in public data/,
+  );
+
+  const pathNews = newsFixture();
+  pathNews.metadata = { evidencePath: '/home/alice/private/evidence.json' };
+  inputs = await writeSources(sourceDir, { news: pathNews });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /contains a machine-local path/,
+  );
+
+  const credentialNews = newsFixture();
+  credentialNews.feeds[0].items[0].url = 'https://user:password@example.com/private';
+  inputs = await writeSources(sourceDir, { news: credentialNews });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /must not contain URL credentials/,
+  );
+
+  const localhostNews = newsFixture();
+  localhostNews.feeds[0].items[0].url = 'http://127.0.0.1:3456/private';
+  inputs = await writeSources(sourceDir, { news: localhostNews });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /must not target a local or private host/,
+  );
+});
+
+test('example-marked release and event rows are rejected', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const exampleRelease = calendarFixture();
+  exampleRelease.releases[0]._example = true;
+  let inputs = await writeSources(sourceDir, { calendar: exampleRelease });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /calendar\.releases\[0\]\._example is marked as example data/,
+  );
+
+  const exampleEvent = calendarFixture();
+  exampleEvent.events[0]._example = true;
+  inputs = await writeSources(sourceDir, { calendar: exampleEvent });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /calendar\.events\[0\]\._example is marked as example data/,
+  );
+});
+
+test('a second output replacement failure rolls the first output back', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const inputs = await writeSources(sourceDir);
+  const newsOutput = path.join(outputDir, 'games-news.json');
+  const calendarOutput = path.join(outputDir, 'release-calendar.json');
+  await Promise.all([
+    writeFile(newsOutput, 'preserve-news\n'),
+    writeFile(calendarOutput, 'preserve-calendar\n'),
+  ]);
+
+  const failCalendarReplace = async (source, target) => {
+    if (target === calendarOutput) throw new Error('simulated calendar lock');
+    await rename(source, target);
+  };
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: true,
+    }, {
+      replaceFile: failCalendarReplace,
+    }),
+    /Any replaced public output was rolled back/,
+  );
+
+  assert.equal(await readFile(newsOutput, 'utf8'), 'preserve-news\n');
+  assert.equal(await readFile(calendarOutput, 'utf8'), 'preserve-calendar\n');
+});
+
+test('the operational CLI cannot override its clock or freshness ceiling', async () => {
+  await assert.rejects(
+    runCli([
+      '--news-input',
+      'news.json',
+      '--calendar-input',
+      'calendar.json',
+      '--now',
+      '2025-01-01T10:00:00.000Z',
+    ]),
+    /Unknown argument: --now/,
+  );
+  await assert.rejects(
+    runCli([
+      '--news-input',
+      'news.json',
+      '--calendar-input',
+      'calendar.json',
+      '--max-source-age-hours',
+      '10000',
+    ]),
+    /Unknown argument: --max-source-age-hours/,
+  );
+});
+
+test('impossible release and event dates are rejected rather than normalised', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const invalidRelease = calendarFixture();
+  invalidRelease.releases[0].date = '2026-02-31';
+  let inputs = await writeSources(sourceDir, { calendar: invalidRelease });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /calendar\.releases\[0\]\.date is not a valid calendar date/,
+  );
+
+  const invalidEvent = calendarFixture();
+  invalidEvent.events[0].date = '2026-13-01';
+  inputs = await writeSources(sourceDir, { calendar: invalidEvent });
+
+  await assert.rejects(
+    stagePublicData({
+      ...inputs,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /calendar\.events\[0\]\.date is not a valid calendar date/,
+  );
+});
+
+test('an external hard link to a public output is rejected', async (t) => {
+  const { sourceDir, outputDir } = await createWorkspace(t);
+  const publicNews = path.join(outputDir, 'games-news.json');
+  const externalNews = path.join(sourceDir, 'games-news.json');
+  const calendarInput = path.join(sourceDir, 'release-calendar.json');
+  await writeFile(publicNews, `${JSON.stringify(newsFixture(), null, 2)}\n`);
+  await link(publicNews, externalNews);
+  await writeFile(calendarInput, `${JSON.stringify(calendarFixture(), null, 2)}\n`);
+
+  await assert.rejects(
+    stagePublicData({
+      newsInput: externalNews,
+      calendarInput,
+      outputDir,
+      now: NOW,
+      maxSourceAgeHours: 72,
+      write: false,
+    }),
+    /news input and public output resolve to the same filesystem object/,
   );
 });
