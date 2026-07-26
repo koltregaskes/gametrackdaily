@@ -267,6 +267,29 @@ test('secret-shaped and machine-local values are rejected', async (t) => {
     }),
     /must not target a local or private host/,
   );
+
+  for (const privateUrl of [
+    'http://localhost.:3000/private',
+    'http://service.local./private',
+    'http://nas/private',
+    'http://[ff02::1]/private',
+    'http://[fec0::1]/private',
+  ]) {
+    const privateHostNews = newsFixture();
+    privateHostNews.feeds[0].items[0].url = privateUrl;
+    inputs = await writeSources(sourceDir, { news: privateHostNews });
+
+    await assert.rejects(
+      stagePublicData({
+        ...inputs,
+        outputDir,
+        now: NOW,
+        maxSourceAgeHours: 72,
+        write: false,
+      }),
+      /must not target a local or private host/,
+    );
+  }
 });
 
 test('example-marked release and event rows are rejected', async (t) => {

@@ -59,12 +59,13 @@ function isPrivateIpv4(hostname) {
 }
 
 function isPrivateHostname(hostname) {
-  const host = hostname.toLowerCase().replace(/^\[|\]$/g, '');
+  const host = hostname.toLowerCase().replace(/^\[|\]$/g, '').replace(/\.$/, '');
   const isIpv6 = host.includes(':');
   return (
     host === 'localhost'
     || host === '::'
     || host === '::1'
+    || (!host.includes('.') && !isIpv6)
     || host.endsWith('.localhost')
     || host.endsWith('.local')
     || host.endsWith('.internal')
@@ -74,6 +75,8 @@ function isPrivateHostname(hostname) {
     || (isIpv6 && host.startsWith('fc'))
     || (isIpv6 && host.startsWith('fd'))
     || (isIpv6 && /^fe[89ab]/.test(host))
+    || (isIpv6 && /^fe[c-f]/.test(host))
+    || (isIpv6 && host.startsWith('ff'))
     || (isIpv6 && host.startsWith('::ffff:'))
     || isPrivateIpv4(host)
   );
