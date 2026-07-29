@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-29T17:45:24.395Z",
+  "generated": "2026-07-29T18:21:49.531Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-07-29T17:45:24.395Z",
+      "generatedAt": "2026-07-29T18:21:49.531Z",
       "items": [
         {
           "title": "Stealth and armour placement rule supreme in Tyr, the new tank shooter from former Destiny and Valorant devs, with a public playtest now live",
@@ -88,15 +88,6 @@
           "_example": false
         },
         {
-          "title": "LEGO's Batman Forever Batmobile Set Has Received a Sizable $25 Discount at Amazon",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/lego-batman-forever-batmobile-set-has-received-a-25-discount-at-amazon",
-          "summary": "LEGO's Batman Forever Batmobile set is on sale for $74.99 at Amazon. That's a $25 discount from its full price of $99.99, but also incredibly close to its lowest-ever price at the retailer.",
-          "publishedAt": "2026-07-29T15:53:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
           "title": "‘I Have a Personal Vendetta Against Filler Content’ – How The Blood of Dawnwalker Makes Its Open World Feel Meaningful",
           "source": "IGN",
           "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-open-world-ign-first",
@@ -113,38 +104,29 @@
           "publishedAt": "2026-07-29T15:16:04.000Z",
           "tag": "News",
           "_example": false
+        },
+        {
+          "title": "\"The Case of the Golden Idol-style deduction meets The X-Files\": Former BioWare devs unveil supernatural detective game The Eventide",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-case-of-the-golden-idol-style-deduction-meets-the-x-files-former-bioware-devs-unveil-supernatural-detective-game-the-eventide",
+          "summary": "Remember that paranormal, protagonist-juggling adventure game in the works at Studio Reset, an indie outfit formed by former Mass Effect /Dragon's Age staffers? It&rsquo;s just been fully revealed as ",
+          "publishedAt": "2026-07-29T15:00:07.000Z",
+          "tag": "News",
+          "_example": false
         }
       ]
     },
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-07-29T17:45:24.395Z",
+      "generatedAt": "2026-07-29T18:21:49.531Z",
       "items": [
-        {
-          "title": "Tony Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/tony-review-anthony-bourdain-movie",
-          "summary": "Tony review: Matt Johnson zeroes in on a teenage chapter in Anthony Bourdain’s life.",
-          "publishedAt": "2026-07-29T16:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
         {
           "title": "Cooler Master V8 Ace 3DHP review",
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/cooling/cooler-master-v8-ace-3dhp-review/",
           "summary": "Proving air coolers are still cool in 2026.",
           "publishedAt": "2026-07-29T14:06:14.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Blacklyte Atlas Lite Standing Desk Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/blacklyte-atlas-lite-standing-desk-review",
-          "summary": "The problem with a good standing desk is usually its price. Enter Blacklyte and its Atlas Lite Standing Desk. As the \"Lite\" in the name suggests, it has fewer frills than other standing desks, includi",
-          "publishedAt": "2026-07-29T14:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
@@ -162,7 +144,7 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-07-29T17:45:24.395Z",
+      "generatedAt": "2026-07-29T18:21:49.531Z",
       "items": [
         {
           "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
@@ -187,7 +169,7 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-07-29T17:45:24.395Z",
+      "generatedAt": "2026-07-29T18:21:49.531Z",
       "items": [
         {
           "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
