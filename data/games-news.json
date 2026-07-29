@@ -1,116 +1,116 @@
 {
-  "generated": "2026-07-29T13:21:31.154Z",
+  "generated": "2026-07-29T17:45:24.395Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-07-29T13:21:31.154Z",
+      "generatedAt": "2026-07-29T17:45:24.395Z",
       "items": [
         {
-          "title": "Xbox Players Can Now Claim Free PC Versions Of These Ubisoft Games",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-players-can-now-claim-free-pc-versions-of-these-ubisoft-games/",
-          "summary": "Xbox has announced that it has expanded its partnership with Ubisoft, and if you own certain games from the publisher on console, you'll now have free PC versions of them to play. Available right now,",
-          "publishedAt": "2026-07-29T12:13:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Serve refreshments and spot demons in Night Plane, a PSX-style horror job sim about being a flight attendant in 1999",
+          "title": "Stealth and armour placement rule supreme in Tyr, the new tank shooter from former Destiny and Valorant devs, with a public playtest now live",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/serve-refreshments-and-spot-demons-in-night-plane-a-psx-style-horror-job-sim-about-being-a-flight-attendant-in-1999",
-          "summary": "There's been a glut of horror-themed job sims lately, from 2025's atrocious smileorama Hellmart to the recent multiplayer offering Shift At Midnight , in which you try not to endorse the existence of ",
-          "publishedAt": "2026-07-29T11:38:32.000Z",
+          "url": "https://www.rockpapershotgun.com/stealth-and-armour-placement-rule-supreme-in-tyr-the-new-tank-shooter-from-former-destiny-and-valorant-devs-with-a-public-playtest-now-live",
+          "summary": "Kaboom! A trailer has just landed in your inbox, blasting your laptop apart in a sputter of copper and fossilised breadcrumbs. You scan the horizon desperately with your binoculars, but there is no si",
+          "publishedAt": "2026-07-29T16:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Cities Skylines meets Balatro in the absorbing roguelike city builder Combolands",
+          "title": "Roguelite strategy spinoff Company of Heroes 3: Final Stand breathes fresh live into some of the series' oldest features",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roguelite-strategy-spinoff-company-of-heroes-3-final-stand-breathes-fresh-live-into-some-of-the-series-oldest-features",
+          "summary": "I&rsquo;d put my six-pounder anti-tank guns in the perfect position to halt the Tigers&rsquo; advance. The German tanks would have to cross the bridge, keeping them packed together, and the derailed t",
+          "publishedAt": "2026-07-29T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Cyberpunk TCG just revealed an overpowered card for Night City's most tragic Netrunner",
           "source": "Polygon",
-          "url": "https://www.polygon.com/combolands-demo-impressions/",
-          "summary": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Skylines",
-          "publishedAt": "2026-07-29T12:00:12.000Z",
+          "url": "https://www.polygon.com/cyberpunk-tcg-exclusive-card-reveal-alt-cunningham-welcome-to-night-city/",
+          "summary": "Polygon exclusively reveals Alt Cunningham: Mother of Daemons, a powerful new card that turns Cyberpunk TCG’s best defense into card advantage.",
+          "publishedAt": "2026-07-29T16:00:12.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Clair Obscur developers see Sony's no-disk announcement as 'a sad decision', because they 'like to go outside, buy a game, and come back home with it'",
+          "title": "The 10 best board games to play at Gen Con 2026",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gen-con-best-board-games-play/",
+          "summary": "Must-try games at the biggest tabletop convention in North America include adaptations of Star Trek and The Lord of the Rings.",
+          "publishedAt": "2026-07-29T16:30:11.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Simpsons return to Fortnite with a surprise guest: John Wick",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fortnite-the-simpsons-reload-springfield-john-wick-sprite/",
+          "summary": "The Simpsons Reload in Fortnite arrives July 30 with new John Wick items, including a Matt Groening style version of Keanu Reeves.",
+          "publishedAt": "2026-07-29T16:56:02.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Last of Us multiplayer mod has hit a 'big milestone' as it prepares for launch in September",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/clair-obscur-developers-see-sonys-no-disk-announcement-as-a-sad-decision-because-they-like-to-go-outside-buy-a-game-and-come-back-home-with-it/",
-          "summary": "\"I think it's part of the beauty of art too—that it's something tangible that you can touch.\"",
-          "publishedAt": "2026-07-29T10:59:02.000Z",
+          "url": "https://www.pcgamer.com/games/action/the-last-of-us-multiplayer-mod-has-hit-a-big-milestone-as-it-prepares-for-launch-in-september/",
+          "summary": "If Sony won't grant me my wish, then creative fans will instead.",
+          "publishedAt": "2026-07-29T16:07:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "AMD launches the RX 9050, and it's even more entry-level than expected",
+          "title": "The next game on GOG's preservation list would be your favourite ARPG if it hadn't released the same year as Diablo 2, and it's on sale now",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-launches-the-rx-9050-and-its-even-more-entry-level-than-expected/",
-          "summary": "Officially listed with 8 GB of VRAM, but may even come with 4 GB.",
-          "publishedAt": "2026-07-29T11:07:53.000Z",
+          "url": "https://www.pcgamer.com/games/rpg/the-next-game-on-gogs-preservation-list-would-be-your-favourite-arpg-if-it-hadnt-released-the-same-year-as-diablo-2-and-its-on-sale-now/",
+          "summary": "Opportunity NOX twice.",
+          "publishedAt": "2026-07-29T16:12:53.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Silent Hill: Townfall's director finds it 'utterly terrifying to be the next one in the series' but is still confident fans will enjoy the experience",
+          "title": "Silent Hill: Townfall takes place in 'the perfect storm'—a remote Scottish town that stands on the edge of the age of the internet",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfalls-director-finds-it-utterly-terrifying-to-be-the-next-one-in-the-series-but-is-still-confident-fans-will-enjoy-the-experience/",
-          "summary": "Silent Hill f is certainly a tough act to follow.",
-          "publishedAt": "2026-07-29T11:33:28.000Z",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-takes-place-in-the-perfect-storm-a-remote-scottish-town-that-stands-on-the-edge-of-the-age-of-the-internet/",
+          "summary": "The internet has been a pretty scary experience for me.",
+          "publishedAt": "2026-07-29T16:38:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Silent Hill Townfall: the series is coming to Scotland, but what fresh horrors will it bring?",
-          "source": "The Guardian (Culture)",
-          "url": "https://www.theguardian.com/games/2026/jul/29/silent-hill-is-coming-to-scotland-but-what-else-will-townfall-bring-to-the-series",
-          "summary": "<p>An amnesiac loner arrives in a remote town for who knows what reason … this may sound familiar but this time we’re on a remote Scottish island and surprises lie in wait</p><p>A man washes up at the",
-          "publishedAt": "2026-07-29T07:00:26.000Z",
+          "title": "XBOX celebrates 25 years of play and returns to gamescom",
+          "source": "Microsoft AI Blog",
+          "url": "https://news.xbox.com/en-us/2026/07/28/xbox-gamescom-2026/",
+          "summary": "The post XBOX celebrates 25 years of play and returns to gamescom appeared first on Source .",
+          "publishedAt": "2026-07-29T16:45:32.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA Online in-game gambling reportedly blocked in Australia, leaving folks down under locked out of Diamond Casino games",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-online-in-game-gambling-reportedly-blocked-in-australia-leaving-folks-down-under-locked-out-of-diamond-casino-games",
-          "summary": "GTA Online players in Australia have reportedly found themselves suddenly barred from the litany of in-game gambling minigames found in Los Santos' Diamond Casino, with the change seemingly the result",
-          "publishedAt": "2026-07-29T10:04:25.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Dragon Age: Origins wasn’t the most attractive game\": BioWare's old series producer still thinks a DA remaster trilogy is worth it, but the knowhow isn't there",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dragon-age-origins-wasnt-the-most-attractive-game-biowares-old-series-producer-still-thinks-a-da-remaster-trilogy-is-worth-it-but-the-knowhow-isnt-there",
-          "summary": "Former Dragon Age series producer Mark Darrah has shared his tuppence worth on the likelihood of BioWare and EA ever commissioning a full-on original Dragon Age trilogy remaster or remake. He thinks s",
-          "publishedAt": "2026-07-29T10:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Microsoft reportedly using TPM chips to weed out Windows piracy",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/microsoft-reportedly-using-tpm-chips-to-weed-out-windows-piracy/",
-          "summary": "Spare a thought for the system administrators.",
-          "publishedAt": "2026-07-29T09:26:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Wuchang: Fallen Feathers Sequel Announced With Creator Back on Board, After Reports That Its Development Team Had Disbanded",
+          "title": "LEGO's Batman Forever Batmobile Set Has Received a Sizable $25 Discount at Amazon",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/wuchang-fallen-feathers-sequel-announced-with-creator-back-on-board-after-reports-that-its-development-team-had-disbanded",
-          "summary": "Soulslike success Wuchang: Fallen Feathers will get a sequel, despite previous reports that the game's original development team had disbanded.",
-          "publishedAt": "2026-07-29T09:35:30.000Z",
+          "url": "https://www.ign.com/articles/lego-batman-forever-batmobile-set-has-received-a-25-discount-at-amazon",
+          "summary": "LEGO's Batman Forever Batmobile set is on sale for $74.99 at Amazon. That's a $25 discount from its full price of $99.99, but also incredibly close to its lowest-ever price at the retailer.",
+          "publishedAt": "2026-07-29T15:53:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across \"all milestones\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-boss-38-million-bonus-battlefield-6-layoffs",
-          "summary": "Electronic Arts CEO Andrew Wilson took home a $38.7m bonus for the 2026 financial year, as the company's games such as Battlefield 6 performed well, met \"all milestones\", and a new AI strategy was exe",
-          "publishedAt": "2026-07-29T09:14:10.000Z",
+          "title": "‘I Have a Personal Vendetta Against Filler Content’ – How The Blood of Dawnwalker Makes Its Open World Feel Meaningful",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-open-world-ign-first",
+          "summary": "Take a closer look at how developer The Blood of Dawnwalker developer Rebel Wolves made its open world meaningful through activity design and deep lore that rejects the idea of \"filler content\".",
+          "publishedAt": "2026-07-29T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Nexus Mods Wants To Replace Modding Frustration With One-Click Simplicity",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nexus-mods-wants-to-replace-modding-frustration-with-one-click-simplicity/",
+          "summary": "One of the best--and worst--things about PC gaming is the support for mods, allowing users to customize their games to an absurd degree. Installing a mod isn't always straightforward, and the more it ",
+          "publishedAt": "2026-07-29T15:16:04.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-07-29T13:21:31.154Z",
+      "generatedAt": "2026-07-29T17:45:24.395Z",
       "items": [
         {
-          "title": "Alienware 34 AW3426DW review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-34-aw3426dw-review/",
-          "summary": "Alienware's updated 34-inch ultrawide OLED monitor is even more awesome than the original.",
-          "publishedAt": "2026-07-28T10:27:02.000Z",
+          "title": "Tony Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/tony-review-anthony-bourdain-movie",
+          "summary": "Tony review: Matt Johnson zeroes in on a teenage chapter in Anthony Bourdain’s life.",
+          "publishedAt": "2026-07-29T16:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Corsair Cove review",
+          "title": "Cooler Master V8 Ace 3DHP review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/city-builder/corsair-cove-review/",
-          "summary": "Build a grog-soaked paradise for some surprisingly chill pirates.",
-          "publishedAt": "2026-07-28T15:11:42.000Z",
+          "url": "https://www.pcgamer.com/hardware/cooling/cooler-master-v8-ace-3dhp-review/",
+          "summary": "Proving air coolers are still cool in 2026.",
+          "publishedAt": "2026-07-29T14:06:14.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Blacklyte Atlas Lite Standing Desk Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/blacklyte-atlas-lite-standing-desk-review",
+          "summary": "The problem with a good standing desk is usually its price. Enter Blacklyte and its Atlas Lite Standing Desk. As the \"Lite\" in the name suggests, it has fewer frills than other standing desks, includi",
+          "publishedAt": "2026-07-29T14:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "The Relic: First Guardian Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-relic-first-guardian-review",
+          "summary": "The true dark fantasy of The Relic: First Guardian is all of the potential it squanders; an energetic action game marred by its own shambolic state and broken in too many inexcusable ways.",
+          "publishedAt": "2026-07-29T15:00:25.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,7 +162,7 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-07-29T13:21:31.154Z",
+      "generatedAt": "2026-07-29T17:45:24.395Z",
       "items": [
         {
           "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
@@ -169,14 +187,77 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-07-29T13:21:31.154Z",
+      "generatedAt": "2026-07-29T17:45:24.395Z",
       "items": [
+        {
+          "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-classics-latest-patch-is-terrorizing-hardcore-players-with-bugged-piles-of-underground-enemies-and-its-likely-due-to-a-decades-old-quirk-of-blizzard-programming/",
+          "summary": "The Stonetalon Mountains are up to their old tricks again.",
+          "publishedAt": "2026-07-29T16:39:12.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
+          "summary": "Pokémon Pokopia will unlock underwater gameplay next week as part of a free update, alongside the launch of the game's first expansion.",
+          "publishedAt": "2026-07-29T14:19:33.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/5-years-later-cool-cyberpunk-shooter-the-ascent-is-getting-a-major-update-and-it-sounds-like-a-sequel-is-in-the-works",
+          "summary": "The Ascent is set for a surprise major update to coincide with the game’s fifth anniversary — and it sounds like a sequel is on the way.",
+          "publishedAt": "2026-07-29T14:50:49.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Soulslike game Wuchang is officially getting a sequel developed by its creator's new studio after the original team reportedly disbanded",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/soulslike-game-wuchang-is-officially-getting-a-sequel-developed-by-its-creators-new-studio-after-the-original-team-reportedly-disbanded/",
+          "summary": "\"Wuchang's story is far from over.\"",
+          "publishedAt": "2026-07-29T13:43:33.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Pokémon Pokopia's Bubbly Basin DLC and underwater-themed free update is coming as soon as next week",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/pokemon-pokopia-bubbly-basin-dlc-date",
+          "summary": "Update 2:19pm: Nintendo has just released a seven-minute trailer confirming the 5th August release date and giving players an overview of the content and new mechanics included in Bubbly Basin. A seco",
+          "publishedAt": "2026-07-29T13:02:42.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/pubg-ip-continued-growth-25-percent",
+          "summary": "PUBG , once the biggest multiplayer game on PC, has quietly continued to do very well. Though it may no longer make the headlines, it remains a constant sight in Steam's top five most played games , t",
+          "publishedAt": "2026-07-29T13:56:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Wuchang: Fallen Feathers sequel in the works from original director's new studio, which bears the wonderful name Indolphinity",
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/wuchang-fallen-feathers-sequel-in-the-works-from-original-directors-new-studio-which-bears-the-wonderful-name-indolphinity",
           "summary": "Chinese soulslike Wuchang: Fallen Feathers is getting a sequel, set to be developed by a new studio helmed by the first game's director. Rather than original studio Lenzee, the new Wuchang entry's bei",
           "publishedAt": "2026-07-29T11:01:30.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "AMD launches the RX 9050, and it's even more entry-level than expected - update: it's $279 and limited to certain regions",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-launches-the-rx-9050-and-its-even-more-entry-level-than-expected/",
+          "summary": "Oh, and the 4 GB version is OEM-only.",
+          "publishedAt": "2026-07-29T11:07:53.000Z",
           "tag": "Industry",
           "_example": false
         },
@@ -213,69 +294,6 @@
           "url": "https://www.eurogamer.net/dragon-age-trilogy-remaster-bioware-dont-know-engine",
           "summary": "Former BioWare producer Mark Darrah believes a remaster of the original Dragon Age trilogy isn't likely to happen, as no one left working at the developer knows how the old engine works. Read more",
           "publishedAt": "2026-07-29T11:11:51.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Krafton pledges to turn Subnautica into \"franchise IP\" after Subnautica 2 surpasses 5m sales in just 22 days",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/subnautica-2-franchise-ip-krafton-unknown-worlds-5m-sales",
-          "summary": "Following a year of acrimonious legal tussling and a settlement agreeing to pay bonuses to Unknown Worlds developers, Krafton has now pledged to turn the Subnautica series into a \"franchise IP\" amid c",
-          "publishedAt": "2026-07-29T11:41:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Pragmata 2 Likely After Sales Success, Publisher Capcom Says",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/pragmata-2-likely-after-sales-success-publisher-capcom-says",
-          "summary": "Pragmata, Capcom's sci-fi adventure with a small girl android sidekick, looks likely to get a sequel.",
-          "publishedAt": "2026-07-29T10:15:07.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Capcom says likelihood of a Pragmata sequel is high, citing strong sales and 'appeal' of its main character, Diana",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pragmata-sequel-capcom-internal-expectations-sales",
-          "summary": "Yesterday, we saw Capcom release sales figures for two of its latest releases, Pragmata and Resident Evil Requiem, via the company's Q1 2026 financial report . It mentioned Pragmata's impressive figur",
-          "publishedAt": "2026-07-29T08:52:06.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Vast Majority of Capcom's 2026 Game Sales Have Been Digital",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-vast-majority-of-capcoms-2026-game-sales-have-been-digital",
-          "summary": "Capcom’s Q1 report for the 2026 fiscal year is out, and it’s making a lot of players uneasy.",
-          "publishedAt": "2026-07-28T23:32:25.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Civilization 7's latest update adds more depth to peace deal brokerage and leader relations, as Firaxis gear up for \"bigger additions\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/civilization-7s-latest-update-adds-more-depth-to-peace-deal-brokerage-and-leader-relations-as-firaxis-gear-up-for-bigger-additions",
-          "summary": "Civ 7 's July update drops today, July 28th, delivering a handful of useful tweaks as devs Firaxis continue to build on their substantial revamp of the strategy game via its Test of Time update . This",
-          "publishedAt": "2026-07-28T10:33:29.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"I wish I could do that\": A developer on The Sims has been eyeing up Paralives' characters' asymmetric shoes and their wider possibilities",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-wish-i-could-do-that-a-developer-on-the-sims-has-been-eyeing-up-paralives-characters-asymmetric-shoes-and-their-wider-possibilities",
-          "summary": "Asymmetric shoes may not seem like a big deal. I mean, if we look past the cultural mountain that was climbed to turn the faux pas of odd socks into a proud fashion statement of mismatched shoes, asym",
-          "publishedAt": "2026-07-28T12:24:11.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Marvel Tōkon's developer has apologised to PC players for the beta's performance issues, with only a week until launch",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fighting/marvel-tokons-developer-has-apologised-to-pc-players-for-the-betas-performance-issues-with-only-a-week-until-launch/",
-          "summary": "But it still broke fighting game beta records on Steam.",
-          "publishedAt": "2026-07-28T14:01:30.000Z",
           "tag": "Industry",
           "_example": false
         }
