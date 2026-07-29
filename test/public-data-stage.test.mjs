@@ -717,7 +717,7 @@ test('staging cannot move public source timestamps backwards', async (t) => {
       maxSourceAgeHours: 72,
       write: true,
     }),
-    /news source timestamp is older than the current public news timestamp/,
+    /(?:news|calendar) source timestamp is older than the current public (?:news|calendar) timestamp/,
   );
 
   const publicNews = JSON.parse(await readFile(path.join(outputDir, 'games-news.json'), 'utf8'));
