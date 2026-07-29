@@ -48,6 +48,48 @@ python -m http.server 8790
 
 Then open `http://127.0.0.1:8790`.
 
+## Guarded public-data staging
+
+Current news and calendar generators must write to a staging directory outside
+this public checkout. Inputs anywhere inside the checkout are rejected.
+Reviewable public files are then prepared with:
+
+```powershell
+node scripts/stage-public-data.mjs `
+  --news-input "<staging-dir>\games-news.json" `
+  --calendar-input "<staging-dir>\release-calendar.json" `
+  --output-dir data
+```
+
+That command is a dry run. It rejects stale, empty, example-marked or
+machine-local data, then reports the exact resolved input paths, source hashes,
+ages, item counts and intended public outputs. Add `--write` only after the
+dry-run evidence has been reviewed:
+
+```powershell
+node scripts/stage-public-data.mjs `
+  --news-input "<staging-dir>\games-news.json" `
+  --calendar-input "<staging-dir>\release-calendar.json" `
+  --output-dir data `
+  --write
+```
+
+The write step validates both inputs before changing either output, writes each
+public file atomically, rolls back the first file if the second replacement
+fails, and reads both back inside the same rollback boundary to prove their
+hashes, timestamps and counts match the consumed inputs. An exclusive lock
+rejects overlapping writers. If a crashed process leaves
+`data/.public-data-stage.lock`, verify that no staging process is active before
+removing that ignored lock file. Source timestamps cannot move backwards over
+readable current public metadata. The command does not commit, push, merge or
+deploy. Those remain separate review actions.
+
+Run the staging contract tests with:
+
+```powershell
+node --test test/public-data-stage.test.mjs
+```
+
 ## Deployment
 
 The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
