@@ -374,7 +374,7 @@ async function assertInputPathBoundary(inputPath, repositoryRoot, label) {
 
 async function optionalStat(filePath) {
   try {
-    return await stat(filePath);
+    return await stat(filePath, { bigint: true });
   } catch (error) {
     if (error.code === 'ENOENT') return null;
     throw error;
@@ -398,8 +398,8 @@ async function assertDistinctFilesystemObjects({
 }) {
   const [newsInputStats, calendarInputStats, newsOutputStats, calendarOutputStats] =
     await Promise.all([
-      stat(newsInput),
-      stat(calendarInput),
+      stat(newsInput, { bigint: true }),
+      stat(calendarInput, { bigint: true }),
       optionalStat(newsOutput),
       optionalStat(calendarOutput),
     ]);
