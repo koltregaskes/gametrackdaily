@@ -1,11 +1,65 @@
 {
-  "generated": "2026-07-29T12:00:21.075Z",
+  "generated": "2026-07-29T13:21:31.154Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-07-29T12:00:21.075Z",
+      "generatedAt": "2026-07-29T13:21:31.154Z",
       "items": [
+        {
+          "title": "Xbox Players Can Now Claim Free PC Versions Of These Ubisoft Games",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-players-can-now-claim-free-pc-versions-of-these-ubisoft-games/",
+          "summary": "Xbox has announced that it has expanded its partnership with Ubisoft, and if you own certain games from the publisher on console, you'll now have free PC versions of them to play. Available right now,",
+          "publishedAt": "2026-07-29T12:13:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Serve refreshments and spot demons in Night Plane, a PSX-style horror job sim about being a flight attendant in 1999",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/serve-refreshments-and-spot-demons-in-night-plane-a-psx-style-horror-job-sim-about-being-a-flight-attendant-in-1999",
+          "summary": "There's been a glut of horror-themed job sims lately, from 2025's atrocious smileorama Hellmart to the recent multiplayer offering Shift At Midnight , in which you try not to endorse the existence of ",
+          "publishedAt": "2026-07-29T11:38:32.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Cities Skylines meets Balatro in the absorbing roguelike city builder Combolands",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/combolands-demo-impressions/",
+          "summary": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Skylines",
+          "publishedAt": "2026-07-29T12:00:12.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Clair Obscur developers see Sony's no-disk announcement as 'a sad decision', because they 'like to go outside, buy a game, and come back home with it'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/clair-obscur-developers-see-sonys-no-disk-announcement-as-a-sad-decision-because-they-like-to-go-outside-buy-a-game-and-come-back-home-with-it/",
+          "summary": "\"I think it's part of the beauty of art too—that it's something tangible that you can touch.\"",
+          "publishedAt": "2026-07-29T10:59:02.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "AMD launches the RX 9050, and it's even more entry-level than expected",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-launches-the-rx-9050-and-its-even-more-entry-level-than-expected/",
+          "summary": "Officially listed with 8 GB of VRAM, but may even come with 4 GB.",
+          "publishedAt": "2026-07-29T11:07:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Silent Hill: Townfall's director finds it 'utterly terrifying to be the next one in the series' but is still confident fans will enjoy the experience",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfalls-director-finds-it-utterly-terrifying-to-be-the-next-one-in-the-series-but-is-still-confident-fans-will-enjoy-the-experience/",
+          "summary": "Silent Hill f is certainly a tough act to follow.",
+          "publishedAt": "2026-07-29T11:33:28.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Silent Hill Townfall: the series is coming to Scotland, but what fresh horrors will it bring?",
           "source": "The Guardian (Culture)",
@@ -43,15 +97,6 @@
           "_example": false
         },
         {
-          "title": "The Joker, Morbius, and Skeletor Actor Jared Leto Accused of Criminal Sexual Conduct by Four Women",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-joker-morbius-and-skeletor-actor-jared-leto-accused-of-criminal-sexual-conduct-by-four-women",
-          "summary": "Four women have accused Hollywood actor Jared Leto of criminal sexual conduct, the BBC has reported.",
-          "publishedAt": "2026-07-29T09:34:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
           "title": "Wuchang: Fallen Feathers Sequel Announced With Creator Back on Board, After Reports That Its Development Team Had Disbanded",
           "source": "IGN",
           "url": "https://www.ign.com/articles/wuchang-fallen-feathers-sequel-announced-with-creator-back-on-board-after-reports-that-its-development-team-had-disbanded",
@@ -68,86 +113,14 @@
           "publishedAt": "2026-07-29T09:14:10.000Z",
           "tag": "News",
           "_example": false
-        },
-        {
-          "title": "007 First Light's Switch 2 release date may be closer than we realised",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-nintendo-switch-2-release-date-leak",
-          "summary": "The Nintendo Switch 2 version of IO Interactive 's 007 First Light has been anticipated practically since it was revealed to be in the works. That version of the game didn't make it out alongside all ",
-          "publishedAt": "2026-07-29T09:24:07.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Crazy Taxi: World Tour has competitive multiplayer, and you've got a chance to play it very soon",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crazy-taxi-world-tour-closed-network-test-multiplayer",
-          "summary": "Sega announced it's hosting a closed network test for Crazy Taxi : World Tour. The limited test is available across PC (Steam and Xbox app), PS5 and Xbox Series X/S. It runs for a single session from ",
-          "publishedAt": "2026-07-29T10:47:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Koei Tecmo wants to avoid \"dependence on major titles\", though expectations for Wo Long 2 and Attack on Titan 3 are high",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/koei-tecmo-fiscal-year-2027-plans",
-          "summary": "Koei Tecmo has been on a roll recently, with heavy hitters like Nioh 3 and Dynasty Warriors: Origins elevating established IPs while surprising collaborations like Pok&eacute;mon Pokopia have become v",
-          "publishedAt": "2026-07-29T10:49:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Despite Magic's unprecedented success, Wizards of the Coast's president is already stepping down",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/wizards-of-the-coast-president-john-hight-stepping-down/",
-          "summary": "Wizards of the Coast president John Hight steps down from the role after two years, despite the huge financial success of Magic: The Gathering.",
-          "publishedAt": "2026-07-29T08:56:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Beat The “Razor Tax” With This Smooth OneBlade Deal at Amazon UK",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/philips-oneblade-intimate-blade-deals",
-          "summary": "These OneBlade attachments will help you shave comfortably all over, and for less.",
-          "publishedAt": "2026-07-29T08:00:00.000Z",
-          "tag": "News",
-          "_example": false
         }
       ]
     },
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-07-29T12:00:21.075Z",
+      "generatedAt": "2026-07-29T13:21:31.154Z",
       "items": [
-        {
-          "title": "X-Men '97 Season 2, Episode 7 Review & Recap: \"Strange Land, Savage Heart\"",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/x-men-97-season-2-episode-7-review-recap-strange-land-savage-heart",
-          "summary": "X-Men '97 somehow finds room to squeeze in a Colossus and Nightcrawler-focused episode before Season 2's endgame, and we couldn't be happier. Read our review of \"Strange Land, Savage Heart.\"",
-          "publishedAt": "2026-07-29T08:38:05.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "The Devil’s Mouth review: Prime Video’s killer-shark movie goes deeper than expected",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/devils-mouth-movie-review-amazon-shark-horror/",
-          "summary": "Lana Condor and Kathryn Newton star as codependent best friends whose Thailand vacation takes a deadly turn.",
-          "publishedAt": "2026-07-29T04:00:15.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Batman: Caped Crusader season 2 review: Even a perfect Joker can't save this show",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/batman-caped-crusader-season-2-review/",
-          "summary": "The spiritual successor to Batman: The Animated series delivers a few standout episodes, but doesn't live up to its ambitions",
-          "publishedAt": "2026-07-28T18:40:40.000Z",
-          "tag": "Review",
-          "_example": false
-        },
         {
           "title": "Alienware 34 AW3426DW review",
           "source": "PC Gamer",
@@ -165,22 +138,13 @@
           "publishedAt": "2026-07-28T15:11:42.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Batman: Caped Crusader Season 2 Review - Darker, Deadlier, but Still Flawed",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/batman-caped-crusader-season-2-review-darker-deadlier-but-still-flawed",
-          "summary": "Batman: Caped Crusader makes some storytelling missteps in Season 2, but it still delivers a fun blend of detective noir and deep psychological portraits of Batman’s many allies and enemies.",
-          "publishedAt": "2026-07-28T16:00:00.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-07-29T12:00:21.075Z",
+      "generatedAt": "2026-07-29T13:21:31.154Z",
       "items": [
         {
           "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
@@ -199,32 +163,68 @@
           "publishedAt": "2026-07-29T07:00:12.000Z",
           "tag": "Preview",
           "_example": false
-        },
-        {
-          "title": "First Look at Three Cards From The Hobbit's New Magic: The Gathering Crossover",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/first-look-at-three-cards-from-the-hobbits-new-magic-the-gathering-crossover",
-          "summary": "How could Magic return to Middle-earth without a legendary map?",
-          "publishedAt": "2026-07-28T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Dexter: Resurrection Season 2 First Look Teases Return of Quinn, New Kills, and More",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/dexter-resurrection-season-2-first-look-teases-return-of-quinn-new-kills-and-more",
-          "summary": "The first official look at Dexter: Resurrection Season 2 has been released, and it seems like Dex will be reckoning with his past once again.",
-          "publishedAt": "2026-07-28T17:23:00.000Z",
-          "tag": "Preview",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-07-29T12:00:21.075Z",
+      "generatedAt": "2026-07-29T13:21:31.154Z",
       "items": [
+        {
+          "title": "Wuchang: Fallen Feathers sequel in the works from original director's new studio, which bears the wonderful name Indolphinity",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wuchang-fallen-feathers-sequel-in-the-works-from-original-directors-new-studio-which-bears-the-wonderful-name-indolphinity",
+          "summary": "Chinese soulslike Wuchang: Fallen Feathers is getting a sequel, set to be developed by a new studio helmed by the first game's director. Rather than original studio Lenzee, the new Wuchang entry's bei",
+          "publishedAt": "2026-07-29T11:01:30.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Blizzard's former Battle.net lead is moving his expertise over to the Epic Games Store to 'elevate player, creator, and developer experiences'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/blizzards-former-battle-net-lead-is-moving-his-expertise-over-to-the-epic-games-store-to-elevate-player-creator-and-developer-experiences/",
+          "summary": "At least Battle.net doesn't actively aggravate me.",
+          "publishedAt": "2026-07-29T11:15:29.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Linux kernel patch can boost the Steam Deck's 1% low frame rate by as much as 31% in early testing",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/linux-kernel-patch-can-boost-the-steam-decks-1-percent-low-frame-rate-by-as-much-as-31-percent-in-early-testing/",
+          "summary": "There's life in the old handheld yet.",
+          "publishedAt": "2026-07-29T11:16:35.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Subnautica 2 is responsible for Krafton's 'record second quarter performance' despite the messy legal battle and accusations of sabotage",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-responsible-for-kraftons-record-second-quarter-performance-despite-the-messy-legal-battle-and-accusations-of-sabotage/",
+          "summary": "But it's also come with a cost.",
+          "publishedAt": "2026-07-29T11:34:36.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "A Dragon Age Trilogy remaster probably won't happen as no one still employed at BioWare knows how the engine works, claims producer",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-age-trilogy-remaster-bioware-dont-know-engine",
+          "summary": "Former BioWare producer Mark Darrah believes a remaster of the original Dragon Age trilogy isn't likely to happen, as no one left working at the developer knows how the old engine works. Read more",
+          "publishedAt": "2026-07-29T11:11:51.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Krafton pledges to turn Subnautica into \"franchise IP\" after Subnautica 2 surpasses 5m sales in just 22 days",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/subnautica-2-franchise-ip-krafton-unknown-worlds-5m-sales",
+          "summary": "Following a year of acrimonious legal tussling and a settlement agreeing to pay bonuses to Unknown Worlds developers, Krafton has now pledged to turn the Subnautica series into a \"franchise IP\" amid c",
+          "publishedAt": "2026-07-29T11:41:16.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Pragmata 2 Likely After Sales Success, Publisher Capcom Says",
           "source": "IGN",
@@ -276,24 +276,6 @@
           "url": "https://www.pcgamer.com/games/fighting/marvel-tokons-developer-has-apologised-to-pc-players-for-the-betas-performance-issues-with-only-a-week-until-launch/",
           "summary": "But it still broke fighting game beta records on Steam.",
           "publishedAt": "2026-07-28T14:01:30.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "'Only the survival of our studio would make us consider such a painful action': Tim Schafer announces Double Fine layoffs just 3 weeks after Xbox cut it loose",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/only-the-survival-of-our-studio-would-make-us-consider-such-a-painful-action-tim-schafer-announces-double-fine-layoffs-just-3-weeks-after-xbox-cut-it-loose/",
-          "summary": "A total of 23 people have been put out of work.",
-          "publishedAt": "2026-07-28T19:35:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "As Destiny 2 is laid to rest, Warframe is experiencing 'massive growth,' studio boss says",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/as-destiny-2-is-laid-to-rest-warframe-is-experiencing-massive-growth-studio-boss-says/",
-          "summary": "Digital Extremes president Sheldon Carter says the studio was worried that Warframe had peaked, but these days it's doing better than ever.",
-          "publishedAt": "2026-07-28T20:19:58.000Z",
           "tag": "Industry",
           "_example": false
         }
