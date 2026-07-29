@@ -1,116 +1,116 @@
 {
-  "generated": "2026-07-29T18:21:49.531Z",
+  "generated": "2026-07-29T22:51:25.952Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-07-29T18:21:49.531Z",
+      "generatedAt": "2026-07-29T22:51:25.952Z",
       "items": [
         {
-          "title": "Stealth and armour placement rule supreme in Tyr, the new tank shooter from former Destiny and Valorant devs, with a public playtest now live",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/stealth-and-armour-placement-rule-supreme-in-tyr-the-new-tank-shooter-from-former-destiny-and-valorant-devs-with-a-public-playtest-now-live",
-          "summary": "Kaboom! A trailer has just landed in your inbox, blasting your laptop apart in a sputter of copper and fossilised breadcrumbs. You scan the horizon desperately with your binoculars, but there is no si",
-          "publishedAt": "2026-07-29T16:00:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Roguelite strategy spinoff Company of Heroes 3: Final Stand breathes fresh live into some of the series' oldest features",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roguelite-strategy-spinoff-company-of-heroes-3-final-stand-breathes-fresh-live-into-some-of-the-series-oldest-features",
-          "summary": "I&rsquo;d put my six-pounder anti-tank guns in the perfect position to halt the Tigers&rsquo; advance. The German tanks would have to cross the bridge, keeping them packed together, and the derailed t",
-          "publishedAt": "2026-07-29T17:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk TCG just revealed an overpowered card for Night City's most tragic Netrunner",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/cyberpunk-tcg-exclusive-card-reveal-alt-cunningham-welcome-to-night-city/",
-          "summary": "Polygon exclusively reveals Alt Cunningham: Mother of Daemons, a powerful new card that turns Cyberpunk TCG’s best defense into card advantage.",
-          "publishedAt": "2026-07-29T16:00:12.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The 10 best board games to play at Gen Con 2026",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/gen-con-best-board-games-play/",
-          "summary": "Must-try games at the biggest tabletop convention in North America include adaptations of Star Trek and The Lord of the Rings.",
-          "publishedAt": "2026-07-29T16:30:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Simpsons return to Fortnite with a surprise guest: John Wick",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/fortnite-the-simpsons-reload-springfield-john-wick-sprite/",
-          "summary": "The Simpsons Reload in Fortnite arrives July 30 with new John Wick items, including a Matt Groening style version of Keanu Reeves.",
-          "publishedAt": "2026-07-29T16:56:02.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Last of Us multiplayer mod has hit a 'big milestone' as it prepares for launch in September",
+          "title": "'What is it?' We snooped around in our favorite gaming characters' inventories: can you identify the weird stuff they're carrying?",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/the-last-of-us-multiplayer-mod-has-hit-a-big-milestone-as-it-prepares-for-launch-in-september/",
-          "summary": "If Sony won't grant me my wish, then creative fans will instead.",
-          "publishedAt": "2026-07-29T16:07:08.000Z",
+          "url": "https://www.pcgamer.com/games/what-is-it-we-snooped-around-in-our-favorite-gaming-characters-inventories-can-you-identify-the-stuff-theyre-carrying/",
+          "summary": "Like r/whatisit, but for games. See?",
+          "publishedAt": "2026-07-29T22:00:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The next game on GOG's preservation list would be your favourite ARPG if it hadn't released the same year as Diablo 2, and it's on sale now",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-next-game-on-gogs-preservation-list-would-be-your-favourite-arpg-if-it-hadnt-released-the-same-year-as-diablo-2-and-its-on-sale-now/",
-          "summary": "Opportunity NOX twice.",
-          "publishedAt": "2026-07-29T16:12:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill: Townfall takes place in 'the perfect storm'—a remote Scottish town that stands on the edge of the age of the internet",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-takes-place-in-the-perfect-storm-a-remote-scottish-town-that-stands-on-the-edge-of-the-age-of-the-internet/",
-          "summary": "The internet has been a pretty scary experience for me.",
-          "publishedAt": "2026-07-29T16:38:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "XBOX celebrates 25 years of play and returns to gamescom",
-          "source": "Microsoft AI Blog",
-          "url": "https://news.xbox.com/en-us/2026/07/28/xbox-gamescom-2026/",
-          "summary": "The post XBOX celebrates 25 years of play and returns to gamescom appeared first on Source .",
-          "publishedAt": "2026-07-29T16:45:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "‘I Have a Personal Vendetta Against Filler Content’ – How The Blood of Dawnwalker Makes Its Open World Feel Meaningful",
+          "title": "Kevin Feige 'Has Hope' That Spider-Man and Venom Will Finally Meet in the MCU",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-open-world-ign-first",
-          "summary": "Take a closer look at how developer The Blood of Dawnwalker developer Rebel Wolves made its open world meaningful through activity design and deep lore that rejects the idea of \"filler content\".",
-          "publishedAt": "2026-07-29T16:00:00.000Z",
+          "url": "https://www.ign.com/articles/kevin-feige-has-hope-that-spider-man-and-venom-will-finally-meet-in-the-mcu",
+          "summary": "Marvel President Kevin Feige has said he’s holding out hope that Spider-Man and Venom will one day have their long-awaited crossover in the MCU.",
+          "publishedAt": "2026-07-29T21:08:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nexus Mods Wants To Replace Modding Frustration With One-Click Simplicity",
+          "title": "Halo: Campaign Evolved On PC Has A Hidden Feature You Need A Mod To Access",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nexus-mods-wants-to-replace-modding-frustration-with-one-click-simplicity/",
-          "summary": "One of the best--and worst--things about PC gaming is the support for mods, allowing users to customize their games to an absurd degree. Installing a mod isn't always straightforward, and the more it ",
-          "publishedAt": "2026-07-29T15:16:04.000Z",
+          "url": "https://www.gamespot.com/articles/halo-campaign-evolved-on-pc-has-a-hidden-feature-you-need-a-mod-to-access/",
+          "summary": "This week, PlayStation 5 players were able to join their Xbox and PC counterparts for the first time in Halo: Campaign Evolved . Console gamers are able to use a classic Halo feature that the PC port ",
+          "publishedAt": "2026-07-29T21:12:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"The Case of the Golden Idol-style deduction meets The X-Files\": Former BioWare devs unveil supernatural detective game The Eventide",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-case-of-the-golden-idol-style-deduction-meets-the-x-files-former-bioware-devs-unveil-supernatural-detective-game-the-eventide",
-          "summary": "Remember that paranormal, protagonist-juggling adventure game in the works at Studio Reset, an indie outfit formed by former Mass Effect /Dragon's Age staffers? It&rsquo;s just been fully revealed as ",
-          "publishedAt": "2026-07-29T15:00:07.000Z",
+          "title": "A Skyrim username mistake sent a man to prison for over a year",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/skyrim-fus-ro-dah-username-prison-mistake-police-case/",
+          "summary": "For years, no one noticed a discrepancy in two usernames that referenced Bethesda's popular Elder Scrolls RPG",
+          "publishedAt": "2026-07-29T20:18:12.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'The Maw' skulls and terminal locations in Halo Campaign Evolved",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/halo-campaign-evolved-the-maw-skulls-terminal-locations-where-to-find/",
+          "summary": "A guide on where to find the three skulls and one terminal location during \"The Maw\" level in Halo: Campaign Evolved.",
+          "publishedAt": "2026-07-29T20:32:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Halo: Campaign Evolved restarts the Xbox vs. PlayStation console war",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/halo-campaign-evolved-gun-accuracy-debate/",
+          "summary": "Halo: Campaign Evolved remake players say the assault rifle is slightly less accurate on PS5 compared to Xbox, sparking debates.",
+          "publishedAt": "2026-07-29T20:50:38.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Steam Machine reservation queue should be caught up by the end of 2026, Valve says",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says/",
+          "summary": "Whether this is good news or bad news is a matter of individual perspective.",
+          "publishedAt": "2026-07-29T19:30:57.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Nintendo Switch 2 Drops to Just £364 in Today's Best UK Deals",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-switch-2-drops-to-just-364-in-todays-best-uk-deals",
+          "summary": "Grab the Nintendo Switch 2 for just £364 at Amazon UK before potential price hikes, plus top daily deals on LEGO, Marvel's Wolverine, and Philips shavers.",
+          "publishedAt": "2026-07-29T18:49:32.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Guillermo del Toro Says He Plays Angry Birds ‘Every Day’ of His Life",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/guillermo-del-toro-says-he-plays-angry-birds-every-day-of-his-life",
+          "summary": "Speaking with IGN as part of our IGN30 Icon Series, Guillermo del Toro opened up about his favorite games — and while he gushed about many, one definitely stood out from the rest.",
+          "publishedAt": "2026-07-29T19:03:26.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Save $3,400 Off the 77\" LG Evo M-Series 4K OLED TV With Wireless Connectivity",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/77-lg-evo-m3-4k-oled-tv-deal-july-2026",
+          "summary": "Premium Gallery-series OLED panel and no cables to the TV except for power.",
+          "publishedAt": "2026-07-29T19:10:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-is-pushing-for-a-physical-edition-but-nothing-has-been-decided",
+          "summary": "There's a chance that Final Fantasy 7 Revelation may not have a physical edition, but the director of the game is actively pushing to avoid that.",
+          "publishedAt": "2026-07-29T19:17:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Steam Machine is Better For Me Than the PS5 or Xbox Series X",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-steam-machine-is-better-for-me-than-the-ps5-or-xbox-series-x",
+          "summary": "The Steam Machine has been around for a month now, and it has perfectly settled into my daily gaming habits. Now, I can't imagine life without it.",
+          "publishedAt": "2026-07-29T19:52:43.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,7 +119,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-07-29T18:21:49.531Z",
+      "generatedAt": "2026-07-29T22:51:25.952Z",
       "items": [
         {
           "title": "Cooler Master V8 Ace 3DHP review",
@@ -142,35 +142,19 @@
       ]
     },
     {
-      "id": "preview",
-      "title": "Previews",
-      "generatedAt": "2026-07-29T18:21:49.531Z",
-      "items": [
-        {
-          "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/silent-hill-townfall-might-be-exactly-what-the-series-needs-ign-preview",
-          "summary": "Silent Hill: Townfall being in first-person definitely sparked the thought of what P.T. could have been, because my time with Townfall showed that the more intimate interaction with the environment ca",
-          "publishedAt": "2026-07-29T07:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill Townfall preview: already one of 2026’s most terrifying games",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/silent-hill-townfall-preview-demo/",
-          "summary": "Silent Hill: Townfall, developed by Screen Burn and published by Konami, lives up to the series' reputation in a three-hour demo",
-          "publishedAt": "2026-07-29T07:00:12.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
-    },
-    {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-07-29T18:21:49.531Z",
+      "generatedAt": "2026-07-29T22:51:25.952Z",
       "items": [
+        {
+          "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/latest-palworld-patch-keeps-victor-and-shadowbeak-from-accidentally-teleporting-out-of-existence-prevents-panthalus-from-breaking-everything/",
+          "summary": "Palworld's bosses should be a bit more predictable.",
+          "publishedAt": "2026-07-29T20:04:17.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
           "source": "PC Gamer",
@@ -267,15 +251,6 @@
           "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-responsible-for-kraftons-record-second-quarter-performance-despite-the-messy-legal-battle-and-accusations-of-sabotage/",
           "summary": "But it's also come with a cost.",
           "publishedAt": "2026-07-29T11:34:36.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "A Dragon Age Trilogy remaster probably won't happen as no one still employed at BioWare knows how the engine works, claims producer",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-age-trilogy-remaster-bioware-dont-know-engine",
-          "summary": "Former BioWare producer Mark Darrah believes a remaster of the original Dragon Age trilogy isn't likely to happen, as no one left working at the developer knows how the old engine works. Read more",
-          "publishedAt": "2026-07-29T11:11:51.000Z",
           "tag": "Industry",
           "_example": false
         }
