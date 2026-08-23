@@ -1,116 +1,116 @@
 {
-  "generated": "2026-07-29T22:51:25.952Z",
+  "generated": "2026-08-22T21:39:19.422Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-07-29T22:51:25.952Z",
+      "generatedAt": "2026-08-22T21:39:19.422Z",
       "items": [
         {
-          "title": "'What is it?' We snooped around in our favorite gaming characters' inventories: can you identify the weird stuff they're carrying?",
+          "title": "Gorgeous and hazy pixel art horror farming sim Neverway has been pushed to 2027, but you can at least have a gander at some of the NPCs you can smooch",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gorgeous-and-hazy-pixel-art-horror-farming-sim-neverway-has-been-pushed-to-2027-but-you-can-at-least-have-a-gander-at-some-of-the-npcs-you-can-smooch",
+          "summary": "Sorry folks, some bad news: Neverway , the horror life sim and RPG combo from one of the artists behind Celeste and the composer of Fez , has been delayed into 2027. While it never had an exact releas",
+          "publishedAt": "2026-08-22T17:16:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
+          "summary": "Look, I love a PS1 horror throwback as much as the next whatever Gonzo is , but they don't all have to look like Silent Hill or Resident Evil, do they? There have been some aesthetic divergences in th",
+          "publishedAt": "2026-08-22T20:34:41.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Destiny 2's Slow, Painful Death Removes a Critical Third Space for Gamers",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/destiny-2-live-service-end-mactics-interview/",
+          "summary": "Destiny 2 content creator Mactics reflects on how Bungie’s game helped keep him and his future wife together through four years of long distance.",
+          "publishedAt": "2026-08-22T15:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Celebrate the SNES's 35th Birthday With the 5 Weirdest Switch Online Games",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/snes-hidden-gems-switch-online/",
+          "summary": "The SNES library on Switch Online is full of classics, but equally full of hidden retro gems. These are five of the best",
+          "publishedAt": "2026-08-22T16:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "5 Sci-Fi Shows That Are Perfect From Start to Finish",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/sci-fi-shows-best-perfect-run/",
+          "summary": "These acclaimed sci-fi shows have become the gold standard for the genre.",
+          "publishedAt": "2026-08-22T17:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Marvel's Best Mobile Game Is About To Get Its Most Requested Feature",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/marvel-snap-draft-mode/",
+          "summary": "Marvel Snap's long-awaited Draft mode finally arrives on Monday",
+          "publishedAt": "2026-08-22T17:18:45.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Diablo 3 Is Still the Best Diablo and I Will Die On This Hill, 14 Years Later",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/diabo-3-best-xbox-game-pass/",
+          "summary": "More welcoming than Diablo 2 and less bloated than Diablo 4, Blizzard's 2012 action RPG is also one of the best games on Xbox Game Pass",
+          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "27 Years Later, the Best 'Peanuts' Snoopy Quote Is Still in a League of Its Own",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-snoopy-quote-peanuts/",
+          "summary": "Snoopy's \"Keep looking up\" quote is the beloved beagle's best Peanuts moment.",
+          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "7 Years Later, the Best Outer Wilds Quote Hits Harder Than Ever",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/outer-wilds-be-curious-on-your-journey/",
+          "summary": "\"Be curious on your journey\" sounds like gentle advice — until you realize Outer Wilds built an entire game around ignoring the \"gentle\" part",
+          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This mod transforms Doom into a terrifying tactical shooter, and it's partly inspired by another PC gaming classic",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/what-is-it-we-snooped-around-in-our-favorite-gaming-characters-inventories-can-you-identify-the-stuff-theyre-carrying/",
-          "summary": "Like r/whatisit, but for games. See?",
-          "publishedAt": "2026-07-29T22:00:46.000Z",
+          "url": "https://www.pcgamer.com/games/fps/this-mod-transforms-doom-into-a-terrifying-tactical-shooter-and-its-partly-inspired-by-another-pc-gaming-classic/",
+          "summary": "Blackout makes Doom slower, deadlier, and throws in a Crysis-style energy suit for good measure.",
+          "publishedAt": "2026-08-22T13:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Kevin Feige 'Has Hope' That Spider-Man and Venom Will Finally Meet in the MCU",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/kevin-feige-has-hope-that-spider-man-and-venom-will-finally-meet-in-the-mcu",
-          "summary": "Marvel President Kevin Feige has said he’s holding out hope that Spider-Man and Venom will one day have their long-awaited crossover in the MCU.",
-          "publishedAt": "2026-07-29T21:08:46.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Halo: Campaign Evolved On PC Has A Hidden Feature You Need A Mod To Access",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/halo-campaign-evolved-on-pc-has-a-hidden-feature-you-need-a-mod-to-access/",
-          "summary": "This week, PlayStation 5 players were able to join their Xbox and PC counterparts for the first time in Halo: Campaign Evolved . Console gamers are able to use a classic Halo feature that the PC port ",
-          "publishedAt": "2026-07-29T21:12:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "A Skyrim username mistake sent a man to prison for over a year",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/skyrim-fus-ro-dah-username-prison-mistake-police-case/",
-          "summary": "For years, no one noticed a discrepancy in two usernames that referenced Bethesda's popular Elder Scrolls RPG",
-          "publishedAt": "2026-07-29T20:18:12.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'The Maw' skulls and terminal locations in Halo Campaign Evolved",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/halo-campaign-evolved-the-maw-skulls-terminal-locations-where-to-find/",
-          "summary": "A guide on where to find the three skulls and one terminal location during \"The Maw\" level in Halo: Campaign Evolved.",
-          "publishedAt": "2026-07-29T20:32:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Halo: Campaign Evolved restarts the Xbox vs. PlayStation console war",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/halo-campaign-evolved-gun-accuracy-debate/",
-          "summary": "Halo: Campaign Evolved remake players say the assault rifle is slightly less accurate on PS5 compared to Xbox, sparking debates.",
-          "publishedAt": "2026-07-29T20:50:38.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Steam Machine reservation queue should be caught up by the end of 2026, Valve says",
+          "title": "2XKO's shutdown has me feeling glum about Riot's future MMO—because I don't think the genre can survive corporate cut-and-run tactics",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says/",
-          "summary": "Whether this is good news or bad news is a matter of individual perspective.",
-          "publishedAt": "2026-07-29T19:30:57.000Z",
+          "url": "https://www.pcgamer.com/games/mmo/2xkos-shutdown-has-me-feeling-glum-about-riots-future-mmo-because-i-dont-think-the-genre-can-survive-corporate-cut-and-run-tactics/",
+          "summary": "2XKO was losing money, but that doesn't mean it wasn't worth it.",
+          "publishedAt": "2026-08-22T15:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Switch 2 Drops to Just £364 in Today's Best UK Deals",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/nintendo-switch-2-drops-to-just-364-in-todays-best-uk-deals",
-          "summary": "Grab the Nintendo Switch 2 for just £364 at Amazon UK before potential price hikes, plus top daily deals on LEGO, Marvel's Wolverine, and Philips shavers.",
-          "publishedAt": "2026-07-29T18:49:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Guillermo del Toro Says He Plays Angry Birds ‘Every Day’ of His Life",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/guillermo-del-toro-says-he-plays-angry-birds-every-day-of-his-life",
-          "summary": "Speaking with IGN as part of our IGN30 Icon Series, Guillermo del Toro opened up about his favorite games — and while he gushed about many, one definitely stood out from the rest.",
-          "publishedAt": "2026-07-29T19:03:26.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Save $3,400 Off the 77\" LG Evo M-Series 4K OLED TV With Wireless Connectivity",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/77-lg-evo-m3-4k-oled-tv-deal-july-2026",
-          "summary": "Premium Gallery-series OLED panel and no cables to the TV except for power.",
-          "publishedAt": "2026-07-29T19:10:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-is-pushing-for-a-physical-edition-but-nothing-has-been-decided",
-          "summary": "There's a chance that Final Fantasy 7 Revelation may not have a physical edition, but the director of the game is actively pushing to avoid that.",
-          "publishedAt": "2026-07-29T19:17:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Steam Machine is Better For Me Than the PS5 or Xbox Series X",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-steam-machine-is-better-for-me-than-the-ps5-or-xbox-series-x",
-          "summary": "The Steam Machine has been around for a month now, and it has perfectly settled into my daily gaming habits. Now, I can't imagine life without it.",
-          "publishedAt": "2026-07-29T19:52:43.000Z",
+          "title": "The first physical PC game I remember playing shows what Sony is thoughtlessly destroying",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/the-first-physical-pc-game-i-remember-playing-shows-what-sony-is-thoughtlessly-destroying/",
+          "summary": "Me and a bunch of big-box PC games are going to go full boomer or prove a very important point.",
+          "publishedAt": "2026-08-22T16:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,32 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-07-29T22:51:25.952Z",
+      "generatedAt": "2026-08-22T21:39:19.422Z",
       "items": [
         {
-          "title": "Cooler Master V8 Ace 3DHP review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/cooling/cooler-master-v8-ace-3dhp-review/",
-          "summary": "Proving air coolers are still cool in 2026.",
-          "publishedAt": "2026-07-29T14:06:14.000Z",
+          "title": "STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
+          "summary": "Like the technical fix-uppery of the 2.0 update it&rsquo;s launching alongside, STALKER 2: Heart of Chornobyl &rsquo;s Cost of Hope expansion arrives with a determinedly furrowed brow; that kind of en",
+          "publishedAt": "2026-08-19T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "The Relic: First Guardian Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-relic-first-guardian-review",
-          "summary": "The true dark fantasy of The Relic: First Guardian is all of the potential it squanders; an energetic action game marred by its own shambolic state and broken in too many inexcusable ways.",
-          "publishedAt": "2026-07-29T15:00:25.000Z",
+          "title": "Metal Gear Solid 4: Guns of the Patriots review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/metal-gear-solid-4-guns-of-the-patriots-review/",
+          "summary": "The new best way to play Kojima's strangest sequel.",
+          "publishedAt": "2026-08-21T07:01:43.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Creative XF1 speaker review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
+          "summary": "A small but mighty package.",
+          "publishedAt": "2026-08-21T10:03:11.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,113 +153,104 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-07-29T22:51:25.952Z",
+      "generatedAt": "2026-08-22T21:39:19.422Z",
       "items": [
         {
-          "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/latest-palworld-patch-keeps-victor-and-shadowbeak-from-accidentally-teleporting-out-of-existence-prevents-panthalus-from-breaking-everything/",
-          "summary": "Palworld's bosses should be a bit more predictable.",
-          "publishedAt": "2026-07-29T20:04:17.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-classics-latest-patch-is-terrorizing-hardcore-players-with-bugged-piles-of-underground-enemies-and-its-likely-due-to-a-decades-old-quirk-of-blizzard-programming/",
-          "summary": "The Stonetalon Mountains are up to their old tricks again.",
-          "publishedAt": "2026-07-29T16:39:12.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
-          "summary": "Pokémon Pokopia will unlock underwater gameplay next week as part of a free update, alongside the launch of the game's first expansion.",
-          "publishedAt": "2026-07-29T14:19:33.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/5-years-later-cool-cyberpunk-shooter-the-ascent-is-getting-a-major-update-and-it-sounds-like-a-sequel-is-in-the-works",
-          "summary": "The Ascent is set for a surprise major update to coincide with the game’s fifth anniversary — and it sounds like a sequel is on the way.",
-          "publishedAt": "2026-07-29T14:50:49.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Soulslike game Wuchang is officially getting a sequel developed by its creator's new studio after the original team reportedly disbanded",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/soulslike-game-wuchang-is-officially-getting-a-sequel-developed-by-its-creators-new-studio-after-the-original-team-reportedly-disbanded/",
-          "summary": "\"Wuchang's story is far from over.\"",
-          "publishedAt": "2026-07-29T13:43:33.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Pokémon Pokopia's Bubbly Basin DLC and underwater-themed free update is coming as soon as next week",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pokemon-pokopia-bubbly-basin-dlc-date",
-          "summary": "Update 2:19pm: Nintendo has just released a seven-minute trailer confirming the 5th August release date and giving players an overview of the content and new mechanics included in Bubbly Basin. A seco",
-          "publishedAt": "2026-07-29T13:02:42.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pubg-ip-continued-growth-25-percent",
-          "summary": "PUBG , once the biggest multiplayer game on PC, has quietly continued to do very well. Though it may no longer make the headlines, it remains a constant sight in Steam's top five most played games , t",
-          "publishedAt": "2026-07-29T13:56:53.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Wuchang: Fallen Feathers sequel in the works from original director's new studio, which bears the wonderful name Indolphinity",
+          "title": "\"Buying any of our games helps support the studio\": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wuchang-fallen-feathers-sequel-in-the-works-from-original-directors-new-studio-which-bears-the-wonderful-name-indolphinity",
-          "summary": "Chinese soulslike Wuchang: Fallen Feathers is getting a sequel, set to be developed by a new studio helmed by the first game's director. Rather than original studio Lenzee, the new Wuchang entry's bei",
-          "publishedAt": "2026-07-29T11:01:30.000Z",
+          "url": "https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the-studio-psychonauts-studio-double-fine-are-the-latest-former-xbox-owned-studio-to-get-the-rights-to-their-games-back",
+          "summary": "Earlier this week, South of Midnight developer Compulsion Games shared word that they now own all of the publishing rights to their games , a welcome update in light of the ongoing BDS boycott against",
+          "publishedAt": "2026-08-22T16:18:43.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "AMD launches the RX 9050, and it's even more entry-level than expected - update: it's $279 and limited to certain regions",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-launches-the-rx-9050-and-its-even-more-entry-level-than-expected/",
-          "summary": "Oh, and the 4 GB version is OEM-only.",
-          "publishedAt": "2026-07-29T11:07:53.000Z",
+          "title": "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
+          "summary": "Infinity Ward has deployed the first proper update to the Modern Warfare 4 beta , addressing a chunk of the feedback from the beta's opening day, including footstep audio, weapon lethality, and map vo",
+          "publishedAt": "2026-08-22T16:11:35.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Blizzard's former Battle.net lead is moving his expertise over to the Epic Games Store to 'elevate player, creator, and developer experiences'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/blizzards-former-battle-net-lead-is-moving-his-expertise-over-to-the-epic-games-store-to-elevate-player-creator-and-developer-experiences/",
-          "summary": "At least Battle.net doesn't actively aggravate me.",
-          "publishedAt": "2026-07-29T11:15:29.000Z",
+          "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
+          "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
+          "publishedAt": "2026-08-22T11:16:33.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Linux kernel patch can boost the Steam Deck's 1% low frame rate by as much as 31% in early testing",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/linux-kernel-patch-can-boost-the-steam-decks-1-percent-low-frame-rate-by-as-much-as-31-percent-in-early-testing/",
-          "summary": "There's life in the old handheld yet.",
-          "publishedAt": "2026-07-29T11:16:35.000Z",
+          "title": "\"Without us, Bethesda games aren’t Bethesda games\": Rallies against Microsoft layoffs at Elder Scrolls studio continue, with unionised devs' morale \"on the upswing\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/without-us-bethesda-games-arent-bethesda-games-rallies-against-microsoft-layoffs-at-elder-scrolls-studio-continue-with-unionised-devs-morale-on-the-upswing",
+          "summary": "Yesterday, August 18th, further union rallies against Microsoft's mass layoffs across Xbox studios were held across North America. As the One Bethesda Game Studio (OneBGS) union and the Communication ",
+          "publishedAt": "2026-08-19T11:30:00.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Subnautica 2 is responsible for Krafton's 'record second quarter performance' despite the messy legal battle and accusations of sabotage",
+          "title": "\"Through the looking glass\": as Arkane fight for their future, Dishonored veteran Harvey Smith reveals new studio dedicated to immersive sims",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/through-the-looking-glass-as-arkane-fight-for-their-future-dishonored-veteran-harvey-smith-reveals-new-studio-dedicated-to-immersive-sims",
+          "summary": "Days after Deus Ex director Warren Spector announced that he was quitting the business , another former Ion Storm developer, Harvey Smith, has revealed Black Pony Immersive - a new studio dedicated to",
+          "publishedAt": "2026-08-19T13:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games",
+          "summary": "I don&rsquo;t begrudge anyone who&rsquo;s waited to try STALKER 2: Heart of Chornobyl until it got its technical defects fixed. They&rsquo;re still wrong, obviously - an absorbing and eerily atmospher",
+          "publishedAt": "2026-08-19T13:30:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Amid accusations of a post-beta difficulty bump, Mortal Shell 2 devs patch the new soulslike to stop players riposting so hard they steal enemy weapons",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons",
+          "summary": "Belated congratulations to everybody who correctly guessed that Mortal Shell 2 was the mystery game our guides team were raving about a couple of weeks ago. You'll hopefully have read Jeremy's glowing",
+          "publishedAt": "2026-08-19T14:16:46.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Mortal Shell 2's first balance patch makes its in-game economy a lot more lenient and nerfs some enemies and bosses for a smoother ride",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mortal-shell-2s-first-balance-patch-makes-its-in-game-economy-a-lot-more-lenient-and-nerfs-some-enemies-and-bosses-for-a-smoother-ride",
+          "summary": "Heavy is the burden of being a game developer, as even as a game launches, there is always still work to be done. Mortal Shell 2 is out today, and while it generally seems to be doing quite well for i",
+          "publishedAt": "2026-08-20T21:53:50.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Famed Studio Is Officially Making a Comeback After Xbox Layoffs",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/double-fine-kickstarter-xbox-layoffs/",
+          "summary": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game.",
+          "publishedAt": "2026-08-21T19:48:49.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Someone has managed to run Zork on the Steam Controller's internal hardware, but it's risky business",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-responsible-for-kraftons-record-second-quarter-performance-despite-the-messy-legal-battle-and-accusations-of-sabotage/",
-          "summary": "But it's also come with a cost.",
-          "publishedAt": "2026-07-29T11:34:36.000Z",
+          "url": "https://www.pcgamer.com/hardware/controllers/someone-has-managed-to-run-zork-on-the-steam-controllers-internal-hardware-but-its-risky-business/",
+          "summary": "And not the Tom Cruise kind, either.",
+          "publishedAt": "2026-08-21T13:24:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
+          "summary": "It also has a new Kickstarter campaign set to kickoff later this month.",
+          "publishedAt": "2026-08-21T21:05:18.000Z",
           "tag": "Industry",
           "_example": false
         }

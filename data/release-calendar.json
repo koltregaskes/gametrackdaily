@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-07-29T03:45:26.326Z",
+  "updatedAt": "2026-08-23T04:47:16.180Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -10,7 +10,7 @@
     "url": null
   },
   "defaultView": "month",
-  "defaultFocusMonth": "2026-07",
+  "defaultFocusMonth": "2026-08",
   "weekStartsOn": "monday",
   "densityRules": {
     "busy": 2,
@@ -641,1535 +641,26 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-320141",
-      "title": "Mistfall Hunter",
-      "date": "2026-07-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Mistfall Hunter is a third-person action PvPvE extraction RPG. Gear up for different classes, master combos and strategic skills, and face intense battles against monsters or players, solo or with teammates. Only a successful escape will secure your treasures."
-    },
-    {
-      "id": "igdb-game-304148",
-      "title": "Below, Rusted Gods",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You are the lifeline supporting an expedition into the unknown. Keep both yourself and your squad alive by interpreting instrument readings, explore the facilities, and uncover something ancient and eager to be born."
-    },
-    {
-      "id": "igdb-game-400104",
-      "title": "Truck-Kun Is Supporting Me From Another World?!",
-      "date": "2026-07-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Your truck is magic and you now owe a soul debt to the buff isekai elf girl living in your head. Run over pedestrians as Truck-kun, make deliveries, and defeat the Skeleton King across two worlds in this chaotic run-based anime driving game!"
-    },
-    {
-      "id": "igdb-game-354931",
-      "title": "Outclaw",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Ouclaw is a cosy minion-managing action adventure about herding cats. Play as Comet, a five eyed magic cat from space who commands mischievous shadow kittens called Shades.\n\nFight monsters, solve puzzles, collect treasure, and explore a galaxy of vibrant worlds.\n\nMorph your under"
-    },
-    {
-      "id": "igdb-game-397984",
-      "title": "Bills Must Be Paid",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A short active incremental game where you smash piggy banks to pay your bills. Collect coins, upgrade, and get debt free!"
-    },
-    {
-      "id": "igdb-game-325205",
-      "title": "MineGeon: Renegades",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Descend into Planet Paimo in MineGeon: Renegades, a chaotic multiplayer roguelite where you choose your renegade, delve into the minegeons, and battle unique enemies across diverse biomes. Fight, gather, improve, and die to uncover the secrets of Paimo and New Olympia."
-    },
-    {
-      "id": "igdb-game-279153",
-      "title": "Outfield",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Outfield is a horror/puzzle game in which you are trapped in a mysterious field of tall grass. Solve the puzzles, discover the secrets of the tall grass and survive the danger around you to hope to survive."
-    },
-    {
-      "id": "igdb-game-285697",
-      "title": "Scuttle",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Scuttle across the sands in an exhilarating musically charged adventure. Groove to the beat to jump and boost your way through treacherous dunes and risky seas in this mesmerizing 3D platformer with rhythm game elements."
-    },
-    {
-      "id": "igdb-game-388060",
-      "title": "Spellsy",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A cozy-but-clever word puzzle game where every move counts. Plan your path, chain tile effects, and clear the board in as few turns as possible. No timers, no pressure, just pure puzzlin’."
-    },
-    {
-      "id": "igdb-game-395584",
-      "title": "Ugoku Sushi Bar",
-      "date": "2026-07-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Become a sushi chef in a cozy Japanese conveyor belt sushi bar!\nPrepare sushi on your crafting table, serve quirky customers, learn new recipes, unlock fresh ingredients, upgrade your kitchen, and build relationships with your regular customers."
-    },
-    {
-      "id": "igdb-game-363341",
-      "title": "Leafy Corner",
-      "date": "2026-07-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run a cute little plant shop in this cozy and relaxing game. Grow, sell, and care for a variety of real-life plants, help customers find their dream plants, complete orders, and customize your cozy shop just the way you like!"
-    },
-    {
-      "id": "igdb-game-369765",
-      "title": "How Many Dudes?",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "How many dudes does it take to beat up 1000 toddlers? A gorilla? Twelve bears and a horse-sized duck? A GOD? Enter the Dude Ranch and find out."
-    },
-    {
-      "id": "igdb-game-167419",
-      "title": "Kusan: City of Wolves",
-      "date": "2026-07-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Kusan: City of Wolves is a high-octane hardcore top-down shooter where players fight through a brutal urban jungle ruled by gunfire and corruption to save Haru — a girl fitted with a city-grade atomic weapon."
-    },
-    {
-      "id": "igdb-game-397811",
-      "title": "Machine Party",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely."
-    },
-    {
-      "id": "igdb-game-366242",
-      "title": "Sudden Attack Zero Point",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Sudden Attack has been cherished for 20 years. Now, an endless journey begins. With its signature fast-paced combat and strategic gameplay rooted in classic bomb defusal, we've upgraded the graphics and introduced a gun customization system. Dive into action and discover a new le"
-    },
-    {
-      "id": "igdb-game-396199",
-      "title": "Blue Reflection Quartet",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cosmos converge, into one light. The emotional stories of magical Reflectors and the bonds they form. The entire BLUE REFLECTION series combined into one!"
-    },
-    {
-      "id": "igdb-game-137604",
-      "title": "Hyperstacks",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hyperstacks is a VR world of combat, parkour, logic-driven puzzles, memorable characters, and community-made levels.\nMeet its residents through quests and discover a growing library of player creations."
-    },
-    {
-      "id": "igdb-game-310761",
-      "title": "Lady Death Demonicron",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lady Death Demonicron is an all new side-scrolling, sword slicing, magic wielding, 15 level, multiplayer beat-em-up that takes the best aspects of the 1990's arcade classics - all mixed together with a killer 90's industrial-metal soundtrack!"
-    },
-    {
-      "id": "igdb-game-302037",
-      "title": "Rita",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Rita is a cozy adventure where a little chicklet solves word-based puzzles to transform the world around her. Follow her story across generations, meet her grandchicklet, and be a part of her legacy."
-    },
-    {
-      "id": "igdb-game-287620",
-      "title": "Truxton Extreme",
-      "date": "2026-07-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Truxton Extreme, which inherits the DNA from legendary arcade masterpiece Truxton, is a collaboration with manga artist and Toaplan alumni Junya Inoue."
-    },
-    {
-      "id": "igdb-game-358537",
-      "title": "Village in the Shade",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Enjoy quiet, countryside living in a Japanese village in this brand new farming sim! Just make sure you follow the rules—or else!"
-    },
-    {
-      "id": "igdb-game-388463",
-      "title": "Culdcept The First Saturn Tribute",
-      "date": "2026-07-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Culdcept series has captivated players worldwide. Now, the original masterpiece returns, enhanced with convenient new features.\n\nBuild your deck from over 300 types of cards and witness the dawn of a new battle among Cepter."
-    },
-    {
-      "id": "igdb-game-404118",
-      "title": "Midnight Moments",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A small, cyberpunk diorama-building game where you create cozy rain-soaked backstreets, glowing apartment blocks, or quiet neighbourhood corners. Decorate your designs with props and place citizens, crafting stories that bring your city to life. At your own pace. No goals. Just v"
-    },
-    {
-      "id": "igdb-game-301340",
-      "title": "Signy & Mino: Against All Gods",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Signy & Mino: Against All Gods is a new kind of combo RPG where you and your pup piece together flashy combos to dismantle a plethora of enemies! Discover your hidden powers as you find yourself hurtled into a conflict amongst the gods."
-    },
-    {
-      "id": "igdb-game-375516",
-      "title": "Ungodly",
-      "date": "2026-07-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "UnGodly is a dark fantasy RPG where visceral real-time combat meets collectible hero strategy. Build your roster, chain elemental powers through seamless team swapping, and forge bonds that unlock devastating synergies in a world on the edge of ruin."
-    },
-    {
-      "id": "igdb-game-396237",
-      "title": "Blue Reflection: Second Light",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A new release of Second Light included in the Blue Reflection quartet bundle. This release features eight additional characters from Ray and Sun who can join you in battle, as well as new quality of life features such as increased battle speed, faster movement speed while explori"
-    },
-    {
-      "id": "igdb-game-388444",
-      "title": "Console Archives: Doraemon",
-      "date": "2026-07-29",
-      "platforms": [
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
-      "id": "igdb-game-385681",
-      "title": "Flock of the Seraphim",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Adopt gun-wielding angels that help you exorcise waves demons in this horde survival roguelite. Gain power by purging depraved demonic enemies, collecting loot, and improving your flock to create unique builds of holy power. Do you have enough faith to survive?"
-    },
-    {
-      "id": "igdb-game-384122",
-      "title": "Senara: The Sacrament",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"SENARA: The Sacrament\" is a first-person survival horror aboard a ship. Uncover the truth while escaping fanatics and unspeakable horrors. In a place where blind faith and salvation intertwine, you’ll be forced to make choices that go far beyond survival."
-    },
-    {
-      "id": "igdb-game-331193",
-      "title": "Zoominoes",
-      "date": "2026-07-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Zoominoes is a tile based roguelite deckbuilder. Collect cute animals scoring points with crazy combos as you create the perfect zoo."
-    },
-    {
-      "id": "igdb-game-165397",
-      "title": "The Relic: First Guardian",
-      "date": "2026-07-30",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"Guardian, gather the pieces of the great relic and seal the void of darkness.\" In this action RPG, you embark on a heroic adventure to save the world in the dark as the last guardian. Start your journey as a guardian, gather pieces of great relic and close the void."
-    },
-    {
-      "id": "igdb-game-398638",
-      "title": "Corsair Cove",
-      "date": "2026-07-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build a sprawling pirate haven, raise a fleet to explore the high seas, and take on the Crown to keep the Age of Piracy alive! From ale to flintlock pistols, and from scallywags to swashbucklers, you’ll need to manage complex production chains and govern a rowdy crew to reign sup"
-    },
-    {
-      "id": "igdb-game-407506",
-      "title": "Froggle",
-      "date": "2026-07-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Froggle is a weirdly empowering, delightfully breakable (F)roguelite dungeon crawler!\n\nLive. Die. Ribbit. Inspired by Slay the Spire, Balatro, and Inscryption - if you like any of these, you'll probably like Froggle\n\nRich, unique, tactical turn-based combat. Basic initially; prog"
-    },
-    {
-      "id": "igdb-game-403466",
-      "title": "Knockout Battle",
-      "date": "2026-07-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Knockout Battle is a chaotic and fun multiplayer party game where up to 8 players clash in fully interactive sandbox arenas. The objective is simple yet endlessly entertaining: knock your friends out and hurl them into the void to secure victory!\nUnleash absolute mayhem with an a"
-    },
-    {
-      "id": "igdb-game-264793",
-      "title": "Parkside: Decayed Soul Manipulation",
-      "date": "2026-07-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Parkside is an FPS-Immersive Sim that chronicles the future of biomechanical subterfuge and suffering. Shoot, hack, and either save or sour the future of humanity in the dismally attractive and dystopian city of Abbotsford, California in the awful year of 2038. Will you serve the"
-    },
-    {
-      "id": "igdb-game-398427",
-      "title": "Paw Patrol: Dino World",
-      "date": "2026-07-30",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Join the PAW Patrol and Rex on colossal missions across Dino Island. Create roar-some looks, play minigames with friends and more."
-    },
-    {
-      "id": "igdb-game-390770",
-      "title": "Red the Cook",
-      "date": "2026-07-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Help Red the Cook chase his dream - quit his dull job and open the best restaurant in town! Balance time and resources, serve delicious dishes to every kind of customer - fluffy or not. Chop, fry, mix, and hustle your way through busy shifts in this cozy cooking simulator with a "
-    },
-    {
-      "id": "igdb-game-404056",
-      "title": "Onimusha: Dawn of Dreams",
-      "date": "2026-07-31",
-      "platforms": [
-        "PlayStation 4",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A port of Onimusha: Dawn of Dreams, enhanced with up-rendering, rewind, quick save, and custom video filters."
-    },
-    {
-      "id": "igdb-game-398967",
-      "title": "Chop Chop Inc.",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build your own furniture empire after getting fired from Furnox Corp . Chop down trees, process wood, automate your growing production lines and sell clever furniture sets for bonus cash. Explore a handcrafted world packed with weirdos, secrets and trees begging for violence."
-    },
-    {
-      "id": "igdb-game-347850",
-      "title": "Colorbound",
-      "date": "2026-07-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In Colorbound, color is more than just hue. As Anku, an Aymara boy with a unique gift, you’ll harness the power of color to shape the environment itself, uncovering hidden paths to navigate challenging and complex puzzles."
-    },
-    {
-      "id": "igdb-game-369043",
-      "title": "We, Junk Artists",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A \"collage-and-guess\" multiplayer game for up to 6 players. Enjoy collaging ordinary items into outside-the-box \"masterpieces,\" guess each other's creations, and unleash your wild imagination around the campfire. Here, everyone is an artist!"
-    },
-    {
-      "id": "igdb-game-272838",
-      "title": "Creepshow",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Get lost in a deliciously dark horror anthology. Inspired by Shudder’s Creepshow series, this point-and-click adventure has gone all kinds of wrong."
-    },
-    {
-      "id": "igdb-game-402733",
-      "title": "Keep It Up!",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Keep It Up! is a co-op slapstick physics game about keeping a balloon from touching the ground. You and up to three Facility test subjects scramble through chaotic obstacle rooms while slapping, jumping and colliding to keep the balloon up. Will you be able to Keep It Up!?"
-    },
-    {
-      "id": "igdb-game-407158",
-      "title": "Pop! Pachinko",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!"
-    },
-    {
-      "id": "igdb-game-398056",
-      "title": "All You Can Fish!",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "All You Can Fish is an active, relaxing incremental fishing adventure where every voyage matters, every upgrade counts, and every fish brings you one step closer to maritime legend."
-    },
-    {
-      "id": "igdb-game-374549",
-      "title": "Lugal: Bronze Age Survival Game",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A survival craft game with RTS elements. Build a base, become the leader of a tribe → village → city → state. Conquer neighboring settlements and become king."
-    },
-    {
-      "id": "igdb-game-397078",
-      "title": "The Comyths",
-      "date": "2026-07-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Stop, slow, and rewind time in a bullet-hell action game. The Comyths is a reality-bending character-driven game where you wield the fundamental forces of Space, Time, Matter, Life, Mind, and Void. Chase S-ranks, unlock art rewards, and uncover story logs."
-    },
-    {
-      "id": "igdb-game-309735",
-      "title": "Silly Suspects",
-      "date": "2026-08-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Silly Suspects is comical, Guess-Who detective mystery where you investigate ridiculous crimes in a weird, wacky, and whimsical world, and uncover the truth hiding beneath all the nonsense.\n\nWin over quirky characters by indulging their odd requests and solve bizarre puzzles to u"
-    },
-    {
-      "id": "igdb-game-404717",
-      "title": "Street Fighter 6: Year 4 - Yasmine",
-      "date": "2026-08-02",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hailing from the Philippines, Yasmine seeks to slice and dice her opponents in Eskrima, the national martial art of the country."
-    },
-    {
-      "id": "igdb-game-320975",
-      "title": "Anomaly President",
-      "date": "2026-08-02",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this presidential rogue-like action game, gather votes and run for presidency by day, then transform into a warrior to take down your enemies by night! Master unique skills to become a swordmaster, a cyber mage, or anything in between, and overthrow the ruthless president!"
-    },
-    {
-      "id": "igdb-game-348180",
-      "title": "Beast of Reincarnation",
-      "date": "2026-08-03",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In post-apocalyptic Japan, humanity’s last hope may rest with Emma and her loyal canine companion, Koo. Explore what it means to be human in Beast of Reincarnation, an expansive one-person, one-dog action RPG built around demanding, technical combat. What awaits at journey’s end?"
-    },
-    {
-      "id": "igdb-game-279624",
-      "title": "Big Walk",
-      "date": "2026-08-03",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game."
-    },
-    {
-      "id": "igdb-game-345575",
-      "title": "HellSlave II: Judgment of the Archon",
-      "date": "2026-08-03",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Heavens are done waiting. In this dark fantasy dungeon crawler RPG, the Archon descends to end the demon war once and for all. Make your stand in HellSlave II, more immersive, brutal, and customizable than ever. The reckoning begins now."
-    },
-    {
-      "id": "igdb-game-306843",
-      "title": "Korea. IL-2 Series",
-      "date": "2026-08-03",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Korea. IL-2 Series is a next-generation flight simulator set during the Korean War. Climb into the cockpit of early jet fighters and shape the outcome of legendary aerial battles."
-    },
-    {
-      "id": "igdb-game-380681",
-      "title": "Nature Minds",
-      "date": "2026-08-03",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Nature Minds is an action-adventure RPG where you play as Tareq, a young warrior chosen by the ancient Bracelet of Dilmun. As nature falters and forgotten realms awaken, Tareq discovers that the force behind the world’s disturbance is Gilgamesh—the immortal king who gained endles"
-    },
-    {
-      "id": "igdb-game-140375",
-      "title": "Akatori",
-      "date": "2026-08-04",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Help young Mako to save the world, while gracefully switching between two parallel dimensions in this fascinating metroidvania/slasher platformer! Explore the worlds full of magic and secrets, find friends and allies and try not to let the ancient God awake!"
-    },
-    {
-      "id": "igdb-game-276201",
-      "title": "Kill The Shadow",
-      "date": "2026-08-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In an alternate post-war divided city, players take on the role of Detective Lucas. Use your eloquence, intelligence, the ability to rewind time (or even violence) to investigate and deduce various bizarre cases, unraveling a shocking secret behind them. Justice or love? The deci"
-    },
-    {
-      "id": "igdb-game-347845",
-      "title": "Block Block Block",
-      "date": "2026-08-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Design your dream space! In this tiny cozy building game, stack and arrange uniquely shaped wooden blocks to craft charming dioramas. Design cozy bakeries, elegant living rooms or quirkiy studios, create beautiful spaces filled with warm and personality."
-    },
-    {
-      "id": "igdb-game-393983",
-      "title": "Gloopalaxy",
-      "date": "2026-08-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Collect and study strange aquatic creatures in Gloopalaxy! Discover new life forms called Gloops, build the perfect ecosystem to keep them happy, and learn fun facts about each species as you complete a variety of scientific missions."
-    },
-    {
-      "id": "igdb-game-347132",
-      "title": "Marvel Tokon: Fighting Souls",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Assemble your team of legendary Marvel characters in the ultimate 4v4 tag team fighter from PlayStation Studios, Arc System Works and Marvel Games.\nImmerse yourself in the Marvel universe like never before with an iconic roster of heroes and villains, authentic stages, and intuit"
-    },
-    {
-      "id": "igdb-game-380960",
-      "title": "ReStory",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customers, hear their stories, and see how your decisions impact both their lives and yo"
-    },
-    {
-      "id": "igdb-game-377917",
-      "title": "Iron Nest: Heavy Turret Simulator",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Iron Nest is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics, and gunlay the cannons to unleash devastating blows ⟹ Will you obey High Comman"
-    },
-    {
-      "id": "igdb-game-325171",
-      "title": "Capy Castaway",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Embark on a whimsical adventure with a capybara pup and a clever crow as they set off to find their way home! Sniff, dig, and fly as you explore a vibrant world brimming with wonder, challenges, and heartwarming friendships at every turn."
-    },
-    {
-      "id": "igdb-game-386539",
-      "title": "The Skin Stapler",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Skin Stapler is a retro-styled PSX grindhouse horror adventure set in the rotting, crime-soaked sprawl of Carrion City. Players follow jaded detective Dick Slater and his eager rookie partner Robbie Knox as they hunt a mysterious serial killer known only as The Skin Stapler."
-    },
-    {
-      "id": "igdb-game-377061",
-      "title": "Approximately Up",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build, crash, rebuild! Explore new planets with your fully modular spaceship made from whatever bolts together long enough to fly. Mount giant thrusters, annoying cables, and everything in between. Complete wild missions, face the dangers of space and argue with your crew!"
-    },
-    {
-      "id": "igdb-game-384126",
-      "title": "Dig, Dig, Die",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Online co-op horror for 1–6 players. Board a cursed flying ship, raid haunted graveyards for loot, and survive monsters that hear every sound. Beware of UFO abductions, grab boosters from vending machines, gamble in the onboard casino, and embrace pure chaos with friends in voice"
-    },
-    {
-      "id": "igdb-game-390221",
-      "title": "Uncanny Tales: The Watcher",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "2006. You become the new reserve caretaker. Patrol the territory in your rugged 4x4, check the phototraps, and monitor the area using surveillance cameras. But remember: you are not the only one watching."
-    },
-    {
-      "id": "igdb-game-396159",
-      "title": "Echobreaker",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A lightning-fast precision speedrunner where you pilot an armoured rig that can manipulate time itself. Every second matters, and going faster means risking everything."
-    },
-    {
-      "id": "igdb-game-384977",
-      "title": "Sovereign Tower",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny doesn’t go your way, keep turning back time, uncover secrets and rewrite fate a"
-    },
-    {
-      "id": "igdb-game-366345",
-      "title": "Spiritstead",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Spiritstead is a cozy life sim town building game where you care for a growing village full of cute little villagers."
-    },
-    {
-      "id": "igdb-game-397769",
-      "title": "Bonereader",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A card-based deckbuilder with dice mechanics. Executed in an electric chair, you awaken in a shamanic, mescaline-fueled Purgatory inspired by Castaneda and McCarthy, where you battle spirits in games of chance for a shot at rebirth."
-    },
-    {
-      "id": "igdb-game-410747",
-      "title": "Diaspora",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
-      "id": "igdb-game-405239",
-      "title": "Marvel Tokon: Fighting Souls - Ultimate Edition",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Edition includes:\n- MARVEL Tōkon: Fighting Souls\n- Year 1 Characters and Stage Pass² (Includes set of result screen character poses, four characters and one stage post-launch)\n- Howard the Duck (Lobby Avatar)\n- Cosmo (Lobby Pet)\n- Spider-Man “Advanced Suit 2.0” Costume\n- Storm Pu"
-    },
-    {
-      "id": "igdb-game-407021",
-      "title": "Mind Inc",
-      "date": "2026-08-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Mind Inc is a puzzle adventure inside the labyrinth of the mind. Gather scattered pieces of thought and restore forgotten memories."
-    },
-    {
-      "id": "igdb-game-305022",
-      "title": "Rogue Eclipse",
-      "date": "2026-08-06",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A spacefighter for the new age. Master your piloting prowess in an epic sci-fi setting, take down swarms of starfighters, merciless armadas and colossal behemoths in a roguelike campaign that spans the cosmos. Easy to learn, tricky to master, and impossible to put down."
-    },
-    {
-      "id": "igdb-game-400575",
-      "title": "Grain Rot",
-      "date": "2026-08-06",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Grain Rot is a horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close in. Make it back alive, then rebuild the Outpost to better your ch"
-    },
-    {
-      "id": "igdb-game-410664",
-      "title": "Grizzy & the Lemmings: Crazy Party",
-      "date": "2026-08-06",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Grizzy & The Lemmings: Crazy Party invites players young and old into the vibrant, colorful world of the beloved animated series. It's a festive, slapstick experience that's easy to pick up and impossible to put down, with up to 4 players on the same couch.\n\nStep into the paws of"
-    },
-    {
-      "id": "igdb-game-328103",
-      "title": "Backpack Boy",
-      "date": "2026-08-09",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Backpack Boy is off on one of his treks when he discovers a peculiar flashlight that changes the world around him. Explore a seemingly abandoned structure in this puzzle platformer built around mode-swapping."
-    },
-    {
-      "id": "igdb-game-411196",
-      "title": "Crosstalk",
-      "date": "2026-08-09",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Crosstalk is a game that takes place in a printed circuit board city that players build, which follows realistic electrical rules that will have to be dealt with in order to maintain city operations. It includes a sandbox mode (with optional co-op) and an adversarial mode, where "
-    },
-    {
-      "id": "igdb-game-358217",
-      "title": "Pax Autocratica",
-      "date": "2026-08-09",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In Pax Autocratica, shape a grand colony where every life bends to your will. Feel the weight of absolute power as you decree laws, then lead your squads in roguelite FPS battles from brutal skirmishes to large-scale battlefields and unite the Tyris System under your banner. Wish"
-    },
-    {
-      "id": "igdb-game-396343",
-      "title": "Project Looking Glass",
-      "date": "2026-08-09",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "1963. A classified experiment. A grieving mother. A signal that won't stop transmitting. Step through the Looking Glass — a first-person psychological horror told through the static of a Cold War-era apparatus that peers into places mankind was never meant to reach."
-    },
-    {
-      "id": "igdb-game-148270",
-      "title": "Agent 64: Spies Never Die",
-      "date": "2026-08-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Relive the golden era of gaming with a retro FPS that captures the essence of 90s console shooters. Embark on a thrilling journey of espionage and action, tackling various objectives while battling cutting-edge 64bit powered enemy AI. Enter a world where bullets and secrets colli"
-    },
-    {
-      "id": "igdb-game-358272",
-      "title": "Hellbound, Inc.",
-      "date": "2026-08-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "HELLBOUND INC is a hellish 2D platformer where you jump & carry packages to deliver against time, demons and HR. Play as an undead courier trapped in a fulfillment center recently purchased by Satan himself."
-    },
-    {
-      "id": "igdb-game-393931",
-      "title": "King's Well",
-      "date": "2026-08-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "King's Well is a steampunk-themed roguelite deckbuilder where players use high-stakes poker logic to power industrial machine combat.\n\nAfter a kingdom falls into ruin due to a gambling plague, the King casts the most notorious gamblers into The Well; a deep, industrial pit filled"
-    },
-    {
-      "id": "igdb-game-347856",
-      "title": "Ledgerbound",
-      "date": "2026-08-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The world may end, but more importantly: your job is on the line. Step onto the battlefield, befriend (and fall in love with) a ragtag crew of heroes, and go head-to-head against an immortal foe to protect the bureaucratic kingdom you love in this hilarious narrative-driven tacti"
-    },
-    {
-      "id": "igdb-game-344206",
-      "title": "The Cave Diver",
-      "date": "2026-08-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Crawl down a suffocating cave system using only your arms in this punishing physics-horror adventure. What morbid force is calling you deeper into the heart of the caves?"
-    },
-    {
-      "id": "igdb-game-376006",
-      "title": "Pro Jank Footy",
-      "date": "2026-08-11",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Pro Jank Footy is an over-the-top arcade comedy-sports game. Score goals to unleash game-changing power-ups, build a deck of absurd abilities, and tackle a season where no two matches are ever the same—solo or with your mates."
-    },
-    {
-      "id": "igdb-game-386228",
-      "title": "Security 51",
-      "date": "2026-08-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You're a security officer deep within Area 51. Scan the staff, verify clearances, and decide who can enter the elevator and who absolutely mustn't leave. The deeper you go, the less certain you are that anyone standing before you is still human."
-    },
-    {
-      "id": "igdb-game-318170",
-      "title": "Verde",
-      "date": "2026-08-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build a small town of seedlets, mysterious seed like creatures in this cozy city builder. Build facilities, put up decorations, and help the seedlets thrive!"
-    },
-    {
-      "id": "igdb-game-310665",
-      "title": "Duskfade",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Duskfade is a colorful adventure in a world where the torments of the past haunt you. Battle against your memories in a dizzying dance to fade the shadows of the dusk."
-    },
-    {
-      "id": "igdb-game-380416",
-      "title": "Rivage",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Rivage is an immersive sci-fi puzzle adventure set aboard the A.R.E.S. space station trapped in a space phenomenon. Wake up as Miranda, forced to explore, solve intricate puzzles to unravel the fate of your missing crew."
-    },
-    {
-      "id": "igdb-game-362063",
-      "title": "Hell Let Loose: Vietnam",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step into the explosive fury of war with Hell Let Loose: Vietnam. Play a decisive role in one of the most iconic conflicts in history with expansive 50v50 player battles, where teamwork, tactics and an arsenal of destructive weapons combine to shape the battlefield in your favour"
-    },
-    {
-      "id": "igdb-game-335296",
-      "title": "Wild Blue Skies",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Wild Blue Skies reimagines the classic on-rail adventures of the '90s. Join Bowie Stray and the Blue Bombers as they soar through the skies on a mission to save the world in this action-packed, nostalgic journey!"
-    },
-    {
-      "id": "igdb-game-316836",
-      "title": "Low-Budget Repairs",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Manage renovations in 90s apartment blocks! Focus on quick profit and cut costs wherever possible. Client notices defects? Tough luck, the money's already in your pocket. Every day brings new challenges and decisions that can lead to fortune... or trouble!"
-    },
-    {
-      "id": "igdb-game-342028",
-      "title": "Clawed",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Embark on a covert mission to the dinosaur theme park Prehistoria, where you must explore the park's grounds to scavenge resources, solve puzzles, and fight your way through diverse biomes, underground tunnels and deadly enclosures. But beware, you are not the apex predator here."
-    },
-    {
-      "id": "igdb-game-394671",
-      "title": "Defender of the Crown: The Legend Returns",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The legendary medieval strategy adventure has returned - enhanced for a new generation of knights. Conquer provinces, raise armies, storm castles, and influence the balance of power through bold strategy and action moments."
-    },
-    {
-      "id": "igdb-game-350179",
-      "title": "Servant of the Lake",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Servant of the Lake is the new premium point-and-click adventure in the Rusty Lake series from the creators of the Cube Escape series, The Past Within and Underground Blossom."
-    },
-    {
-      "id": "igdb-game-285974",
-      "title": "Sandustry",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Sandustry is a mining and automation game with sand physics. Explore a destructible world, digging and demolishing. Build a sand-processing factory and expand your logistics network. Delve deeper into the mines, unlock new technologies, and discover an ancient civilization's secr"
-    },
-    {
-      "id": "igdb-game-397806",
-      "title": "Cairn: On the Trail",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "New climbing locations, fresh problems, same freedom to climb!"
-    },
-    {
-      "id": "igdb-game-400379",
-      "title": "Madden NFL 27",
-      "date": "2026-08-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run the league one decision at a time in EA Sports Madden NFL 27, powered by the all-new Persona Engine."
-    },
-    {
-      "id": "igdb-game-365108",
-      "title": "Memoirium",
-      "date": "2026-08-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Traverse a chaotic and crumbling realm of dreams composed of liminal spaces. Adapt to the world’s odd rules as a Dreamer, and defy others like you to escape the strange and eclectic subconscious landscape."
-    },
-    {
-      "id": "igdb-game-404700",
-      "title": "Mafia: The Old Country - Man of Honor",
-      "date": "2026-08-13",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Man of Honor expansion for Mafia: The Old Country features two new story chapters and added DLC for Free Ride mode. Players can step into the role of Enzo Favara and work alongside Ennio Salieri, a feared and respected mafioso, as he sets out to settle old scores."
-    },
-    {
-      "id": "igdb-game-338988",
-      "title": "Lootbound",
-      "date": "2026-08-13",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lootbound is a tactical roguelite with turn-based combat, loot management and D&D elements set in a dark fantasy world. Fight dangerous enemies, collect epic loot, recruit allies and lead them on a path of adventure."
-    },
-    {
-      "id": "igdb-game-382519",
-      "title": "Dino Party",
-      "date": "2026-08-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Fight your friends through a stadium full of chaotic minigames! Dino Party is a 2–4 player party brawler where you score goals, steal stars, dodge hazards, and settle every round with punches."
-    },
-    {
-      "id": "igdb-game-376689",
-      "title": "Static Dread: The Submarine",
-      "date": "2026-08-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Descend into Lovecraftian horror aboard a claustrophobic military submarine. Assign tasks as a captain’s right hand, analyze sonar signals, make hard decisions, and keep the crew from madness. Dark horrors lurk both within… and beyond the hull."
-    },
-    {
-      "id": "igdb-game-141273",
-      "title": "Tukoni: Forest Keepers",
-      "date": "2026-08-16",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tukoni: Forest Keepers is a cute and cozy puzzle adventure, based on a series of award-winning books by the Ukrainian artist Oksana Bula. Play as the forest spirit Tukoni as you meet unique characters, solve captivating puzzles, brew fragrant tea and explore a magical world fille"
-    },
-    {
-      "id": "igdb-game-403808",
-      "title": "Feed It",
-      "date": "2026-08-16",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A first-person, PSX-style horror game about living with a monster. Do as you're told... or don't. Just be ready for the consequences."
-    },
-    {
-      "id": "igdb-game-385757",
-      "title": "Excremental Game",
-      "date": "2026-08-16",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You're a little poop flushed away on a revenge mission to cover the world in poop! A chaotic incremental Poop-Shooter where bouncing poop earns points! Level up your poop, and unleash explosive, multi-poop madness!"
-    },
-    {
-      "id": "igdb-game-289696",
-      "title": "The Sinking City 2",
-      "date": "2026-08-17",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Sinking City 2 is a terrifying Lovecraftian journey, powered by Unreal Engine 5. Experience a heart-pounding survival horror as you explore the flooded city of Arkham and fight eldritch monsters beyond human comprehension."
-    },
-    {
-      "id": "igdb-game-269507",
-      "title": "Twisted Tower",
-      "date": "2026-08-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Bioshock meets Willy Wonka. Climb the Twisted Tower game show! Every deadly floor has a variety of paths to choose, horrifying enemies to slaughter, and clues about your dark past. Can you get to the top and win the heart of the love of your life?"
-    },
-    {
-      "id": "igdb-game-346991",
-      "title": "Exark",
-      "date": "2026-08-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Exark is an engine builder about building a city aboard a gigantic ark-ship. Construct buildings, staff them with crew members, and maximise your ark's resource production by exploiting powerful synergies. Lead your Great House to safety at the rim of the world."
-    },
-    {
-      "id": "igdb-game-397402",
-      "title": "Last Pirates: Die Together",
-      "date": "2026-08-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Last Pirates: Die Together is a cooperative pirate-themed horror game designed for up to 4 players. Join a loyal crew of scallywags on a high-stakes mission to scavenge mysterious islands and make your old captain rich."
-    },
-    {
-      "id": "igdb-game-379356",
-      "title": "Project P.I.T.T.",
-      "date": "2026-08-18",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Feed rubber ducks to a corporate void. Build physics contraptions. Chain combos for profit as the Maw grows hungrier... and larger. Brutalist PSX satire meets first-person sandbox chaos."
-    },
-    {
-      "id": "igdb-game-157093",
-      "title": "Tic-Tac: Twelve O’Clock",
-      "date": "2026-08-18",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tic-Tac: Twelve O’Clock is a survival horror game. Monitor corridors and rooms through surveillance cameras to counter vengeful ghosts. Keep the lights on, the generator charged, and fuses replaced… and don’t get caught!"
-    },
-    {
-      "id": "igdb-game-347633",
-      "title": "Mortal Shell II",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Their Flesh Is Your Weapon. Mortal Shell II is a standalone sequel action-RPG with adrenaline-charged, high-stakes combat. Possess warrior Shells, dethrone false gods, redeem a ravaged world."
-    },
-    {
-      "id": "igdb-game-278824",
-      "title": "The Witch's Bakery",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Witch’s Bakery is a 2D Adventure Puzzle game where you play as a joyful witch who opens a bakery in modern Paris.\n\nShe has a special power: she can heal emotions with her bread."
-    },
-    {
-      "id": "igdb-game-320972",
-      "title": "Steins;Gate Re:Boot",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "STEINS;GATE returns! Rebooted for the modern era! Featuring fully updated visuals, UI, and an all-new story that breathes new life into the streets of Akihabara."
-    },
-    {
-      "id": "igdb-game-396025",
-      "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The first major expansion for Heart of Chornobyl coming this summer, including a huge new storyline that can take dozens of hours to complete, two new regions, new and returning characters, and much more."
-    },
-    {
-      "id": "igdb-game-119625",
-      "title": "Brigador Killers",
-      "date": "2026-08-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Isometric insurgent simulator. Fight on foot and in vehicles, build and steal a private arsenal and bring the war home to the businessmen who started it all in this continuation of the Brigador saga."
-    },
-    {
-      "id": "igdb-game-361663",
-      "title": "Gallipoli",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Land on the battlefields of the Middle Eastern Front of World War 1! Gallipoli brings the most authentic WW1 FPS battles yet, with desert warfare, beach landings, historical classes and realistic weaponry."
-    },
-    {
-      "id": "igdb-game-375515",
-      "title": "Puppergeist",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as Claire, a witch who journeys into the mysterious Doggie Underworld with one simple goal: Finding her lost Pup!\n\nAs you travel through Doggie Underworld, you'll encounter countless souls, each with a story to tell. Share moments with them, play together, and listen to thei"
-    },
-    {
-      "id": "igdb-game-326325",
-      "title": "Vacation Cafe Simulator",
-      "date": "2026-08-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Italian Vacation Cafe ️ No timers, No stress cook traditional dishes upgrade and customize just drink prosecco, relax and grow your dream cafe"
-    },
-    {
-      "id": "igdb-game-347439",
-      "title": "Grim Trials",
-      "date": "2026-08-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Prove your worth. Hack and blast your way through the Grim Trials. Explore the (after)life of the Academy – a training ground for aspiring Grim Reapers. Befriend fellow Reapers, learn from your mentors, and uncover the secrets of your life and love before your death."
-    },
-    {
-      "id": "igdb-game-292519",
-      "title": "Cozy Marbles",
-      "date": "2026-08-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Marbles is a comfy game about building marble runs on a sunny afternoon. Using a huge range of bits and pieces, fit together the marble course you’ve always wanted to build and play with. Unwind to a lo-fi ASMR soundscape and roll with the nostalgia."
-    },
-    {
-      "id": "igdb-game-357285",
-      "title": "Fatal Train",
-      "date": "2026-08-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Murder on the train? It doesn't matter, it's no longer our concern! Ladies and gentlemen, don't worry, we have four detectives who can handle this! After all, there's nothing complicated about murder investigations, right?"
-    },
-    {
-      "id": "igdb-game-373593",
-      "title": "Lord of Mysteries",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lord of Mysteries is an upcoming RPG game based on web novel Lord of Mysteries officially licensed by Cuttlefish That Loves Diving."
-    },
-    {
-      "id": "igdb-game-342593",
-      "title": "Dwarrf: A Pinball Roguelike",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as a Dwarven 'Pirate' and set sail on your modified minecart into the depths of the mines. Fight enemies in a unique blend of Pinball, Pachinko, and Bubble Shooter whilst collecting game altering balls & relics that ensure no two runs are alike."
-    },
-    {
-      "id": "igdb-game-378143",
-      "title": "Vholume",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Vholume is a melancholic first-person parkour adventure set in a dystopian brutalist city where bureaucracy turns a simple task into an odyssey."
-    },
-    {
-      "id": "igdb-game-387817",
-      "title": "The Lantern of the Laughless Saint",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A solo or co-op RPG inspired by Morrowind. Drawn by a shared dream, you awaken on an isolated island crowned by a silent Tower. Unravel the mystery of the Laughless Saint, confront the weight of human desire, and decide what deserves to be saved when the light beneath the world f"
-    },
-    {
-      "id": "igdb-game-397378",
-      "title": "The Sorting Bureau",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A cozy sorting game set in a quiet Tokyo workshop. Clients bring you boxes of clutter: buttons, coins, gears, stamps. Sort, match, and piece everything together with satisfying ASMR clicks. No timers. No wrong answers. Just the joy of tidying up."
-    },
-    {
-      "id": "igdb-game-402873",
-      "title": "V.A.U.L.T Protocol",
-      "date": "2026-08-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Vault Protocol is a 1–6 player co-op horror game focused on extraction, communication, and chaos. Every run is different, every sound matters, and survival depends on your team."
-    },
-    {
-      "id": "igdb-game-389216",
-      "title": "Tekken 8: Bob",
+      "id": "igdb-game-338224",
+      "title": "America Against Ants",
       "date": "2026-08-23",
       "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
+        "Windows PC"
       ],
       "source": "IGDB",
-      "trackingState": "live-api"
+      "trackingState": "live-api",
+      "summary": "The year, 1951, the place, Nevada, USA. Take command of Task Force Sable and battle through 30 increasingly challenging missions to defeat giant, mutant ants as they swarm from atomic test sites in the desert. AAA features a unique, narrative driven blend of tower defence and rea"
+    },
+    {
+      "id": "igdb-game-398235",
+      "title": "Combolands",
+      "date": "2026-08-23",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A mini citybuilding roguelike. Place buildings, stack combos, and master deep strategy in short bursts to create a tiny thriving metropolis!"
     },
     {
       "id": "igdb-game-400824",
@@ -2242,15 +733,15 @@
       "summary": "You are a Monke beating up endless waves of office workers with brutal melee combat and ragdoll physics. Smash props for rare buffs, stack game-breaking items and compete on the Global Leaderboards in this aggressive action-roguelite."
     },
     {
-      "id": "igdb-game-333411",
-      "title": "Settler's Domain",
+      "id": "igdb-game-389622",
+      "title": "Sludgineers",
       "date": "2026-08-24",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Settler's Domain is a settlement-building game with citizen and resource management elements. Build structures, recruit settlers, gather resources, and explore your surroundings."
+      "summary": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, and unlock new areas and perks."
     },
     {
       "id": "igdb-game-375295",
@@ -2275,6 +766,28 @@
       "summary": "Welcome to the harsh and lawless world of the Wild West, where a mysterious fever called the 'Rye Fever' has turned the once-proud frontier into a lawless wasteland. In this world, survival is the only law, and you'll need to be tough, quick-witted, and deadly if you hope to make"
     },
     {
+      "id": "igdb-game-378548",
+      "title": "Woman Simulator",
+      "date": "2026-08-24",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Experience life as a woman - cleaning, cooking, laundry, and no time to rest. Full immersion into the world of everyday chaos!"
+    },
+    {
+      "id": "igdb-game-402163",
+      "title": "Luminous Jigsaw Puzzles",
+      "date": "2026-08-25",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Step away from the noise of the world and enter the enchanting realms of Luminous Ages. This isn't just a puzzle game; it’s a journey through a vibrant multiverse brought to life by the breathtaking, hand-illustrated gallery of renowned fantasy creator Anthony Christou.\n\nWrap you"
+    },
+    {
       "id": "igdb-game-389424",
       "title": "Brigandine Abyss",
       "date": "2026-08-25",
@@ -2297,6 +810,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Find My Frogs: Branches is a cozy hidden object game where you search for frogs and toads in a hand-drawn village nestled high in the branches of an ancient tree. Explore charming corners, discover tiny secrets, and help Uncle Froger find his missing hat."
+    },
+    {
+      "id": "igdb-game-391110",
+      "title": "States of Power",
+      "date": "2026-08-25",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lead your nation in this strategy wargame set during WWII. Build up the economy, command unit divisions and dominate the world, online or in singleplayer! Create custom and alternate history scenarios, simulate them or play as one of the nations."
     },
     {
       "id": "igdb-game-348168",
@@ -2411,6 +935,17 @@
       "summary": "Hyperdimension Neptunia!\nThe latest installment in the numbered series!\n\nThe Gamindustri world is facing an impending doom.\nWith the addition of a new goddess,\nEleven of them will face the giant meteorite together.\nA hopeful adventure woven by goddesses\nNow, the grand curtain ris"
     },
     {
+      "id": "igdb-game-217217",
+      "title": "Gawr Gura: Quest for Bread",
+      "date": "2026-08-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "An interdimensional, time-traveling, action-platforming adventure game featuring everyone's favorite shark."
+    },
+    {
       "id": "igdb-game-400492",
       "title": "Hyperdimension Neptunia Unlimited",
       "date": "2026-08-26",
@@ -2435,6 +970,17 @@
       "summary": "Divinum is an action-adventure that blends stylish, expressive combat with rewarding exploration. Master devastating combos and craft unique builds to fight back mysterious invaders and uncover your island’s hidden truth."
     },
     {
+      "id": "igdb-game-335257",
+      "title": "Fracture Point",
+      "date": "2026-08-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "After years in prison, you return to a dark megacity ruled by a ruthless corporation. The only way forward is up—through countless floors of a heavily guarded skyscraper—to reach the corporation's leader and take your revenge."
+    },
+    {
       "id": "igdb-game-388427",
       "title": "Captain Tsubasa II: World Fighters",
       "date": "2026-08-27",
@@ -2448,6 +994,28 @@
       "summary": "The next episode of Tsubasas riveting adventure is here! Enjoy the thrill of spectacular soccer actions with 110 playable characters and new sensational super moves. Challenge a friend in the field or support Tsubasa on his Journey, the ball is yours."
     },
     {
+      "id": "igdb-game-381679",
+      "title": "Inferno Protocol",
+      "date": "2026-08-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Trapped in a deadly labyrinth, you and 5 friends must scavenge, craft, and survive. Harvest monster parts for gear, inject experimental syringes to gain unique skills, and navigate trap-filled corridors. In this 6-player horror survival, you must evolve to escape."
+    },
+    {
+      "id": "igdb-game-365974",
+      "title": "Cyber Cleaner Simulator",
+      "date": "2026-08-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Vacuum space junk, polish derelict ships, and clear alien worlds of debris as you upgrade your high-tech cleaning gear."
+    },
+    {
       "id": "igdb-game-344991",
       "title": "Russian Survivors",
       "date": "2026-08-27",
@@ -2459,19 +1027,68 @@
       "summary": "Fight versus unlimited hordes of lizards and italian brainrot animals in post-soviet environment."
     },
     {
-      "id": "igdb-game-365465",
-      "title": "Dressmaker",
-      "date": "2026-08-31",
+      "id": "igdb-game-399073",
+      "title": "The Abandoned House in Yeongdeok",
+      "date": "2026-08-27",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers."
+      "summary": "She was sent to the abandoned house in Yeongdeok as part of a viewer punishment challenge. But the joke ended the moment the door slammed shut."
     },
     {
-      "id": "igdb-game-318625",
-      "title": "Kernel Hearts",
+      "id": "igdb-game-252870",
+      "title": "Breathedge 2",
+      "date": "2026-08-30",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Sent on a reckless mission, you find yourself in outer space filled with numerous dangers and things to explore. Build, craft, manage your crew, look after the chicken, and defeat the evil space corporation in this new breathtaking survival game."
+    },
+    {
+      "id": "igdb-game-396022",
+      "title": "Serious Sam: Shatterverse",
+      "date": "2026-08-30",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Serious Sam: Shatterverse is a co-op roguelite FPS for 1 - 5 players. Blast through shifting universes, stack wild boons, bend the rules with run modifiers, and hunt Mental's deadliest forces. Fall fast. Come back louder."
+    },
+    {
+      "id": "igdb-game-310761",
+      "title": "Lady Death Demonicron",
+      "date": "2026-08-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lady Death Demonicron is an all new side-scrolling, sword slicing, magic wielding, 15 level, multiplayer beat-em-up that takes the best aspects of the 1990's arcade classics - all mixed together with a killer 90's industrial-metal soundtrack!"
+    },
+    {
+      "id": "igdb-game-352990",
+      "title": "Sucker for Love: Crush Landing",
+      "date": "2026-08-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Put the ‘love’ in 'Lovecraftian horror!' When a captivating comet named Hheily crashes into your apartment, you are drawn into an interplanetary conflict between light and dark. Feed Hheily's fire to save the world in this horror-comedy visual novel… and maybe even win a smooch!"
+    },
+    {
+      "id": "igdb-game-389428",
+      "title": "Crimson Moon",
       "date": "2026-08-31",
       "platforms": [
         "Xbox Series X/S",
@@ -2480,7 +1097,18 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Gather your allies. Eliminate Angels. Transform into a Magical Girl. Slay god. Kernel Hearts is a Multiplayer Co-Op Roguelike Action RPG about four magical girls and their attempt to save a world that's drowning in ashes"
+      "summary": "A gothic action-adventure RPG of violent angels and dead gods."
+    },
+    {
+      "id": "igdb-game-405123",
+      "title": "Company of Heroes: Definitive Edition",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Company of Heroes – Definitive Edition, features the original Company of Heroes along with the Opposing Fronts and Tales of Valor Expansions, enhanced visuals, quality-of-life gameplay improvements, and 64-bit platform support."
     },
     {
       "id": "igdb-game-359893",
@@ -2495,17 +1123,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "HMUR is a fast-paced retro-FPS, in the original setting, that merges Soviet aesthetics with whacky madness and frantic dynamics of iconic 90s shooters. Survive a disaster at a classified Soviet facility as you blast your way through crowds of enemies. Speed is your key to surviva"
-    },
-    {
-      "id": "igdb-game-311611",
-      "title": "Isle of Reveries",
-      "date": "2026-08-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Make a pilgrimage skybound to the Isle of Reveries, where any wish can be granted. Conquer mysterious dungeons, solve head-scratching puzzles, and fight dangerous enemies in this retro-inspired action adventure."
     },
     {
       "id": "igdb-game-332391",
@@ -2541,19 +1158,6 @@
       "summary": "An interactive escape room game where your choices determine your fate. Right before a \"long holiday,\" you find yourself trapped in the office with beautiful women for unknown reasons. Collect clues, cooperate with them, and escape this place!"
     },
     {
-      "id": "igdb-game-378222",
-      "title": "Magical Blush",
-      "date": "2026-08-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Magical Blush is a top-down action-adventure where fast-paced elemental combat meets Metroidvania-style exploration. Chain spell combos, exploit elemental weaknesses, rescue survivors, and team up in local co-op as you battle the powerful Elemental Lords and explore the wondrous "
-    },
-    {
       "id": "igdb-game-355983",
       "title": "Otterly Lost",
       "date": "2026-08-31",
@@ -2563,6 +1167,52 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Play as Otto, a curious sea otter swept far from home. In this story-rich adventure, explore wild forests, dive underwater, glide over rocky canyons, and climb your way back. Meet friendly animals, complete heartfelt quests, and enjoy soft challenges, at your own pace!"
+    },
+    {
+      "id": "igdb-game-414042",
+      "title": "Plushy Store Tidy Up",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Turn a messy plushy store into a cozy little world of perfectly organized cuddly toys!\n\nIn Plushy Store Tidy Up, every plushy has a place but figuring out exactly where everything belongs is up to you. Pick up plushies, carry and organize them, solve satisfying shelf puzzles, and"
+    },
+    {
+      "id": "igdb-game-407766",
+      "title": "Salvation: Echoes of War",
+      "date": "2026-08-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore a haunting purgatory in this third-person stealth adventure. Injured and trapped in a nightmare after war, solve puzzles, outsmart enemies, and rely on your loyal companion to find a way back to life. Can you escape your past and survive the echoes of war?"
+    },
+    {
+      "id": "igdb-game-374054",
+      "title": "We Are Gum",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A puzzle game about goofy alien bubble gum trying to find their way home. They move together because they're aliens. They stick to things because they're bubble gum. They're silly and goofy because they're alien bubble gum! Don't question the science."
+    },
+    {
+      "id": "igdb-game-404342",
+      "title": "Bombanana!",
+      "date": "2026-09-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You are a 3-player bomb defusal team made up of three monkeys: blind, deaf, and mute. Inside your minivan turned mobile bomb workshop, you must defuse bombs before they explode using limited time and limited communication!"
     },
     {
       "id": "igdb-game-286226",
@@ -2587,6 +1237,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover."
+    },
+    {
+      "id": "igdb-game-339614",
+      "title": "SpeedRunners 2: King of Speed",
+      "date": "2026-09-02",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The ultimate competitive platformer is back! Outrun, outjump, and outsmart your rivals in cutthroat online/local races, now up to 8 players. Master the movement, learn meticulously designed maps, use powerful pick-ups, swing around with a grappling hook, and don't get knocked off"
     },
     {
       "id": "igdb-game-404905",
@@ -2626,15 +1289,37 @@
       "summary": "A psychological exploration experience that takes you deep into the heart of uncanny, in-between spaces where reality unravels. There are no monsters here—only the shadows of your own mind. Navigate strangely layered rooms, interact with the environment and unlock secrets to esca"
     },
     {
-      "id": "igdb-game-350475",
-      "title": "Dungeon Raid",
+      "id": "igdb-game-393839",
+      "title": "Monk Took Book",
       "date": "2026-09-02",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Dungeon Raid is an adventure card roguelike. Dive deeper and deeper into the dungeon. Use everything you find to defeat enemies and kill the final boss. Good luck! And try not to die... from hunger."
+      "summary": "A game about organizing, stacking and remembering where you put hundreds of books in a cozy-creepy medieval library. Play solo or with up to three fellow monks."
+    },
+    {
+      "id": "igdb-game-310329",
+      "title": "Shoe it All!",
+      "date": "2026-09-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Swing, fling, and cause chaos with your shoes in this physics-based mayhem. Discover secrets, unlock bonus levels, customize your look, and fill your journal with shiny stickers. Master the perfect throw and SHOE IT ALL!"
+    },
+    {
+      "id": "igdb-game-405996",
+      "title": "ShoreTiles",
+      "date": "2026-09-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build your island around a fragile lighthouse in this Gloomy tile-placement strategy game. Balance growth, economy, and defense - because when night falls, THEY will rise from the depths."
     },
     {
       "id": "igdb-game-325602",
@@ -2650,6 +1335,32 @@
       "summary": "Fight through bloodstained battlefields of intense swordplay action. Explore the historic Japanese capital of Edo-era Kyoto, twisted by malevolent clouds of Malice.\nWith every stage cloaked in mystery, danger and intrigue. Battle against monstrosities from the underworld known as"
     },
     {
+      "id": "igdb-game-309162",
+      "title": "Cupid's Chatroom",
+      "date": "2026-09-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Find your true love with the help of Cupid's chatroom, a mysterious server that won't let you leave!"
+    },
+    {
+      "id": "igdb-game-311611",
+      "title": "Isle of Reveries",
+      "date": "2026-09-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Make a pilgrimage skybound to the Isle of Reveries, where any wish can be granted. Conquer mysterious dungeons, solve head-scratching puzzles, and fight dangerous enemies in this retro-inspired action adventure."
+    },
+    {
       "id": "igdb-game-386933",
       "title": "Worming from Home",
       "date": "2026-09-03",
@@ -2659,6 +1370,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Be the Worm of Wall Street in this silly simulation game about working a remote finance job. Throw your spineless body around the keyboard to invest in the stock market and earn obscene amounts of money. Buy upgrades, train skills, and worm your way up to the promotion you've alw"
+    },
+    {
+      "id": "igdb-game-213444",
+      "title": "Order Automatica",
+      "date": "2026-09-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A dark tactical roguelite where positioning, synergies, and automated battles collide on a tiny 3x3 ritual grid. Like chess with demons."
     },
     {
       "id": "igdb-game-370010",
@@ -2672,6 +1394,17 @@
       "summary": "A magical library you can place on your desktop. Help the black cat study ancient tomes and learn spells in this cozy idle game."
     },
     {
+      "id": "igdb-game-350475",
+      "title": "Dungeon Raid",
+      "date": "2026-09-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dungeon Raid is an adventure card roguelike. Dive deeper and deeper into the dungeon. Use everything you find to defeat enemies and kill the final boss. Good luck! And try not to die... from hunger."
+    },
+    {
       "id": "igdb-game-387496",
       "title": "WheelMates",
       "date": "2026-09-06",
@@ -2681,6 +1414,39 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "WheelMates is a 2-player co-op adventure where you and a friend drive tiny RC cars through the home laboratory of an eccentric scientist. Coming to Steam on September 7 with Friend’s Pass."
+    },
+    {
+      "id": "igdb-game-347748",
+      "title": "Replay Value: Second Hand Games",
+      "date": "2026-09-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Run a second-hand game store from scratch! A Job Simulator where you buy and sell used games, negotiate with colorful customers, make profit and upgrade your shop! Clean up retro finds, and stack your shelves with the most popular game with replay value!"
+    },
+    {
+      "id": "igdb-game-398618",
+      "title": "The Well Is Not Empty",
+      "date": "2026-09-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The well has gone dry. It's up to you to find out why. Traverse through abandoned tunnels. Discover remnants of a ritual never meant to be seen. Power dying machinery to bring light into darkness. Dig into broken earth and crawl your way out. Down here you’re not exploring... you"
+    },
+    {
+      "id": "igdb-game-352856",
+      "title": "Nothing Strange Here",
+      "date": "2026-09-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Nothing Strange Here is a single-player open-world adventure game with mystery and slice-of-life elements. Set in the small town of Larcenest Gap, players take on the role of a reporter exploring the community, documenting strange events, and interacting with townsfolk.\n\nThe game"
     },
     {
       "id": "igdb-game-362096",
@@ -2696,6 +1462,67 @@
       "summary": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween."
     },
     {
+      "id": "igdb-game-393036",
+      "title": "Sprawl Zero",
+      "date": "2026-09-07",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Sprawl Zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way."
+    },
+    {
+      "id": "igdb-game-355086",
+      "title": "Bus Simulator 27",
+      "date": "2026-09-07",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Get ready for Bus Simulator 27, the most advanced entry in the history of the franchise. Look forward to our most comprehensive bus fleet yet, with new officially licensed brands and bus models, as well as iconic buses from the series."
+    },
+    {
+      "id": "igdb-game-152058",
+      "title": "Honeycomb: The World Beyond",
+      "date": "2026-09-07",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Honeycomb: The World Beyond is a survival-sandbox game set on an exuberant planet – Sota7. Explore its vast world and face challenges on your bioengineering journey. Crossbreed plants or animals, gather resources, craft items, and conduct experiments in order to develop new speci"
+    },
+    {
+      "id": "igdb-game-392147",
+      "title": "Chop Chop Together",
+      "date": "2026-09-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A chaotic 1–4 player co-op party game where housemates take on ridiculous jobs, earn cash, and put their friendships to the test during the wildest workdays imaginable. Work together under pressure, face unpredictable hazards, and survive fast-paced chaos where teamwork is the on"
+    },
+    {
+      "id": "igdb-game-399030",
+      "title": "Orc Incremental",
+      "date": "2026-09-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth."
+    },
+    {
       "id": "igdb-game-344878",
       "title": "The Glued",
       "date": "2026-09-07",
@@ -2705,6 +1532,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The peg doll faces from your childhood bedroom reappear at every turn. Struggle to find a path forward through your own personal hell in this bleak visual novel with light puzzles and point-and-click elements."
+    },
+    {
+      "id": "igdb-game-409399",
+      "title": "Trudge",
+      "date": "2026-09-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A slow, minimalist psychological pixel experience about living the same empty routine in a silent city. Wake up. Work. Eat. Sleep. Beneath the depressing monotony and liminal surroundings, something slowly begins to break."
     },
     {
       "id": "igdb-game-340029",
@@ -2789,6 +1627,19 @@
       "summary": "Screenbound is a platformer unlike any other. You move in first-person view at the same time while playing in 2d on the screen of your Qboy. Mind-bending environmental puzzles will force you to test the limits of dimensional space. Your jumping and movements are mirrored - but ce"
     },
     {
+      "id": "igdb-game-404710",
+      "title": "Hot Wheels Infinite Rush",
+      "date": "2026-09-09",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Jump into a Hot Wheels-sized world with four islands packed with events, challenges and full-throttle mayhem. Collect iconic vehicles, assemble your Rush Squad, build epic tracks, and earn the title of Rush Master."
+    },
+    {
       "id": "igdb-game-370708",
       "title": "BrokenLore: Don't Lie",
       "date": "2026-09-09",
@@ -2800,6 +1651,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "BrokenLore: DON'T LIE is psychological horror spin-off of DON’T WATCH, where lies, medication and fragile bonds blur the line between reality and nightmare."
+    },
+    {
+      "id": "igdb-game-319629",
+      "title": "Welcome to Elderfield",
+      "date": "2026-09-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to Elderfield is a spooky farming RPG. You can farm, fish, mine, cook, craft, befriend townsfolk, beseech the old gods, investigate mysteries, watch unsettling news programs, get lost in the dead mall, die in your sleep and more. There's lots to do in Elderfield!"
     },
     {
       "id": "igdb-game-387461",
@@ -2826,6 +1688,41 @@
       "summary": "A colony sim based dungeon crawler where you manage your clan to build a settlement in barren land, provide food and shelter for your people, lead them deep into the merciless dungeon, overcome challenging combat by your strategy."
     },
     {
+      "id": "igdb-game-409210",
+      "title": "A Night in Moka Efti: A Babylon Berlin Story",
+      "date": "2026-09-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Are you ready for the session? Let yourself be hypnotized and dive into the dazzling world of Moka Efti, known from the series *Babylon Berlin*. As a journalist, you’ll follow the clues to a mysterious case at the famous nightclub. But can you trust your memories?"
+    },
+    {
+      "id": "igdb-game-378222",
+      "title": "Magical Blush",
+      "date": "2026-09-09",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Magical Blush is a top-down action-adventure where fast-paced elemental combat meets Metroidvania-style exploration. Chain spell combos, exploit elemental weaknesses, rescue survivors, and team up in local co-op as you battle the powerful Elemental Lords and explore the wondrous "
+    },
+    {
+      "id": "igdb-game-275699",
+      "title": "Infinity: HexaDome Tactics",
+      "date": "2026-09-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Pick your champions and fight in merciless 1v1 turn-based matches. Send your fighters in the arena, position them strategically, create synergies and give the crowd a brutal show! Unlock your ultimate attacks, influence the course of the game and dominate The Hexadome!"
+    },
+    {
       "id": "igdb-game-393250",
       "title": "Takeover 2",
       "date": "2026-09-09",
@@ -2835,17 +1732,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack."
-    },
-    {
-      "id": "igdb-game-347748",
-      "title": "Replay Value: Second Hand Games",
-      "date": "2026-09-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run a second-hand game store from scratch! A Job Simulator where you buy and sell used games, negotiate with colorful customers, make profit and upgrade your shop! Clean up retro finds, and stack your shelves with the most popular game with replay value!"
     },
     {
       "id": "igdb-game-387836",
@@ -2859,15 +1745,49 @@
       "summary": "Grandpa's Bee Haven is a desktop-idler and a beekeeping sim that sits at the bottom of your screen letting you to do other things while managing your bee haven."
     },
     {
-      "id": "igdb-game-366957",
-      "title": "Mixed Spirits",
+      "id": "igdb-game-408771",
+      "title": "NHL 27",
+      "date": "2026-09-10",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "EA Sports NHL 27 brings the identity of every NHL team to life on the ice, in the arena, and through the broadcast.\n\nExperience Authentic Atmospheres across all 32 NHL arenas, each designed to capture the sound, spectacle, and identity of its home team. Real-world goal songs, new"
+    },
+    {
+      "id": "igdb-game-412303",
+      "title": "Luduvo",
       "date": "2026-09-11",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Run a cozy bar, make cocktails for fun customers! Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!"
+      "summary": "Luduvo is a user-generated content (UGC) sandbox gaming platform built on a proprietary engine. The platform allows players to create, share, and play community-designed games using a suite of built-in development tools and custom avatar configurations. Emphasizing digital safety"
+    },
+    {
+      "id": "igdb-game-354887",
+      "title": "Cloudscrapers",
+      "date": "2026-09-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cloudscrapers is a minimalist strategy game with a relaxing atmosphere.\n\nStart with simple tools and build the tallest tower you can. With each climb, you’ll improve, unlock upgrades, and reach new heights. As your tower rises, you’ll discover ancient relics and uncover secrets h"
+    },
+    {
+      "id": "igdb-game-396576",
+      "title": "Neat",
+      "date": "2026-09-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Neat is a game about helping people organize their lives by organizing their spaces."
     },
     {
       "id": "igdb-game-337384",
@@ -2881,15 +1801,15 @@
       "summary": "A fast-paced third-person mech-action roguelike"
     },
     {
-      "id": "igdb-game-396576",
-      "title": "Neat",
+      "id": "igdb-game-314447",
+      "title": "Sigilfarer",
       "date": "2026-09-13",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Neat is a game about helping people organize their lives by organizing their spaces."
+      "summary": "Sigilfarer is a roguelite adventure where every decision rests on the roll of your dice. Master a dice-building system while navigating a sprawling, procedurally generated world. Strategize your route, manage resources and push your luck to the limit!"
     },
     {
       "id": "igdb-game-168667",
@@ -2912,6 +1832,54 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight through a train overtaken by monsters and survive Antarctica’s cold as paranormal special agent Doug Barker in this chilling single-player third-person survival horror game."
+    },
+    {
+      "id": "igdb-game-366957",
+      "title": "Mixed Spirits",
+      "date": "2026-09-14",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Run a cozy bar, make cocktails for fun customers! Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!"
+    },
+    {
+      "id": "igdb-game-249202",
+      "title": "Dimraeth",
+      "date": "2026-09-14",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 1-8 player fantasy RPG set in a handcrafted pixel world. Build your hero across 8 races and 6 classes. Explore ancient lands, master elemental combat, forge relationships, and shape a stronghold to call home. Fight for the fate of Dimraeth—together or alone."
+    },
+    {
+      "id": "igdb-game-348202",
+      "title": "Aniimo",
+      "date": "2026-09-15",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. Explore the vast continent of Idyll, Twine with unique Aniimo, unlock new abilities. Travel to a sky-floating metropolis, meet other Pathfinders, and battle in exciting competitions. Choose your Aniimo and begin"
+    },
+    {
+      "id": "igdb-game-145078",
+      "title": "Woodo",
+      "date": "2026-09-15",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Woodo is a 3D puzzle game. The player immerses in a calm and peaceful world where time stopped at the happy moment. With imaginary friend Woodo, player build bit by bit this tiny world. Woodo tells the player stories and makes the player feel not lonely while playing. The game lo"
     },
     {
       "id": "igdb-game-352998",
@@ -2962,6 +1930,19 @@
       "summary": "Return to the RTS series’ roots with deeply satisfying strategy gameplay. Take command of four unique Warhammer 40,000 factions, including the Adeptus Mechanicus in their series debut! Fight through 70+ epic campaign missions, as well as the replayable Last Stand, Skirmish and mu"
     },
     {
+      "id": "igdb-game-404741",
+      "title": "Trine 6: Together in Time",
+      "date": "2026-09-16",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Trine 6: Together in Time is a co-op puzzle platformer for 1-4 players. Wit, timing, and teamwork collide as you solve perplexing puzzles, engage cunning creatures, and traverse perilous paths in the next adventure through Trines iconic fantasy world."
+    },
+    {
       "id": "igdb-game-377314",
       "title": "Trails in the Sky 2nd Chapter",
       "date": "2026-09-16",
@@ -2974,8 +1955,8 @@
       "summary": "A remake of the second installment in the main Trails series, serving as a direct sequel of Trails in the Sky 1st Chapter. The game follows Estelle as she sets out on a new adventure following the events of the previous game, where she will be joined by comrades both old and new."
     },
     {
-      "id": "igdb-game-404741",
-      "title": "Trine 6: Together in Time",
+      "id": "igdb-game-318625",
+      "title": "Kernel Hearts",
       "date": "2026-09-16",
       "platforms": [
         "Xbox Series X/S",
@@ -2984,7 +1965,18 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Trine 6: Together in Time is a co-op puzzle platformer for 1-4 players. Wit, timing, and teamwork collide as you solve perplexing puzzles, engage cunning creatures, and traverse perilous paths in the next adventure through Trines iconic fantasy world."
+      "summary": "Gather your allies. Eliminate Angels. Transform into a Magical Girl. Slay god. Kernel Hearts is a Multiplayer Co-Op Roguelike Action RPG about four magical girls and their attempt to save a world that's drowning in ashes"
+    },
+    {
+      "id": "igdb-game-407158",
+      "title": "Pop! Pachinko",
+      "date": "2026-09-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!"
     },
     {
       "id": "igdb-game-388436",
@@ -3009,6 +2001,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Embark on a time-traveling RPG adventure featuring command battles presented by Masato Kato, creator of numerous RPG classics. With New Game+, embark on a new adventure with your upgraded characters and discover more than 10 different endings."
+    },
+    {
+      "id": "igdb-game-342916",
+      "title": "Flamecraft",
+      "date": "2026-09-16",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town’s stores and fill them with dragon cards as you watch the whimsical shopping district come to life."
     },
     {
       "id": "igdb-game-408918",
@@ -3036,6 +2041,52 @@
       "summary": "Play as the Grinch, collect ornaments, master gadgets, and tackle festive challenges to decorate the ultimate Christmas tree for the Whos."
     },
     {
+      "id": "igdb-game-365465",
+      "title": "Dressmaker",
+      "date": "2026-09-20",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers."
+    },
+    {
+      "id": "igdb-game-270906",
+      "title": "Soggy Beans",
+      "date": "2026-09-20",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fish will come, fish will go. Take photos, collect beans, decorate your seascape, then relax or do other things while your friends swim by in this calming side-idler."
+    },
+    {
+      "id": "igdb-game-380416",
+      "title": "Rivage",
+      "date": "2026-09-21",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Rivage is an immersive sci-fi puzzle adventure set aboard the A.R.E.S. space station trapped in a space phenomenon. Wake up as Miranda, forced to explore, solve intricate puzzles to unravel the fate of your missing crew."
+    },
+    {
+      "id": "igdb-game-25455",
+      "title": "Little Ghost",
+      "date": "2026-09-21",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Chill metroidvania maximizes non-linear exploration & puzzle-platforming. Frequent checkpoints, no currency, no combat. Gain friends & abilities. Collectables-as-media; tarot cards, weird podcasts, and songs from over 20 bands; all found within a surreal papercraft world."
+    },
+    {
       "id": "igdb-game-225582",
       "title": "Control Resonant",
       "date": "2026-09-23",
@@ -3059,19 +2110,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Silent Hill: Townfall is a full-length, self-contained psychological horror set against the cold, isolated backdrop of Scotland, 1996.\n\nPlayers can explore St. Amelia, where fog-soaked streets, abandoned communities, and forgotten corners tell their story through atmosphere and h"
-    },
-    {
-      "id": "igdb-game-404710",
-      "title": "Hot Wheels Infinite Rush",
-      "date": "2026-09-23",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Jump into a Hot Wheels-sized world with four islands packed with events, challenges and full-throttle mayhem. Collect iconic vehicles, assemble your Rush Squad, build epic tracks, and earn the title of Rush Master."
     },
     {
       "id": "igdb-game-394023",
@@ -3216,19 +2254,6 @@
       "summary": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, brutal hand-to-hand combat. Set in dystopian city of Bandung, Indonesia."
     },
     {
-      "id": "igdb-game-348202",
-      "title": "Aniimo",
-      "date": "2026-09-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. Explore the vast continent of Idyll, Twine with unique Aniimo, unlock new abilities. Travel to a sky-floating metropolis, meet other Pathfinders, and battle in exciting competitions. Choose your Aniimo and begin"
-    },
-    {
       "id": "igdb-game-251059",
       "title": "Grave Seasons",
       "date": "2026-09-29",
@@ -3299,32 +2324,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Your friend is convinced his house is haunted. Examine his family's photo album to reveal signs of the paranormal, as the horror unfolds in the house around you. Their fate is in your hands."
-    },
-    {
-      "id": "igdb-game-356188",
-      "title": "Agefield High: Rock the School",
-      "date": "2026-09-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Relive your High School days in the town of Agefield. It’s the early 2000s and you have three months left at school. So REBEL with your friends, win over your dream girl and ROCK the school!"
-    },
-    {
-      "id": "igdb-game-145078",
-      "title": "Woodo",
-      "date": "2026-09-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Woodo is a 3D puzzle game. The player immerses in a calm and peaceful world where time stopped at the happy moment. With imaginary friend Woodo, player build bit by bit this tiny world. Woodo tells the player stories and makes the player feel not lonely while playing. The game lo"
     },
     {
       "id": "igdb-game-325182",
@@ -3624,17 +2623,6 @@
       "summary": "Charming Hill is a small experimental game where creating beautiful paintings feels easy and natural. No artistic skills are needed; it’s a space to relax, paint, and discover a heartwarming story, or better yet, paint your own."
     },
     {
-      "id": "igdb-game-354887",
-      "title": "Cloudscrapers",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cloudscrapers is a minimalist strategy game with a relaxing atmosphere.\n\nStart with simple tools and build the tallest tower you can. With each climb, you’ll improve, unlock upgrades, and reach new heights. As your tower rises, you’ll discover ancient relics and uncover secrets h"
-    },
-    {
       "id": "igdb-game-355047",
       "title": "Death Kitchen",
       "date": "2026-09-29",
@@ -3668,30 +2656,6 @@
       "summary": "Use just two buttons to climb a colossal pinball table spanning the history of western philosophy. Fallosophy is a minimalist game that turns pinball into a quiet struggle against gravity. No score. No tilts. No savers. Falling down means climbing back up again. Why climb? What d"
     },
     {
-      "id": "igdb-game-246030",
-      "title": "Frog Island",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Frog Island is a fully hand-drawn, cozy Frog Collection and Life-Sim game. Start your new life as a caretaker for an island of frogs in this cozy creature-collector! Build your dream island, discover magical wildlife, and uncover the island's many hidden secrets, to try and piece"
-    },
-    {
-      "id": "igdb-game-152058",
-      "title": "Honeycomb: The World Beyond",
-      "date": "2026-09-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Honeycomb: The World Beyond is a survival-sandbox game set on an exuberant planet – Sota7. Explore its vast world and face challenges on your bioengineering journey. Crossbreed plants or animals, gather resources, craft items, and conduct experiments in order to develop new speci"
-    },
-    {
       "id": "igdb-game-378170",
       "title": "How to Fish",
       "date": "2026-09-29",
@@ -3712,17 +2676,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Midnight Horde is a gothic horror casual action game with rogue-lite elements where you battle thousands of enemies and upgrade the castle. Discover the secrets of the castle and upgrade weapons and fortifications to keep darkness at bay."
-    },
-    {
-      "id": "igdb-game-352856",
-      "title": "Nothing Strange Here",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Nothing Strange Here is a single-player open-world adventure game with mystery and slice-of-life elements. Set in the small town of Larcenest Gap, players take on the role of a reporter exploring the community, documenting strange events, and interacting with townsfolk.\n\nThe game"
     },
     {
       "id": "igdb-game-283550",
@@ -3913,17 +2866,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Build defenses to protect your mining sites from the hostile native alien species. Explore the planet and discover the true reasons you've been sent here for. A true old school pixel-art experience."
-    },
-    {
-      "id": "igdb-game-249202",
-      "title": "Dimraeth",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A 1-8 player fantasy RPG set in a handcrafted pixel world. Build your hero across 8 races and 6 classes. Explore ancient lands, master elemental combat, forge relationships, and shape a stronghold to call home. Fight for the fate of Dimraeth—together or alone."
     },
     {
       "id": "igdb-game-383481",
@@ -4236,28 +3178,6 @@
       "summary": "Monsters are closing in from all sides, and all you've got is a gusli… and the letter O? Dynamic combat with Slavic folk music, hero progression, and building a unique build to take on each location and its boss - so you can finally face Koschei himself."
     },
     {
-      "id": "igdb-game-407766",
-      "title": "Salvation: Echoes of War",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a haunting purgatory in this third-person stealth adventure. Injured and trapped in a nightmare after war, solve puzzles, outsmart enemies, and rely on your loyal companion to find a way back to life. Can you escape your past and survive the echoes of war?"
-    },
-    {
-      "id": "igdb-game-404220",
-      "title": "Scratch the Ticket",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Scratch the Ticket is a first‑person incremental gambling sim where every ticket is a test of nerves. Print tickets, scratch cells, and decide: cash out now or risk it all. The outcome depends only on your choice."
-    },
-    {
       "id": "igdb-game-393787",
       "title": "Silberheim Evolving Card Game",
       "date": "2026-09-29",
@@ -4267,17 +3187,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Silberheim ECG (Evolving Card Game) is a fantasy trading card game. Cards—called Fragments—can evolve based on a player’s actions and playstyle, creating a personalized experience within the expanding world and lore of Silberheim."
-    },
-    {
-      "id": "igdb-game-270906",
-      "title": "Soggy Beans",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Fish will come, fish will go. Take photos, collect beans, decorate your seascape, then relax or do other things while your friends swim by in this calming side-idler."
     },
     {
       "id": "igdb-game-366612",
@@ -4357,17 +3266,6 @@
       "summary": "Roguelite tower defense where enemies can’t be killed, knock them off with physics instead! Build devastating contraptions that push, pull, and launch enemies. Unlock towers, discover broken synergies, and dominate through creative combinations."
     },
     {
-      "id": "igdb-game-399150",
-      "title": "T.W.I.R.L.",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "It's 3am in your childhood home. Everyone's asleep, but you. Sneak out of your room to do what you always do - \"T.W.I.R.L.\" - whatever that means."
-    },
-    {
       "id": "igdb-game-371867",
       "title": "Tyr",
       "date": "2026-09-29",
@@ -4403,17 +3301,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Explore bizarre procedural generated psychedelic worlds, encounter surreal creatures, experience shifting rulesets, retro aesthetics, and altered music for a wild and truly strange experience."
-    },
-    {
-      "id": "igdb-game-309731",
-      "title": "Zodiac Mountain",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"Zodiac Mountain\" is a roguelike deckbuilder following the journey of a Panda as they adventure to become a Chinese Zodiac. Utilise dual hands of Yin & Yang, encounter fierce mythical characters, outskill your enemies in battle, and climb Zodiac Mountain."
     },
     {
       "id": "igdb-game-347637",
