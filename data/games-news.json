@@ -1,116 +1,116 @@
 {
-  "generated": "2026-08-22T21:39:19.422Z",
+  "generated": "2026-08-23T20:30:30.107Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-08-22T21:39:19.422Z",
+      "generatedAt": "2026-08-23T20:30:30.107Z",
       "items": [
         {
-          "title": "Gorgeous and hazy pixel art horror farming sim Neverway has been pushed to 2027, but you can at least have a gander at some of the NPCs you can smooch",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gorgeous-and-hazy-pixel-art-horror-farming-sim-neverway-has-been-pushed-to-2027-but-you-can-at-least-have-a-gander-at-some-of-the-npcs-you-can-smooch",
-          "summary": "Sorry folks, some bad news: Neverway , the horror life sim and RPG combo from one of the artists behind Celeste and the composer of Fez , has been delayed into 2027. While it never had an exact releas",
-          "publishedAt": "2026-08-22T17:16:48.000Z",
+          "title": "What to expect from Gamescom Opening Night Live 2026 – and how to watch it",
+          "source": "Flipboard AI",
+          "url": "https://www.creativebloq.com/entertainment/gaming/what-to-expect-from-gamescom-opening-night-live-2026-and-how-to-watch-it?utm_source=flipboard&utm_content=topic/gaming",
+          "summary": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surprises …",
+          "publishedAt": "2026-08-23T10:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
-          "summary": "Look, I love a PS1 horror throwback as much as the next whatever Gonzo is , but they don't all have to look like Silent Hill or Resident Evil, do they? There have been some aesthetic divergences in th",
-          "publishedAt": "2026-08-22T20:34:41.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Destiny 2's Slow, Painful Death Removes a Critical Third Space for Gamers",
+          "title": "PlayStation Reminds Players Of Its All-Digital Future In The Worst Way Possible",
           "source": "Polygon",
-          "url": "https://www.polygon.com/destiny-2-live-service-end-mactics-interview/",
-          "summary": "Destiny 2 content creator Mactics reflects on how Bungie’s game helped keep him and his future wife together through four years of long distance.",
-          "publishedAt": "2026-08-22T15:00:14.000Z",
+          "url": "https://www.polygon.com/sony-playstation-digital-license-agreements-terms-on-game-ownership/",
+          "summary": "Recently, Sony has been sending PlayStation owners the console's terms and user agreements, leaving a bitter taste in their mouths.",
+          "publishedAt": "2026-08-23T13:39:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Celebrate the SNES's 35th Birthday With the 5 Weirdest Switch Online Games",
+          "title": "One Piece Will Get Two More Movies Before The End Of The Decade",
           "source": "Polygon",
-          "url": "https://www.polygon.com/snes-hidden-gems-switch-online/",
-          "summary": "The SNES library on Switch Online is full of classics, but equally full of hidden retro gems. These are five of the best",
-          "publishedAt": "2026-08-22T16:00:14.000Z",
+          "url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
+          "summary": "One Piece fans have new movies to look forward to: God Valley in 2027 and Baad in 2029",
+          "publishedAt": "2026-08-23T13:55:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Sci-Fi Shows That Are Perfect From Start to Finish",
+          "title": "Nintendo’s Forgotten ‘90s Mario Spinoff Deserves a Switch 2 Reboot",
           "source": "Polygon",
-          "url": "https://www.polygon.com/sci-fi-shows-best-perfect-run/",
-          "summary": "These acclaimed sci-fi shows have become the gold standard for the genre.",
-          "publishedAt": "2026-08-22T17:00:14.000Z",
+          "url": "https://www.polygon.com/super-nintendo-35th-anniversary-mario-paint-switch-2/",
+          "summary": "Unlike Mario Kart and Mario Party, one of Nintendo's SNES-era spinoffs has never quite gotten the same opportunity to blossom into something bigger.",
+          "publishedAt": "2026-08-23T14:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Marvel's Best Mobile Game Is About To Get Its Most Requested Feature",
+          "title": "'One Piece Card Game' Is Collaborating With 'Final Fantasy's Best Artist",
           "source": "Polygon",
-          "url": "https://www.polygon.com/marvel-snap-draft-mode/",
-          "summary": "Marvel Snap's long-awaited Draft mode finally arrives on Monday",
-          "publishedAt": "2026-08-22T17:18:45.000Z",
+          "url": "https://www.polygon.com/one-piece-card-game-final-fantasy/",
+          "summary": "Yoshitaka Amano designed new Loki and Shamrock cards for One Piece Card Game",
+          "publishedAt": "2026-08-23T15:12:47.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Diablo 3 Is Still the Best Diablo and I Will Die On This Hill, 14 Years Later",
+          "title": "The 10 Greatest Soulslikes of the Past 10 years, Ranked",
           "source": "Polygon",
-          "url": "https://www.polygon.com/diabo-3-best-xbox-game-pass/",
-          "summary": "More welcoming than Diablo 2 and less bloated than Diablo 4, Blizzard's 2012 action RPG is also one of the best games on Xbox Game Pass",
-          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "url": "https://www.polygon.com/best-new-soulslikes-ranked/",
+          "summary": "Parry sickos have had no shortage of great Soulslikes in the past decade. From Wuchang to Nioh, here are some of our favorites.",
+          "publishedAt": "2026-08-23T16:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "27 Years Later, the Best 'Peanuts' Snoopy Quote Is Still in a League of Its Own",
+          "title": "Xbox's Most Beautiful Game Series Is Coming Back Soon, New Leaks Suggest",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-snoopy-quote-peanuts/",
-          "summary": "Snoopy's \"Keep looking up\" quote is the beloved beagle's best Peanuts moment.",
-          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "url": "https://www.polygon.com/xbox-ori-series-return-gamescom-rumors/",
+          "summary": "A reliable leaker suggests a new entry in Xbox's Ori series could be coming, and an announcement might come sooner than you'd expect.",
+          "publishedAt": "2026-08-23T16:27:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "7 Years Later, the Best Outer Wilds Quote Hits Harder Than Ever",
+          "title": "Mewgenics' Xbox Port Is Coming Sooner Than Expected, Store Leak Suggests",
           "source": "Polygon",
-          "url": "https://www.polygon.com/outer-wilds-be-curious-on-your-journey/",
-          "summary": "\"Be curious on your journey\" sounds like gentle advice — until you realize Outer Wilds built an entire game around ignoring the \"gentle\" part",
-          "publishedAt": "2026-08-22T20:00:14.000Z",
+          "url": "https://www.polygon.com/mewgenics-xbox-release-date-leak/",
+          "summary": "A early Xbox store page listing for Mewgenics suggests that it'll come to Xbox Series X on Sept. 8",
+          "publishedAt": "2026-08-23T16:52:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This mod transforms Doom into a terrifying tactical shooter, and it's partly inspired by another PC gaming classic",
+          "title": "Gamescom Is Officially the Biggest Gaming Event in the World. So What’s Next?",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gamescom-2026-interview-tim-endres-stefan-heikhaus/",
+          "summary": "In a chat with Gamescom directors Tim Endres and Stefan Heikhaus, they spoke about a possible North American expansion, GDQ, pressure, and more.",
+          "publishedAt": "2026-08-23T17:00:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This newly announced soulslike has a main character inspired by Dark Souls' most heartbreaking boss fight",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/this-mod-transforms-doom-into-a-terrifying-tactical-shooter-and-its-partly-inspired-by-another-pc-gaming-classic/",
-          "summary": "Blackout makes Doom slower, deadlier, and throws in a Crysis-style energy suit for good measure.",
-          "publishedAt": "2026-08-22T13:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/rpg/this-newly-announced-soulslike-has-a-main-character-inspired-by-dark-souls-most-heartbreaking-boss-fight/",
+          "summary": "Stray Dog: Nobody Cares asks the question: \"What if you were Great Grey Wolf Sif?\"",
+          "publishedAt": "2026-08-23T11:38:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "2XKO's shutdown has me feeling glum about Riot's future MMO—because I don't think the genre can survive corporate cut-and-run tactics",
+          "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/2xkos-shutdown-has-me-feeling-glum-about-riots-future-mmo-because-i-dont-think-the-genre-can-survive-corporate-cut-and-run-tactics/",
-          "summary": "2XKO was losing money, but that doesn't mean it wasn't worth it.",
-          "publishedAt": "2026-08-22T15:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
+          "summary": "Help or hinder BG3's vampire elf as he tangles with a Bastellus in A Dream of Silence.",
+          "publishedAt": "2026-08-23T14:24:02.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The first physical PC game I remember playing shows what Sony is thoughtlessly destroying",
+          "title": "Big Walk is a new co-op puzzle game classic",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/the-first-physical-pc-game-i-remember-playing-shows-what-sony-is-thoughtlessly-destroying/",
-          "summary": "Me and a bunch of big-box PC games are going to go full boomer or prove a very important point.",
-          "publishedAt": "2026-08-22T16:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/puzzle/big-walk-is-a-new-co-op-puzzle-game-classic/",
+          "summary": "Find some friends to take walk with in one of the best puzzle games in recent memory.",
+          "publishedAt": "2026-08-23T15:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,7 +119,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-08-22T21:39:19.422Z",
+      "generatedAt": "2026-08-23T20:30:30.107Z",
       "items": [
         {
           "title": "STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles",
@@ -129,32 +129,32 @@
           "publishedAt": "2026-08-19T13:00:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Metal Gear Solid 4: Guns of the Patriots review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/metal-gear-solid-4-guns-of-the-patriots-review/",
-          "summary": "The new best way to play Kojima's strangest sequel.",
-          "publishedAt": "2026-08-21T07:01:43.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Creative XF1 speaker review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
-          "summary": "A small but mighty package.",
-          "publishedAt": "2026-08-21T10:03:11.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-08-22T21:39:19.422Z",
+      "generatedAt": "2026-08-23T20:30:30.107Z",
       "items": [
+        {
+          "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+          "summary": "A Twitch streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI trai",
+          "publishedAt": "2026-08-23T16:55:20.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Call of Duty: Modern Warfare 4's first beta patch adds a new map and mode, as Infinity Ward responds to complaints about footstep noise and weapon lethality",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4s-first-beta-patch-adds-a-new-map-and-mode-as-infinity-ward-responds-to-complaints-about-footstep-noise-and-weapon-lethality/",
+          "summary": "Cachette and Inflation join the fray as Infinity Ward adjusts footsteps and gun damage.",
+          "publishedAt": "2026-08-23T10:11:37.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "\"Buying any of our games helps support the studio\": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back",
           "source": "Rock Paper Shotgun",
@@ -233,24 +233,6 @@
           "url": "https://www.polygon.com/double-fine-kickstarter-xbox-layoffs/",
           "summary": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game.",
           "publishedAt": "2026-08-21T19:48:49.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Someone has managed to run Zork on the Steam Controller's internal hardware, but it's risky business",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/someone-has-managed-to-run-zork-on-the-steam-controllers-internal-hardware-but-its-risky-business/",
-          "summary": "And not the Tom Cruise kind, either.",
-          "publishedAt": "2026-08-21T13:24:53.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
-          "summary": "It also has a new Kickstarter campaign set to kickoff later this month.",
-          "publishedAt": "2026-08-21T21:05:18.000Z",
           "tag": "Industry",
           "_example": false
         }
