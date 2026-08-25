@@ -1,116 +1,116 @@
 {
-  "generated": "2026-08-23T20:30:30.107Z",
+  "generated": "2026-08-25T17:45:27.414Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-08-23T20:30:30.107Z",
+      "generatedAt": "2026-08-25T17:45:27.414Z",
       "items": [
         {
-          "title": "What to expect from Gamescom Opening Night Live 2026 – and how to watch it",
-          "source": "Flipboard AI",
-          "url": "https://www.creativebloq.com/entertainment/gaming/what-to-expect-from-gamescom-opening-night-live-2026-and-how-to-watch-it?utm_source=flipboard&utm_content=topic/gaming",
-          "summary": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surprises …",
-          "publishedAt": "2026-08-23T10:00:00.000Z",
+          "title": "Nvidia tech behind PUBG's genAI team mates will let folks chat to creature-collecting RPG Aniimo's not-Pokemon next year",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+          "summary": "Alongside releasing Ray Reconstruction for DLSS 4.5 , Nvidia have announced that their ACE tech best known for powering PUBG: Battlegrounds ' generative AI team mates will be coming to another game ea",
+          "publishedAt": "2026-08-25T15:30:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "PlayStation Reminds Players Of Its All-Digital Future In The Worst Way Possible",
+          "title": "Nvidia DLSS 4.5 Ray Reconstruction, out now, ups shadow quality and more accurately illuminates trash bags",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
+          "summary": "Today, August 25th, Nvidia have released Ray Reconstruction for DLSS 4.5, with the aim of more swankily rendering ray-traced/ path-traced shadows and lighting than was possible with previous Ray Recon",
+          "publishedAt": "2026-08-25T15:30:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Roblox put a stop to games that include rewards for endless, TikTok-style scrolling, if you're under the age of 16 anyway",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roblox-put-a-stop-to-games-that-include-rewards-for-endless-tiktok-style-scrolling-if-youre-under-the-age-of-16-anyway",
+          "summary": "It continues to both amaze and concern me that a whole other internet ecosystem appears to exist within the realm of Roblox . Recently, a game by the name of Steal an Egg has blown up on the UGC platf",
+          "publishedAt": "2026-08-25T16:15:06.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6's Incredible Beach Leak Just Proved Rockstar's Doubters Wrong In Under Two Minutes",
           "source": "Polygon",
-          "url": "https://www.polygon.com/sony-playstation-digital-license-agreements-terms-on-game-ownership/",
-          "summary": "Recently, Sony has been sending PlayStation owners the console's terms and user agreements, leaving a bitter taste in their mouths.",
-          "publishedAt": "2026-08-23T13:39:21.000Z",
+          "url": "https://www.polygon.com/gta-6-beach-leak-reddit-cyberleek-memes-npc-density/",
+          "summary": "Some Grand Theft Auto 6 fans have spent years doubting that Rockstar could really ship a game with NPC density that matched the trailers",
+          "publishedAt": "2026-08-25T15:16:01.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "One Piece Will Get Two More Movies Before The End Of The Decade",
+          "title": "Resident Evil Meets Evangelion in 2022’s Most Unforgettable Horror Game",
           "source": "Polygon",
-          "url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
-          "summary": "One Piece fans have new movies to look forward to: God Valley in 2027 and Baad in 2029",
-          "publishedAt": "2026-08-23T13:55:06.000Z",
+          "url": "https://www.polygon.com/signalis-review-play-station-plus/",
+          "summary": "The retro-inspired survival horror gem Signalis proves that 'less is more' in games, and it's free on PlayStation Plus this month.",
+          "publishedAt": "2026-08-25T15:30:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo’s Forgotten ‘90s Mario Spinoff Deserves a Switch 2 Reboot",
+          "title": "Pokémon Go 'PokémonXP and 2026 Worlds' event guide",
           "source": "Polygon",
-          "url": "https://www.polygon.com/super-nintendo-35th-anniversary-mario-paint-switch-2/",
-          "summary": "Unlike Mario Kart and Mario Party, one of Nintendo's SNES-era spinoffs has never quite gotten the same opportunity to blossom into something bigger.",
-          "publishedAt": "2026-08-23T14:00:14.000Z",
+          "url": "https://www.polygon.com/pokemon-go-pokemonxp-2026-worlds-event-pikachu-costume/",
+          "summary": "Our Pokémon Go guide lists the \"PokémonXP & 2026 Worlds\" event perks as well as how to find these new costumed Pikachu.",
+          "publishedAt": "2026-08-25T15:31:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'One Piece Card Game' Is Collaborating With 'Final Fantasy's Best Artist",
+          "title": "What time does TFT Set 18 release in your time zone?",
           "source": "Polygon",
-          "url": "https://www.polygon.com/one-piece-card-game-final-fantasy/",
-          "summary": "Yoshitaka Amano designed new Loki and Shamrock cards for One Piece Card Game",
-          "publishedAt": "2026-08-23T15:12:47.000Z",
+          "url": "https://www.polygon.com/teamfight-tactics-tft-set-18-enchanted-wilds-release-time-na-euw-eune-oce/",
+          "summary": "Teamfight Tactics Set 18: \"Enchanted Wilds\" is coming on Aug. 26. Here's what time it'll be available on your local server.",
+          "publishedAt": "2026-08-25T15:38:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The 10 Greatest Soulslikes of the Past 10 years, Ranked",
+          "title": "Nintendo Officially Reveals New Switch 2 Bundles Ahead of Console Price Hike",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-new-soulslikes-ranked/",
-          "summary": "Parry sickos have had no shortage of great Soulslikes in the past decade. From Wuchang to Nioh, here are some of our favorites.",
-          "publishedAt": "2026-08-23T16:00:14.000Z",
+          "url": "https://www.polygon.com/nintendo-switch-2-mario-kart-world-sports-resort-bundles-announced/",
+          "summary": "Nintendo has announced new Mario Kart World and Switch Sports Resort Switch 2 bundles ahead of the console's price hike",
+          "publishedAt": "2026-08-25T15:46:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox's Most Beautiful Game Series Is Coming Back Soon, New Leaks Suggest",
+          "title": "'GTA 6' Hacker's New Leak Is Total Rage Bait For Rockstar",
           "source": "Polygon",
-          "url": "https://www.polygon.com/xbox-ori-series-return-gamescom-rumors/",
-          "summary": "A reliable leaker suggests a new entry in Xbox's Ori series could be coming, and an announcement might come sooner than you'd expect.",
-          "publishedAt": "2026-08-23T16:27:28.000Z",
+          "url": "https://www.polygon.com/gta-6-leak-game-store-physical-discs-cyberleek-rockstar/",
+          "summary": "Cyberleek's newest release is aimed at Rockstar and Take-Two's controversial GTA 6 business decisions regarding how the game is sold",
+          "publishedAt": "2026-08-25T16:20:32.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Mewgenics' Xbox Port Is Coming Sooner Than Expected, Store Leak Suggests",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/mewgenics-xbox-release-date-leak/",
-          "summary": "A early Xbox store page listing for Mewgenics suggests that it'll come to Xbox Series X on Sept. 8",
-          "publishedAt": "2026-08-23T16:52:58.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Gamescom Is Officially the Biggest Gaming Event in the World. So What’s Next?",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/gamescom-2026-interview-tim-endres-stefan-heikhaus/",
-          "summary": "In a chat with Gamescom directors Tim Endres and Stefan Heikhaus, they spoke about a possible North American expansion, GDQ, pressure, and more.",
-          "publishedAt": "2026-08-23T17:00:14.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This newly announced soulslike has a main character inspired by Dark Souls' most heartbreaking boss fight",
+          "title": "As Take-Two seeks IP addresses and phone numbers of thousands in GTA 6 subpoena, Discord says it's not been served the order just yet",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/this-newly-announced-soulslike-has-a-main-character-inspired-by-dark-souls-most-heartbreaking-boss-fight/",
-          "summary": "Stray Dog: Nobody Cares asks the question: \"What if you were Great Grey Wolf Sif?\"",
-          "publishedAt": "2026-08-23T11:38:08.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/as-take-two-seeks-ip-addresses-and-phone-numbers-of-thousands-in-gta-6-subpoena-discord-says-its-not-been-served-the-order-just-yet/",
+          "summary": "\"We'll evaluate the validity and scope before responding.\"",
+          "publishedAt": "2026-08-25T11:25:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
+          "title": "Two architectures on one chip: Arm and IBM team up in a legendary crossover, but alas it's for 'enterprise infrastructure'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
-          "summary": "Help or hinder BG3's vampire elf as he tangles with a Bastellus in A Dream of Silence.",
-          "publishedAt": "2026-08-23T14:24:02.000Z",
+          "url": "https://www.pcgamer.com/hardware/processors/two-architectures-on-one-chip-arm-and-ibm-team-up-in-a-legendary-crossover-but-alas-its-for-enterprise-infrastructure/",
+          "summary": "It will reportedly operate at more than 5.7 GHz.",
+          "publishedAt": "2026-08-25T12:12:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Big Walk is a new co-op puzzle game classic",
+          "title": "Hideo Kojima wants to 'continue to focus on making games' at 63, even as 'the time I have decreases'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/big-walk-is-a-new-co-op-puzzle-game-classic/",
-          "summary": "Find some friends to take walk with in one of the best puzzle games in recent memory.",
-          "publishedAt": "2026-08-23T15:00:00.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-wants-to-continue-to-focus-on-making-games-at-63-even-as-the-time-i-have-decreases/",
+          "summary": "\"I need to constantly scrutinize how I use my time and how I live my life.\"",
+          "publishedAt": "2026-08-25T14:35:25.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,14 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-08-23T20:30:30.107Z",
+      "generatedAt": "2026-08-25T17:45:27.414Z",
       "items": [
         {
-          "title": "STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
-          "summary": "Like the technical fix-uppery of the 2.0 update it&rsquo;s launching alongside, STALKER 2: Heart of Chornobyl &rsquo;s Cost of Hope expansion arrives with a determinedly furrowed brow; that kind of en",
-          "publishedAt": "2026-08-19T13:00:00.000Z",
+          "title": "Sony PlayStation 27\" Gaming Monitor Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/sony-playstation-27-gaming-monitor-review",
+          "summary": "Sony’s first PlayStation monitor has landed. It’s surprisingly modest and practically useful, but is it worth paying extra for?",
+          "publishedAt": "2026-08-25T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Be Quiet! Light Mount TKL review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
+          "summary": "A very welcome TKL update that didn't quite leave me speechless.",
+          "publishedAt": "2026-08-25T11:00:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -135,104 +144,41 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-08-23T20:30:30.107Z",
+      "generatedAt": "2026-08-25T17:45:27.414Z",
       "items": [
         {
-          "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
-          "summary": "A Twitch streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI trai",
-          "publishedAt": "2026-08-23T16:55:20.000Z",
+          "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
+          "summary": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
+          "publishedAt": "2026-08-25T10:52:58.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Call of Duty: Modern Warfare 4's first beta patch adds a new map and mode, as Infinity Ward responds to complaints about footstep noise and weapon lethality",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4s-first-beta-patch-adds-a-new-map-and-mode-as-infinity-ward-responds-to-complaints-about-footstep-noise-and-weapon-lethality/",
-          "summary": "Cachette and Inflation join the fray as Infinity Ward adjusts footsteps and gun damage.",
-          "publishedAt": "2026-08-23T10:11:37.000Z",
+          "title": "Amazon and Twitch Face Class-Action Lawsuit After Introducing Opt-Out Setting That Uses Streamers' Content to Train AI",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/amazon-and-twitch-face-class-action-lawsuit-after-introducing-opt-out-setting-that-uses-streamers-content-to-train-ai",
+          "summary": "Twitch and Amazon are facing a class-action lawsuit after the streaming platform rolled out a feature that automatically trains its generative AI on streamers’ content unless they opt out.",
+          "publishedAt": "2026-08-24T19:40:20.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "\"Buying any of our games helps support the studio\": Psychonauts studio Double Fine are the latest former Xbox-owned studio to get the rights to their games back",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/buying-any-of-our-games-helps-support-the-studio-psychonauts-studio-double-fine-are-the-latest-former-xbox-owned-studio-to-get-the-rights-to-their-games-back",
-          "summary": "Earlier this week, South of Midnight developer Compulsion Games shared word that they now own all of the publishing rights to their games , a welcome update in light of the ongoing BDS boycott against",
-          "publishedAt": "2026-08-22T16:18:43.000Z",
+          "title": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
+          "summary": "Alleged footage from Avalanche Studios' canceled Iron Man game has surfaced online.",
+          "publishedAt": "2026-08-24T21:03:11.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
-          "summary": "Infinity Ward has deployed the first proper update to the Modern Warfare 4 beta , addressing a chunk of the feedback from the beta's opening day, including footstep audio, weapon lethality, and map vo",
-          "publishedAt": "2026-08-22T16:11:35.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
-          "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
-          "publishedAt": "2026-08-22T11:16:33.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"Without us, Bethesda games aren’t Bethesda games\": Rallies against Microsoft layoffs at Elder Scrolls studio continue, with unionised devs' morale \"on the upswing\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/without-us-bethesda-games-arent-bethesda-games-rallies-against-microsoft-layoffs-at-elder-scrolls-studio-continue-with-unionised-devs-morale-on-the-upswing",
-          "summary": "Yesterday, August 18th, further union rallies against Microsoft's mass layoffs across Xbox studios were held across North America. As the One Bethesda Game Studio (OneBGS) union and the Communication ",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"Through the looking glass\": as Arkane fight for their future, Dishonored veteran Harvey Smith reveals new studio dedicated to immersive sims",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/through-the-looking-glass-as-arkane-fight-for-their-future-dishonored-veteran-harvey-smith-reveals-new-studio-dedicated-to-immersive-sims",
-          "summary": "Days after Deus Ex director Warren Spector announced that he was quitting the business , another former Ion Storm developer, Harvey Smith, has revealed Black Pony Immersive - a new studio dedicated to",
-          "publishedAt": "2026-08-19T13:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games",
-          "summary": "I don&rsquo;t begrudge anyone who&rsquo;s waited to try STALKER 2: Heart of Chornobyl until it got its technical defects fixed. They&rsquo;re still wrong, obviously - an absorbing and eerily atmospher",
-          "publishedAt": "2026-08-19T13:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Amid accusations of a post-beta difficulty bump, Mortal Shell 2 devs patch the new soulslike to stop players riposting so hard they steal enemy weapons",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons",
-          "summary": "Belated congratulations to everybody who correctly guessed that Mortal Shell 2 was the mystery game our guides team were raving about a couple of weeks ago. You'll hopefully have read Jeremy's glowing",
-          "publishedAt": "2026-08-19T14:16:46.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Mortal Shell 2's first balance patch makes its in-game economy a lot more lenient and nerfs some enemies and bosses for a smoother ride",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mortal-shell-2s-first-balance-patch-makes-its-in-game-economy-a-lot-more-lenient-and-nerfs-some-enemies-and-bosses-for-a-smoother-ride",
-          "summary": "Heavy is the burden of being a game developer, as even as a game launches, there is always still work to be done. Mortal Shell 2 is out today, and while it generally seems to be doing quite well for i",
-          "publishedAt": "2026-08-20T21:53:50.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Famed Studio Is Officially Making a Comeback After Xbox Layoffs",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/double-fine-kickstarter-xbox-layoffs/",
-          "summary": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game.",
-          "publishedAt": "2026-08-21T19:48:49.000Z",
+          "title": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral",
+          "summary": "Publisher Activision and developer Infinity Ward have promised to update Captain Price's hair in Call of Duty: Modern Warfare 4 after images of his botched haircut went viral.",
+          "publishedAt": "2026-08-24T21:13:30.000Z",
           "tag": "Industry",
           "_example": false
         }

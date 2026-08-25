@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-08-23T04:47:16.180Z",
+  "updatedAt": "2026-08-24T04:47:39.275Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -788,6 +788,17 @@
       "summary": "Step away from the noise of the world and enter the enchanting realms of Luminous Ages. This isn't just a puzzle game; it’s a journey through a vibrant multiverse brought to life by the breathtaking, hand-illustrated gallery of renowned fantasy creator Anthony Christou.\n\nWrap you"
     },
     {
+      "id": "igdb-game-391110",
+      "title": "States of Power",
+      "date": "2026-08-25",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Command your nation's armies, economy, and diplomacy in this WWII grand strategy wargame. Easy to start, hard to master and a full match fits in one session. Play singleplayer and multiplayer, or create, play and share your own custom scenarios with the built-in scenario editor."
+    },
+    {
       "id": "igdb-game-389424",
       "title": "Brigandine Abyss",
       "date": "2026-08-25",
@@ -810,17 +821,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Find My Frogs: Branches is a cozy hidden object game where you search for frogs and toads in a hand-drawn village nestled high in the branches of an ancient tree. Explore charming corners, discover tiny secrets, and help Uncle Froger find his missing hat."
-    },
-    {
-      "id": "igdb-game-391110",
-      "title": "States of Power",
-      "date": "2026-08-25",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lead your nation in this strategy wargame set during WWII. Build up the economy, command unit divisions and dominate the world, online or in singleplayer! Create custom and alternate history scenarios, simulate them or play as one of the nations."
     },
     {
       "id": "igdb-game-348168",
@@ -2076,6 +2076,17 @@
       "summary": "Rivage is an immersive sci-fi puzzle adventure set aboard the A.R.E.S. space station trapped in a space phenomenon. Wake up as Miranda, forced to explore, solve intricate puzzles to unravel the fate of your missing crew."
     },
     {
+      "id": "igdb-game-399307",
+      "title": "Furyball: Rogue Revenge",
+      "date": "2026-09-21",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Furyball is a fast-paced action roguelite where your only weapon is a bouncing bullet ball. Control the chaos, shatter enemies, and survive sport-themed arenas inspired by pinball and grindhouse cinema."
+    },
+    {
       "id": "igdb-game-25455",
       "title": "Little Ghost",
       "date": "2026-09-21",
@@ -2945,17 +2956,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A wind-up frogventure bursting with colorful platforming and roguelike surprises. Spin the slots, master precision jumps, and rack up points. Ready to leap into action?"
-    },
-    {
-      "id": "igdb-game-399307",
-      "title": "Furyball: Rogue Revenge",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Furyball is a fast paced action roguelite where your only weapon is a bouncing bullet ball. Control the chaos, shatter enemies, and survive sport themed arenas inspired by pinball and grindhouse cinema."
     },
     {
       "id": "igdb-game-395075",
