@@ -1,116 +1,116 @@
 {
-  "generated": "2026-08-25T17:45:27.414Z",
+  "generated": "2026-08-26T17:57:37.154Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-08-25T17:45:27.414Z",
+      "generatedAt": "2026-08-26T17:57:37.154Z",
       "items": [
         {
-          "title": "Nvidia tech behind PUBG's genAI team mates will let folks chat to creature-collecting RPG Aniimo's not-Pokemon next year",
+          "title": "D&D, LEGO, and mounting ennui: Our biggest games from Gamescom 2026",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
-          "summary": "Alongside releasing Ray Reconstruction for DLSS 4.5 , Nvidia have announced that their ACE tech best known for powering PUBG: Battlegrounds ' generative AI team mates will be coming to another game ea",
-          "publishedAt": "2026-08-25T15:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/dd-lego-and-mounting-ennui-our-biggest-games-from-gamescom-2026",
+          "summary": "This week, RPS took the downright heroic step of declining to live report on the latest Geoff Keighley trailer bonanza at Gamescom 2026 's Opening Night Live. Under the wise guidance of editor-in-chie",
+          "publishedAt": "2026-08-26T11:23:51.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nvidia DLSS 4.5 Ray Reconstruction, out now, ups shadow quality and more accurately illuminates trash bags",
+          "title": "Rockstar finally break silence on \"heartbreaking\" GTA 6 leak, say it's \"unfortunate that the intended game experience may now be impacted by some spoilers\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
-          "summary": "Today, August 25th, Nvidia have released Ray Reconstruction for DLSS 4.5, with the aim of more swankily rendering ray-traced/ path-traced shadows and lighting than was possible with previous Ray Recon",
-          "publishedAt": "2026-08-25T15:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/rockstar-finally-break-silence-on-heartbreaking-gta-6-leak-say-its-unfortunate-that-the-intended-game-experience-may-now-be-impacted-by-some-spoilers",
+          "summary": "Rockstar Games have put out a statement publicly acknowledging the ongoing GTA 6 leaks for the first time. Though they and parent company Take-Two have already gotten the ball rolling on hunting down ",
+          "publishedAt": "2026-08-26T12:21:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Roblox put a stop to games that include rewards for endless, TikTok-style scrolling, if you're under the age of 16 anyway",
+          "title": "I'm still not convinced The Witcher 3 Songs of the Past is worth pasting over the perfect ending that was Blood and Wine",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roblox-put-a-stop-to-games-that-include-rewards-for-endless-tiktok-style-scrolling-if-youre-under-the-age-of-16-anyway",
-          "summary": "It continues to both amaze and concern me that a whole other internet ecosystem appears to exist within the realm of Roblox . Recently, a game by the name of Steal an Egg has blown up on the UGC platf",
-          "publishedAt": "2026-08-25T16:15:06.000Z",
+          "url": "https://www.rockpapershotgun.com/im-still-not-convinced-the-witcher-3-songs-of-the-past-is-worth-pasting-over-the-perfect-ending-that-was-blood-and-wine",
+          "summary": "Since the persistent rumours of a cheeky extra DLC for The Witcher 3 turned into confirmation from CD Projekt Red that such a thing is on the way prior to The Witcher 4 , there's been a nagging voice ",
+          "publishedAt": "2026-08-26T14:24:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6's Incredible Beach Leak Just Proved Rockstar's Doubters Wrong In Under Two Minutes",
+          "title": "New D&D RPG Warlock is an open world spell-collecting game with a touch of Far Cry, and that's just fine by me, actually",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/warlock-dungeons-dragons-is-an-open-world-spell-collecting-game-and-thats-just-fine-by-me-actually",
+          "summary": "This week we got our first proper look at Warlock: Dungeons & Dragons, Wizard of the Coast's new RPG-tinted action game. In theory, it's the story of a grizzled weapon master, who is searching a lawle",
+          "publishedAt": "2026-08-26T16:02:28.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Confirms New $899 Hardware Release With Official Pre-Order Launch",
           "source": "Polygon",
-          "url": "https://www.polygon.com/gta-6-beach-leak-reddit-cyberleek-memes-npc-density/",
-          "summary": "Some Grand Theft Auto 6 fans have spent years doubting that Rockstar could really ship a game with NPC density that matched the trailers",
-          "publishedAt": "2026-08-25T15:16:01.000Z",
+          "url": "https://www.polygon.com/xbox-25th-anniversary-console-controller-preorders-price/",
+          "summary": "Xbox's new 25th anniversary hardware collection goes live with pre-orders for limited-edition Xbox Series X 1TB and Xbox wireless controller.",
+          "publishedAt": "2026-08-26T15:34:49.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Resident Evil Meets Evangelion in 2022’s Most Unforgettable Horror Game",
+          "title": "GTA 6 Leaks Keep Spilling In Defiance of Rockstar's 'Heartbreaking' Response",
           "source": "Polygon",
-          "url": "https://www.polygon.com/signalis-review-play-station-plus/",
-          "summary": "The retro-inspired survival horror gem Signalis proves that 'less is more' in games, and it's free on PlayStation Plus this month.",
-          "publishedAt": "2026-08-25T15:30:14.000Z",
+          "url": "https://www.polygon.com/gta-6-leak-rideout-customs-rockstar-games-statement-netflix-reveal/",
+          "summary": "Cyberleek is moving into spoiler territory with Lucia a day ahead of Netflix's extended GTA 6 look",
+          "publishedAt": "2026-08-26T15:41:39.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Pokémon Go 'PokémonXP and 2026 Worlds' event guide",
+          "title": "Ridley Scott Confirms an Unexpected Alien Sequel Is on the Way",
           "source": "Polygon",
-          "url": "https://www.polygon.com/pokemon-go-pokemonxp-2026-worlds-event-pikachu-costume/",
-          "summary": "Our Pokémon Go guide lists the \"PokémonXP & 2026 Worlds\" event perks as well as how to find these new costumed Pikachu.",
-          "publishedAt": "2026-08-25T15:31:06.000Z",
+          "url": "https://www.polygon.com/ridley-scott-alien-covenant-sequel/",
+          "summary": "Despite all the other Alien projects in the works, Ridley Scott is working on a sequel to 'Alien: Covenant.'",
+          "publishedAt": "2026-08-26T15:47:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "What time does TFT Set 18 release in your time zone?",
+          "title": "Xbox’s Disc-To-Digital Program Officially Revealed, Launches Next Week",
           "source": "Polygon",
-          "url": "https://www.polygon.com/teamfight-tactics-tft-set-18-enchanted-wilds-release-time-na-euw-eune-oce/",
-          "summary": "Teamfight Tactics Set 18: \"Enchanted Wilds\" is coming on Aug. 26. Here's what time it'll be available on your local server.",
-          "publishedAt": "2026-08-25T15:38:28.000Z",
+          "url": "https://www.polygon.com/xbox-disc-to-digital-program-release-date-announced/",
+          "summary": "Xbox has announced a disc-to-digital program launching at the end of the month for select Xbox One and Series X/S titles",
+          "publishedAt": "2026-08-26T15:52:25.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Officially Reveals New Switch 2 Bundles Ahead of Console Price Hike",
+          "title": "PlayStation Plus September 2026 Free Games Lineup Officially Revealed, Includes a Great Retro RPG",
           "source": "Polygon",
-          "url": "https://www.polygon.com/nintendo-switch-2-mario-kart-world-sports-resort-bundles-announced/",
-          "summary": "Nintendo has announced new Mario Kart World and Switch Sports Resort Switch 2 bundles ahead of the console's price hike",
-          "publishedAt": "2026-08-25T15:46:15.000Z",
+          "url": "https://www.polygon.com/playstation-plus-september-2026-games-announced-ps4-ps5-free-essential/",
+          "summary": "Sony's free PlayStation Plus Essential games for September 2026 have been announced, and include the retro RPG Chained Echoes.",
+          "publishedAt": "2026-08-26T15:58:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'GTA 6' Hacker's New Leak Is Total Rage Bait For Rockstar",
+          "title": "Resonance: A Plague Tale Legacy Feels More Like a Tomb Raider Game",
           "source": "Polygon",
-          "url": "https://www.polygon.com/gta-6-leak-game-store-physical-discs-cyberleek-rockstar/",
-          "summary": "Cyberleek's newest release is aimed at Rockstar and Take-Two's controversial GTA 6 business decisions regarding how the game is sold",
-          "publishedAt": "2026-08-25T16:20:32.000Z",
+          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-review/",
+          "summary": "Asobo Studio's Resonance: A Plague Tale Legacy trades in the series' stealth and rats for Tomb Raider-style action-adventure and puzzles",
+          "publishedAt": "2026-08-26T16:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "As Take-Two seeks IP addresses and phone numbers of thousands in GTA 6 subpoena, Discord says it's not been served the order just yet",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/as-take-two-seeks-ip-addresses-and-phone-numbers-of-thousands-in-gta-6-subpoena-discord-says-its-not-been-served-the-order-just-yet/",
-          "summary": "\"We'll evaluate the validity and scope before responding.\"",
-          "publishedAt": "2026-08-25T11:25:21.000Z",
+          "title": "Gamescom’s Best Video Game Trailer Arms Yakuza with American Flags",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/showa-american-story-gamescom-trailer/",
+          "summary": "Yakuza meets Lollipop Chainsaw in this wild action RPG that takes place in an alt-history 1980s where Japan has taken over the United States",
+          "publishedAt": "2026-08-26T16:50:42.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Two architectures on one chip: Arm and IBM team up in a legendary crossover, but alas it's for 'enterprise infrastructure'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/two-architectures-on-one-chip-arm-and-ibm-team-up-in-a-legendary-crossover-but-alas-its-for-enterprise-infrastructure/",
-          "summary": "It will reportedly operate at more than 5.7 GHz.",
-          "publishedAt": "2026-08-25T12:12:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Hideo Kojima wants to 'continue to focus on making games' at 63, even as 'the time I have decreases'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-wants-to-continue-to-focus-on-making-games-at-63-even-as-the-time-i-have-decreases/",
-          "summary": "\"I need to constantly scrutinize how I use my time and how I live my life.\"",
-          "publishedAt": "2026-08-25T14:35:25.000Z",
+          "title": "One Grotesque 1999 Card Makes an Underrated Final Fantasy Commander a Total Powerhouse",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mtg-squall-seed-mercenary-commander-decklist-bone-shredder/",
+          "summary": "A forgotten 1999 Magic card transforms Squall, SeeD Mercenary into a powerful Commander while capturing his Final Fantasy 8 character arc.",
+          "publishedAt": "2026-08-26T17:00:15.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,24 +119,121 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-08-25T17:45:27.414Z",
+      "generatedAt": "2026-08-26T17:57:37.154Z",
       "items": [
         {
-          "title": "Sony PlayStation 27\" Gaming Monitor Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-playstation-27-gaming-monitor-review",
-          "summary": "Sony’s first PlayStation monitor has landed. It’s surprisingly modest and practically useful, but is it worth paying extra for?",
-          "publishedAt": "2026-08-25T13:00:00.000Z",
+          "title": "Resonance: A Plague Tale Legacy review – a competent action game spinoff that loses what made its predecessors unique",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
+          "summary": "For a series about light and dark, it's appropriate that Resonance: A Plague Tale Legacy is a spinoff that's trying to escape the main entries' shadow. Developer Asobo Studio have dropped much that is",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Be Quiet! Light Mount TKL review",
+          "title": "Star Wars Zero Company review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
-          "summary": "A very welcome TKL update that didn't quite leave me speechless.",
-          "publishedAt": "2026-08-25T11:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/",
+          "summary": "Getting tactical with the boys.",
+          "publishedAt": "2026-08-26T13:00:00.000Z",
           "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "MSI Stealth 16 AI+ B3W review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-stealth-16-ai-b3w-review/",
+          "summary": "Hella nice, but hella expensive. Thanks, 2026.",
+          "publishedAt": "2026-08-26T15:04:21.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Star Wars Zero Company Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/star-wars-zero-company-review",
+          "summary": "An excellent tactical game with the same cinematic feel as the Star Wars Jedi games.",
+          "publishedAt": "2026-08-26T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/resonance-a-plague-tale-legacy-review",
+          "summary": "This prequel spinoff takes some interesting chances, only some of which pay off.",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resonance-a-plague-tale-legacy-review",
+          "summary": "Putting 'legacy' in the title of your game naturally encourages considerations about what that legacy might be &ndash; and that, in turn, invites thoughts about its identity. (And perhaps 'supremacy' ",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        }
+      ]
+    },
+    {
+      "id": "preview",
+      "title": "Previews",
+      "generatedAt": "2026-08-26T17:57:37.154Z",
+      "items": [
+        {
+          "title": "The Witcher 3 Songs of the Past’s First Gameplay Demo Showcases Geralt’s New Weapon and Deadly Enemies",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/",
+          "summary": "I watched an hour-long gameplay demo of The Witcher 3: Songs of the Past, and it shows Geralt back at his best.",
+          "publishedAt": "2026-08-26T08:57:36.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Metro 2039: The First Hands-On Preview",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/metro-2039-the-first-hands-on-preview",
+          "summary": "In an age where single-player first-person shooters are slowly going extinct because they only make money for their publisher once while multiplayer live-service shooters vie for our time and attentio",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Heroes of Might and Magic 3 Remake Preview: Hands-On with Ubisoft’s Reborn Strategy Classic - Gamescom 2026",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/heroes-of-might-and-magic-3-remake-preview-hands-on-with-ubisofts-reborn-strategy-classic-gamescom-2026",
+          "summary": "In a year where Ubisoft announced and shipped the Assassin’s Creed: Black Flag remake, a revival of Heroes of Might and Magic 3 might not be the highest-profile remake project, but it’s an appreciated",
+          "publishedAt": "2026-08-26T08:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Total War: Warhammer 40k – The First Hands-On Preview - Gamescom 2026",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/total-war-warhammer-40k-the-first-hands-on-preview-gamescom-2026",
+          "summary": "The core of Total War’s DNA appears intact so far in Total War: Warhammer 40K, but we will have to wait and see if the heavier focus on ranged combat and the other 40k influence will result in somethi",
+          "publishedAt": "2026-08-26T09:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Persona 4 Revival: The Good and the Bad of Our First Hands-On – Gamescom 2026",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/persona-4-revival-the-good-and-the-bad-of-our-first-hands-on-gamescom-2026",
+          "summary": "In the pantheon of the Persona series, its fourth entry is held in high regard, and time will tell if Persona 4 Revival will prove to be the best of the bunch. The little bit I got to see is at least ",
+          "publishedAt": "2026-08-26T09:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "1666: Amsterdam's early access is live now but there's still plenty that needs ironing out before I'd pay $30 for it",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/1666-amsterdams-early-access-is-live-now-but-theres-still-plenty-that-needs-ironing-out-before-id-pay-usd30-for-it/",
+          "summary": "Long road ahead.",
+          "publishedAt": "2026-08-25T19:40:08.000Z",
+          "tag": "Preview",
           "_example": false
         }
       ]
@@ -144,41 +241,32 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-08-25T17:45:27.414Z",
+      "generatedAt": "2026-08-26T17:57:37.154Z",
       "items": [
         {
-          "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
-          "summary": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
-          "publishedAt": "2026-08-25T10:52:58.000Z",
+          "title": "Meta’s 'Social Media Addiction' Lawsuit Ends In Shocking $17B Settlement",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/meta-settlement-business-facebook-social-media-addiction-lawsuit/",
+          "summary": "Facebook and Instagram's parent company still faces more lawsuits over the safety of children that could potentially add billions more to the tally",
+          "publishedAt": "2026-08-26T17:03:49.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Amazon and Twitch Face Class-Action Lawsuit After Introducing Opt-Out Setting That Uses Streamers' Content to Train AI",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/amazon-and-twitch-face-class-action-lawsuit-after-introducing-opt-out-setting-that-uses-streamers-content-to-train-ai",
-          "summary": "Twitch and Amazon are facing a class-action lawsuit after the streaming platform rolled out a feature that automatically trains its generative AI on streamers’ content unless they opt out.",
-          "publishedAt": "2026-08-24T19:40:20.000Z",
+          "title": "Crimson Desert's 2.0 update's most surprising change is an effort to make Kliff a fully realised character with thoughts and opinions",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/crimson-deserts-2-0-updates-most-surprising-change-is-an-effort-to-make-kliff-a-fully-realised-character-with-thoughts-and-opinions/",
+          "summary": "Kliff climbing.",
+          "publishedAt": "2026-08-26T11:36:00.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
-          "summary": "Alleged footage from Avalanche Studios' canceled Iron Man game has surfaced online.",
-          "publishedAt": "2026-08-24T21:03:11.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral",
-          "summary": "Publisher Activision and developer Infinity Ward have promised to update Captain Price's hair in Call of Duty: Modern Warfare 4 after images of his botched haircut went viral.",
-          "publishedAt": "2026-08-24T21:13:30.000Z",
+          "title": "State of Decay 3 lives on after studio's separation from Xbox, with a closed beta promised for this year",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/state-of-decay-3-lives-on-after-studios-separation-from-xbox-with-a-closed-beta-promised-for-this-year",
+          "summary": "Undead Labs has announced that a closed State of Decay 3 beta is coming sometime in 2026, weeks after the studio separated from Xbox. Read more",
+          "publishedAt": "2026-08-26T12:45:30.000Z",
           "tag": "Industry",
           "_example": false
         }
