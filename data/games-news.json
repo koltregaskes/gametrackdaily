@@ -1,116 +1,116 @@
 {
-  "generated": "2026-08-27T17:45:17.170Z",
+  "generated": "2026-08-28T17:45:53.378Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-08-27T17:45:17.170Z",
+      "generatedAt": "2026-08-28T17:45:53.378Z",
       "items": [
         {
-          "title": "\"We're not doing something that everyone [would] do\": After Cost of Hope, Stalker 2 devs are working on multiplayer which won't be \"session-based\" like Counter Strike",
+          "title": "\"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-not-doing-something-that-everyone-would-do-after-cost-of-hope-stalker-2-devs-are-working-on-multiplayer-which-wont-be-session-based-like-counter-strike",
-          "summary": "What's that coming through the hiss and crackle of static? It's a transmission from the Gamescom zone, where a trio of RPS survivalists are fighting to stay alive amid all manner of hazards. You don't",
-          "publishedAt": "2026-08-27T11:24:54.000Z",
+          "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
+          "summary": "Even as GTA 6 breaks the internet with its vistas of full frontal nudity, poledancers and endless, lustful twerking, another promising open world satire with \"mild nudity\" and some racey encounters ha",
+          "publishedAt": "2026-08-28T11:23:35.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Exodus will likely win the Mass Effect spiritual successor war, thanks partly to its Cool Octopus, but I think it has a boring hero problem",
+          "title": "I found solace from Silent Hill: Townfall's stealthy horror in the soothing Britishness of its abandoned homes",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/exodus-will-likely-win-the-mass-effect-spiritual-successor-war-thanks-partly-to-its-cool-octopus-but-i-think-it-has-a-boring-hero-problem",
-          "summary": "With The Expanse: Osiris Reborn proving lacklustre in the hands, I'd say Archetype's time-dilating space RPG Exodus is currently closest to the much-coveted status of unofficial Mass Effect 5 . The de",
-          "publishedAt": "2026-08-27T12:29:27.000Z",
+          "url": "https://www.rockpapershotgun.com/i-found-solace-from-silent-hill-townfalls-stealthy-horror-in-the-soothing-britishness-of-its-abandoned-homes",
+          "summary": "I suppose, in a way, I asked for this. Crouched and cowering behind a garden fence, inches away from the thrashing, cleaver-faced miscreation who&rsquo;d quite comfortably win in a fight against my sp",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Oh lord, Konami want yearly Silent Hill games alongside vaguely described \"experiences,\" just don't let that be another movie",
+          "title": "\"Hopefully a meteor will strike the earth soon\": Game devs talk genAI witchhunts and the importance of honing your visual literacy",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-described-experiences-just-dont-let-that-be-another-movie",
-          "summary": "After an entire decade without a proper new Silent Hill game, in the past three years we've had two completely new games (one of which was pretty damn good if you ask me ), one remake, whatever Ascens",
-          "publishedAt": "2026-08-27T16:07:20.000Z",
+          "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
+          "summary": "The era of generative AI has kindled an era of generative AI witchhunts. It's routine right now for videogame developers to fend off accusations of using the technology, even when they are full-throat",
+          "publishedAt": "2026-08-28T15:49:03.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Dwarf Fortress is getting the mother of all magic updates, extending to \"the fundamental cosmological makeup of the universe\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-          "summary": "Infamously simulation-heavy colony builder Dwarf Fortress is getting a Myth and Magic update that, at the possible risk of being maybe a touch hyperbolic, threatens to make all other fantasy game spel",
-          "publishedAt": "2026-08-27T16:20:59.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'Those Before Us' lens puzzle solution in Resonance A Plague Tale Legacy",
+          "title": "DC Officially Unveils New Superman Replacement",
           "source": "Polygon",
-          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-chapter-3-lens-puzzle-solution/",
-          "summary": "In Chapter 3, \"Those Before Us,\" in Resonance: A Plague Tale Legacy, you need to redirect light using glass lenses. Here's how to solve the puzzle.",
-          "publishedAt": "2026-08-27T16:01:14.000Z",
+          "url": "https://www.polygon.com/new-dcu-superman-replacement/",
+          "summary": "The Man of Steel is about to look a whole lot different.",
+          "publishedAt": "2026-08-28T13:26:13.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'From Hell It Rose' door puzzle solution in Resonance A Plague Tale Legacy",
+          "title": "Xbox's New Fable Hones the Classic Series' Combat to Near-Perfection",
           "source": "Polygon",
-          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-chapter-4-door-puzzle-solution/",
-          "summary": "In Chapter 4, \"From Hell It Rose,\" in Resonance: A Plague Tale Legacy, you'll encounter a sealed door. Here's how to unlock and open it.",
-          "publishedAt": "2026-08-27T16:01:14.000Z",
+          "url": "https://www.polygon.com/fable-hands-on-preview-gamescom-combat/",
+          "summary": "The Fable demo previewed at Gamescom showcases the game's fluid combat, blending many fighting styles in one.",
+          "publishedAt": "2026-08-28T13:35:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'From Hell It Rose' lens puzzle solution in Resonance A Plague Tale Legacy",
+          "title": "Resident Evil 4 Remake ‘Chapter 0’ Released to Bring Back Cut Content",
           "source": "Polygon",
-          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-chapter-4-lens-puzzle-solution/",
-          "summary": "In Chapter 4, \"From Hell It Rose,\" in Resonance: A Plague Tale Legacy, you'll encounter another lens puzzle. Here's how to solve it.",
-          "publishedAt": "2026-08-27T16:01:14.000Z",
+          "url": "https://www.polygon.com/resident-evil-4-remake-mod-chapter-0-prologue-ashley/",
+          "summary": "Resident Evil 4's remake had a cut prologue chapter that a modder has made entirely playable.",
+          "publishedAt": "2026-08-28T14:37:35.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'From Hell It Rose' maze puzzle solution in Resonance A Plague Tale Legacy",
+          "title": "How Will GTA 6 Work With GTA Online? Here Are 3 Possibilities",
           "source": "Polygon",
-          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-chapter-4-maze-puzzle-solution/",
-          "summary": "Here's how to solve the Chapter 4 maze puzzle in Resonance: A Plague Tale Legacy",
-          "publishedAt": "2026-08-27T16:01:14.000Z",
+          "url": "https://www.polygon.com/gta-online-gta-6-release-new/",
+          "summary": "Thanks to a recent leak, we have a clearer picture about what Rockstar Games may have planned for the online future of GTA Online",
+          "publishedAt": "2026-08-28T16:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'From Hell It Rose' spike trap puzzle solution in Resonance A Plague Tale Legacy",
+          "title": "'Dragon Ball Super' Artist Teases Manga’s Official Return After More Than 2 Years",
           "source": "Polygon",
-          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-chapter-4-spike-trap-puzzle-solution/",
-          "summary": "In Chapter 4, \"From Hell It Rose,\" in Resonance: A Plague Tale Legacy, you'll encounter a room full of spike traps. Here's how to safely cross it.",
-          "publishedAt": "2026-08-27T16:01:14.000Z",
+          "url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
+          "summary": "The 'Dragon Ball Super' manga may be close to returning after a two-year break, according to an X post from its illustrator..",
+          "publishedAt": "2026-08-28T16:09:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox 25th Anniversary Release Sells Out Within Minutes, Despite $899 Price",
+          "title": "Iron Man's Official Return Looks Incredible in Leaked Footage",
           "source": "Polygon",
-          "url": "https://www.polygon.com/xbox-25th-anniversary-console-pre-order-sold-out/",
-          "summary": "The special 25th anniversary edition of the Xbox Series X sells out within minutes of pre-orders going live, making it a goldmine for scalpers.",
-          "publishedAt": "2026-08-27T16:03:36.000Z",
+          "url": "https://www.polygon.com/marvel-iron-man-game-leak-ea-motive/",
+          "summary": "Marvel's new Iron Man game has leaked and early footage of the EA Motive game shows a promising return for Tony Stark's alter ego.",
+          "publishedAt": "2026-08-28T16:35:43.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Elden Ring Fans Just Got a Major Reason to Come Back to the Game",
+          "title": "GTA 6 Reveal Completely Overshadowed By Pony Island 2 Trailer",
           "source": "Polygon",
-          "url": "https://www.polygon.com/elden-ring-patch-notes-tarnished-edition-switch-2/",
-          "summary": "'Elden Ring' is getting a huge new patch that adds new weapons and rebalances several items.",
-          "publishedAt": "2026-08-27T16:25:03.000Z",
+          "url": "https://www.polygon.com/pony-island-2-panda-circus-trailer/",
+          "summary": "Rockstar stole the show this week with its Grand Theft Auto 6 showcase, but I'm still thinking about the latest trailer for Pony Island 2: Panda Circu",
+          "publishedAt": "2026-08-28T16:38:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "40 Years Later, Hollywood Still Hasn't Learned the Right Lesson from 'Highlander'",
+          "title": "Was the GTA 6 Extended Look a Show of Rockstar's Confidence or Hubris?",
           "source": "Polygon",
-          "url": "https://www.polygon.com/highlander-40-years-later/",
-          "summary": "A look back at the self-serious slog that is 1986's Highlander",
-          "publishedAt": "2026-08-27T17:00:14.000Z",
+          "url": "https://www.polygon.com/gta-6-trailer-3-extended-look-netflix-analysis/",
+          "summary": "Rockstar's third, 26-minute trailer for Grand Theft Auto 6 was unlikely any other - not least because it debuted on Netflix",
+          "publishedAt": "2026-08-28T17:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 is adding a more nuanced version of Red Dead Redemption 2's honor system to ensure player characters aren't too 'all-powerful'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-adding-a-more-nuanced-version-of-red-dead-redemption-2s-honor-system-to-ensure-player-characters-arent-too-all-powerful/",
+          "summary": "Careful when you're in Leonida, it's on sight.",
+          "publishedAt": "2026-08-28T11:21:22.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,32 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-08-27T17:45:17.170Z",
+      "generatedAt": "2026-08-28T17:45:53.378Z",
       "items": [
         {
-          "title": "Alienware AW3926QW review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3926qw-review/",
-          "summary": "The 5K2K ultrawide OLED everyone has been waiting for is finally here...",
-          "publishedAt": "2026-08-27T14:00:26.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Batman: Bad Seeds - Sunset #1 Review",
+          "title": "Boorman and the Devil Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/batman-bad-seeds-sunset-1-review",
-          "summary": "DC's latest Batman crossover kicks off in Batman: Bad Seeds - Sunset #1, but should you read it? Check out our full review to find out.",
-          "publishedAt": "2026-08-27T13:00:00.000Z",
+          "url": "https://www.ign.com/articles/boorman-and-the-devil-review",
+          "summary": "Review: John Boorman and the Devil is a fun and engrossing look at the creation of what is considered to be one of the worst sequels ever made.",
+          "publishedAt": "2026-08-28T12:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Resonance: A Plague Tale Legacy review – picture-postcard retelling of haunting Minoan myth",
-          "source": "The Guardian Tech",
-          "url": "https://www.theguardian.com/games/2026/aug/27/resonance-a-plague-tale-legacy-review",
-          "summary": "PlayStation 5, Xbox Series S/X, PC; Asobo Studio The medieval franchise is transplanted to Crete, conjuring action-adventure magic from familiar ingredients The path in Resonance: A Plague Tale Legacy",
-          "publishedAt": "2026-08-27T12:00:14.000Z",
+          "title": "Grand Theft Auto III – The Legacy Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/grand-theft-auto-iii-the-legacy-review",
+          "summary": "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn’t just change the trajectory of the GTA series forever – it changed the business.",
+          "publishedAt": "2026-08-28T14:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Gallipoli Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gallipoli-review",
+          "summary": "Gallipoli is the most beautiful game in the WW1 series yet, with excellent maps, fun new classes, and a continued focus on teamwork in order to win.",
+          "publishedAt": "2026-08-28T16:12:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Hell Let Loose: Vietnam review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hell-let-loose-vietnam-review",
+          "summary": "The most surprising thing about Hell Let Loose: Vietnam is how much DNA it shares with Big Walk. They both frequently involve traversing large expanses of terrain. They both have excellent maps. Most ",
+          "publishedAt": "2026-08-28T14:42:37.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -153,14 +162,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-08-27T17:45:17.170Z",
+      "generatedAt": "2026-08-28T17:45:53.378Z",
       "items": [
         {
-          "title": "GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance",
-          "summary": "Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more",
-          "publishedAt": "2026-08-27T09:51:21.000Z",
+          "title": "Solve a mountain mystery via the medium of creepy cards in Hillthorn, which has an excellent demo",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/solve-a-mountain-mystery-via-the-medium-of-creepy-cards-in-hillthorn-which-has-an-excellent-demo",
+          "summary": "Attention, dusty creeps who want to play poker with the Wickerman! I found one, a videogame you might enjoy. That game is Hillthorn, a spooky investigative cardgame from Fool Moon and Finnegan Motors ",
+          "publishedAt": "2026-08-28T12:42:20.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -169,41 +178,14 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-08-27T17:45:17.170Z",
+      "generatedAt": "2026-08-28T17:45:53.378Z",
       "items": [
         {
-          "title": "Holy crap, it's happening: Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system",
+          "title": "Manor Lords celebrates 4 million copies sold with a new major update which gives players the chance to become 'a cow-herding mogul'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
-          "summary": "\"Everything that makes fantasy what it is—with every piece tied into how that particular universe works, down to its bones.\"",
-          "publishedAt": "2026-08-27T15:12:30.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Arc Raiders is adding a camera mode as part of October's major update, but some fans need more proof that the game's not going to wither away",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-adding-a-camera-mode-as-part-of-octobers-major-update-but-some-fans-need-more-proof-that-the-games-not-going-to-wither-away/",
-          "summary": "This would've been really cool eight months ago.",
-          "publishedAt": "2026-08-27T16:21:58.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Witcher 3 Remastered includes work from a top modder, as CD Projekt Red follow the path they walked with the RPG's next-gen update",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-includes-work-from-a-top-modder-as-cd-projekt-follow-the-path-they-walked-with-the-rpgs-next-gen-update",
-          "summary": "As revealed earlier this week alongside a look at next year's Songs of the Past expansion , The Witcher 3 is getting a free remastered update next month. As with 2022's next-gen update , some of its t",
-          "publishedAt": "2026-08-27T09:29:37.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Poppy Playtime studio reveals its next survival horror game, and this time it's co-op",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/poppy-playtime-studio-reveals-its-next-survival-horror-game-and-this-time-its-co-op/",
-          "summary": "You've met the critters, now become one in Mob Entertainment's Escape From Playtime.",
-          "publishedAt": "2026-08-26T18:58:51.000Z",
+          "url": "https://www.pcgamer.com/games/city-builder/manor-lords-celebrates-4-million-copies-sold-with-a-new-major-update-which-gives-players-the-chance-to-become-a-cow-herding-mogul/",
+          "summary": "It's a great time to be a cow farmer.",
+          "publishedAt": "2026-08-27T17:03:42.000Z",
           "tag": "Industry",
           "_example": false
         }
