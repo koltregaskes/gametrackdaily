@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-08-26T04:28:59.315Z",
+  "updatedAt": "2026-08-29T11:54:37.259Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,283 +641,15 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-391110",
-      "title": "States of Power",
-      "date": "2026-08-25",
+      "id": "igdb-game-323532",
+      "title": "Don't Drop The Cake",
+      "date": "2026-08-29",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Command your nation's armies, economy, and diplomacy in this WWII grand strategy wargame. Easy to start, hard to master and a full match fits in one session. Play singleplayer and multiplayer, or create, play and share your own custom scenarios with the built-in scenario editor."
-    },
-    {
-      "id": "igdb-game-402163",
-      "title": "Luminous Jigsaw Puzzles",
-      "date": "2026-08-25",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step away from the noise of the world and enter the enchanting realms of Luminous Ages. This isn't just a puzzle game; it’s a journey through a vibrant multiverse brought to life by the breathtaking, hand-illustrated gallery of renowned fantasy creator Anthony Christou.\n\nWrap you"
-    },
-    {
-      "id": "igdb-game-389424",
-      "title": "Brigandine Abyss",
-      "date": "2026-08-25",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The king of Solginat is dead, and a new would-be emperor stands over the corpse. Confront the dark in one of six different storylines as you manage resources, rally your monsters, and stand against the empire"
-    },
-    {
-      "id": "igdb-game-362893",
-      "title": "Find My Frogs: Branches",
-      "date": "2026-08-25",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Find My Frogs: Branches is a cozy hidden object game where you search for frogs and toads in a hand-drawn village nestled high in the branches of an ancient tree. Explore charming corners, discover tiny secrets, and help Uncle Froger find his missing hat."
-    },
-    {
-      "id": "igdb-game-348168",
-      "title": "Resonance: A Plague Tale Legacy",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Resonance: A Plague Tale Legacy is an upcoming action-adventure game developed by Asobo Studio and published by Focus Entertainment. Set 15 years before A Plague Tale: Requiem, it follows Sophia, a young plunderer, as she travels to Minotaur’s Island and searches for answers abou"
-    },
-    {
-      "id": "igdb-game-340113",
-      "title": "Star Wars Zero Company",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Command an elite squad through a gritty and authentic story in Star Wars Zero Company, a single-player turn-based tactics game."
-    },
-    {
-      "id": "igdb-game-389433",
-      "title": "Metal Gear Solid Master Collection: Volume 2",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "This second installment to the collection features “Metal Gear Solid 4: Guns of the Patriots” and “Metal Gear Solid: Peace Walker (HD Collection version),” and also a digital soundtrack and \"Metal Gear: Ghost Babel\" as bonus content."
-    },
-    {
-      "id": "igdb-game-214706",
-      "title": "Lou's Lagoon",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A cozy exploration-and-crafting adventure: fly your seaplane between tropical islands, collect resources with the Swirler 2000, rebuild storm damaged communities, and unravel the mystery surrounding Uncle Lou’s disappearance."
-    },
-    {
-      "id": "igdb-game-391780",
-      "title": "Metal Gear Solid 4: Guns of the Patriots - Master Collection Version",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The extreme tension of infiltrating without being detected.\n\nMetal Gear series, the pinnacle of “stealth action” Immerse yourself in the Metal Gear series, the pinnacle of “stealth action” where you can infiltrate and elude your enemies to complete missions.\n\nThe game takes place"
-    },
-    {
-      "id": "igdb-game-358583",
-      "title": "Aggelos 2",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "With the gods of light about to lose the great battle against the gods of darkness, you must master two powerful forms. Dive into a challenging Metroidvania set across contrasting worlds filled with secrets, puzzles, and intense 2D combat in this action-packed sequel"
-    },
-    {
-      "id": "igdb-game-391792",
-      "title": "Metal Gear Solid: Peace Walker - Master Collection Version",
-      "date": "2026-08-26",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The extreme tension of infiltrating without being detected.\n\nMetal Gear series, the pinnacle of “stealth action” where you avoid combat and complete missions while hiding.\n\nThe game take place 10 years after Metal Gear Solid 3: Snake Eater.\n\nAmidst the swirling conspiracies behin"
-    },
-    {
-      "id": "igdb-game-337774",
-      "title": "AstroScaper",
-      "date": "2026-08-26",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A minimalist puzzle city-builder where every placement counts. Build colonies on asteroids using strategic proximity-based mechanics and minimal resource management. Relax in freebuild mode or chase high scores in challenge mode – all against a serene cosmic backdrop."
-    },
-    {
-      "id": "igdb-game-395340",
-      "title": "Chou Shin Jikuu Geimu Neptune: Unlimited",
-      "date": "2026-08-26",
-      "platforms": [
-        "PlayStation 4",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hyperdimension Neptunia!\nThe latest installment in the numbered series!\n\nThe Gamindustri world is facing an impending doom.\nWith the addition of a new goddess,\nEleven of them will face the giant meteorite together.\nA hopeful adventure woven by goddesses\nNow, the grand curtain ris"
-    },
-    {
-      "id": "igdb-game-217217",
-      "title": "Gawr Gura: Quest for Bread",
-      "date": "2026-08-26",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An interdimensional, time-traveling, action-platforming adventure game featuring everyone's favorite shark."
-    },
-    {
-      "id": "igdb-game-400492",
-      "title": "Hyperdimension Neptunia Unlimited",
-      "date": "2026-08-26",
-      "platforms": [
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hyperdimension Neptunia ∞ (Unlimited) is an upcoming entry in the series where the world faces an apocalyptic loop triggered by a mysterious “meteorite.” As reality repeatedly resets, Neptune awakens alone in a white void and gains the power to “retry” fate itself. Alongside new "
-    },
-    {
-      "id": "igdb-game-122521",
-      "title": "Divinum",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Divinum is an action-adventure that blends stylish, expressive combat with rewarding exploration. Master devastating combos and craft unique builds to fight back mysterious invaders and uncover your island’s hidden truth."
-    },
-    {
-      "id": "igdb-game-335257",
-      "title": "Fracture Point",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "After years in prison, you return to a dark megacity ruled by a ruthless corporation. The only way forward is up—through countless floors of a heavily guarded skyscraper—to reach the corporation's leader and take your revenge."
-    },
-    {
-      "id": "igdb-game-404912",
-      "title": "Vampire Survivors: Legacy of the Bloodmoon",
-      "date": "2026-08-27",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A cautionary tale, or a story better left untold? Legacy of the Bloodmoon is the darkest expansion to date for Vampire Survivors. Discover the path to ruin that this pack of villains is headed down. Unlock new weapons and characters to find new ways to snowball against relentless"
-    },
-    {
-      "id": "igdb-game-388427",
-      "title": "Captain Tsubasa II: World Fighters",
-      "date": "2026-08-27",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The next episode of Tsubasas riveting adventure is here! Enjoy the thrill of spectacular soccer actions with 110 playable characters and new sensational super moves. Challenge a friend in the field or support Tsubasa on his Journey, the ball is yours."
-    },
-    {
-      "id": "igdb-game-381679",
-      "title": "Inferno Protocol",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Trapped in a deadly labyrinth, you and 5 friends must scavenge, craft, and survive. Harvest monster parts for gear, inject experimental syringes to gain unique skills, and navigate trap-filled corridors. In this 6-player horror survival, you must evolve to escape."
-    },
-    {
-      "id": "igdb-game-365974",
-      "title": "Cyber Cleaner Simulator",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Vacuum space junk, polish derelict ships, and clear alien worlds of debris as you upgrade your high-tech cleaning gear."
-    },
-    {
-      "id": "igdb-game-344991",
-      "title": "Russian Survivors",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Fight versus unlimited hordes of lizards and italian brainrot animals in post-soviet environment."
-    },
-    {
-      "id": "igdb-game-399073",
-      "title": "The Abandoned House in Yeongdeok",
-      "date": "2026-08-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "She was sent to the abandoned house in Yeongdeok as part of a viewer punishment challenge. But the joke ended the moment the door slammed shut."
+      "summary": "Let's deliver a cake to our customer. To reach them, you must traverse a space filled with monstrous creatures. If fear makes you tremble or you drop the cake in panic, you'll face the customer's wrath. This challenge isn't for cowards. Only the brave and composed will succeed. A"
     },
     {
       "id": "igdb-game-252870",
@@ -969,6 +701,17 @@
       "summary": "Project Reignition is an on-rails platformer developed by KumaPauZ. This unofficial remake of Sonic and the Secret Rings, originally developed by Sonic Team and published by SEGA in 2007 for the Wii, aims to bring the classic game to modern systems. Built using the Godot engine, "
     },
     {
+      "id": "igdb-game-266460",
+      "title": "JunkTok: Paranormal Investigators Challenge",
+      "date": "2026-08-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Another 3-player co-op horror slop. But it’s set in 2016, baby!"
+    },
+    {
       "id": "igdb-game-352990",
       "title": "Sucker for Love: Crush Landing",
       "date": "2026-08-30",
@@ -1018,6 +761,17 @@
       "summary": "HMUR is a fast-paced retro-FPS, in the original setting, that merges Soviet aesthetics with whacky madness and frantic dynamics of iconic 90s shooters. Survive a disaster at a classified Soviet facility as you blast your way through crowds of enemies. Speed is your key to surviva"
     },
     {
+      "id": "igdb-game-278965",
+      "title": "Odd Town",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore, eat, drink, and investigate in Odd Town — a first-person adventure where a picturesque small town hides something sinister beneath its charm."
+    },
+    {
       "id": "igdb-game-407766",
       "title": "Salvation: Echoes of War",
       "date": "2026-08-31",
@@ -1053,6 +807,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "THE BREED IS BACK! Celebrate 35 years of Alien Breed with the definitive collection. Featuring 6 classic games, interactive archives, modern controls, visual enhancements, co-op multiplayer, Online Rush Mode and Horde Mode, bringing the complete sci-fi horror legacy back to your "
+    },
+    {
+      "id": "igdb-game-401555",
+      "title": "Death Penalty",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You are sentenced to death... Slither your way through an impenetrable fortress crawling with devils faster, stronger, and more cunning than any human. By sheer luck you've slipped through the cracks, but discovery means certain death. How long are you going to delay the inevitab"
     },
     {
       "id": "igdb-game-402758",
@@ -1217,6 +982,17 @@
       "summary": "A game about organizing, stacking and remembering where you put hundreds of books in a cozy-creepy medieval library. Play solo or with up to three fellow monks."
     },
     {
+      "id": "igdb-game-391675",
+      "title": "Donutal",
+      "date": "2026-09-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You awaken from a cold sleep and suddenly find yourself in the year 2206. What you once knew as the International Space Station is now the International Space Port—a gateway for aliens coming to Earth. Crushed by a massive, unexplained debt, you’re forced into a job you never ask"
+    },
+    {
       "id": "igdb-game-408920",
       "title": "God of Chaos",
       "date": "2026-09-02",
@@ -1232,7 +1008,9 @@
       "title": "Shoe it All!",
       "date": "2026-09-02",
       "platforms": [
-        "Windows PC"
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -1311,6 +1089,17 @@
       "summary": "A dark tactical roguelite where positioning, synergies, and automated battles collide on a tiny 3x3 ritual grid. Like chess with demons."
     },
     {
+      "id": "igdb-game-351421",
+      "title": "Cattopia",
+      "date": "2026-09-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cattopia is an energetic momentum-based 2D platformer where you use a fishing line to swing around! Help Catto swing through many branching paths while catching fish and helping out his friends along the way."
+    },
+    {
       "id": "igdb-game-350475",
       "title": "Dungeon Raid",
       "date": "2026-09-03",
@@ -1320,6 +1109,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dungeon Raid is an adventure card roguelike. Dive deeper and deeper into the dungeon. Use everything you find to defeat enemies and kill the final boss. Good luck! And try not to die... from hunger."
+    },
+    {
+      "id": "igdb-game-408823",
+      "title": "NBA 2K27",
+      "date": "2026-09-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The hustle doesn’t stop and the run never ends in NBA 2K27. Chase greatness around the clock in MyCAREER, MyTEAM, and MyNBA, and make your hoop dreams a reality."
     },
     {
       "id": "igdb-game-387496",
@@ -1364,6 +1166,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Nothing Strange Here is a single-player open-world adventure game with mystery and slice-of-life elements. Set in the small town of Larcenest Gap, players take on the role of a reporter exploring the community, documenting strange events, and interacting with townsfolk.\n\nThe game"
+    },
+    {
+      "id": "igdb-game-415267",
+      "title": "The Ash Remembers",
+      "date": "2026-09-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Ash Remembers is a dark fantasy idle RPG set in Veyr, a world where ash has been falling for as long as the chronicles reach — and where the ash does not forget. The player arrives at the city of Emberwake as a nameless wanderer and builds a life there: fighting, gathering, c"
     },
     {
       "id": "igdb-game-362096",
@@ -1604,6 +1417,17 @@
       "summary": "Welcome to Elderfield is a spooky farming RPG. You can farm, fish, mine, cook, craft, befriend townsfolk, beseech the old gods, investigate mysteries, watch unsettling news programs, get lost in the dead mall, die in your sleep and more. There's lots to do in Elderfield!"
     },
     {
+      "id": "igdb-game-288782",
+      "title": "Dungeon Settlers",
+      "date": "2026-09-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A colony sim based dungeon crawler where you manage your clan to build a settlement in barren land, provide food and shelter for your people, lead them deep into the merciless dungeon, overcome challenging combat by your strategy."
+    },
+    {
       "id": "igdb-game-387461",
       "title": "The Alighieri Circle: Dante’s Bloodline",
       "date": "2026-09-09",
@@ -1615,17 +1439,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The world knows the Divine Comedy as a poem. For your family, it is a prison. As Gabriele Alighieri, you inherit a duty: reseal the gates of Hell. Burdened by fate, you descend into a psychological nightmare where the only escape is to uncover the dark secrets of your ancestors."
-    },
-    {
-      "id": "igdb-game-288782",
-      "title": "Dungeon Settlers",
-      "date": "2026-09-09",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A colony sim based dungeon crawler where you manage your clan to build a settlement in barren land, provide food and shelter for your people, lead them deep into the merciless dungeon, overcome challenging combat by your strategy."
     },
     {
       "id": "igdb-game-409210",
@@ -1650,6 +1463,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Magical Blush is a top-down action-adventure where fast-paced elemental combat meets Metroidvania-style exploration. Chain spell combos, exploit elemental weaknesses, rescue survivors, and team up in local co-op as you battle the powerful Elemental Lords and explore the wondrous "
+    },
+    {
+      "id": "igdb-game-414526",
+      "title": "Dumb Ways to Build",
+      "date": "2026-09-09",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dumb Ways to Build is a chaotic, physics-based co-op game. Team up with friends to assemble your crew and take-on dangerous construction jobs. With all the gear and no idea, work together to build your path forward, or die trying!"
     },
     {
       "id": "igdb-game-291764",
@@ -1686,6 +1512,17 @@
       "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack."
     },
     {
+      "id": "igdb-game-326485",
+      "title": "Anime Shop Simulator",
+      "date": "2026-09-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Manage your own anime shop. Play solo or team up with friends in 4-player co-op mode to grow your business. Stock shelves with manga, figures, and collectible cards in this immersive first-person game."
+    },
+    {
       "id": "igdb-game-387836",
       "title": "Grandpa's Bee Haven",
       "date": "2026-09-10",
@@ -1718,6 +1555,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Luduvo is a user-generated content (UGC) sandbox gaming platform built on a proprietary engine. The platform allows players to create, share, and play community-designed games using a suite of built-in development tools and custom avatar configurations. Emphasizing digital safety"
+    },
+    {
+      "id": "igdb-game-320131",
+      "title": "Dunebound Tactics",
+      "date": "2026-09-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lead your band of survivors on a perilous trek across unforgiving sands in search of a new home. Battle ruthless factions, scavenge dwindling resources, reshape the terrain to your advantage and make life-or-death choices in Dunebound Tactics, a Roguelite Turn-Based Tactical RPG."
     },
     {
       "id": "igdb-game-354887",
@@ -1786,6 +1634,32 @@
       "summary": "Marvel's Wolverine is a single-player action-adventure game and a standalone entry in the Marvel's Spider-Man series, sharing continuity with those titles while telling its own self-contained story. Players control Logan/Wolverine in close-quarters combat, using his adamantium cl"
     },
     {
+      "id": "igdb-game-322158",
+      "title": "Active Matter",
+      "date": "2026-09-14",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You’re an operative stuck in a time loop, always brought back from the dead to the same point.\n\nChoose your loadout and enter quantum unstable zones rich with active matter — a substance capable of warping and ripping the very fabric of space and time.\n\nFight against rivals from "
+    },
+    {
+      "id": "igdb-game-414945",
+      "title": "Train Sim World 7",
+      "date": "2026-09-14",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Live life on the tracks and discover the joy of train simulation. Whether looking for a relaxing run on the rails or seeking the thrill of mastering your virtual train driver career, find your way in Train Sim World 7."
+    },
+    {
       "id": "igdb-game-376511",
       "title": "Fright Train",
       "date": "2026-09-14",
@@ -1808,17 +1682,15 @@
       "summary": "Run a cozy bar, make cocktails for fun customers! Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!"
     },
     {
-      "id": "igdb-game-414945",
-      "title": "Train Sim World 7",
+      "id": "igdb-game-216847",
+      "title": "Secrets of Temple Isle",
       "date": "2026-09-14",
       "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
+        "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Live life on the tracks and discover the joy of train simulation. Whether looking for a relaxing run on the rails or seeking the thrill of mastering your virtual train driver career, find your way in Train Sim World 7."
+      "summary": "Explore ancient ruins and diverse biomes, fight in third-person combat while collecting gear and powers. Design your space and decorate with items gathered in the world. Become the legend in this exciting single player adventure."
     },
     {
       "id": "igdb-game-249202",
@@ -1832,17 +1704,6 @@
       "summary": "A 1-8 player fantasy RPG set in a handcrafted pixel world. Build your hero across 8 races and 6 classes. Explore ancient lands, master elemental combat, forge relationships, and shape a stronghold to call home. Fight for the fate of Dimraeth—together or alone."
     },
     {
-      "id": "igdb-game-216847",
-      "title": "Secrets of Temple Isle",
-      "date": "2026-09-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore ancient ruins and diverse biomes, fight in third-person combat while collecting gear and powers. Design your space and decorate with items gathered in the world. Become the legend in this exciting single player adventure."
-    },
-    {
       "id": "igdb-game-348202",
       "title": "Aniimo",
       "date": "2026-09-15",
@@ -1854,6 +1715,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. Explore the vast continent of Idyll, Twine with unique Aniimo, unlock new abilities. Travel to a sky-floating metropolis, meet other Pathfinders, and battle in exciting competitions. Choose your Aniimo and begin"
+    },
+    {
+      "id": "igdb-game-371847",
+      "title": "Blackwood",
+      "date": "2026-09-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "By day, you run a DVD store in 2012 New York. By night, you’re a ruthless assassin. BLACKWOOD is a cinematic third-person shooter with grounded melee combat, brutal takedowns, responsive gunplay, and a double life to manage."
     },
     {
       "id": "igdb-game-145078",
@@ -2003,6 +1875,18 @@
       "summary": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town’s stores and fill them with dragon cards as you watch the whimsical shopping district come to life."
     },
     {
+      "id": "igdb-game-369701",
+      "title": "Akiba Lost",
+      "date": "2026-09-16",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Thirteen years ago, six girls vanished in Akihabara in the unsolved case “Akiba’s Spirited Away”. Daiki Shinjo announces a live-action game based on the incident, gathering six women who embody Akihabara’s subculture. But their story begins to seep into reality. Can AKIBA LOST be"
+    },
+    {
       "id": "igdb-game-414555",
       "title": "Concrete Burial",
       "date": "2026-09-16",
@@ -2023,6 +1907,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "These monsters aren’t just in the movies! Will you hunt the vampires, werewolves and others stalking Hollywood, or will you become a monster instead? An interactive, text-based game set in the World of Darkness shared story universe."
+    },
+    {
+      "id": "igdb-game-409384",
+      "title": "The Walking Dead: Streets of Survival",
+      "date": "2026-09-17",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fight walkers as Rick Grimes, Daryl Dixon and Michonne in a brutal arcade brawler set in the world of AMC’s The Walking Dead. Face ruthless enemies like the Saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers."
     },
     {
       "id": "igdb-game-409510",
@@ -2059,6 +1956,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fish will come, fish will go. Take photos, collect beans, decorate your seascape, then relax or do other things while your friends swim by in this calming side-idler."
+    },
+    {
+      "id": "igdb-game-397817",
+      "title": "Graveyard Keeper II",
+      "date": "2026-09-21",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The most inaccurate medieval cemetery sim is back! Restore The Town, manage the graveyard, automate production, lead your undead army into battle and turn the zombie problem into a thriving business! Graveyard Keeper 2 is the grotesque sequel that's deeper than six feet, and more"
     },
     {
       "id": "igdb-game-380416",
@@ -2118,6 +2028,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Chill metroidvania maximizes non-linear exploration & puzzle-platforming. Frequent checkpoints, no currency, no combat. Gain friends & abilities. Collectables-as-media; tarot cards, weird podcasts, and songs from over 20 bands; all found within a surreal papercraft world."
+    },
+    {
+      "id": "igdb-game-415186",
+      "title": "Medieval Dynasty: Hunting Pack",
+      "date": "2026-09-21",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Demonstrate your hunting skills with the Hunting Pack DLC! Choose between special outfits, grab one of the unique weapons, and prove to everyone you are the best hunter around. Let the hunt begin with the set of new legendary items."
     },
     {
       "id": "igdb-game-378548",
@@ -2310,6 +2231,19 @@
       "summary": "Drop the pickaxe, grab a sword, and charge into a thrilling new adventure in Minecraft Dungeons II. Journey through unexplored lands and mysterious locations, in a quest to stop a new evil from causing chaos in not one, but two worlds! Clash with menacing foes in explosive encoun"
     },
     {
+      "id": "igdb-game-415005",
+      "title": "The Witcher 3: Wild Hunt Remastered",
+      "date": "2026-09-28",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Coming on September 29, this is the definitive way to experience Geralt of Rivia’s legendary adventure. The Witcher 3: Wild Hunt — Remastered features an array of improvements, bringing upgrades to visuals, gameplay, and more.\n\nRemastered is a free upgrade for players who own The"
+    },
+    {
       "id": "igdb-game-325182",
       "title": "Toem 2",
       "date": "2026-09-28",
@@ -2359,6 +2293,17 @@
       "summary": "Grave Seasons is a supernatural murder-mystery farming simulator. Play as the new farmer in Ashenridge as you harvest crops, fish and mine, meet and romance townsfolk, build up the community... and maybe stop the murders."
     },
     {
+      "id": "igdb-game-307541",
+      "title": ".45 Parabellum Bloodhound",
+      "date": "2026-09-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You play as Reila Mikazuchi; a washed out mercenary whose glory days are long gone. In a last attempt at grabbing life by the horns, she decides to go back to the life, only to realize the real enemy isn’t in front of her gun."
+    },
+    {
       "id": "igdb-game-361830",
       "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
       "date": "2026-09-29",
@@ -2371,28 +2316,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Eternia’s favorite heroes including He-Man, Teela, Man-At-Arms and more in a two-player, retro-inspired 2D magic-brawler, drawn in beautiful pixel-art and featuring huge, highly-detailed sprites, designed to do justice to Eternia’s favorite peace-keepers."
-    },
-    {
-      "id": "igdb-game-307541",
-      "title": ".45 Parabellum Bloodhound",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You play as Reila Mikazuchi; a washed out mercenary whose glory days are long gone. In a last attempt at grabbing life by the horns, she decides to go back to the life, only to realize the real enemy isn’t in front of her gun."
-    },
-    {
-      "id": "igdb-game-371847",
-      "title": "Blackwood",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "By day, you run a DVD store in 2012 New York. By night, you’re a ruthless assassin. BLACKWOOD is a cinematic third-person shooter with grounded melee combat, brutal takedowns, responsive gunplay, and a double life to manage."
     },
     {
       "id": "igdb-game-358396",
@@ -3475,6 +3398,19 @@
       "summary": "A striking modern revival of \"DYNASTY WARRIORS 3\" and \"DYNASTY WARRIORS 3: Xtreme Legends,\" which established the foundation of the entire series. The complete cast of more than 40 officers and numerous battlefields will be beautifully recreated using Unreal Engine 5. Aim for the"
     },
     {
+      "id": "igdb-game-393015",
+      "title": "We Were Here Tomorrow",
+      "date": "2026-09-30",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You and your partner are taken to a mysterious facility where communication and cooperation are your lifelines. This asymmetrical co-op adventure will have you uncover secrets that will shape the fate of Tomorrow…"
+    },
+    {
       "id": "igdb-game-305181",
       "title": "Crescent County",
       "date": "2026-09-30",
@@ -3500,20 +3436,6 @@
       "summary": "Don't! Fret is stylized first-person psychological mascot-horror game set in a musically themed world. Play as a guitar named Fret to solve puzzles, escape from foes, and uncover the mystery behind Harmonic Heights."
     },
     {
-      "id": "igdb-game-231488",
-      "title": "RetroSpace",
-      "date": "2026-09-30",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A space station has been swallowed by a black hole, mutants roaming the corridors, and everything seems to have gone mad around you. Be sneaky or blast your way through the station and find a way home, all in a disco-punk atmosphere, as if you were the hero of a 70s B-movie that "
-    },
-    {
       "id": "igdb-game-403490",
       "title": "Rayman Origins: Enhanced Edition",
       "date": "2026-09-30",
@@ -3527,19 +3449,18 @@
       "summary": "When the Glade of Dreams is overrun by “nefurrious” Darktoons, the Fairy Council summons Rayman to save the day. Joined by his best friend, Globox, and two crafty wizards, the Teensies, this unlikely team must restore balance before their world fades away like a bad dream.\n\nEnjoy"
     },
     {
-      "id": "igdb-game-351327",
-      "title": "DayZ: Badlands",
+      "id": "igdb-game-231488",
+      "title": "RetroSpace",
       "date": "2026-09-30",
       "platforms": [
         "Xbox Series X/S",
-        "PlayStation 4",
         "Windows PC",
         "PlayStation 5",
         "Xbox One"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "DayZ Badlands throws you into the troubled territories of Nasdara Province—267km² of arid expanse. Uncover its secrets, battle for control, forge fragile alliances and rebuild from the ashes of past wars. Survival here isn't just measured in drops of water saved, but in bullets s"
+      "summary": "A space station has been swallowed by a black hole, mutants roaming the corridors, and everything seems to have gone mad around you. Be sneaky or blast your way through the station and find a way home, all in a disco-punk atmosphere, as if you were the hero of a 70s B-movie that "
     },
     {
       "id": "igdb-game-275734",
@@ -3566,17 +3487,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In Colorbound, color is more than just hue. As Anku, an Aymara boy with a unique gift, you’ll harness the power of color to shape the environment itself, uncovering hidden paths to navigate challenging and complex puzzles."
-    },
-    {
-      "id": "igdb-game-321579",
-      "title": "Danchi Days",
-      "date": "2026-09-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Help Hoshino bring her hometown back together in a comedic-yet-bittersweet story set in 2000s Japan! She'll face malevolent forces, uncover truths about her town, all while reconnecting with neighbors and her grandma living with dementia.\n\nBy gingham games - that's sandy powder, "
     },
     {
       "id": "igdb-game-361847",
@@ -3918,6 +3828,18 @@
       "summary": "Build a wilder world in Planet Zoo 2. Create distinctive zoos around the globe filled with awe-inspiring animals, including fully aquatic and flying species, before taking your experience beyond the zoo to release your animals into expansive Wildlife Reserves."
     },
     {
+      "id": "igdb-game-298680",
+      "title": "Deep Dish Dungeon",
+      "date": "2026-10-12",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Co-op online multiplayer game where you must unite to survive the treacherous depths of a mysterious dungeon, navigate puzzling passageways and gather resources to improve your camping site. Encounter enemies with diverse behaviors, discover coveted treasures, and unravel enigmas"
+    },
+    {
       "id": "igdb-game-277935",
       "title": "Allogloom",
       "date": "2026-10-12",
@@ -3927,6 +3849,18 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Chaos has descended upon the town of Gruesome Grove and its fate rests in Nora’s hands. Join her on an oftentimes gory journey through a beautifully hand-drawn world. Discover forgotten truths, make peculiar friends, encounter monsters and solve puzzles in this mysterious and mac"
+    },
+    {
+      "id": "igdb-game-405085",
+      "title": "Microsoft Flight Simulator 2024: National Championship Air Races",
+      "date": "2026-10-12",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api"
     },
     {
       "id": "igdb-game-329124",
@@ -3940,6 +3874,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Explore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery."
+    },
+    {
+      "id": "igdb-game-344669",
+      "title": "Warhammer 40,000: Boltgun 2",
+      "date": "2026-10-13",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with more enemies, more weapons, and new ways to purge!"
     },
     {
       "id": "igdb-game-278824",
@@ -3996,6 +3943,17 @@
       "summary": "Get all the toys in the toy chest with this double pack, featuring both Toy Story: Retro Roundup! and Toy Story 3 Complete Edition. Play as classic characters as you navigate familiar worlds and take on challenges inspired by the films. Toy Story: Retro Roundup! includes 11 class"
     },
     {
+      "id": "igdb-game-411674",
+      "title": "FreshWomen: Season 3",
+      "date": "2026-10-14",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "FreshWomen is a choice-driven adult Visual Novel focusing on the best parts of life. You're a college freshman who just earned a mansion. Bring girls to your home to romance, date, or fuck them. Your journey will be filled with comedy, love, and lots of sex."
+    },
+    {
       "id": "igdb-game-404006",
       "title": "Toy Story: Retro Roundup!",
       "date": "2026-10-14",
@@ -4010,15 +3968,15 @@
       "summary": "Step back into Andy’s room with Woody, Buzz Lightyear, and more classic characters in Toy Story: Retro Roundup! This five-game collection features four Toy Story titles and A Bug’s Life. All the games have been upgraded with quality-of-life improvements and behind-the-scenes cont"
     },
     {
-      "id": "igdb-game-411674",
-      "title": "FreshWomen: Season 3",
+      "id": "igdb-game-388377",
+      "title": "We Are So Cooked",
       "date": "2026-10-14",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "FreshWomen is a choice-driven adult Visual Novel focusing on the best parts of life. You're a college freshman who just earned a mansion. Bring girls to your home to romance, date, or fuck them. Your journey will be filled with comedy, love, and lots of sex."
+      "summary": "You and your friends are in trouble. Big trouble. You’ve accidentally killed someone, and now you have to get rid of the evidence. \"We Are So Cooked\" is a 1-4 player co-op physics-stealth game where the objective is simple: Get the body to the exit. The execution? That’s the hard"
     },
     {
       "id": "igdb-game-400976",
@@ -4034,6 +3992,19 @@
       "summary": "Farm, explore, and discover! Embark on an unforgettable journey in the enchanting world of Teradea, where peaceful farm life meets thrilling adventure!"
     },
     {
+      "id": "igdb-game-403310",
+      "title": "Call of Duty: Modern Warfare 4",
+      "date": "2026-10-15",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Call of Duty: Modern Warfare 4 is a first-person shooter and the follow-up to Modern Warfare III (2023), continuing the rebooted Modern Warfare storyline. The campaign is set during a North Korean invasion of South Korea and features dual perspectives: a young South Korean soldie"
+    },
+    {
       "id": "igdb-game-216692",
       "title": "Tenebris Somnia",
       "date": "2026-10-15",
@@ -4045,6 +4016,21 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Tenebris Somnia is a horror adventure in the same vein as survival horror classics like Silent Hill or Resident Evil, but transferred to a retro 2D environment more typical of the N.E.S. or Famicom.\n\nYou will struggle to survive by solving puzzles and fighting horrible creatures."
+    },
+    {
+      "id": "igdb-game-351327",
+      "title": "DayZ: Badlands",
+      "date": "2026-10-15",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "DayZ Badlands throws you into the troubled territories of Nasdara Province—267km² of arid expanse. Uncover its secrets, battle for control, forge fragile alliances and rebuild from the ashes of past wars. Survival here isn't just measured in drops of water saved, but in bullets s"
     },
     {
       "id": "igdb-game-405458",
@@ -4070,6 +4056,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight and forgive in this QTE based RPG, and travel the Earth and stars with those who matter most. SOLEMNFABLE - A journey of acceptance."
+    },
+    {
+      "id": "igdb-game-405102",
+      "title": "Star Trek: Outposts Unknown",
+      "date": "2026-10-19",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lead your crew across strange new worlds in this narrative driven outpost builder! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain!"
     },
     {
       "id": "igdb-game-381212",
@@ -4118,19 +4115,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Misdeed, Theft, Abduction, Plunder. This is a tale of “Evil,” where anything goes.\nWhere the hero is a dull boy named Kyoshiro, who hates the world. And a self-proclaimed evil god having lost his powers appears to him. Team up with the evil god and go beyond the limits of evil! S"
-    },
-    {
-      "id": "igdb-game-403310",
-      "title": "Call of Duty: Modern Warfare 4",
-      "date": "2026-10-22",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Call of Duty: Modern Warfare 4 is a first-person shooter and the follow-up to Modern Warfare III (2023), continuing the rebooted Modern Warfare storyline. The campaign is set during a North Korean invasion of South Korea and features dual perspectives: a young South Korean soldie"
     },
     {
       "id": "igdb-game-405435",
@@ -4223,6 +4207,17 @@
       "summary": "Pidgeon Pocket is a chill incremental game about a rooftop pigeon-keeper who sends a flock of trained pigeons into a living city park to pickpocket small valuables from park-goers and bring the loot home. Each round the park transforms into a different live event, from a marathon"
     },
     {
+      "id": "igdb-game-279615",
+      "title": "Usual June",
+      "date": "2026-10-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hang out, fight monsters, and discover your town’s darkest secrets in Usual June, a third person action game about summer break and the end of the world."
+    },
+    {
       "id": "igdb-game-250618",
       "title": "Phantom Blade 0",
       "date": "2026-10-29",
@@ -4235,6 +4230,18 @@
       "summary": "Framed for the death of his master and left with a ruined heart, Soul has sixty-six days to live. Alone and hunted by his former comrades, he moves through a world of shifting loyalties and silent blades — determined to unravel the conspiracy that has condemned him.\n\nRain mixes w"
     },
     {
+      "id": "igdb-game-296564",
+      "title": "Terrible Lizards",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better star"
+    },
+    {
       "id": "igdb-game-402530",
       "title": "Anomalith",
       "date": "2026-10-29",
@@ -4245,6 +4252,30 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "“ANOMALITH” is a survival third-person shooter set in Japan, steeped in the atmosphere of liminal spaces and Showa-era retro aesthetics. To search for her missing friend, a girl steps into a world writhing with anomalies."
+    },
+    {
+      "id": "igdb-game-321579",
+      "title": "Danchi Days",
+      "date": "2026-10-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Help Hoshino bring her hometown back together in a comedic-yet-bittersweet story set in 2000s Japan! She'll face malevolent forces, uncover truths about her town, all while reconnecting with neighbors and her grandma living with dementia.\n\nBy gingham games - that's sandy powder, "
+    },
+    {
+      "id": "igdb-game-323189",
+      "title": "Hunting Simulator 3",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "This open-world game lets you experience the thrill of the hunt, with your faithful dog or fellow hunters by your side! Choose your equipment from official brands, and explore the wilderness in search of your next game."
     },
     {
       "id": "igdb-game-253915",
@@ -4348,6 +4379,17 @@
       "summary": "A dice duel with someone on the other side of the table. Roll, hold what you like, and commit. Both players reach into the same pool of powers each turn, so every one you take is one your opponent can't have. Climb a ladder of ten rivals in a solo run, winning their dice as you g"
     },
     {
+      "id": "igdb-game-292419",
+      "title": "Cat Secretary",
+      "date": "2026-11-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Keep your job by day. At night, sneak around the office and solve your colleagues' problems. Who's a good Cat Secretary? You are!"
+    },
+    {
       "id": "igdb-game-378342",
       "title": "Wielders of the Essence",
       "date": "2026-11-05",
@@ -4430,6 +4472,17 @@
       "summary": "Decorate the DreamHouse through the decades, while playing classic Barbie games. In Barbie Rewind, Barbie invites you into her cozy, creative world and entrusts you to customize her DreamHouse. Barbie also left you her game collection, so you can revisit your favorite Barbie vide"
     },
     {
+      "id": "igdb-game-382400",
+      "title": "Trees Hate You",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe..."
+    },
+    {
       "id": "igdb-game-52189",
       "title": "Grand Theft Auto VI",
       "date": "2026-11-19",
@@ -4454,17 +4507,6 @@
       "summary": "Grand Theft Auto VI: Ultimate Edition amplifies the deepest and most immersive GTA experience yet with an exclusive collection of premium vehicles, weapons, apparel, and action threaded across all aspects of Jason and Lucia’s story.\n\nThe Ultimate Edition includes:\n• Grand Theft A"
     },
     {
-      "id": "igdb-game-325873",
-      "title": "Axyn Adventure",
-      "date": "2026-11-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Axyn Adventure is a retro style 3D platformer. You take control of the titular character Axyn and embark on many adventures with your friends Yunn and Leaf. Play in the vast open levels using your big set of moves to get around. Collect as many items as you can to advance the sto"
-    },
-    {
       "id": "igdb-game-348658",
       "title": "Iona's Island",
       "date": "2026-11-19",
@@ -4476,6 +4518,17 @@
       "summary": "Restore a vibrant island paradise atop a giant sea turtle! As the Leshen Iona, wield ancient spells to heal the land and befriend islanders and help them with their quests. Create your own enchanting sandbox style sanctuary. Uncover secrets and reshape a world with accompanied by"
     },
     {
+      "id": "igdb-game-325873",
+      "title": "Axyn Adventure",
+      "date": "2026-11-19",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Axyn Adventure is a retro style 3D platformer. You take control of the titular character Axyn and embark on many adventures with your friends Yunn and Leaf. Play in the vast open levels using your big set of moves to get around. Collect as many items as you can to advance the sto"
+    },
+    {
       "id": "igdb-game-389330",
       "title": "Lord of Undead",
       "date": "2026-11-19",
@@ -4485,6 +4538,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Destroy the castle on the hill in this grim RPG where you play as the Dark Lord. Collect souls, summon an undead army, master dark abilities, craft powerful gear, build your base, and desecrate the lands of a vast open world."
+    },
+    {
+      "id": "igdb-game-323369",
+      "title": "Volvy’s Adventure: Reslimed",
+      "date": "2026-11-19",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Volvy's Adventure: Reslimed is a spectacular remaster of the original remake of the unreleased action-platformer starring the most famous video game mascot of all time."
     },
     {
       "id": "igdb-game-358766",
@@ -4531,6 +4595,28 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Three loves. One week. Zero chill. Merry Crisis is an intimate, character-driven romance visual novel about love, loss, and belonging—is home what you left behind, or where you’re headed?"
+    },
+    {
+      "id": "igdb-game-415147",
+      "title": "DNA Nemesis",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Survive in the wildest Battle Royale! Choose from 10 animal species, each with its own unique ability based on its natural attack and defence mechanisms. Master an extreme experience and become the ultimate species. In DNA NEMESIS there are no heroes; only predators and prey."
+    },
+    {
+      "id": "igdb-game-415120",
+      "title": "Dumpster Gang",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
     },
     {
       "id": "igdb-game-322515",
@@ -4590,6 +4676,17 @@
       "summary": "In this RPG, you befriend monsters from the Dragon Quest series, raise them up, synthesize new creatures, and pit them against other monsters in battle. Join fledgling monster wranglers Bianca and Nera as they set off on the adventure of a lifetime."
     },
     {
+      "id": "igdb-game-359867",
+      "title": "Akashic Slingshot",
+      "date": "2026-12-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fight your way through a diverse world in this action-adventure side scroller, where you are given one weapon and die in one hit. Can you earn the right to peer beyond the Zeroed Abyss?"
+    },
+    {
       "id": "igdb-game-404715",
       "title": "Attack on Titan 3",
       "date": "2026-12-10",
@@ -4614,19 +4711,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Stage Tour is a rhythm-action game that blends familiar, accessible note-highway gameplay with exciting modern twists. It’s poised to rekindle the flame of plastic-instrument rhythm gaming with new features and modes, diverse bandmates and instruments, competitive depth, and seas"
-    },
-    {
-      "id": "igdb-game-414245",
-      "title": "Ninja Baseball League-Man: Bases Loaded",
-      "date": "2026-12-10",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Ninja Baseball League-Man: Bases Loaded is an arcade-style beat ’em up that combines baseball and martial arts, this action game has players battling through side-scrolling stages with pitches, swings, grabs, throws, combos, and special attacks. Up to four players can team up in "
     },
     {
       "id": "igdb-game-383456",
