@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-08-29T11:54:37.259Z",
+  "updatedAt": "2026-08-30T14:02:16.275Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -747,6 +747,17 @@
       "summary": "Company of Heroes – Definitive Edition, features the original Company of Heroes along with the Opposing Fronts and Tales of Valor Expansions, enhanced visuals, quality-of-life gameplay improvements, and 64-bit platform support."
     },
     {
+      "id": "igdb-game-278965",
+      "title": "Odd Town",
+      "date": "2026-08-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore, eat, drink, and investigate in Odd Town — a first-person adventure where a picturesque small town hides something sinister beneath its charm."
+    },
+    {
       "id": "igdb-game-359893",
       "title": "HMUR",
       "date": "2026-08-31",
@@ -759,17 +770,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "HMUR is a fast-paced retro-FPS, in the original setting, that merges Soviet aesthetics with whacky madness and frantic dynamics of iconic 90s shooters. Survive a disaster at a classified Soviet facility as you blast your way through crowds of enemies. Speed is your key to surviva"
-    },
-    {
-      "id": "igdb-game-278965",
-      "title": "Odd Town",
-      "date": "2026-08-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore, eat, drink, and investigate in Odd Town — a first-person adventure where a picturesque small town hides something sinister beneath its charm."
     },
     {
       "id": "igdb-game-407766",
@@ -1014,7 +1014,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Swing, fling, and cause chaos with your shoes in this physics-based mayhem. Discover secrets, unlock bonus levels, customize your look, and fill your journal with shiny stickers. Master the perfect throw and SHOE IT ALL!"
+      "summary": "Launch shoes from a swing to solve clever physics puzzles. Master trick shots, uncover hidden secrets and discover smarter solutions with fewer throws."
     },
     {
       "id": "igdb-game-405996",
@@ -2379,6 +2379,17 @@
       "summary": "Deep Pixel Melancholy is a visual novel about being stuck in a time loop inside a gray, soulless city. Unravel the mystery, and decide whether escaping is really worth it."
     },
     {
+      "id": "igdb-game-323940",
+      "title": "Deserter",
+      "date": "2026-09-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this stealth RPG, you play as a deserter who is forced to become a thief in a grim, war-torn town. You'll have access to a rich arsenal of tools and devices: from lock picks and crowbars to grappling hooks and dynamite. Additionally, take advantage of your surroundings: find o"
+    },
+    {
       "id": "igdb-game-277846",
       "title": "EVE Vanguard",
       "date": "2026-09-29",
@@ -2390,6 +2401,17 @@
       "summary": "EVE Vanguard is an upcoming sci-fi sandbox FPS where every deployment onto a hostile planet is high stakes. You fight, scavenge, and adapt in brutal warzones - and every choice leaves its mark on a player-driven universe at war."
     },
     {
+      "id": "igdb-game-303382",
+      "title": "Burn With Me",
+      "date": "2026-09-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Burn With Me is a story-centric deckbuilder filled with cozy dread and occultic mysteries. In order to summon a Personal Demon you'll master inventive gameplay with position-based synergies, and permanently burn your cards and your soul."
+    },
+    {
       "id": "igdb-game-190422",
       "title": "Demon Spore",
       "date": "2026-09-29",
@@ -2399,17 +2421,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Blast your way out of tentacle hell as a failed lab experiment gives birth to a rapidly growing viral horror in this intense action rogue-lite inspired by 80s Monster movies. Use the lab to your advantage and improvise an escape plan before this constantly evolving life form spre"
-    },
-    {
-      "id": "igdb-game-323940",
-      "title": "Deserter",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this stealth RPG, you play as a deserter who is forced to become a thief in a grim, war-torn town. You'll have access to a rich arsenal of tools and devices: from lock picks and crowbars to grappling hooks and dynamite. Additionally, take advantage of your surroundings: find o"
     },
     {
       "id": "igdb-game-298235",
@@ -2466,17 +2477,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A young cartographer is sent out by his hierarchy into the rural land of his childhood to redraw a frontier: he will gradually discover that this place, which for him was just a set of inky territories, is actually steeped in stories, inhabited by people who have no idea what's g"
-    },
-    {
-      "id": "igdb-game-303382",
-      "title": "Burn With Me",
-      "date": "2026-09-29",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Burn With Me is a story-centric deckbuilder filled with cozy dread and occultic mysteries. In order to summon a Personal Demon you'll master inventive gameplay with position-based synergies, and permanently burn your cards and your soul."
     },
     {
       "id": "igdb-game-344588",
@@ -4300,6 +4300,17 @@
       "summary": "Jimin dreams of finally having her first birthday party, but what begins as a childhood wish unravels into social pressure, fragile friendships, family expectations, and consequences that hit closer than you’d like. Join Jimin in this coming-of-age story where every choice carrie"
     },
     {
+      "id": "igdb-game-343166",
+      "title": "Hillthorn",
+      "date": "2026-11-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A disappearance in a secluded mountain. A village hiding its secrets. A detective running out of time. Hillthorn's investigation system encourages you to use logic and imagination. Combine actions, clues and characters to uncover the mystery."
+    },
+    {
       "id": "igdb-game-310148",
       "title": "Pozionista",
       "date": "2026-11-01",
@@ -4722,6 +4733,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "With your friends, form a team of paranormal experts to unravel the mysteries of the most terrifying places. Armed with sophisticated gadgets like EMF detectors, infrared cameras, and incantation books, your mission is simple: gather evidence of the beyond and survive chilling en"
+    },
+    {
+      "id": "igdb-game-404476",
+      "title": "Rest Stop",
+      "date": "2026-12-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Abandoned and alone at a highway rest stop in the middle of the Appalachian Mountains, the night breeze begins to caress your cheek. The scent of wet pine whispers that you’re home. The taste of iron in your mouth reminds you that you can’t stay here forever."
     }
   ],
   "undated": [

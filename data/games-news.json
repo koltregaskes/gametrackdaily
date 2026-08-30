@@ -1,116 +1,116 @@
 {
-  "generated": "2026-08-29T17:45:17.491Z",
+  "generated": "2026-08-30T12:01:15.906Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-08-29T17:45:17.491Z",
+      "generatedAt": "2026-08-30T12:01:15.906Z",
       "items": [
         {
-          "title": "\"That is a lot of work\": Persona 4 Revival producer says there's no plans for a Yosuke romance option, even if the team did think about it",
+          "title": "The Sunday Papers",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/that-is-a-lot-of-work-persona-4-revival-producer-says-theres-no-plans-for-a-yosuke-romance-option-even-if-the-team-did-think-about-it",
-          "summary": "While it's never been confirmed, some cut voice lines from the original release of Persona 4 indicated that once upon a time, the protagonist's right-hand party member Yosuke was romanceable. Instead ",
-          "publishedAt": "2026-08-29T16:11:35.000Z",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-825",
+          "summary": "Sundays are for resting, so I hear, though by the time you read this I&rsquo;ll have got up at 5:30am to drive my parents-in-law to Gatwick Airport. As such, I&rsquo;m probably not the best authority ",
+          "publishedAt": "2026-08-30T09:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Wars Zero Company Uses Anakin Skywalker for So Much More than a Cameo",
+          "title": "12 Video Games That Deserve Movie or TV Adaptations",
           "source": "Polygon",
-          "url": "https://www.polygon.com/star-wars-zero-company-anakin-skywalker-mission/",
-          "summary": "Star Wars Zero Company features great tactical gameplay. During one mission, the game turns into a Jedi power fantasy when Anakin Skywalker pops up.",
-          "publishedAt": "2026-08-29T12:00:16.000Z",
+          "url": "https://www.polygon.com/12-games-deserve-movies/",
+          "summary": "With more video games finding success as movies and TV shows, 12 favorite games deserve adaptations soon.",
+          "publishedAt": "2026-08-30T08:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This Driving Survival Roguelike is one of the Great Video Game Mash-ups",
+          "title": "Anno 117's New Hippodrome DLC Is More Fun Than It Has Any Right to Be",
           "source": "Polygon",
-          "url": "https://www.polygon.com/pacific-drive-what-to-play-xbox-game-pass-playstation-plus/",
-          "summary": "Pacific Drive is one of the best hidden gems on Xbox Game Pass and PlayStation Plus",
-          "publishedAt": "2026-08-29T13:01:13.000Z",
+          "url": "https://www.polygon.com/anno-117-hippodrome-dlc/",
+          "summary": "Anno 117's new DLC adds the Hippodrome and some much-needed late-game purpose, along with a welcome new use for prestige thanks to Heroic specialists",
+          "publishedAt": "2026-08-30T08:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gamescom Responds To Rampant Reports Of Theft At The Event",
+          "title": "Martin Scorsese's Controversial 10/10 Psychological Thriller Is Officially Free on Streaming",
           "source": "Polygon",
-          "url": "https://www.polygon.com/gamescom-event-theft-response/",
-          "summary": "There have been several stolen equipment incidents at Gamescom 2026, and the organization has at last responded to victims' reports.",
-          "publishedAt": "2026-08-29T13:48:36.000Z",
+          "url": "https://www.polygon.com/robert-de-niro-neo-noir-pluto-tv-streaming-free/",
+          "summary": "One of the most engrossing cinematic portraits of urban isolation.",
+          "publishedAt": "2026-08-30T10:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "EA Officially Reacts Iron Man Leak: \"Well, That Didn't Go As Planned\"",
+          "title": "Best games of 2026 so far: Pragmata, Pokopia, and more",
           "source": "Polygon",
-          "url": "https://www.polygon.com/ea-acknowledges-iron-man-leak/",
-          "summary": "EA also teased that \"we've got a lot more to show you\" after footage of Motive Studios' Iron Man game leaked",
-          "publishedAt": "2026-08-29T14:27:25.000Z",
+          "url": "https://www.polygon.com/best-2026-games-xbox-ps5-switch-pc/",
+          "summary": "We're keeping track of the best video games we've played so far in 2026, from Cairn to Resident Evil Requiem.",
+          "publishedAt": "2026-08-30T11:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Pokémon TCG Pocket adds a game-changing new kind of card this October",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/pokemon-tcg-pocket-dual-type-cards/",
-          "summary": "Dual-type cards are finally making their way into Pokémon TCG Pocket this October, starting with a Mega Mewtwo X ex card",
-          "publishedAt": "2026-08-29T15:16:36.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "12 Best Zelda: BOTW Replay Ideas and Challenge Runs",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/breath-of-the-wild-replay-ideas-challenge-runs/",
-          "summary": "Beaten Breath of the Wild a dozen times already? Tackle these challenge runs — from Majora's Mask-style resets to a full vendor boycott.",
-          "publishedAt": "2026-08-29T16:00:14.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'Well, that didn't go as planned' says EA as it footage of its Iron Man game leaks online",
+          "title": "Activision serves cease and desist to infamous Call of Duty cheat maker—and films the whole thing: 'We will find you'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/well-that-didnt-go-as-planned-says-ea-as-it-footage-of-its-iron-man-game-leaks-online/",
-          "summary": "\"But now you know, we've got a lot more to show you.\"",
-          "publishedAt": "2026-08-29T11:45:59.000Z",
+          "url": "https://www.pcgamer.com/games/call-of-duty/activision-serves-cease-and-desist-to-infamous-call-of-duty-cheat-maker-and-films-the-whole-thing-we-will-find-you/",
+          "summary": "The publisher says it has disrupted 375 reseller operations so far.",
+          "publishedAt": "2026-08-30T10:05:20.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "I've checked gaming PC deals every week for two years and I'm not exaggerating when I say there isn't a single well-priced PC left",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/ive-checked-gaming-pc-deals-every-week-for-two-years-and-im-not-exaggerating-when-i-say-there-isnt-a-single-well-priced-pc-left/",
-          "summary": "Even AMD builds are now depressing to look at.",
-          "publishedAt": "2026-08-29T13:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I played just an hour of Total War: Warhammer 40,000 and it was the highlight of my year",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/",
-          "summary": "Living the grimdark dream.",
-          "publishedAt": "2026-08-29T13:34:03.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I want MMOs to waste our time again",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/i-want-mmos-to-waste-our-time-again/",
-          "summary": "I've accomplished very little on a Star Wars Galaxies private server, and I wouldn't want it any other way.",
-          "publishedAt": "2026-08-29T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "IGN's Top-Reviewed Nintendo Switch 2 Games",
+          "title": "4 Penny Coffins Lets You Play 19th-Century Detective – Or a 10-Foot Demon Ripping Friends in Half",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games",
-          "summary": "Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.",
-          "publishedAt": "2026-08-29T13:15:00.000Z",
+          "url": "https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper",
+          "summary": "Other Ocean’s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.",
+          "publishedAt": "2026-08-30T09:08:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
+          "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
+          "publishedAt": "2026-08-30T10:48:08.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet",
+          "summary": "There is a big part of me that doesn't really believe any aspect of Star Citizen is real. It's never really a game I've given all that much of my attention to, the thing gives off pyramid scheme energ",
+          "publishedAt": "2026-08-29T17:31:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Usual June mixes Hades-esque action, crystal crabs and ghosts to make for a game that'll do well in your Halloween rotation",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/usual-june-mixes-hades-esque-action-crystal-crabs-and-ghosts-to-make-for-a-game-thatll-do-well-in-your-halloween-rotation",
+          "summary": "I've been hungry for an action adventure game recently. In this modern era of live service and infinite roguelikes and deckbuilders (seriously, I know they're popular genres, maybe try a different hig",
+          "publishedAt": "2026-08-29T21:54:13.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy’s Post-Credits Scene, Explained",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/resonance-a-plague-tale-legacy-post-credits-scene-cameo-explained/",
+          "summary": "What that surprise cameo means for the future of the series",
+          "publishedAt": "2026-08-29T19:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/charles-schulz-peanuts-best-quote/",
+          "summary": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966",
+          "publishedAt": "2026-08-29T20:00:14.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,7 +119,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-08-29T17:45:17.491Z",
+      "generatedAt": "2026-08-30T12:01:15.906Z",
       "items": [
         {
           "title": "NBA 2K27 Review So Far",
@@ -138,57 +138,56 @@
           "publishedAt": "2026-08-28T22:05:41.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Boorman and the Devil Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/boorman-and-the-devil-review",
-          "summary": "Review: John Boorman and the Devil is a fun and engrossing look at the creation of what is considered to be one of the worst sequels ever made.",
-          "publishedAt": "2026-08-28T12:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto III – The Legacy Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/grand-theft-auto-iii-the-legacy-review",
-          "summary": "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn’t just change the trajectory of the GTA series forever – it changed the business.",
-          "publishedAt": "2026-08-28T14:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Gallipoli Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gallipoli-review",
-          "summary": "Gallipoli is the most beautiful game in the WW1 series yet, with excellent maps, fun new classes, and a continued focus on teamwork in order to win.",
-          "publishedAt": "2026-08-28T16:12:00.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-08-29T17:45:17.491Z",
-      "items": [
-        {
-          "title": "Solve a mountain mystery via the medium of creepy cards in Hillthorn, which has an excellent demo",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/solve-a-mountain-mystery-via-the-medium-of-creepy-cards-in-hillthorn-which-has-an-excellent-demo",
-          "summary": "Attention, dusty creeps who want to play poker with the Wickerman! I found one, a videogame you might enjoy. That game is Hillthorn, a spooky investigative cardgame from Fool Moon and Finnegan Motors ",
-          "publishedAt": "2026-08-28T12:42:20.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-08-30T12:01:15.906Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-08-29T17:45:17.491Z",
+      "generatedAt": "2026-08-30T12:01:15.906Z",
       "items": [
+        {
+          "title": "Mortal Shell 2 gets its first major update, adding in extra beacons, useful new items, and making riposte damage scaling actually work",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
+          "summary": "We're a little over one week on from the launch of Mortal Shell 2 , a game that Jeremy liked quite a lot . But the work of a developer is never done these days, what with the advent of the internet an",
+          "publishedAt": "2026-08-29T19:46:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Long Dark sequel Blackfrost hasn't been cancelled, but developer Hinterland are shifting a bit more focus onto the original's survival mode",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-long-dark-sequel-blackfrost-hasnt-been-cancelled-but-developer-hinterland-are-shifting-a-bit-more-focus-onto-the-originals-survival-mode",
+          "summary": "Things are shifting around a bit over at The Long Dark developer Hinterland Studio. Earlier this year, The Long Dark's story mode wrapped up with the release of Wintermute's fifth and final episode . ",
+          "publishedAt": "2026-08-29T20:59:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Long Dark will get new DLC again as studio shifts devs away from the sequel to survive an 'uncertain' industry: 'We have to adapt to this'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
+          "summary": "Blackfrost's early access release won't make it this year after all.",
+          "publishedAt": "2026-08-29T17:35:45.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
+          "summary": "Yoshi said to expect the new big update by the end of September.",
+          "publishedAt": "2026-08-29T18:44:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
           "source": "PC Gamer",
