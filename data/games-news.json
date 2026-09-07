@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-06T17:45:44.381Z",
+  "generated": "2026-09-07T17:45:29.911Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-06T17:45:44.381Z",
+      "generatedAt": "2026-09-07T17:45:29.911Z",
       "items": [
         {
-          "title": "GOTY 2026 is the Weakest Field in Years",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/",
-          "summary": "In the shadow of GTA 6, other 2026 GOTY contenders like The Blood of Dawnwalker keep missing the mark.",
-          "publishedAt": "2026-09-06T12:00:14.000Z",
+          "title": "\"We believe in the power of connection\": Donald Trump Tetris parody game rouses the mildly worded wrath of the Tetris Company",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-believe-in-the-power-of-connection-donald-trump-tetris-parody-game-rouses-the-mildly-worded-wrath-of-the-tetris-company",
+          "summary": "Those terrible firebrands at the Tetris Company have publicly rebuked the US government for publishing a Tetris parody game that promotes the Trump administration's brutalising rhetoric about securing",
+          "publishedAt": "2026-09-07T11:23:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "BG3's Best Evil Playthrough Replacement Is Waiting to Be Rediscovered on Steam",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/tyranny-crpg-obsidian-baldurs-gate-3-evil-playthrough/",
-          "summary": "Tyranny casts you as an enforcer for a god-emperor who already won the war. If Baldur's Gate 3's evil playthroughs left you wanting more, play this",
-          "publishedAt": "2026-09-06T13:00:14.000Z",
+          "title": "This week in PC games: Wardogs, Shroom and Gloom, a heist game from the King of Dragon Pass creators, and a bullet time FPS inspired by F.E.A.R.",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-wardogs-shroom-and-gloom-a-heist-game-from-the-king-of-dragon-pass-creators-and-a-bullet-time-fps-inspired-by-fear",
+          "summary": "Hello there, loyal regulars and filthy, fickle drop-ins! A merry New Week to you, wherever you are. Thanks for feeding the Maw while we were away last Monday . You were mostly successful in sating the",
+          "publishedAt": "2026-09-07T12:33:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "55 Years Later, Stanley Kubrick's Gritty Sci-Fi Masterpiece Is Officially Back on Streaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/a-clockwork-orange-streaming-on-hbo-max-september-2026/",
-          "summary": "A Clockwork Orange remains one of Stanley Kubrick's most unpleasant films to watch — and one of his most entertaining. It's now streaming on HBO Max.",
-          "publishedAt": "2026-09-06T14:01:14.000Z",
+          "title": "Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make",
+          "summary": "Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever. After all, it was the series' Final Fantasy 7 moment, where many of the mechanical",
+          "publishedAt": "2026-09-07T13:30:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "51 Years Later, Sylvester Stallone's Gritty Action Sci-Fi Classic Is Officially Free on Streaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/death-race-2000-free-tubi/",
-          "summary": "Celebrating 51 years of twisted metal",
-          "publishedAt": "2026-09-06T15:15:14.000Z",
+          "title": "New horror game The Well Is Not Empty combines photophobic monsters with timer light switches and a lot of frenzied digging",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/new-horror-game-the-well-is-not-empty-combines-photophobic-monsters-with-timer-light-switches-and-a-lot-of-frenzied-digging",
+          "summary": "\"Never show the monster,\" horror film-makers, game-makers and other creepozoids have chanted, over the decades. The Well Is Not Empty wastes no time showing us the monster - one of the monsters, at le",
+          "publishedAt": "2026-09-07T16:06:22.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Final Fantasy 7 Revelation Devs Say Ending Is Best 'Not Explained To You By Someone Else'",
+          "title": "Mr. Jambo's Kyle Gordon Reveals His Terrible Video Game Inspirations",
           "source": "Polygon",
-          "url": "https://www.polygon.com/final-fantasy-7-revelation-ending-pax-west/",
-          "summary": "Final Fantasy 7 Revelation developers reveal details about Cid and Vincent, the FITS System, and advise a spoiler-free experience.",
-          "publishedAt": "2026-09-06T15:56:23.000Z",
+          "url": "https://www.polygon.com/mr-jambo-kyle-gordon-shelf-quest/",
+          "summary": "Planet of the Bass creator Kyle Gordon has a new album in fall 2026. Before that, he joined Shelf Quest.",
+          "publishedAt": "2026-09-07T12:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Sony Can't Hide Forever",
+          "title": "Slay the Spire Fans Need to Devour This New Game for Art Alone",
           "source": "Polygon",
-          "url": "https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/",
-          "summary": "PlayStation is trying to ride out the protests over its decision to end production of physical games. It's not working.",
-          "publishedAt": "2026-09-06T16:00:14.000Z",
+          "url": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
+          "summary": "Shroom and Gloom is ready for Early Access release in September 2026 and our preview shows off all the art.",
+          "publishedAt": "2026-09-07T12:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Farming Sims Are Finally Changing After 10 Years of Stagnation",
+          "title": "Sexy Fire Emblem-Inspired Game Food Devils Officially Claims November Release",
           "source": "Polygon",
-          "url": "https://www.polygon.com/farming-sims-2026-trends/",
-          "summary": "Since Stardew Valley, farming sims have stuck to a formula for a decade. Now, with a crop of new entries, the genre is fresher than ever.",
-          "publishedAt": "2026-09-06T17:00:14.000Z",
+          "url": "https://www.polygon.com/food-devils-exclusive-release-date-interview/",
+          "summary": "We spoke to the developer of Food Devils to learn more about the strategy game alongside the announcement of its Nov. 5 release date",
+          "publishedAt": "2026-09-07T13:00:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Here's 10 more minutes of the most interesting game shown at this year's Opening Night Live",
+          "title": "26 Years Later, the Best 'Dilbert' Quote Remains a Comic Strip Classic Despite Its Controversial Creator",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-dilbert-comic-strip-quote/",
+          "summary": "efore revealing his controversial views, Scott Adams found success with the comic strip Dilbert. This is his best quote from the comic",
+          "publishedAt": "2026-09-07T14:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Resident Evil's Zach Cregger: What Being 'Faithful' Really Means",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/zach-cregger-resident-evil-interview/",
+          "summary": "2026's Resident Evil lifts from RE2 but the Weapons director really wanted to tell his own story in this world — maybe sequels too.",
+          "publishedAt": "2026-09-07T14:12:20.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Dungeon Crawler Carl meets The Finals in this wild new FPS",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/like-or-die-preview-gamescom-2026/",
+          "summary": "Like or Die is a familiar-looking competitive FPS from South Korea's NC, but with a twist - aliens are watching you on stream",
+          "publishedAt": "2026-09-07T15:41:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Once again, it is genuinely cheaper for me to fly to PAX West and track down Nvidia's 'GeForce Evangelist' rather than buy the RTX 5090 anywhere else",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/heres-10-more-minutes-of-the-most-interesting-game-shown-at-this-years-opening-night-live/",
-          "summary": "Rat's entertainment.",
-          "publishedAt": "2026-09-06T12:27:26.000Z",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/once-again-it-is-genuinely-cheaper-for-me-to-fly-to-pax-west-and-track-down-nvidias-geforce-evangelist-rather-than-buy-the-rtx-5090-anywhere-else/",
+          "summary": "They didn't even have boxed GPUs at the event this time.",
+          "publishedAt": "2026-09-07T11:34:26.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Blending Deus Ex with Escape from Butcher Bay, Deficit is one of the best-feeling indie immersive sims I've played—even if the stealth system needs serious work",
+          "title": "New DLSS 5 mod offloads Neural Rendering to a second card massively cutting the AI filter's performance hit",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/blending-deus-ex-with-escape-from-butcher-bay-deficit-is-one-of-the-best-feeling-indie-immersive-sims-ive-played-even-if-the-stealth-system-needs-serious-work/",
-          "summary": "Playing the demo for Deficit was far from a net loss.",
-          "publishedAt": "2026-09-06T13:34:25.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I never thought a fishing sim could be this fun, but How to Fish proves me wrong with its ridiculous physics, killer spider crabs, and classic co-op chaos",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-never-thought-a-fishing-sim-could-be-this-fun-but-how-to-fish-proves-me-wrong-with-its-ridiculous-physics-killer-spider-crabs-and-classic-co-op-chaos/",
-          "summary": "I now know How to Fish, kinda.",
-          "publishedAt": "2026-09-06T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Onimusha: Way of the Sword proves the parry formula is far from stale, you just need to get freaky with it",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-proves-the-parry-formula-is-far-from-stale-you-just-need-to-get-freaky-with-it/",
-          "summary": "Parry fatigue? Not me.",
-          "publishedAt": "2026-09-06T15:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Halloween game has a sex minigame in it, except no it doesn't, because it was apparently removed",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-halloween-game-has-a-sex-minigame-in-it-except-no-it-doesnt-because-it-was-apparently-removed/",
-          "summary": "Some perverse pairings may be the culprit.",
-          "publishedAt": "2026-09-06T16:24:44.000Z",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/",
+          "summary": "DLSS Neural Rendering is being developed hard in the modding community.",
+          "publishedAt": "2026-09-07T11:56:11.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,26 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-06T17:45:44.381Z",
+      "generatedAt": "2026-09-07T17:45:29.911Z",
       "items": [
+        {
+          "title": "Scuf Omega review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
+          "summary": "Closer to an Alpha or Beta than an Omega.",
+          "publishedAt": "2026-09-07T15:02:11.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Steam Week in Review: 54 idle games released on Steam last week, and many look eerily similar",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/",
+          "summary": "All the interesting Steam facts for the week ending September 6.",
+          "publishedAt": "2026-09-07T04:12:36.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "Skytech Gaming Blaze 5 Review",
           "source": "IGN",
@@ -129,38 +147,29 @@
           "publishedAt": "2026-09-06T12:00:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Asus ROG Swift OLED PG27UCWM Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/asus-rog-swift-oled-pg27ucwm-review",
-          "summary": "The Asus ROG Swift OLED PG27UCWM offers a gorgeous display that works as well for cinematic games as it does for competitive, fast-paced ones.",
-          "publishedAt": "2026-09-05T13:15:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Moonlighter 2: The Endless Vault review – a pleasant bout of number go up that’s most remarkable for how much of an improvement it is",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
-          "summary": "The Moonlighter games cast you as Will, a dungeoneer-merchant hybrid, delving into randomly shifting combat arenas by night and selling the treasures you unearth there by day. In the dungeons, you fig",
-          "publishedAt": "2026-09-04T16:00:00.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-06T17:45:44.381Z",
+      "generatedAt": "2026-09-07T17:45:29.911Z",
       "items": [
         {
-          "title": "\"Top-down Zelda meets Bloodborne\": action RPG Withering Realms is out now in early access, should you fancy riding the shoulders of a horrible doll",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/top-down-zelda-meets-bloodborne-action-rpg-withering-realms-is-out-now-in-early-access-should-you-fancy-riding-the-shoulders-of-a-horrible-doll",
-          "summary": "Withering Rooms was an unexpectedly devious and absorbing slice of dollhouse action-RPG horror. As such, I've been looking forward to Withering Realms, the standalone sort-of-sequel, which launches in",
-          "publishedAt": "2026-09-04T16:39:33.000Z",
+          "title": "Practical Magic 2 First Look: A New Generation of Witches Emerges",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/practical-magic-2-exclusive-image/",
+          "summary": "Check out this exclusive image of Practical Magic 2, showing some of the new characters that are introduced to the franchise.",
+          "publishedAt": "2026-09-07T17:00:14.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-preview-so-good-played-it-twice",
+          "summary": "\"We don't want to spoil anything,\" associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, \"but we've got two very different loadouts for you to play",
+          "publishedAt": "2026-09-07T09:00:00.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -169,8 +178,26 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-06T17:45:44.381Z",
+      "generatedAt": "2026-09-07T17:45:29.911Z",
       "items": [
+        {
+          "title": "\"You'll be able to engage in these high stakes arms races\": Civilization 7's Arc of Tomorrow update aims to be a proper Cold War simulator",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting",
+          "summary": "Civilization 7 is getting a new free update that takes the 4X strategy game into the atomic age, while trying to make nuclear era conflict a little more elaborate than just being first to research the",
+          "publishedAt": "2026-09-07T09:38:30.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "[UPDATE] Halloween: The Game Patches Out Sex Minigame — Dev Confirms 'Major Oversight'",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why",
+          "summary": "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.",
+          "publishedAt": "2026-09-06T19:36:30.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy",
           "source": "Eurogamer",
@@ -204,69 +231,6 @@
           "url": "https://www.polygon.com/civilization-7-earthrise-announcement/",
           "summary": "The upcoming 1.5 and Arc of Tomorrow updates will also continue to transform Sid Meier's Civilization 7 ahead of Earthrise's launch in 2027",
           "publishedAt": "2026-09-05T22:00:14.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Go grandmaster becomes first human to win series against advanced AI engine in 3-hour match",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/go-grandmaster-becomes-first-human-to-win-series-against-advanced-ai-engine-in-3-hour-match/",
-          "summary": "We've still got some fight left in us.",
-          "publishedAt": "2026-09-05T19:11:02.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Saber CCO says the studio isn't changing up its comms strategy after recent controversies: 'There's always some dust up'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/saber-cco-says-the-studio-isnt-changing-up-its-comms-strategy-after-recent-controversies-theres-always-some-dust-up/",
-          "summary": "\"The games will speak for themselves.\"",
-          "publishedAt": "2026-09-05T20:13:22.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Peak studio Aggro Crab is publishing a sick-looking platformer about a blue collar guy doing dirty work on an alien world",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/peak-studio-aggro-crab-is-publishing-a-sick-looking-platformer-about-a-blue-collar-guy-doing-dirty-work-on-an-alien-world/",
-          "summary": "That's what's up.",
-          "publishedAt": "2026-09-05T20:32:46.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Mortal Shell 2's latest update adds in an experimental new mode that adjusts the challenge based on how much you do or don't die",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mortal-shell-2s-latest-update-adds-in-an-experimental-new-mode-that-adjusts-the-challenge-based-on-how-much-you-do-or-dont-die",
-          "summary": "Another week, another Mortal Shell 2 update! The first proper one arrived a week ago , and smoothed down some of the game's rough edges to make for a (slightly) more generous experience. This next upd",
-          "publishedAt": "2026-09-05T16:12:49.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Double Fine reveals its first post-Xbox game as Tim Schafer declares no one will shut the studio down but him",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/double-fine-reveals-thank-you-bus-driver/",
-          "summary": "Thank You Bus Driver is the first game being published under the Double Fine Action Labs label",
-          "publishedAt": "2026-09-05T16:47:57.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-controversial-refuelling-action-reportedly-takes-about-10-seconds-to-perform-which-rockstars-co-studio-head-says-is-pretty-fast-for-a-fill-up/",
-          "summary": "\"You can't complain about that\".",
-          "publishedAt": "2026-09-05T12:16:31.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Gamescom apologises for how it initially responded to indie developer hardware thefts",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response",
-          "summary": "Gamescom has apologised for the way it \"communicated about the theft of hardware belonging to several indie developers\" last week, admitting, \"our first response did not strike the right tone, and it ",
-          "publishedAt": "2026-09-05T12:44:17.000Z",
           "tag": "Industry",
           "_example": false
         }
