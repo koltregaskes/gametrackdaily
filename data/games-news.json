@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-07T17:45:29.911Z",
+  "generated": "2026-09-08T17:45:20.554Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-07T17:45:29.911Z",
+      "generatedAt": "2026-09-08T17:45:20.554Z",
       "items": [
         {
-          "title": "\"We believe in the power of connection\": Donald Trump Tetris parody game rouses the mildly worded wrath of the Tetris Company",
+          "title": "\"Material uncertainty\" hangs over the future of Life is Strange developers Don't Nod beyond January 2027, as negotiations over potential layoffs begin",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-believe-in-the-power-of-connection-donald-trump-tetris-parody-game-rouses-the-mildly-worded-wrath-of-the-tetris-company",
-          "summary": "Those terrible firebrands at the Tetris Company have publicly rebuked the US government for publishing a Tetris parody game that promotes the Trump administration's brutalising rhetoric about securing",
-          "publishedAt": "2026-09-07T11:23:21.000Z",
+          "url": "https://www.rockpapershotgun.com/material-uncertainty-hangs-over-the-future-of-life-is-strange-developers-dont-nod-beyond-january-2027-as-negotiations-over-potential-layoffs-begin",
+          "summary": "Life is Strange developers Don't Nod have acknowledged that there's \"material uncertainty regarding the company's ability to continue as a going concern beyond January 31st, 2027\", as they kick off ne",
+          "publishedAt": "2026-09-08T11:31:55.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This week in PC games: Wardogs, Shroom and Gloom, a heist game from the King of Dragon Pass creators, and a bullet time FPS inspired by F.E.A.R.",
+          "title": "Trump regime's Tetris ripoff yanked from White House website after Tetris Company declare they \"take copyright infringement very seriously\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-wardogs-shroom-and-gloom-a-heist-game-from-the-king-of-dragon-pass-creators-and-a-bullet-time-fps-inspired-by-fear",
-          "summary": "Hello there, loyal regulars and filthy, fickle drop-ins! A merry New Week to you, wherever you are. Thanks for feeding the Maw while we were away last Monday . You were mostly successful in sating the",
-          "publishedAt": "2026-09-07T12:33:27.000Z",
+          "url": "https://www.rockpapershotgun.com/trump-regimes-tetris-ripoff-yanked-from-white-house-website-after-tetris-company-declare-they-take-copyright-infringement-very-seriously",
+          "summary": "Goodbye, Build the Wall. The Tetris-style game that the US government had stuck on the White House website as a way of promoting the Trump administration's commitment to brutalising and persecuting im",
+          "publishedAt": "2026-09-08T12:45:22.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a \"duty\" to make",
+          "title": "NBA 2K27 gives DLSS 5 a more faithful-looking game debut than feared, provided it’s running on the LeBron of GPUs",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make",
-          "summary": "Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever. After all, it was the series' Final Fantasy 7 moment, where many of the mechanical",
-          "publishedAt": "2026-09-07T13:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
+          "summary": "Bit of an anticlimax, really. After months of (justified) revulsion and anti-anticipation over Nvidia DLSS 5 &rsquo;s AI rendering, it&rsquo;s now available in a live game - license laden b-baller NBA",
+          "publishedAt": "2026-09-08T15:37:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "New horror game The Well Is Not Empty combines photophobic monsters with timer light switches and a lot of frenzied digging",
+          "title": "PowerWash Simulator devs FuturLab laid off staff and cancelled an unrevealed project earlier this year, but certainly kept quiet about it",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/new-horror-game-the-well-is-not-empty-combines-photophobic-monsters-with-timer-light-switches-and-a-lot-of-frenzied-digging",
-          "summary": "\"Never show the monster,\" horror film-makers, game-makers and other creepozoids have chanted, over the decades. The Well Is Not Empty wastes no time showing us the monster - one of the monsters, at le",
-          "publishedAt": "2026-09-07T16:06:22.000Z",
+          "url": "https://www.rockpapershotgun.com/powerwash-simulator-devs-futurlab-laid-off-staff-and-cancelled-an-unrevealed-project-earlier-this-year-but-certainly-kept-quiet-about-it",
+          "summary": "It's another one of those layoff days, unfortunately. This time the studio in question is PowerWash Simulator developer FuturLab, who have laid off seven staff members with little fanfare after cancel",
+          "publishedAt": "2026-09-08T16:17:54.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Mr. Jambo's Kyle Gordon Reveals His Terrible Video Game Inspirations",
+          "title": "'A Study in Crimson' quest walkthrough in The Blood of Dawnwalker",
           "source": "Polygon",
-          "url": "https://www.polygon.com/mr-jambo-kyle-gordon-shelf-quest/",
-          "summary": "Planet of the Bass creator Kyle Gordon has a new album in fall 2026. Before that, he joined Shelf Quest.",
-          "publishedAt": "2026-09-07T12:00:14.000Z",
+          "url": "https://www.polygon.com/blood-of-dawnwalker-a-study-in-crimson-quest-walkthrough-vicho/",
+          "summary": "In this walkthrough, we explain how to fully complete the 'A Study In Crimson' quest in The Blood of Dawnwalker, including Vicho's tough decision.",
+          "publishedAt": "2026-09-08T15:18:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Slay the Spire Fans Need to Devour This New Game for Art Alone",
+          "title": "5 Things Completely New to the Zelda: Ocarina of Time Remake",
           "source": "Polygon",
-          "url": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
-          "summary": "Shroom and Gloom is ready for Early Access release in September 2026 and our preview shows off all the art.",
-          "publishedAt": "2026-09-07T12:00:14.000Z",
+          "url": "https://www.polygon.com/zelda-direct-ocarina-of-time-remake-whats-new-nintendo/",
+          "summary": "Nintendo's Legend of Zelda: Ocarina of Time remake adding quest log, jumping, karaoke, and more",
+          "publishedAt": "2026-09-08T15:23:54.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Sexy Fire Emblem-Inspired Game Food Devils Officially Claims November Release",
+          "title": "Godzilla Officially Returns in Godzilla: Minus Zero’s Explosive First Trailer",
           "source": "Polygon",
-          "url": "https://www.polygon.com/food-devils-exclusive-release-date-interview/",
-          "summary": "We spoke to the developer of Food Devils to learn more about the strategy game alongside the announcement of its Nov. 5 release date",
-          "publishedAt": "2026-09-07T13:00:14.000Z",
+          "url": "https://www.polygon.com/godzilla-minus-zero-first-trailer/",
+          "summary": "'Godzilla Minus Zero' just got its first trailer featuring its iconic big bad and a new Imax aspect ratio.",
+          "publishedAt": "2026-09-08T15:51:57.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "26 Years Later, the Best 'Dilbert' Quote Remains a Comic Strip Classic Despite Its Controversial Creator",
+          "title": "Jackbox Spinning Off Fakin' It into a Standalone Party Game",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-dilbert-comic-strip-quote/",
-          "summary": "efore revealing his controversial views, Scott Adams found success with the comic strip Dilbert. This is his best quote from the comic",
-          "publishedAt": "2026-09-07T14:00:15.000Z",
+          "url": "https://www.polygon.com/jackbox-fakin-it-xl-release-reveal/",
+          "summary": "Jackbox Party Pack 3's favorite title gets a standalone release this November with the launch of Fakin' It XL.",
+          "publishedAt": "2026-09-08T16:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Resident Evil's Zach Cregger: What Being 'Faithful' Really Means",
+          "title": "Zelda: Ocarina of Time Remake's Best Features Are Outside of the Game",
           "source": "Polygon",
-          "url": "https://www.polygon.com/zach-cregger-resident-evil-interview/",
-          "summary": "2026's Resident Evil lifts from RE2 but the Weapons director really wanted to tell his own story in this world — maybe sequels too.",
-          "publishedAt": "2026-09-07T14:12:20.000Z",
+          "url": "https://www.polygon.com/zelda-notes-ocarina-of-time-app-instrument-switch-2/",
+          "summary": "Ocarina of Time for Switch 2 will get some brand-new features that will be available completely outside of the game, Nintendo revealed",
+          "publishedAt": "2026-09-08T16:08:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Dungeon Crawler Carl meets The Finals in this wild new FPS",
+          "title": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
           "source": "Polygon",
-          "url": "https://www.polygon.com/like-or-die-preview-gamescom-2026/",
-          "summary": "Like or Die is a familiar-looking competitive FPS from South Korea's NC, but with a twist - aliens are watching you on stream",
-          "publishedAt": "2026-09-07T15:41:34.000Z",
+          "url": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-concert-announces-2027-world-tour-dates-locations/",
+          "summary": "Clair Obscur: Expedition 33's acclaimed Painted Symphony concert series is getting a world tour in 2027",
+          "publishedAt": "2026-09-08T16:30:38.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Once again, it is genuinely cheaper for me to fly to PAX West and track down Nvidia's 'GeForce Evangelist' rather than buy the RTX 5090 anywhere else",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/once-again-it-is-genuinely-cheaper-for-me-to-fly-to-pax-west-and-track-down-nvidias-geforce-evangelist-rather-than-buy-the-rtx-5090-anywhere-else/",
-          "summary": "They didn't even have boxed GPUs at the event this time.",
-          "publishedAt": "2026-09-07T11:34:26.000Z",
+          "title": "7 Hidden Details You Might Have Missed in the Zelda: Ocarina of Time Trailer",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/zelda-ocarina-time-remake-trailer-breakdown/",
+          "summary": "Nintendo just revealed a lot about its remake of The Legend of Zelda: Ocarina of Time in a trailer loaded with easy-to-miss details.",
+          "publishedAt": "2026-09-08T16:49:24.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "New DLSS 5 mod offloads Neural Rendering to a second card massively cutting the AI filter's performance hit",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/",
-          "summary": "DLSS Neural Rendering is being developed hard in the modding community.",
-          "publishedAt": "2026-09-07T11:56:11.000Z",
+          "title": "Gravity Falls' Alex Hirsch Updates on the Past, Present, and Future",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gravity-falls-art-alex-hirsch-rob-renzetti-interview/",
+          "summary": "Hirsch and Big City Green producer Rob Renzetti are ready to reveal The Art of Gravity Falls. They also address rumors, sequels, and more in 2026.",
+          "publishedAt": "2026-09-08T17:00:14.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,32 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-07T17:45:29.911Z",
+      "generatedAt": "2026-09-08T17:45:20.554Z",
       "items": [
         {
-          "title": "Scuf Omega review",
+          "title": "Valheim 1.0 review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
-          "summary": "Closer to an Alpha or Beta than an Omega.",
-          "publishedAt": "2026-09-07T15:02:11.000Z",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
+          "summary": "Your long journey is at an end, Viking.",
+          "publishedAt": "2026-09-08T14:27:59.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Steam Week in Review: 54 idle games released on Steam last week, and many look eerily similar",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/",
-          "summary": "All the interesting Steam facts for the week ending September 6.",
-          "publishedAt": "2026-09-07T04:12:36.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Skytech Gaming Blaze 5 Review",
+          "title": "Valheim Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/skytech-gaming-blaze-5-review",
-          "summary": "The Skytech Gaming Blaze 5 is packed with strong mid-tier components in a sleek glassy tower, but there are a few issues that’ll impact your quality of life.",
-          "publishedAt": "2026-09-06T12:00:00.000Z",
+          "url": "https://www.ign.com/articles/valheim-review",
+          "summary": "This is the oath of the ultimate survival crafting adventure fulfilled and carved into the very bones of the Earth.",
+          "publishedAt": "2026-09-08T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -153,8 +144,26 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-07T17:45:29.911Z",
+      "generatedAt": "2026-09-08T17:45:20.554Z",
       "items": [
+        {
+          "title": "I got my hands on Razer's new $50 mechanical mini keeb and it makes a damn good first impression",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-got-my-hands-on-razers-new-usd50-mechanical-mini-keeb-and-it-makes-a-damn-good-first-impression/",
+          "summary": "It's got an entry-level MSRP, but still feels like an enthusiast-level device.",
+          "publishedAt": "2026-09-08T15:01:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Doctor Strange: Endless Nightmare Preview - Experience the Lovecraftian Side of the Marvel Universe",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/doctor-strange-endless-nightmare-preview-experience-the-lovecraftian-side-of-the-marvel-universe",
+          "summary": "We've got an exclusive preview of Doctor Strange: Endless Nightmare, a psychedelic journey into the Lovecraftian side of the Marvel Universe.",
+          "publishedAt": "2026-09-08T16:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
         {
           "title": "Practical Magic 2 First Look: A New Generation of Witches Emerges",
           "source": "Polygon",
@@ -163,74 +172,74 @@
           "publishedAt": "2026-09-07T17:00:14.000Z",
           "tag": "Preview",
           "_example": false
-        },
-        {
-          "title": "Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-preview-so-good-played-it-twice",
-          "summary": "\"We don't want to spoil anything,\" associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, \"but we've got two very different loadouts for you to play",
-          "publishedAt": "2026-09-07T09:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-07T17:45:29.911Z",
+      "generatedAt": "2026-09-08T17:45:20.554Z",
       "items": [
         {
-          "title": "\"You'll be able to engage in these high stakes arms races\": Civilization 7's Arc of Tomorrow update aims to be a proper Cold War simulator",
+          "title": "\"Justice at last feels within reach\": Final hearing in Rockstar and fired GTA devs' legal battle will kick off with a union rally",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting",
-          "summary": "Civilization 7 is getting a new free update that takes the 4X strategy game into the atomic age, while trying to make nuclear era conflict a little more elaborate than just being first to research the",
-          "publishedAt": "2026-09-07T09:38:30.000Z",
+          "url": "https://www.rockpapershotgun.com/justice-at-last-feels-within-reach-final-hearing-in-rockstar-and-fired-gta-devs-legal-battle-will-kick-off-with-a-union-rally",
+          "summary": "The final hearing in the legal battle between a group of former Rockstar workers and the GTA 6 studio over the latter's decision to fire the former last year kicks off this week. It'll get underway on",
+          "publishedAt": "2026-09-08T15:06:12.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "[UPDATE] Halloween: The Game Patches Out Sex Minigame — Dev Confirms 'Major Oversight'",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why",
-          "summary": "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.",
-          "publishedAt": "2026-09-06T19:36:30.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
-          "summary": "Saber Interactive CCO Tim Willits has confirmed the company has not revised its communications strategy despite its CEO telling the press that he \"would [...] have been happy to replace [a writer] wit",
-          "publishedAt": "2026-09-06T15:40:50.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Civilization 7 will finally enter the atomic age in 2027, via a free update Firaxis says will be 'even bigger in scope' than last year's Test of Time",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/civilization-7-will-finally-enter-the-atomic-age-in-2027-via-a-free-update-firaxis-says-will-be-even-bigger-in-scope-than-last-years-test-of-time/",
-          "summary": "First expansion \"Earthrise\" also announced.",
-          "publishedAt": "2026-09-06T11:00:21.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Laser Guy is a twin-stick \"anti-shooter\" about a stressed out game developer who can't stop shooting laser beams from his eye",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/laser-guy-is-a-twin-stick-anti-shooter-about-a-stressed-out-game-developer-who-cant-stop-shooting-laser-beams-from-his-eyes",
-          "summary": "Do I need to explain how Cyclops from the X-Men's powers work? I'm going to anyway just in case. He shoots beams from his eyes! More or less, I think it's technically energy from a punch dimension? I'",
-          "publishedAt": "2026-09-05T20:33:25.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Civilization 7 Officially Gets a Major Sci-Fi Update for 2027",
+          "title": "Life Is Strange Studio Warns This Year Could Be Its Last",
           "source": "Polygon",
-          "url": "https://www.polygon.com/civilization-7-earthrise-announcement/",
-          "summary": "The upcoming 1.5 and Arc of Tomorrow updates will also continue to transform Sid Meier's Civilization 7 ahead of Earthrise's launch in 2027",
-          "publishedAt": "2026-09-05T22:00:14.000Z",
+          "url": "https://www.polygon.com/life-is-strange-creator-dont-nod-closure/",
+          "summary": "Life Is Strange and Lost Records developer Don't Nod may not have enough funding to operate beyond early 2027",
+          "publishedAt": "2026-09-08T16:38:06.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Arc Raiders' last live update until Frozen Trails releases today bringing players new rubber ducks and a reminder that you've one month to spend your expiring currency",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-last-live-update-until-frozen-trails-releases-today-bringing-players-new-rubber-ducks-and-a-reminder-that-youve-one-month-to-spend-your-expiring-currency/",
+          "summary": "There's also a new Raider Project to fill the time with.",
+          "publishedAt": "2026-09-08T11:13:21.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 14: Dawntrail's final story patch is exactly what the game needed, and has the 4-month wait for Evercold suddenly feeling a whole lot longer",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-final-story-patch-is-exactly-what-the-game-needed-and-has-the-4-month-wait-for-evercold-suddenly-feeling-a-whole-lot-longer/",
+          "summary": "Setting the stage to perfection.",
+          "publishedAt": "2026-09-08T16:02:45.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "\"Dawg it’s Unreal Engine Zelda\" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals",
+          "summary": "With the gameplay reveal of The Legend of Zelda: Ocarina of Time remake happening earlier today, thousands of people from around of the world have taken their first look at the latest entry in the bel",
+          "publishedAt": "2026-09-08T15:45:42.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026",
+          "summary": "Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed. The confirmation, slim as it is, comes a little over one week after repo",
+          "publishedAt": "2026-09-08T08:11:05.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Capcom expresses continued interest in 're-activating IPs' as the first new Onimusha game in 20 years surpasses 1 million sales on launch day",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/capcom-expresses-continued-interest-in-re-activating-ips-as-the-first-new-onimusha-game-in-20-years-surpasses-1-million-sales-on-launch-day/",
+          "summary": "Onimusha: Way of the Sword's launch day success has propelled the series to 10 million lifetime sales, says Capcom.",
+          "publishedAt": "2026-09-07T17:44:40.000Z",
           "tag": "Industry",
           "_example": false
         }
