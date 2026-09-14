@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-08T17:45:20.554Z",
+  "generated": "2026-09-14T12:00:14.642Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-08T17:45:20.554Z",
+      "generatedAt": "2026-09-14T12:00:14.642Z",
       "items": [
         {
-          "title": "\"Material uncertainty\" hangs over the future of Life is Strange developers Don't Nod beyond January 2027, as negotiations over potential layoffs begin",
+          "title": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/material-uncertainty-hangs-over-the-future-of-life-is-strange-developers-dont-nod-beyond-january-2027-as-negotiations-over-potential-layoffs-begin",
-          "summary": "Life is Strange developers Don't Nod have acknowledged that there's \"material uncertainty regarding the company's ability to continue as a going concern beyond January 31st, 2027\", as they kick off ne",
-          "publishedAt": "2026-09-08T11:31:55.000Z",
+          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+          "summary": "Well, that report earlier this year was bang on the banana. A new StarCraft shooter, creatively dubbed StarCraft, has been announced for a 2030 release at this year's BlizzCon. Joining it among the he",
+          "publishedAt": "2026-09-14T10:45:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Trump regime's Tetris ripoff yanked from White House website after Tetris Company declare they \"take copyright infringement very seriously\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/trump-regimes-tetris-ripoff-yanked-from-white-house-website-after-tetris-company-declare-they-take-copyright-infringement-very-seriously",
-          "summary": "Goodbye, Build the Wall. The Tetris-style game that the US government had stuck on the White House website as a way of promoting the Trump administration's commitment to brutalising and persecuting im",
-          "publishedAt": "2026-09-08T12:45:22.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "NBA 2K27 gives DLSS 5 a more faithful-looking game debut than feared, provided it’s running on the LeBron of GPUs",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-          "summary": "Bit of an anticlimax, really. After months of (justified) revulsion and anti-anticipation over Nvidia DLSS 5 &rsquo;s AI rendering, it&rsquo;s now available in a live game - license laden b-baller NBA",
-          "publishedAt": "2026-09-08T15:37:46.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "PowerWash Simulator devs FuturLab laid off staff and cancelled an unrevealed project earlier this year, but certainly kept quiet about it",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/powerwash-simulator-devs-futurlab-laid-off-staff-and-cancelled-an-unrevealed-project-earlier-this-year-but-certainly-kept-quiet-about-it",
-          "summary": "It's another one of those layoff days, unfortunately. This time the studio in question is PowerWash Simulator developer FuturLab, who have laid off seven staff members with little fanfare after cancel",
-          "publishedAt": "2026-09-08T16:17:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'A Study in Crimson' quest walkthrough in The Blood of Dawnwalker",
+          "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
           "source": "Polygon",
-          "url": "https://www.polygon.com/blood-of-dawnwalker-a-study-in-crimson-quest-walkthrough-vicho/",
-          "summary": "In this walkthrough, we explain how to fully complete the 'A Study In Crimson' quest in The Blood of Dawnwalker, including Vicho's tough decision.",
-          "publishedAt": "2026-09-08T15:18:28.000Z",
+          "url": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
+          "summary": "The Final Fantasy inspired indie RPG from Sandfall Interactive was a surprise smash hit — so what's next for Clair Obscur?",
+          "publishedAt": "2026-09-14T05:06:55.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Things Completely New to the Zelda: Ocarina of Time Remake",
+          "title": "Fortnite Confirms Kingdom Hearts Collab Release Date, and It's Bigger Than Expected",
           "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-direct-ocarina-of-time-remake-whats-new-nintendo/",
-          "summary": "Nintendo's Legend of Zelda: Ocarina of Time remake adding quest log, jumping, karaoke, and more",
-          "publishedAt": "2026-09-08T15:23:54.000Z",
+          "url": "https://www.polygon.com/fortnite-kingdom-hearts-collab-skins-release-date/",
+          "summary": "Sora and the Keyblade had already been confirmed for Fortnite's gaming season, but it seems there's much more to this collab.",
+          "publishedAt": "2026-09-14T10:19:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Godzilla Officially Returns in Godzilla: Minus Zero’s Explosive First Trailer",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/godzilla-minus-zero-first-trailer/",
-          "summary": "'Godzilla Minus Zero' just got its first trailer featuring its iconic big bad and a new Imax aspect ratio.",
-          "publishedAt": "2026-09-08T15:51:57.000Z",
+          "title": "World of Warcraft: Forever devs say a direct sequel like Guild Wars 2 is unlikely: 'Why would you throw that away and start over?'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-a-direct-sequel-like-guild-wars-2-is-unlikely-why-would-you-throw-that-away-and-start-over/",
+          "summary": "\"We keep making it better.\"",
+          "publishedAt": "2026-09-14T10:38:53.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Jackbox Spinning Off Fakin' It into a Standalone Party Game",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/jackbox-fakin-it-xl-release-reveal/",
-          "summary": "Jackbox Party Pack 3's favorite title gets a standalone release this November with the launch of Fakin' It XL.",
-          "publishedAt": "2026-09-08T16:00:15.000Z",
+          "title": "The Best Books Of September 2026",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-best-books-of-september-2026",
+          "summary": "From cyberpunk to fantasy and much more, these are our picks for the best new books of the month.",
+          "publishedAt": "2026-09-14T09:09:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Zelda: Ocarina of Time Remake's Best Features Are Outside of the Game",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-notes-ocarina-of-time-app-instrument-switch-2/",
-          "summary": "Ocarina of Time for Switch 2 will get some brand-new features that will be available completely outside of the game, Nintendo revealed",
-          "publishedAt": "2026-09-08T16:08:46.000Z",
+          "title": "Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029",
+          "summary": "Blizzard has insisted Diablo 4 still has “bright support” as the community debates the shock news that no more expansions will be released for the game and with Diablo 5 looming over the horizon.",
+          "publishedAt": "2026-09-14T09:19:57.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-concert-announces-2027-world-tour-dates-locations/",
-          "summary": "Clair Obscur: Expedition 33's acclaimed Painted Symphony concert series is getting a world tour in 2027",
-          "publishedAt": "2026-09-08T16:30:38.000Z",
+          "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
+          "summary": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.",
+          "publishedAt": "2026-09-14T10:14:56.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "7 Hidden Details You Might Have Missed in the Zelda: Ocarina of Time Trailer",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-ocarina-time-remake-trailer-breakdown/",
-          "summary": "Nintendo just revealed a lot about its remake of The Legend of Zelda: Ocarina of Time in a trailer loaded with easy-to-miss details.",
-          "publishedAt": "2026-09-08T16:49:24.000Z",
+          "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-expansions-over",
+          "summary": "One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 . Blizzard announced a returning class - the Amazon -",
+          "publishedAt": "2026-09-14T08:19:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gravity Falls' Alex Hirsch Updates on the Past, Present, and Future",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/gravity-falls-art-alex-hirsch-rob-renzetti-interview/",
-          "summary": "Hirsch and Big City Green producer Rob Renzetti are ready to reveal The Art of Gravity Falls. They also address rumors, sequels, and more in 2026.",
-          "publishedAt": "2026-09-08T17:00:14.000Z",
+          "title": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
+          "summary": "Development on a multiplayer PvP mod for The Last of Us Part 2 on PC has been halted after PlayStation got in touch and asked the developers to cease work on the project. Read more",
+          "publishedAt": "2026-09-14T08:29:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
+          "summary": "Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away. One was Diablo 5 , which Blizzard plans to release in spring 2029, and the other was the much",
+          "publishedAt": "2026-09-14T09:33:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
+          "summary": "The announcement of Diablo 5 at BlizzCon over the weekend was among the fan event's highlights. Blizzard shared a surprising number of details about a game that's early in development, and one that wo",
+          "publishedAt": "2026-09-14T10:19:13.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Blizzard Explains Why The StarCraft Shooter Coming In 2030 Was Announced Now",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/blizzard-explains-why-the-starcraft-shooter-coming-in-2030-was-announced-now/",
+          "summary": "Thanks to rumors and reports, the announcement of a new StarCraft game taking the form of an open-world shooter did not come as a complete surprise at BlizzCon's Opening Ceremony . What is surprising ",
+          "publishedAt": "2026-09-13T19:40:42.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-08T17:45:20.554Z",
+      "generatedAt": "2026-09-14T12:00:14.642Z",
       "items": [
         {
-          "title": "Valheim 1.0 review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
-          "summary": "Your long journey is at an end, Viking.",
-          "publishedAt": "2026-09-08T14:27:59.000Z",
+          "title": "Shaun the Sheep: The Beast of Mossy Bottom Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/shaun-the-sheep-the-beast-of-mossy-bottom-review",
+          "summary": "Shaun the Sheep: The Beast of Mossy Bottom review: The residents of Mossy Bottom farm are baaaaack for their first Halloween adventure.",
+          "publishedAt": "2026-09-13T21:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Valheim Review",
+          "title": "Beneath a Steel Sky review (1994)",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/",
+          "summary": "RevisitingRevolution Software's dystopian adventure.",
+          "publishedAt": "2026-09-13T06:17:36.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/valheim-review",
-          "summary": "This is the oath of the ultimate survival crafting adventure fulfilled and carved into the very bones of the Earth.",
-          "publishedAt": "2026-09-08T13:00:00.000Z",
+          "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
+          "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+          "publishedAt": "2026-09-12T21:05:26.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Your Mother Your Mother Your Mother Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
+          "summary": "Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin.",
+          "publishedAt": "2026-09-13T03:22:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,32 +162,23 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-08T17:45:20.554Z",
+      "generatedAt": "2026-09-14T12:00:14.642Z",
       "items": [
         {
-          "title": "I got my hands on Razer's new $50 mechanical mini keeb and it makes a damn good first impression",
+          "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-got-my-hands-on-razers-new-usd50-mechanical-mini-keeb-and-it-makes-a-damn-good-first-impression/",
-          "summary": "It's got an entry-level MSRP, but still feels like an enthusiast-level device.",
-          "publishedAt": "2026-09-08T15:01:00.000Z",
+          "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
+          "summary": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it.",
+          "publishedAt": "2026-09-13T16:00:00.000Z",
           "tag": "Preview",
           "_example": false
         },
         {
-          "title": "Doctor Strange: Endless Nightmare Preview - Experience the Lovecraftian Side of the Marvel Universe",
+          "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/doctor-strange-endless-nightmare-preview-experience-the-lovecraftian-side-of-the-marvel-universe",
-          "summary": "We've got an exclusive preview of Doctor Strange: Endless Nightmare, a psychedelic journey into the Lovecraftian side of the Marvel Universe.",
-          "publishedAt": "2026-09-08T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Practical Magic 2 First Look: A New Generation of Witches Emerges",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/practical-magic-2-exclusive-image/",
-          "summary": "Check out this exclusive image of Practical Magic 2, showing some of the new characters that are introduced to the franchise.",
-          "publishedAt": "2026-09-07T17:00:14.000Z",
+          "url": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
+          "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
+          "publishedAt": "2026-09-12T20:28:58.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -178,68 +187,23 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-08T17:45:20.554Z",
+      "generatedAt": "2026-09-14T12:00:14.642Z",
       "items": [
         {
-          "title": "\"Justice at last feels within reach\": Final hearing in Rockstar and fired GTA devs' legal battle will kick off with a union rally",
+          "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/justice-at-last-feels-within-reach-final-hearing-in-rockstar-and-fired-gta-devs-legal-battle-will-kick-off-with-a-union-rally",
-          "summary": "The final hearing in the legal battle between a group of former Rockstar workers and the GTA 6 studio over the latter's decision to fire the former last year kicks off this week. It'll get underway on",
-          "publishedAt": "2026-09-08T15:06:12.000Z",
+          "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
+          "summary": "Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined together that ditched its VR headset origins. Now, unfo",
+          "publishedAt": "2026-09-13T16:16:16.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Life Is Strange Studio Warns This Year Could Be Its Last",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/life-is-strange-creator-dont-nod-closure/",
-          "summary": "Life Is Strange and Lost Records developer Don't Nod may not have enough funding to operate beyond early 2027",
-          "publishedAt": "2026-09-08T16:38:06.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Arc Raiders' last live update until Frozen Trails releases today bringing players new rubber ducks and a reminder that you've one month to spend your expiring currency",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-last-live-update-until-frozen-trails-releases-today-bringing-players-new-rubber-ducks-and-a-reminder-that-youve-one-month-to-spend-your-expiring-currency/",
-          "summary": "There's also a new Raider Project to fill the time with.",
-          "publishedAt": "2026-09-08T11:13:21.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Final Fantasy 14: Dawntrail's final story patch is exactly what the game needed, and has the 4-month wait for Evercold suddenly feeling a whole lot longer",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-final-story-patch-is-exactly-what-the-game-needed-and-has-the-4-month-wait-for-evercold-suddenly-feeling-a-whole-lot-longer/",
-          "summary": "Setting the stage to perfection.",
-          "publishedAt": "2026-09-08T16:02:45.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"Dawg it’s Unreal Engine Zelda\" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal",
+          "title": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\"",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals",
-          "summary": "With the gameplay reveal of The Legend of Zelda: Ocarina of Time remake happening earlier today, thousands of people from around of the world have taken their first look at the latest entry in the bel",
-          "publishedAt": "2026-09-08T15:45:42.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026",
-          "summary": "Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed. The confirmation, slim as it is, comes a little over one week after repo",
-          "publishedAt": "2026-09-08T08:11:05.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Capcom expresses continued interest in 're-activating IPs' as the first new Onimusha game in 20 years surpasses 1 million sales on launch day",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/capcom-expresses-continued-interest-in-re-activating-ips-as-the-first-new-onimusha-game-in-20-years-surpasses-1-million-sales-on-launch-day/",
-          "summary": "Onimusha: Way of the Sword's launch day success has propelled the series to 10 million lifetime sales, says Capcom.",
-          "publishedAt": "2026-09-07T17:44:40.000Z",
+          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
+          "summary": "Level-5 president and CEO Akihiro Hino has confirmed that generative AI was used in the studio's recent showcase. Read more",
+          "publishedAt": "2026-09-13T15:32:39.000Z",
           "tag": "Industry",
           "_example": false
         }
