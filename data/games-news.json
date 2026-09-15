@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-14T12:00:14.642Z",
+  "generated": "2026-09-15T17:45:22.902Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-14T12:00:14.642Z",
+      "generatedAt": "2026-09-15T17:45:22.902Z",
       "items": [
         {
-          "title": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-          "summary": "Well, that report earlier this year was bang on the banana. A new StarCraft shooter, creatively dubbed StarCraft, has been announced for a 2030 release at this year's BlizzCon. Joining it among the he",
-          "publishedAt": "2026-09-14T10:45:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
-          "summary": "The Final Fantasy inspired indie RPG from Sandfall Interactive was a surprise smash hit — so what's next for Clair Obscur?",
-          "publishedAt": "2026-09-14T05:06:55.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Fortnite Confirms Kingdom Hearts Collab Release Date, and It's Bigger Than Expected",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/fortnite-kingdom-hearts-collab-skins-release-date/",
-          "summary": "Sora and the Keyblade had already been confirmed for Fortnite's gaming season, but it seems there's much more to this collab.",
-          "publishedAt": "2026-09-14T10:19:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "World of Warcraft: Forever devs say a direct sequel like Guild Wars 2 is unlikely: 'Why would you throw that away and start over?'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-a-direct-sequel-like-guild-wars-2-is-unlikely-why-would-you-throw-that-away-and-start-over/",
-          "summary": "\"We keep making it better.\"",
-          "publishedAt": "2026-09-14T10:38:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Best Books Of September 2026",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-best-books-of-september-2026",
-          "summary": "From cyberpunk to fantasy and much more, these are our picks for the best new books of the month.",
-          "publishedAt": "2026-09-14T09:09:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029",
-          "summary": "Blizzard has insisted Diablo 4 still has “bright support” as the community debates the shock news that no more expansions will be released for the game and with Diablo 5 looming over the horizon.",
-          "publishedAt": "2026-09-14T09:19:57.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
-          "summary": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.",
-          "publishedAt": "2026-09-14T10:14:56.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-expansions-over",
-          "summary": "One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 . Blizzard announced a returning class - the Amazon -",
-          "publishedAt": "2026-09-14T08:19:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
-          "summary": "Development on a multiplayer PvP mod for The Last of Us Part 2 on PC has been halted after PlayStation got in touch and asked the developers to cease work on the project. Read more",
-          "publishedAt": "2026-09-14T08:29:01.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
-          "summary": "Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away. One was Diablo 5 , which Blizzard plans to release in spring 2029, and the other was the much",
-          "publishedAt": "2026-09-14T09:33:49.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
-          "summary": "The announcement of Diablo 5 at BlizzCon over the weekend was among the fan event's highlights. Blizzard shared a surprising number of details about a game that's early in development, and one that wo",
-          "publishedAt": "2026-09-14T10:19:13.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Blizzard Explains Why The StarCraft Shooter Coming In 2030 Was Announced Now",
+          "title": "Diablo 5 Is Bringing Back Set Items, But Wants To Avoid Their Biggest Problem",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/blizzard-explains-why-the-starcraft-shooter-coming-in-2030-was-announced-now/",
-          "summary": "Thanks to rumors and reports, the announcement of a new StarCraft game taking the form of an open-world shooter did not come as a complete surprise at BlizzCon's Opening Ceremony . What is surprising ",
-          "publishedAt": "2026-09-13T19:40:42.000Z",
+          "url": "https://www.gamespot.com/articles/diablo-5-is-bringing-back-set-items-but-wants-to-avoid-their-biggest-problem/",
+          "summary": "One of the most satisfying things about the Diablo games is their loot grind, and in Diablo 5 , Blizzard has plans to keep you clicking enemies to death for a long time in pursuit of an elusive piece ",
+          "publishedAt": "2026-09-15T11:06:09.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WoW Devs Confirm Paladins Are A “Dad Class”",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/wow-devs-confirm-paladins-are-a-dad-class/",
+          "summary": "World of Warcraft has plenty of classes for players to choose from, but according to the game's senior game designer, Josh Greenfield, there's one class that has earned a very specific reputation. Spe",
+          "publishedAt": "2026-09-15T11:44:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Diablo 5 Doubles Down On The Darkness, But Hope Still Has A Place In Sanctuary",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/diablo-5-doubles-down-on-the-darkness-but-hope-still-has-a-place-in-sanctuary/",
+          "summary": "Diablo's world of Sanctuary isn't a top tourist destination, thanks to roaming monsters and demonic forces looking to corrupt humanity, and in Diablo 5 , everything has gone to hell--quite literally! ",
+          "publishedAt": "2026-09-15T12:32:06.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Brings Back Snowboarding, And Red XIII Might Steal The Show Again",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-brings-back-snowboarding-and-red-xiii-might-steal-the-show-again/",
+          "summary": "Final Fantasy 7 Revelation is aiming to end the remake trilogy with a bang, and alongside the main campaign, there'll be plenty of other activities to tackle when you're not racing to stop Sephiroth f",
+          "publishedAt": "2026-09-15T12:39:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "007 First Light’s Switch 2 Edition Delayed Yet Again, Here’s How Long You Have To Wait",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/007-first-lights-switch-2-edition-delayed-yet-again-heres-how-long-you-have-to-wait/",
+          "summary": "Developer IO has confirmed that 007 First Light's Switch 2 edition has been delayed for a second time. It's now scheduled for March 2027. The studio said in a notice that First Light's Switch 2 versio",
+          "publishedAt": "2026-09-15T12:51:25.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 7 Revelation’s Director Kept Coming Back To The Witcher 3 For Inspiration",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-director-kept-coming-back-to-the-witcher-3-for-inspiration/",
+          "summary": "Between the release of Final Fantasy 7 in 1997 and the first chapter in the Remake trilogy in 2020, quite a few games have been released and have gone on to inspire developers. Final Fantasy 7 Revelat",
+          "publishedAt": "2026-09-15T14:14:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "PlayStation Plus Is Removing 7 Games Soon, So Play Them While You Can",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/playstation-plus-is-removing-7-games-soon-so-play-them-while-you-can/",
+          "summary": "A fresh batch of games are coming to the PlayStation Plus Game Catalog for Extra- and Premium-tier subscribers, but several games are also on their way out. While we don't have an exact date for their",
+          "publishedAt": "2026-09-15T15:58:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Big GTA 6 News Could Be Coming Up Soon",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
+          "summary": "It appears some GTA 6 news is coming up soon, and it could be focused on the game's music. A variety of musicians have released GTA-inspired teasers, and people are theorizing it's tied to some kind o",
+          "publishedAt": "2026-09-15T15:58:42.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Game Pass Removes 8 More Games Very Soon",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-removes-8-more-games-very-soon/",
+          "summary": "Microsoft has announced the second wave of removals from Xbox Game Pass this month, and eight more games are heading out soon. Earlier this month, Microsoft removed 10 games from Game Pass , so a tota",
+          "publishedAt": "2026-09-15T16:24:58.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Game Pass Gets 12 More Games In September",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-gets-12-more-games-in-september/",
+          "summary": "The second wave of games coming to Xbox Game Pass in September has been revealed, and we've also gotten a sneak peek at what's coming in early October. In total, there'll be 12 games headed to Xbox an",
+          "publishedAt": "2026-09-15T16:19:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+          "summary": "Valve have sometimes &ndash; if perhaps not often enough to call it a grand old tradition &ndash; massaged interest in their hardware by pairing the kit with a new game. For the Steam Deck it was Aper",
+          "publishedAt": "2026-09-15T12:29:05.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
+          "summary": "Earlier this week, trademarks were spotted over at the European Union Intellectual Property Office for a videogame or videogame-related Something called 'Wonders of O'. The trademarks were registered ",
+          "publishedAt": "2026-09-15T13:57:24.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,41 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-14T12:00:14.642Z",
+      "generatedAt": "2026-09-15T17:45:22.902Z",
       "items": [
         {
-          "title": "Shaun the Sheep: The Beast of Mossy Bottom Review",
+          "title": "Forgotten Island Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/shaun-the-sheep-the-beast-of-mossy-bottom-review",
-          "summary": "Shaun the Sheep: The Beast of Mossy Bottom review: The residents of Mossy Bottom farm are baaaaack for their first Halloween adventure.",
-          "publishedAt": "2026-09-13T21:00:00.000Z",
+          "url": "https://www.ign.com/articles/forgotten-island-review",
+          "summary": "Forgotten Island review: An emotional, funny, folklore-filled adventure about friendship.",
+          "publishedAt": "2026-09-15T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Beneath a Steel Sky review (1994)",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/",
-          "summary": "RevisitingRevolution Software's dystopian adventure.",
-          "publishedAt": "2026-09-13T06:17:36.000Z",
+          "title": "Golden Axe Animated Series Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/golden-axe-animated-series-review",
+          "summary": "Golden Axe Animated Series review: Mike McMahan brings Lower Decks energy to this animated adaptation of the game series.",
+          "publishedAt": "2026-09-15T16:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
-          "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-          "publishedAt": "2026-09-12T21:05:26.000Z",
+          "title": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-review",
+          "summary": "It&rsquo;s a strange time to be selling a new VR headset, and maybe an even stranger time to be buying one. The supply of original virtual reality games has slowed to a dribble, and just as with Valve",
+          "publishedAt": "2026-09-14T17:00:42.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Your Mother Your Mother Your Mother Review",
+          "title": "I Play Rocky Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
-          "summary": "Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin.",
-          "publishedAt": "2026-09-13T03:22:00.000Z",
+          "url": "https://www.ign.com/articles/i-play-rocky-review",
+          "summary": "I Play Rocky review: Which came first, the Rocky or the Sly?",
+          "publishedAt": "2026-09-14T17:41:46.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -162,23 +162,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-14T12:00:14.642Z",
+      "generatedAt": "2026-09-15T17:45:22.902Z",
       "items": [
         {
-          "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
-          "summary": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it.",
-          "publishedAt": "2026-09-13T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
+          "title": "Exterminauts Wants You to Live a 9-to-5 Life That Bites Back | IGN Preview",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
-          "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
-          "publishedAt": "2026-09-12T20:28:58.000Z",
+          "url": "https://www.ign.com/articles/exterminauts-wants-you-to-live-a-9-to-5-life-that-bites-back-ign-preview",
+          "summary": "Exterminauts is chaotic. Whether you’re blowing your friends up by accident or getting knocked off of a tall structure you’re trying to fix or just reacting to stuff going wrong on the fly, you’re alw",
+          "publishedAt": "2026-09-15T13:31:00.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -187,23 +178,68 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-14T12:00:14.642Z",
+      "generatedAt": "2026-09-15T17:45:22.902Z",
       "items": [
         {
-          "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
+          "title": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
-          "summary": "Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined together that ditched its VR headset origins. Now, unfo",
-          "publishedAt": "2026-09-13T16:16:16.000Z",
+          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+          "summary": "Bungie have announced that the Marathon update originally slated to arrive on September 22nd will not be doing so. Instead, it'll rock up in December as part of a major update dubbed Symbiosis, which'",
+          "publishedAt": "2026-09-15T15:25:04.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\"",
+          "title": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+          "summary": "Flick of the wrist.",
+          "publishedAt": "2026-09-15T14:22:49.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
+          "summary": "Marvel’s Wolverine developer Insomniac has said it’s planning to “further refine the player experience” based on feedback, while insisting it’s “incredibly proud” of the game.",
+          "publishedAt": "2026-09-15T12:15:21.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Fable Developer Explains Why Xbox 'Protected' the Project Over Its Long Development Cycle, Amid Layoffs and Studio Closures Elsewhere",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/fable-developer-explains-why-xbox-protected-the-project-over-its-long-development-cycle-amid-layoffs-and-studio-closures-elsewhere",
+          "summary": "Fable maker Playground Games has detailed how its upcoming RPG survived a decade in development, amid layoffs and studio closures across the rest of Xbox.",
+          "publishedAt": "2026-09-15T16:10:07.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
-          "summary": "Level-5 president and CEO Akihiro Hino has confirmed that generative AI was used in the studio's recent showcase. Read more",
-          "publishedAt": "2026-09-13T15:32:39.000Z",
+          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+          "summary": "Well this made me chuckle. After starting out with Two Point Hospital - a spiritual successor to developer Bullfrog Productions' classic sick-fixing sim Theme Hospital, Two Point Studios is now going ",
+          "publishedAt": "2026-09-15T16:20:23.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+          "summary": "The September update for Civ 7 arrives today, September 15th. It's got a handful of new maps, including a fresh version of the real life-mimicking True Start Earth playing field, and updates to diplom",
+          "publishedAt": "2026-09-15T10:18:54.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+          "summary": "Big changes are coming, but not until December.",
+          "publishedAt": "2026-09-14T18:19:59.000Z",
           "tag": "Industry",
           "_example": false
         }
