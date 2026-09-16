@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-15T17:45:22.902Z",
+  "generated": "2026-09-16T17:45:15.424Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-15T17:45:22.902Z",
+      "generatedAt": "2026-09-16T17:45:15.424Z",
       "items": [
         {
-          "title": "Diablo 5 Is Bringing Back Set Items, But Wants To Avoid Their Biggest Problem",
+          "title": "This Is How Blizzard Is Reducing Toxicity In Overwatch",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/diablo-5-is-bringing-back-set-items-but-wants-to-avoid-their-biggest-problem/",
-          "summary": "One of the most satisfying things about the Diablo games is their loot grind, and in Diablo 5 , Blizzard has plans to keep you clicking enemies to death for a long time in pursuit of an elusive piece ",
-          "publishedAt": "2026-09-15T11:06:09.000Z",
+          "url": "https://www.gamespot.com/articles/this-is-how-blizzard-is-reducing-toxicity-in-overwatch/",
+          "summary": "For years, Overwatch had an infamous player toxicity problem. A few years after its successful 2016 debut, the problem became especially bad whenever a new hero was added to the game, and that was an ",
+          "publishedAt": "2026-09-16T11:22:42.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "WoW Devs Confirm Paladins Are A “Dad Class”",
+          "title": "Zero Parades: Director’s Cut Revealed And PS5 Edition Release Date Announced",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/wow-devs-confirm-paladins-are-a-dad-class/",
-          "summary": "World of Warcraft has plenty of classes for players to choose from, but according to the game's senior game designer, Josh Greenfield, there's one class that has earned a very specific reputation. Spe",
-          "publishedAt": "2026-09-15T11:44:53.000Z",
+          "url": "https://www.gamespot.com/articles/zero-parades-directors-cut-revealed-and-ps5-edition-release-date-announced/",
+          "summary": "Following the release of Zero Parades in May, developer ZA/UM Studio has announced a Director's Cut version, and it's coming soon as a free update for everyone, while the game's console edition is lau",
+          "publishedAt": "2026-09-16T13:00:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Diablo 5 Doubles Down On The Darkness, But Hope Still Has A Place In Sanctuary",
+          "title": "Why Blizzard Stopped Protecting The Overwatch Formula To Save The Game",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/diablo-5-doubles-down-on-the-darkness-but-hope-still-has-a-place-in-sanctuary/",
-          "summary": "Diablo's world of Sanctuary isn't a top tourist destination, thanks to roaming monsters and demonic forces looking to corrupt humanity, and in Diablo 5 , everything has gone to hell--quite literally! ",
-          "publishedAt": "2026-09-15T12:32:06.000Z",
+          "url": "https://www.gamespot.com/articles/why-blizzard-stopped-protecting-the-overwatch-formula-to-save-the-game/",
+          "summary": "After a successful rebrand earlier this year, the mood around Overwatch has been far more positive recently. Speaking to GameSpot at BlizzCon , associate game director Alec Dawson attributed the recen",
+          "publishedAt": "2026-09-16T13:16:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Final Fantasy 7 Revelation Brings Back Snowboarding, And Red XIII Might Steal The Show Again",
+          "title": "Resident Evil Director On Who Should Play Lady Dimitrescu In A Resident Evil Village Movie",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-brings-back-snowboarding-and-red-xiii-might-steal-the-show-again/",
-          "summary": "Final Fantasy 7 Revelation is aiming to end the remake trilogy with a bang, and alongside the main campaign, there'll be plenty of other activities to tackle when you're not racing to stop Sephiroth f",
-          "publishedAt": "2026-09-15T12:39:01.000Z",
+          "url": "https://www.gamespot.com/articles/resident-evil-director-on-who-should-play-lady-dimitrescu-in-a-resident-evil-village-movie/",
+          "summary": "Director Zach Cregger's latest movie, Resident Evil, hits theaters this week, but if there were to be a movie based on Resident Evil Village, who should play the game's popular Lady Dimitrescu charact",
+          "publishedAt": "2026-09-16T14:28:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "007 First Light’s Switch 2 Edition Delayed Yet Again, Here’s How Long You Have To Wait",
+          "title": "Bloodborne May Not Be Getting A Sequel Or Remaster, But How About An Umbrella?",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/007-first-lights-switch-2-edition-delayed-yet-again-heres-how-long-you-have-to-wait/",
-          "summary": "Developer IO has confirmed that 007 First Light's Switch 2 edition has been delayed for a second time. It's now scheduled for March 2027. The studio said in a notice that First Light's Switch 2 versio",
-          "publishedAt": "2026-09-15T12:51:25.000Z",
+          "url": "https://www.gamespot.com/articles/bloodborne-may-not-be-getting-a-sequel-or-remaster-but-how-about-an-umbrella/",
+          "summary": "It never rains, but it does pour for Bloodborne fans holding out hope for some news on From Software's beloved game. Fortunately, you can take some shelter from that storm of disappointment with an of",
+          "publishedAt": "2026-09-16T15:11:45.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Final Fantasy 7 Revelation’s Director Kept Coming Back To The Witcher 3 For Inspiration",
+          "title": "Fable Being “Vital To The DNA” Of Xbox Helped Shield The Game From Hardship, Director Says",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-director-kept-coming-back-to-the-witcher-3-for-inspiration/",
-          "summary": "Between the release of Final Fantasy 7 in 1997 and the first chapter in the Remake trilogy in 2020, quite a few games have been released and have gone on to inspire developers. Final Fantasy 7 Revelat",
-          "publishedAt": "2026-09-15T14:14:50.000Z",
+          "url": "https://www.gamespot.com/articles/fable-being-vital-to-the-dna-of-xbox-helped-shield-the-game-from-hardship-director-says/",
+          "summary": "The Fable reboot in development at Playground Games has been in the works for a long, long time, and part of what's \"protected\" the game during the lengthy development cycle was that the franchise is ",
+          "publishedAt": "2026-09-16T15:43:43.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "PlayStation Plus Is Removing 7 Games Soon, So Play Them While You Can",
+          "title": "Call Of Duty: Black Ops Dev Teases “Something That Nobody’s Ever Experienced Before”",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/playstation-plus-is-removing-7-games-soon-so-play-them-while-you-can/",
-          "summary": "A fresh batch of games are coming to the PlayStation Plus Game Catalog for Extra- and Premium-tier subscribers, but several games are also on their way out. While we don't have an exact date for their",
-          "publishedAt": "2026-09-15T15:58:33.000Z",
+          "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-dev-teases-something-that-nobodys-ever-experienced-before/",
+          "summary": "Veteran Call of Duty developer Treyarch is finishing up its work on Black Ops 7 and shifting to its next project, but what will that be? That remains to be seen, but Treyarch design director Kevin Dre",
+          "publishedAt": "2026-09-16T16:10:32.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Big GTA 6 News Could Be Coming Up Soon",
+          "title": "Fire Emblem: Fortune’s Weave’s Fantastic Reviews Have Me Feeling FOMO",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
-          "summary": "It appears some GTA 6 news is coming up soon, and it could be focused on the game's music. A variety of musicians have released GTA-inspired teasers, and people are theorizing it's tied to some kind o",
-          "publishedAt": "2026-09-15T15:58:42.000Z",
+          "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/",
+          "summary": "Here we go again: A new Fire Emblem game is garnering glowing reviews, and I'm thinking this could be the one that finally clicks with me. Launching tomorrow on Switch 2, Fire Emblem: Fortune's Weave ",
+          "publishedAt": "2026-09-16T16:37:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox Game Pass Removes 8 More Games Very Soon",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-removes-8-more-games-very-soon/",
-          "summary": "Microsoft has announced the second wave of removals from Xbox Game Pass this month, and eight more games are heading out soon. Earlier this month, Microsoft removed 10 games from Game Pass , so a tota",
-          "publishedAt": "2026-09-15T16:24:58.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Game Pass Gets 12 More Games In September",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-gets-12-more-games-in-september/",
-          "summary": "The second wave of games coming to Xbox Game Pass in September has been revealed, and we've also gotten a sneak peek at what's coming in early October. In total, there'll be 12 games headed to Xbox an",
-          "publishedAt": "2026-09-15T16:19:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
+          "title": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
-          "summary": "Valve have sometimes &ndash; if perhaps not often enough to call it a grand old tradition &ndash; massaged interest in their hardware by pairing the kit with a new game. For the Steam Deck it was Aper",
-          "publishedAt": "2026-09-15T12:29:05.000Z",
+          "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+          "summary": "The Steam Frame , unfortunately RAM shortage-ravaged as it is, is unique among virtual reality headsets for its ability to run Steam games &ndash; VR or 'flat' alike &ndash; entirely on its own, inter",
+          "publishedAt": "2026-09-16T13:01:35.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
+          "title": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
-          "summary": "Earlier this week, trademarks were spotted over at the European Union Intellectual Property Office for a videogame or videogame-related Something called 'Wonders of O'. The trademarks were registered ",
-          "publishedAt": "2026-09-15T13:57:24.000Z",
+          "url": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
+          "summary": "Former Doom: The Dark Ages producer Andrew Willis has shared tuppence on the state of the blockbuster videogame trade, arguing that the biggest companies and most popular series are going through a fa",
+          "publishedAt": "2026-09-16T13:30:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+          "summary": "If the organisers of Crufts ever have to produce a season of Robot Wars, the results probably won't be a million miles away from Dog in the Machine - a new turn-based tactics puzzler that's sort of In",
+          "publishedAt": "2026-09-16T15:20:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+          "summary": "For the last few years I've been labouring to transform my terror of spiders into guarded appreciation, even wonder. I've been drawing pictures of spiders, and writing stories about them. When I spy a",
+          "publishedAt": "2026-09-16T16:13:56.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,41 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-15T17:45:22.902Z",
+      "generatedAt": "2026-09-16T17:45:15.424Z",
       "items": [
         {
-          "title": "Forgotten Island Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/forgotten-island-review",
-          "summary": "Forgotten Island review: An emotional, funny, folklore-filled adventure about friendship.",
-          "publishedAt": "2026-09-15T13:00:00.000Z",
+          "title": "'Resident Evil' Review: A Near-Perfect Sci-Fi Thriller That Never Steps Off the Gas",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/resident-evil-review-zach-cregger/",
+          "summary": "Zach Cregger's Resident Evil is horror movie about the absolute torture of playing horror games",
+          "publishedAt": "2026-09-16T16:01:14.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Golden Axe Animated Series Review",
+          "title": "Fire Emblem: Fortune's Weave Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/golden-axe-animated-series-review",
-          "summary": "Golden Axe Animated Series review: Mike McMahan brings Lower Decks energy to this animated adaptation of the game series.",
-          "publishedAt": "2026-09-15T16:00:00.000Z",
+          "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review",
+          "summary": "An excellent combination of combat strategy, time management, and compelling stories.",
+          "publishedAt": "2026-09-16T12:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-review",
-          "summary": "It&rsquo;s a strange time to be selling a new VR headset, and maybe an even stranger time to be buying one. The supply of original virtual reality games has slowed to a dribble, and just as with Valve",
-          "publishedAt": "2026-09-14T17:00:42.000Z",
+          "title": "Fire Emblem: Fortune's Weave review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review",
+          "summary": "I cannot remember the last time I put this many hours into a game for a review. And still, I'm sitting here, writing this, itching to play more of Fire Emblem: Fortune's Weave. Despite some odd decisi",
+          "publishedAt": "2026-09-16T12:08:06.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "I Play Rocky Review",
+          "title": "Trails In The Sky 2nd Chapter Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/i-play-rocky-review",
-          "summary": "I Play Rocky review: Which came first, the Rocky or the Sly?",
-          "publishedAt": "2026-09-14T17:41:46.000Z",
+          "url": "https://www.ign.com/articles/trails-in-the-sky-2nd-chapter-review",
+          "summary": "An impressive remake which captures everything that made the original so endearing.",
+          "publishedAt": "2026-09-16T07:00:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -162,14 +162,41 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-15T17:45:22.902Z",
+      "generatedAt": "2026-09-16T17:45:15.424Z",
       "items": [
         {
-          "title": "Exterminauts Wants You to Live a 9-to-5 Life That Bites Back | IGN Preview",
+          "title": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+          "summary": "Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space 's release in July 2012, players who preordered the game got immediate acces",
+          "publishedAt": "2026-09-16T16:57:25.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
+          "summary": "Wo Long: Fallen Dynasty sequel Wo Long 2: Wings of Ember will release in March next year, devs Koei Tecmo have revealed as they've whipped out an alpha demo that you can give a go right away. Expect p",
+          "publishedAt": "2026-09-16T09:35:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
+          "summary": "Overnight, in the run up to Tokyo Game Show, Koei Tecmo and Team Ninja announced that Wo Long 2: Wings of Ember, the latest instalment in the studios' dark Three Kingdoms-inspired action-RPG series, w",
+          "publishedAt": "2026-09-16T09:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/exterminauts-wants-you-to-live-a-9-to-5-life-that-bites-back-ign-preview",
-          "summary": "Exterminauts is chaotic. Whether you’re blowing your friends up by accident or getting knocked off of a tall structure you’re trying to fix or just reacting to stuff going wrong on the fly, you’re alw",
-          "publishedAt": "2026-09-15T13:31:00.000Z",
+          "url": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
+          "summary": "Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, Xbox Series X|S (including day one on Xbox Game Pas",
+          "publishedAt": "2026-09-16T01:54:46.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -178,68 +205,104 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-15T17:45:22.902Z",
+      "generatedAt": "2026-09-16T17:45:15.424Z",
       "items": [
         {
-          "title": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
+          "title": "Blizzard Boss On Why Diablo Is Becoming A TV Show And How Involved The Studio Will Be",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/blizzard-boss-on-why-diablo-is-becoming-a-tv-show-and-how-involved-the-studio-will-be/",
+          "summary": "At BlizzCon , Blizzard announced a partnership with Netflix for an animated Diablo TV show. The announcement caught some by surprise, but Blizzard president Johanna Faries said in an interview that it",
+          "publishedAt": "2026-09-16T13:49:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
-          "summary": "Bungie have announced that the Marathon update originally slated to arrive on September 22nd will not be doing so. Instead, it'll rock up in December as part of a major update dubbed Symbiosis, which'",
-          "publishedAt": "2026-09-15T15:25:04.000Z",
+          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+          "summary": "Bulkhead CEO Joe Brammer has revealed that the studio behind recent FPS hit Wardogs check the social media accounts of prospective hires for public criticism of crunch practices, and deliberately pref",
+          "publishedAt": "2026-09-16T12:07:05.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
+          "title": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+          "summary": "Update: The IWGB Games Worker Union have issued the following statement to RPS from vice-chair Ben Newbon: We cannot add any further insight into the heartbreaking job losses at BARB, a company that w",
+          "publishedAt": "2026-09-16T14:50:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "'Coraline' Studio’s Next Film Gets Breathtaking Final Trailer",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/wildwood-laika-studio-coraline-final-trailer/",
+          "summary": "Laika's 'Wildwood' gets its final trailer ahead of the film's October release.",
+          "publishedAt": "2026-09-16T15:28:57.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-          "summary": "Flick of the wrist.",
-          "publishedAt": "2026-09-15T14:22:49.000Z",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/",
+          "summary": "But, \"there are people over there who are not me who take the best care ever of them.\"",
+          "publishedAt": "2026-09-16T13:35:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
+          "title": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+          "summary": "It's been a year since the Balatro 1.1 update was delayed into 2026.",
+          "publishedAt": "2026-09-16T16:01:08.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Call of Duty Developer Treyarch 'Ready to Make Something New' as It Waves Goodbye to 2 Years of Black Ops",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
-          "summary": "Marvel’s Wolverine developer Insomniac has said it’s planning to “further refine the player experience” based on feedback, while insisting it’s “incredibly proud” of the game.",
-          "publishedAt": "2026-09-15T12:15:21.000Z",
+          "url": "https://www.ign.com/articles/call-of-duty-developer-treyarch-ready-to-make-something-new-as-it-waves-goodbye-to-2-years-of-black-ops",
+          "summary": "Call of Duty developer Treyarch has said it’s “ready to make something new” as it waves goodbye to two years of Black Ops games.",
+          "publishedAt": "2026-09-16T15:57:21.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Fable Developer Explains Why Xbox 'Protected' the Project Over Its Long Development Cycle, Amid Layoffs and Studio Closures Elsewhere",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/fable-developer-explains-why-xbox-protected-the-project-over-its-long-development-cycle-amid-layoffs-and-studio-closures-elsewhere",
-          "summary": "Fable maker Playground Games has detailed how its upcoming RPG survived a decade in development, amid layoffs and studio closures across the rest of Xbox.",
-          "publishedAt": "2026-09-15T16:10:07.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
+          "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-          "summary": "Well this made me chuckle. After starting out with Two Point Hospital - a spiritual successor to developer Bullfrog Productions' classic sick-fixing sim Theme Hospital, Two Point Studios is now going ",
-          "publishedAt": "2026-09-15T16:20:23.000Z",
+          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+          "summary": "Fable developer Playground Games has said \"many people within Xbox view Fable as being vital to the DNA of the platform\", which is why this game has been allowed such a long and \"protected\" developmen",
+          "publishedAt": "2026-09-16T13:57:29.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
-          "summary": "The September update for Civ 7 arrives today, September 15th. It's got a handful of new maps, including a fresh version of the real life-mimicking True Start Earth playing field, and updates to diplom",
-          "publishedAt": "2026-09-15T10:18:54.000Z",
+          "title": "New PS5 Update Is Out Now, And Sony Actually Added Some New Features",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-actually-added-some-new-features/",
+          "summary": "A new PS5 firmware update has arrived, and it's upgrading the console with more than just extra stability. Firmware update version 26.06-14.00.00 offers a new tweak for the PS5 Pro console, voice chat",
+          "publishedAt": "2026-09-16T10:11:40.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "summary": "Big changes are coming, but not until December.",
-          "publishedAt": "2026-09-14T18:19:59.000Z",
+          "title": "PS5 Update Lets You Turn on Display Names, Adds Trending Now and Top 10 Views, and More",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ps5-update-lets-you-turn-on-display-names-adds-trending-now-and-top-10-views-and-more",
+          "summary": "Sony has released a fresh system software update for the PS5 that makes a number of interesting changes. Check out the version 26.06-14.00.00 patch notes.",
+          "publishedAt": "2026-09-16T08:42:57.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
+          "summary": "The launch of Diablo 4 's Season of Hell's Legacy got off to a rough start. The anticipated season was announced at BlizzCon over the weekend to arrive alongside a 30th anniversary celebration of the ",
+          "publishedAt": "2026-09-16T08:42:38.000Z",
           "tag": "Industry",
           "_example": false
         }
