@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-16T17:45:15.424Z",
+  "generated": "2026-09-18T17:45:15.824Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-16T17:45:15.424Z",
+      "generatedAt": "2026-09-18T17:45:15.824Z",
       "items": [
         {
-          "title": "This Is How Blizzard Is Reducing Toxicity In Overwatch",
+          "title": "Sony Says Free TV On PS5 Is “One Plus One Equaling A Lot More Than Two”",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/this-is-how-blizzard-is-reducing-toxicity-in-overwatch/",
-          "summary": "For years, Overwatch had an infamous player toxicity problem. A few years after its successful 2016 debut, the problem became especially bad whenever a new hero was added to the game, and that was an ",
-          "publishedAt": "2026-09-16T11:22:42.000Z",
+          "url": "https://www.gamespot.com/articles/sony-says-free-tv-on-ps5-is-one-plus-one-equaling-a-lot-more-than-two/",
+          "summary": "Sony recently launched \"Live TV on PS5,\" an offering that gives all PlayStation 5 owners access to 100+ channels of free ad-supported TV and movies. Keith Le Goy, the chairman of Sony Pictures TV, rec",
+          "publishedAt": "2026-09-18T14:43:44.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Zero Parades: Director’s Cut Revealed And PS5 Edition Release Date Announced",
+          "title": "Nintendo Says We’re Still At The Beginning Of The Switch 2 Story",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/zero-parades-directors-cut-revealed-and-ps5-edition-release-date-announced/",
-          "summary": "Following the release of Zero Parades in May, developer ZA/UM Studio has announced a Director's Cut version, and it's coming soon as a free update for everyone, while the game's console edition is lau",
-          "publishedAt": "2026-09-16T13:00:31.000Z",
+          "url": "https://www.gamespot.com/articles/nintendo-says-were-still-at-the-beginning-of-the-switch-2-story/",
+          "summary": "The Switch 2 is a little over a year old, and unsurprisingly, Nintendo says that its console is just getting started. In a new interview, Nintendo of America president and COO Devon Pritchard teased a",
+          "publishedAt": "2026-09-18T15:10:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Why Blizzard Stopped Protecting The Overwatch Formula To Save The Game",
+          "title": "A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/why-blizzard-stopped-protecting-the-overwatch-formula-to-save-the-game/",
-          "summary": "After a successful rebrand earlier this year, the mood around Overwatch has been far more positive recently. Speaking to GameSpot at BlizzCon , associate game director Alec Dawson attributed the recen",
-          "publishedAt": "2026-09-16T13:16:58.000Z",
+          "url": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
+          "summary": "BambooHR , a human resources company that provides software-as-a-service for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. You mig",
+          "publishedAt": "2026-09-18T16:01:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Resident Evil Director On Who Should Play Lady Dimitrescu In A Resident Evil Village Movie",
+          "title": "Sony’s Iconic PS4 Game-Sharing Meme Has Been Recreated To Capture Our Depressing Future",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/resident-evil-director-on-who-should-play-lady-dimitrescu-in-a-resident-evil-village-movie/",
-          "summary": "Director Zach Cregger's latest movie, Resident Evil, hits theaters this week, but if there were to be a movie based on Resident Evil Village, who should play the game's popular Lady Dimitrescu charact",
-          "publishedAt": "2026-09-16T14:28:30.000Z",
+          "url": "https://www.gamespot.com/articles/sony-iconic-ps4-game-sharing-meme-has-been-recreated-to-capture-our-depressing-future/",
+          "summary": "Thirteen years ago, Sony \"won\" E3 with a simple public service announcement that dunked on Microsoft's controversial Xbox One DRM plans. All it took was 22 seconds for Sony's Shuhei Yoshida and Adam B",
+          "publishedAt": "2026-09-18T16:34:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Bloodborne May Not Be Getting A Sequel Or Remaster, But How About An Umbrella?",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/bloodborne-may-not-be-getting-a-sequel-or-remaster-but-how-about-an-umbrella/",
-          "summary": "It never rains, but it does pour for Bloodborne fans holding out hope for some news on From Software's beloved game. Fortunately, you can take some shelter from that storm of disappointment with an of",
-          "publishedAt": "2026-09-16T15:11:45.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Fable Being “Vital To The DNA” Of Xbox Helped Shield The Game From Hardship, Director Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/fable-being-vital-to-the-dna-of-xbox-helped-shield-the-game-from-hardship-director-says/",
-          "summary": "The Fable reboot in development at Playground Games has been in the works for a long, long time, and part of what's \"protected\" the game during the lengthy development cycle was that the franchise is ",
-          "publishedAt": "2026-09-16T15:43:43.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Call Of Duty: Black Ops Dev Teases “Something That Nobody’s Ever Experienced Before”",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-dev-teases-something-that-nobodys-ever-experienced-before/",
-          "summary": "Veteran Call of Duty developer Treyarch is finishing up its work on Black Ops 7 and shifting to its next project, but what will that be? That remains to be seen, but Treyarch design director Kevin Dre",
-          "publishedAt": "2026-09-16T16:10:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Fire Emblem: Fortune’s Weave’s Fantastic Reviews Have Me Feeling FOMO",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/",
-          "summary": "Here we go again: A new Fire Emblem game is garnering glowing reviews, and I'm thinking this could be the one that finally clicks with me. Launching tomorrow on Switch 2, Fire Emblem: Fortune's Weave ",
-          "publishedAt": "2026-09-16T16:37:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
+          "title": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
-          "summary": "The Steam Frame , unfortunately RAM shortage-ravaged as it is, is unique among virtual reality headsets for its ability to run Steam games &ndash; VR or 'flat' alike &ndash; entirely on its own, inter",
-          "publishedAt": "2026-09-16T13:01:35.000Z",
+          "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
+          "summary": "Digital rights management software provider Denuvo are taking a prolific anonymous game cracker to court in the USA, accusing them of violating the Digital Millennium Copyright Act by circumventing th",
+          "publishedAt": "2026-09-18T13:58:39.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA",
+          "title": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
-          "summary": "Former Doom: The Dark Ages producer Andrew Willis has shared tuppence on the state of the blockbuster videogame trade, arguing that the biggest companies and most popular series are going through a fa",
-          "publishedAt": "2026-09-16T13:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+          "summary": "The European Commission proposed new rules around how under-15s access the likes of social media, AI chatbots, and online video games earlier this week . The draft legislation is called the EU Kids Ac",
+          "publishedAt": "2026-09-18T15:30:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+          "title": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
-          "summary": "If the organisers of Crufts ever have to produce a season of Robot Wars, the results probably won't be a million miles away from Dog in the Machine - a new turn-based tactics puzzler that's sort of In",
-          "publishedAt": "2026-09-16T15:20:00.000Z",
+          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+          "summary": "Brendy (RPS in peace) liked Keep Driving . Nic (RPS in peace) liked Keep Driving. I (RPS still alive) liked Keep Driving. Julian (RPS currently boss) liked Keep Driving. You, reader, should play road ",
+          "publishedAt": "2026-09-18T16:04:09.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
+          "title": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
-          "summary": "For the last few years I've been labouring to transform my terror of spiders into guarded appreciation, even wonder. I've been drawing pictures of spiders, and writing stories about them. When I spy a",
-          "publishedAt": "2026-09-16T16:13:56.000Z",
+          "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
+          "summary": "From the buzzing tube lights of TGS 2026 emerges Tokyo Walled City, a (deep breath) \"stealth action retro-cyberpunk immersive sim with survival horror and RPG elements\" in development at indie outfit ",
+          "publishedAt": "2026-09-18T16:43:02.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/",
+          "summary": "The leaks keep coming for Rockstar. A new leak has revealed plans for cut Grand Theft Auto 5 DLC as well as Grand Theft Auto 6 assets.",
+          "publishedAt": "2026-09-18T14:37:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "6 Upcoming Steam Games That You Should Wishlist Today",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/wishlister-gamescom-september-18/",
+          "summary": "Between a busy few weeks for new game announcements, these upcoming PC games deserve a spot on your wishlist.",
+          "publishedAt": "2026-09-18T15:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Director Reveals Why the Game Won't Have a Full Physical Release",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-file-size/",
+          "summary": "Hamaguchi has revealed Final Fantasy 7 Revelation's estimated file size, and it turns out that it would've been too big for a two-disc release.",
+          "publishedAt": "2026-09-18T15:22:31.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Magic: The Gathering Artist Officially Responds to Artist Allegations of",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mtg-jace-multiverse-architect-breach-the-multiverse-art-controversy/",
+          "summary": "Wizards says Volkan Baga was instructed to reference Liiga Smilshkalne’s Breach the Multiverse in his artwork for a new Jace card.",
+          "publishedAt": "2026-09-18T15:58:07.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,41 +119,50 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-16T17:45:15.424Z",
+      "generatedAt": "2026-09-18T17:45:15.824Z",
       "items": [
         {
-          "title": "'Resident Evil' Review: A Near-Perfect Sci-Fi Thriller That Never Steps Off the Gas",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/resident-evil-review-zach-cregger/",
-          "summary": "Zach Cregger's Resident Evil is horror movie about the absolute torture of playing horror games",
-          "publishedAt": "2026-09-16T16:01:14.000Z",
+          "title": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/control-resonant-review",
+          "summary": "Control Resonant , much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn&rsquo;t exist. At least not in the risk-averse, pennypinching rea",
+          "publishedAt": "2026-09-18T13:00:49.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Fire Emblem: Fortune's Weave Review",
+          "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+          "summary": "I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute to",
+          "publishedAt": "2026-09-18T15:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Control Resonant review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+          "summary": "[Redacted] is the better Faden.",
+          "publishedAt": "2026-09-18T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Control Resonant Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review",
-          "summary": "An excellent combination of combat strategy, time management, and compelling stories.",
-          "publishedAt": "2026-09-16T12:00:00.000Z",
+          "url": "https://www.ign.com/articles/control-resonant-review",
+          "summary": "Remedy's follow-up to 2019's Control moves to action combat in an open world and tells a more character-focused story with its paranatural edge intact.",
+          "publishedAt": "2026-09-18T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Fire Emblem: Fortune's Weave review",
+          "title": "Control Resonant review",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review",
-          "summary": "I cannot remember the last time I put this many hours into a game for a review. And still, I'm sitting here, writing this, itching to play more of Fire Emblem: Fortune's Weave. Despite some odd decisi",
-          "publishedAt": "2026-09-16T12:08:06.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Trails In The Sky 2nd Chapter Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/trails-in-the-sky-2nd-chapter-review",
-          "summary": "An impressive remake which captures everything that made the original so endearing.",
-          "publishedAt": "2026-09-16T07:00:00.000Z",
+          "url": "https://www.eurogamer.net/control-resonant-review",
+          "summary": "The first time I ate mold was like something out of a Victorian morality play. It was in boarding school, when fuzzy blue-grey discs would sometimes appear on the bottom of a quiche, or after I saw on",
+          "publishedAt": "2026-09-18T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -162,41 +171,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-16T17:45:15.424Z",
+      "generatedAt": "2026-09-18T17:45:15.824Z",
       "items": [
         {
-          "title": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-          "summary": "Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space 's release in July 2012, players who preordered the game got immediate acces",
-          "publishedAt": "2026-09-16T16:57:25.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
-          "summary": "Wo Long: Fallen Dynasty sequel Wo Long 2: Wings of Ember will release in March next year, devs Koei Tecmo have revealed as they've whipped out an alpha demo that you can give a go right away. Expect p",
-          "publishedAt": "2026-09-16T09:35:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
-          "summary": "Overnight, in the run up to Tokyo Game Show, Koei Tecmo and Team Ninja announced that Wo Long 2: Wings of Ember, the latest instalment in the studios' dark Three Kingdoms-inspired action-RPG series, w",
-          "publishedAt": "2026-09-16T09:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
+          "title": "Final Fantasy 7 Revelation: Second-Take Preview",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
-          "summary": "Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, Xbox Series X|S (including day one on Xbox Game Pas",
-          "publishedAt": "2026-09-16T01:54:46.000Z",
+          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-second-take-preview",
+          "summary": "Two hours in Final Fantasy VII Revelation goes fast. At least, that’s what I thought until I reflected on everything I’d done: I zoomed around the skies above its open-world map aboard the Highwind ai",
+          "publishedAt": "2026-09-18T13:00:00.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -205,104 +187,32 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-16T17:45:15.424Z",
+      "generatedAt": "2026-09-18T17:45:15.824Z",
       "items": [
         {
-          "title": "Blizzard Boss On Why Diablo Is Becoming A TV Show And How Involved The Studio Will Be",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/blizzard-boss-on-why-diablo-is-becoming-a-tv-show-and-how-involved-the-studio-will-be/",
-          "summary": "At BlizzCon , Blizzard announced a partnership with Netflix for an animated Diablo TV show. The announcement caught some by surprise, but Blizzard president Johanna Faries said in an interview that it",
-          "publishedAt": "2026-09-16T13:49:26.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-          "summary": "Bulkhead CEO Joe Brammer has revealed that the studio behind recent FPS hit Wardogs check the social media accounts of prospective hires for public criticism of crunch practices, and deliberately pref",
-          "publishedAt": "2026-09-16T12:07:05.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-          "summary": "Update: The IWGB Games Worker Union have issued the following statement to RPS from vice-chair Ben Newbon: We cannot add any further insight into the heartbreaking job losses at BARB, a company that w",
-          "publishedAt": "2026-09-16T14:50:26.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "'Coraline' Studio’s Next Film Gets Breathtaking Final Trailer",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/wildwood-laika-studio-coraline-final-trailer/",
-          "summary": "Laika's 'Wildwood' gets its final trailer ahead of the film's October release.",
-          "publishedAt": "2026-09-16T15:28:57.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/",
-          "summary": "But, \"there are people over there who are not me who take the best care ever of them.\"",
-          "publishedAt": "2026-09-16T13:35:48.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
-          "summary": "It's been a year since the Balatro 1.1 update was delayed into 2026.",
-          "publishedAt": "2026-09-16T16:01:08.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Call of Duty Developer Treyarch 'Ready to Make Something New' as It Waves Goodbye to 2 Years of Black Ops",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/call-of-duty-developer-treyarch-ready-to-make-something-new-as-it-waves-goodbye-to-2-years-of-black-ops",
-          "summary": "Call of Duty developer Treyarch has said it’s “ready to make something new” as it waves goodbye to two years of Black Ops games.",
-          "publishedAt": "2026-09-16T15:57:21.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
+          "title": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "summary": "Fable developer Playground Games has said \"many people within Xbox view Fable as being vital to the DNA of the platform\", which is why this game has been allowed such a long and \"protected\" developmen",
-          "publishedAt": "2026-09-16T13:57:29.000Z",
+          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
+          "summary": "Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record",
+          "publishedAt": "2026-09-18T11:55:42.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "New PS5 Update Is Out Now, And Sony Actually Added Some New Features",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-actually-added-some-new-features/",
-          "summary": "A new PS5 firmware update has arrived, and it's upgrading the console with more than just extra stability. Firmware update version 26.06-14.00.00 offers a new tweak for the PS5 Pro console, voice chat",
-          "publishedAt": "2026-09-16T10:11:40.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "PS5 Update Lets You Turn on Display Names, Adds Trending Now and Top 10 Views, and More",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ps5-update-lets-you-turn-on-display-names-adds-trending-now-and-top-10-views-and-more",
-          "summary": "Sony has released a fresh system software update for the PS5 that makes a number of interesting changes. Check out the version 26.06-14.00.00 patch notes.",
-          "publishedAt": "2026-09-16T08:42:57.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
+          "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-          "summary": "The launch of Diablo 4 's Season of Hell's Legacy got off to a rough start. The anticipated season was announced at BlizzCon over the weekend to arrive alongside a 30th anniversary celebration of the ",
-          "publishedAt": "2026-09-16T08:42:38.000Z",
+          "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+          "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states th",
+          "publishedAt": "2026-09-18T16:52:24.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Professor Layton Developer Level-5 Scrambles to Reupload Trailers as AI Backlash Intensifies",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies",
+          "summary": "In the wake of fierce online backlash, Professor Layton developer Level-5 has released a new statement apologizing for the mistrust caused by generative AI use in its recent showcase for upcoming titl",
+          "publishedAt": "2026-09-18T08:44:57.000Z",
           "tag": "Industry",
           "_example": false
         }
