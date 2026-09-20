@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-19T05:35:15.056Z",
+  "generated": "2026-09-20T17:45:14.003Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-19T05:35:15.056Z",
+      "generatedAt": "2026-09-20T17:45:14.003Z",
       "items": [
         {
-          "title": "People Can’t Stop Talking About Mario’s New Tiny Pockets",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/people-cant-stop-talking-about-marios-new-tiny-pockets/",
-          "summary": "Nintendo recently held two Direct presentations back to back, with fans hoping that the company would reveal a new Mario game of some kind. While that didn't happen, what we did get was the reveal tha",
-          "publishedAt": "2026-09-18T17:05:12.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Final Fantasy 7 Revelation Could Take 100 Hours To Beat, And Its Director Has Done It 46 Times",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/final-fantasy-7-revelation-could-take-100-hours-to-beat-and-its-director-has-done-it-46-times/",
-          "summary": "Final Fantasy 7 Revelation is shaping up to be the biggest entry in the remake trilogy by a considerable margin, as game director Naoki Hamaguchi estimates that a complete playthrough of everything th",
-          "publishedAt": "2026-09-18T17:33:41.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I Guess I’ll Delete Every PS5 Game I Own To Make Room For FF7 Revelation",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/i-guess-ill-delete-every-ps5-game-i-own-to-make-room-for-ff7-revelation/",
-          "summary": "There are quite a few months until Final Fantasy 7 Revelation launches on Nintendo Switch 2, PC, PlayStation 5, and Xbox Series X|S. But you're going to want to get your systems ready now because the ",
-          "publishedAt": "2026-09-18T19:10:12.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Indie Dev Says “AI” Voice In His Game Was Actually His Wife",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/",
-          "summary": "Someone playing Refractive Entertainment's recently released action-RPG Luminary for less than an hour accused the team of using AI for the game's only voiced character. The player said the voice \"kil",
-          "publishedAt": "2026-09-18T23:41:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Fire Emblem: Fortune's Weave Is Way Easier If You Play a Second Route",
+          "title": "Disney Plus Just Proved You Won't Be Able to Escape Ads On Any Tier",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-should-you-play-more-than-one-route/",
-          "summary": "You should play more than one route in Fire Emblem Fortune's Weave to make recruiting characters easier",
-          "publishedAt": "2026-09-18T21:00:15.000Z",
+          "url": "https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/",
+          "summary": "According to a recent update to Disney Plus' subscriber agreement, ads may now appear regardless of users' subscription tier.",
+          "publishedAt": "2026-09-20T13:51:02.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Classes and unlock requirements in Fire Emblem Fortune's Weave",
+          "title": "BlizzCon was Good, but the Vibes Were Weird",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-classes-unlock-secret/",
-          "summary": "Our Fire Emblem Fortune's Weave class guide lists secret classes and unlock requirements, along with the mastery skill for each",
-          "publishedAt": "2026-09-18T21:14:55.000Z",
+          "url": "https://www.polygon.com/patch-notes-blizzcon-2026/",
+          "summary": "Blizzard's BlizzCon 2026 was loaded with news about StarCraft, WoW: Forever, and Diablo 5, but also a note of desperation",
+          "publishedAt": "2026-09-20T15:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Where to find wonder leaves in Fire Emblem Fortune's Weave",
+          "title": "Resident Evil Shows R-Rated Video Game Movies Can Still Do Well At The Box Office",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-wonder-leaves-location-where-to-find/",
-          "summary": "Here's where you can find wonder leaves in Fire Emblem: Fortune's Weave so you can complete Leda's perform quest \"Elegant Drink Recipes\"",
-          "publishedAt": "2026-09-18T21:26:24.000Z",
+          "url": "https://www.polygon.com/resident-evil-opening-weekend-box-office/",
+          "summary": "The R-rated video game adaptation of Capcom's Resident Evil had an amazing opening weekend at the box office",
+          "publishedAt": "2026-09-20T15:07:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Should you skip the War Arc (Act 2) in Fire Emblem: Fortune's Weave?",
+          "title": "Fortnite Is Officially Collaborating With Persona 5 Later This Week",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-war-arc-skip-act-2/",
-          "summary": "This guide explains what happens if you skip the War Arc (Act 2) in Fire Emblem Fortune's Weave and when it's best to replay the War Arc",
-          "publishedAt": "2026-09-18T21:35:53.000Z",
+          "url": "https://www.polygon.com/fortnite-persona-5-outfits-release-date/",
+          "summary": "Persona 5 characters join the roster of skins added to Fortnite in Chapter 7 Season 4, the Gaming Legends season.",
+          "publishedAt": "2026-09-20T15:50:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Near-Perfect Time Travel Movies Where the Science Actually Makes Sense",
+          "title": "Honkai Star Rail version 4.6 livestream codes",
           "source": "Polygon",
-          "url": "https://www.polygon.com/time-travel-movies-that-make-sense/",
-          "summary": "From Interstellar to Primer, these sci-fi movies use time travel to further the plot, without throwing actual science out the window",
-          "publishedAt": "2026-09-19T02:15:15.000Z",
+          "url": "https://www.polygon.com/honkai-star-rail-version-4-6-livestream-codes-redeem/",
+          "summary": "Redeem these three Honkai: Star Rail version 4.6 livestream codes for 300 Stellar Jade before they expire.",
+          "publishedAt": "2026-09-20T15:59:03.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff",
+          "title": "Zach Cregger Finally Made a Perfect Horror-Comedy With 'Resident Evil.' Here's How.",
           "source": "Polygon",
-          "url": "https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/",
-          "summary": "Back in 1995, catoonist Bill Watterson brought Calvin and Hobbes to a perfect conclusion",
-          "publishedAt": "2026-09-19T04:00:20.000Z",
+          "url": "https://www.polygon.com/resident-evil-zach-cregger-perfect-horror-comedy/",
+          "summary": "From Barbarian to Resident Evil, Cregger has figured out how to fuse comedy and horror without defanging the tension.",
+          "publishedAt": "2026-09-20T16:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
+          "title": "Ace Attorney Trilogy Passed An Impressive Milestone, But No New Game Is In Sight",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/with-no-new-game-in-sight-ace-attorney-announces-an-impressive-sales-milestone/",
+          "summary": "As Ace Attorney turns 25, we still don't know if a new game is in the works despite Ace Attorney Trilogy's impressive sales",
+          "publishedAt": "2026-09-20T16:12:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Fire Emblem Is Officially Nintendo’s Strongest GOTY 2026 Contender",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-goty-game-awards-2026/",
+          "summary": "The Switch 2 exclusive Fire Emblem: Fortune's Weave is one of the strongest contenders for Game of the Year at the 2026 Game Awards.",
+          "publishedAt": "2026-09-20T17:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "It's just you and your van in this upcoming open-world scavenging game",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-          "summary": "Money talk, wealth shoots.",
-          "publishedAt": "2026-09-18T17:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/adventure/its-just-you-and-your-van-in-this-upcoming-open-world-scavenging-game/",
+          "summary": "Be wary of what lurks in the fog that rolls in at night.",
+          "publishedAt": "2026-09-20T16:24:04.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
+          "title": "Vaewolf's new story trailer takes us down a brutal path of revenge, and shows off the frenetic vampire and werewolf combat",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-          "summary": "Strauss Zelnick was asked about GTA 6 on PC during Take-Two's recent annual meeting.",
-          "publishedAt": "2026-09-18T18:22:26.000Z",
+          "url": "https://www.pcgamer.com/games/action/vaewolfs-new-story-trailer-takes-us-down-a-brutal-path-of-revenge-and-shows-off-the-frenetic-vampire-and-werewolf-combat/",
+          "summary": "Part vampire, part werewolf, part elf, all fury.",
+          "publishedAt": "2026-09-20T16:24:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
+          "summary": "A game so emotionally scarring, \"you'll call your ex.\"",
+          "publishedAt": "2026-09-20T16:29:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Hello Sunshine's latest trailer has me even more excited for the giant robot game",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/hello-sunshines-latest-trailer-has-me-even-more-excited-for-the-giant-robot-game/",
+          "summary": "\"I'm always thirsty, my feet hurt.\" Same.",
+          "publishedAt": "2026-09-20T16:30:54.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,75 +119,56 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-19T05:35:15.056Z",
-      "items": [
-        {
-          "title": "EA Sports FC 27 Review So Far",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ea-sports-fc-27-review-so-far",
-          "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-          "publishedAt": "2026-09-19T00:45:24.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/control-resonant-review",
-          "summary": "Control Resonant , much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn&rsquo;t exist. At least not in the risk-averse, pennypinching rea",
-          "publishedAt": "2026-09-18T13:00:49.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-          "summary": "I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute to",
-          "publishedAt": "2026-09-18T15:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Control Resonant review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
-          "summary": "[Redacted] is the better Faden.",
-          "publishedAt": "2026-09-18T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Control Resonant Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/control-resonant-review",
-          "summary": "Remedy's follow-up to 2019's Control moves to action combat in an open world and tells a more character-focused story with its paranatural edge intact.",
-          "publishedAt": "2026-09-18T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Control Resonant review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-review",
-          "summary": "The first time I ate mold was like something out of a Victorian morality play. It was in boarding school, when fuzzy blue-grey discs would sometimes appear on the bottom of a quiche, or after I saw on",
-          "publishedAt": "2026-09-18T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-09-20T17:45:14.003Z",
+      "items": []
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-19T05:35:15.056Z",
+      "generatedAt": "2026-09-20T17:45:14.003Z",
       "items": [
         {
-          "title": "Final Fantasy 7 Revelation: Second-Take Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-second-take-preview",
-          "summary": "Two hours in Final Fantasy VII Revelation goes fast. At least, that’s what I thought until I reflected on everything I’d done: I zoomed around the skies above its open-world map aboard the Highwind ai",
-          "publishedAt": "2026-09-18T13:00:00.000Z",
+          "title": "Paper co-op deckbuilder Hellcard 2 has a new demo that you can play right now",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-can-play-right-now/",
+          "summary": "Dive back into the paper dungeon and prepare to fight a whole lotta dragons.",
+          "publishedAt": "2026-09-20T16:43:33.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Robots versus fungi FPS Mycopunk is leaving early access next month",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+          "summary": "Just enough time to gather your squad and prepare to deploy.",
+          "publishedAt": "2026-09-20T16:49:54.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+          "summary": "Fly fast, shoot lasers from your eyes. You know? Superhero stuff.",
+          "publishedAt": "2026-09-20T16:51:55.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Solarpunk MMO Loftia is launching into early access November 3",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+          "summary": "Live on your very own island in the sky.",
+          "publishedAt": "2026-09-20T16:54:04.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+          "summary": "Clive Barker's Hellraiser: Revival has a new playable demo out now on Steam ahead of its full launch on 8th October. Read more",
+          "publishedAt": "2026-09-20T11:03:08.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -196,41 +177,104 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-19T05:35:15.056Z",
+      "generatedAt": "2026-09-20T17:45:14.003Z",
       "items": [
+        {
+          "title": "Wit Studio President George Wada Is Ready to Bring One Piece to a New Generation",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/one-piece-remake-wit-studio-president-george-wada-interview/",
+          "summary": "George Wada speaks about the honor and burden of bringing Japan's 'treasure' One Piece to a new audience.",
+          "publishedAt": "2026-09-20T13:00:17.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Kojima Productions Confirms The Studio Is Alright After Concerning Physint Report",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/",
+          "summary": "\"The studio is in a healthy, profitable state,\" Kojima Productions stated, refuting Bloomberg's reporting on Physint's rocky development",
+          "publishedAt": "2026-09-20T13:36:59.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+          "summary": "A new sub-biome, mounts, and more.",
+          "publishedAt": "2026-09-20T16:45:14.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
+          "summary": "Take your plane and fly into the mist, just don't stray too far from the light.",
+          "publishedAt": "2026-09-20T16:48:37.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
+          "summary": "World of Warcraft: Forever, Blizzard's vanilla-flavoured spin-off built by the WoW Classic team, has already pulled in far more players than the studio expected. Read more",
+          "publishedAt": "2026-09-20T13:09:13.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+          "summary": "Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read more",
+          "publishedAt": "2026-09-20T09:20:36.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+          "summary": "\"The issue with Cyberpunk was not really REDengine itself.\"",
+          "publishedAt": "2026-09-19T11:21:27.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
+          "summary": "NewDark 1.29 lets Garrett hide in shadows created by doors and guards spot the master' thief's silhouette.",
+          "publishedAt": "2026-09-19T13:29:34.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+          "summary": "It's hard to argue against those takeaways.",
+          "publishedAt": "2026-09-19T18:13:42.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+          "summary": "Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.",
+          "publishedAt": "2026-09-19T07:23:42.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Ex-Naughty Dog Dev Apologizes To God Of War Studio For What He Said About Laufey",
           "source": "GameSpot",
           "url": "https://www.gamespot.com/articles/ex-naughty-dog-dev-apologizes-to-god-of-war-studio-for-what-he-said-about-laufey/",
           "summary": "Bruce Straley, best known for his work at Naughty Dog on the Uncharted and The Last of Us franchises, has apologized to God of War: Laufey studio Santa Monica Studio, after he said he was \"not excited",
           "publishedAt": "2026-09-18T18:15:44.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-          "summary": "Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record",
-          "publishedAt": "2026-09-18T11:55:42.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
-          "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states th",
-          "publishedAt": "2026-09-18T16:52:24.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Professor Layton Developer Level-5 Scrambles to Reupload Trailers as AI Backlash Intensifies",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies",
-          "summary": "In the wake of fierce online backlash, Professor Layton developer Level-5 has released a new statement apologizing for the mistrust caused by generative AI use in its recent showcase for upcoming titl",
-          "publishedAt": "2026-09-18T08:44:57.000Z",
           "tag": "Industry",
           "_example": false
         }

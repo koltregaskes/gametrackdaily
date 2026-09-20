@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-18T15:38:43.604Z",
+  "updatedAt": "2026-09-20T14:00:29.862Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,101 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-409384",
-      "title": "The Walking Dead: Streets of Survival",
-      "date": "2026-09-17",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Fight walkers as Rick Grimes, Daryl Dixon and Michonne in a brutal arcade brawler set in the world of AMC’s The Walking Dead. Face ruthless enemies like the Saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers."
-    },
-    {
-      "id": "igdb-game-412990",
-      "title": "NASCAR 26",
-      "date": "2026-09-17",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The official game of NASCAR is back and better than ever with NASCAR 26! Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase!"
-    },
-    {
-      "id": "igdb-game-361871",
-      "title": "Bot Slash Bot",
-      "date": "2026-09-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You click - You dash - You slash. Bot slash Bot is a fast-paced, top-down Hack n‘ Slash in which you control a rogue robot slashing & dashing through your former co-machines holding you captive! It's all about speed. Time is running out."
-    },
-    {
-      "id": "igdb-game-319344",
-      "title": "Deeplanders",
-      "date": "2026-09-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "DEEPLANDERS is a relaxing, minimalist strategic building game where you must satisfy the needs of the Deeplanders to populate the depths. Explore, build, and decorate your own underground kingdom... and when you're ready, embark on a journey to new, unexplored depths!"
-    },
-    {
-      "id": "igdb-game-386296",
-      "title": "Nightwater",
-      "date": "2026-09-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Forage, craft and automate to grow your factory, unlock new technologies and expand your island to discover new biomes. Progress through the ages from sticks and stones to the Bronze Age, the Industrial Era and into the future to uncover the secret of the Lighthouse and escape th"
-    },
-    {
-      "id": "igdb-game-309487",
-      "title": "Rusted Awakening",
-      "date": "2026-09-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A gothic horror shooter set in a rusted industrial nightmare. Inspired by John Romero, David Lynch, and Doom 64."
-    },
-    {
-      "id": "igdb-game-197140",
-      "title": "Sunken Realms",
-      "date": "2026-09-17",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Descend into an abandoned underground city to battle orcs, solve puzzles, collect loot, and then return to the surface to upgrade your gear and stats in this modern, old-school dungeon-crawler."
-    },
-    {
-      "id": "igdb-game-409510",
-      "title": "The Grinch 2: Saving Christmas",
-      "date": "2026-09-17",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as the Grinch, collect ornaments, master gadgets, and tackle festive challenges to decorate the ultimate Christmas tree for the Whos."
-    },
-    {
       "id": "igdb-game-365465",
       "title": "Dressmaker",
       "date": "2026-09-20",
@@ -938,7 +843,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Pre-order Bonuses:\n- CRTV Style: Rusted\n- CRTV Style: Beach Edition\n- 48-hour Early Access\n\nDeluxe Edition Contents:\n- Full Game\n- Silent Hill: Townfall - Bonus Application\n- Simon's Outfit: Alternate"
+      "summary": "Pre-order Bonuses:\n- CRTV Style: Rusted\n- CRTV Style: Beach Edition\n- 48-hour Early Access\n\nDeluxe Edition Contents:\n- Full Game\n- Digital Artbook & Digital Soundtrack\n- Simon's Outfit: Alternate"
     },
     {
       "id": "igdb-game-378548",
@@ -2808,6 +2713,19 @@
       "summary": "Dragon's Dogma 2: Dark Arisen enriches the dynamic fantasy world and expansive adventures of Dragon's Dogma 2 with unforgettable new tales and thrilling encounters.\n\nBased on feedback we received after the initial release of Dragon's Dogma 2, we established three goals for oursel"
     },
     {
+      "id": "igdb-game-408164",
+      "title": "Dragon's Dogma II: Dark Arisen",
+      "date": "2026-10-08",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "This is a bundle containing both Dragon's Dogma II and the Dragon's Dogma II: Dark Arisen Expansion."
+    },
+    {
       "id": "igdb-game-297042",
       "title": "True Love For Her",
       "date": "2026-10-08",
@@ -4479,6 +4397,19 @@
       "summary": "The Bornless is an FPS action shooter packed with a variety of gameplay modes. Dive into last-man-standing co-op gameplay or try the thrilling demon versus disciple mode, all within a terror-filled world. Players pair up and form teams, conjure demons to aid in combat, and utiliz"
     },
     {
+      "id": "igdb-game-309799",
+      "title": "Truckful",
+      "date": "2026-12-31",
+      "platforms": [
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching."
+    },
+    {
       "id": "igdb-game-316461",
       "title": "Agni: Village of Calamity",
       "date": "2026-12-31",
@@ -4513,19 +4444,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "DREADMOOR is a Lovecraftian fishing adventure set in a post-nuclear apocalypse world. Sell your yield, upgrade your boat, build equipment and battle monsters lurking in water and on land. Explore forgotten lands and discover ancient secrets."
-    },
-    {
-      "id": "igdb-game-309799",
-      "title": "Truckful",
-      "date": "2026-12-31",
-      "platforms": [
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching."
     },
     {
       "id": "igdb-game-335684",
@@ -4644,6 +4562,21 @@
       "summary": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about the locals. Her approach, although controversial, is highly effective: intense and obsessive stalking."
     },
     {
+      "id": "igdb-game-252349",
+      "title": "Toxic Crusaders",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Toxic Crusaders return for an all-new, all-action beat 'em up for one to four players! Grab your mop, tutu and attitude, and get ready to clean up the mean streets of Tromaville, one radioactive goon at a time!"
+    },
+    {
       "id": "igdb-game-376145",
       "title": "Warhammer Survivors",
       "date": "2026-12-31",
@@ -4699,6 +4632,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Light Odyssey is a soulslike boss rush where every battle is a test of mastery. Play as Bandi and fight to restore light to a world consumed by shadows. Face off against towering colossi in three deadly phases that demand precision, patience, and adaptation."
+    },
+    {
+      "id": "igdb-game-252774",
+      "title": "Loftia",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to Loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! Connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together."
     },
     {
       "id": "igdb-game-285768",
@@ -4783,21 +4727,6 @@
       "summary": "Explore, craft, build and fight your way through the harsh landscape of Deponia. Meet allies and make enemies while surviving the perils of the junk planet. It might be garbage - but it’s your garbage!"
     },
     {
-      "id": "igdb-game-252349",
-      "title": "Toxic Crusaders",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Toxic Crusaders return for an all-new, all-action beat 'em up for one to four players! Grab your mop, tutu and attitude, and get ready to clean up the mean streets of Tromaville, one radioactive goon at a time!"
-    },
-    {
       "id": "igdb-game-213557",
       "title": "Bloody Hell Hotel",
       "date": "2026-12-31",
@@ -4854,17 +4783,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "You're an Inquisitor following a trail of death. A cult is at work, your predecessor has vanished, and the region teeters on the edge of chaos. Find the truth. Uphold the Inquisition. Do not fail."
-    },
-    {
-      "id": "igdb-game-252774",
-      "title": "Loftia",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Welcome to Loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! Connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together."
     },
     {
       "id": "igdb-game-307263",
@@ -5319,6 +5237,83 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A 3D Survival-Horror Metroidvania in a vast, interconnected tower ruled by cryptic systems, strange residents and esoteric mysteries..."
+    },
+    {
+      "id": "igdb-game-177316",
+      "title": "Townseek",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Townseek is a relaxing exploration-trading game where you embark on a journey across the world of Explora and discover the lost legacy of Sir Reginald Sharkingston! Discover exotic landmarks, trade with faraway towns, fish, mine, and farm as you complete your journal and make a n"
+    },
+    {
+      "id": "igdb-game-319187",
+      "title": "Beyond Astra",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Beyond Astra is a real-time 4X sci-fi grand strategy game. Expand your own civilization, explore captivating and mysterious planets and star clusters, interact with your citizens and other life forms and shape your destiny through nearly infinite possibilities."
+    },
+    {
+      "id": "igdb-game-239002",
+      "title": "Beyond These Stars",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Journey on the back of the space whale Kewa, building a city for your people as you travel across the galaxy seeking purpose and answers, and developing deep relationships with the universe around you."
+    },
+    {
+      "id": "igdb-game-313921",
+      "title": "CrisisX",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Immerse yourself into a realistic open world experience and find your way out in the ruins of a dying world. Survive the threats from the Infected, the living and most importantly, the wilderness. Fight or cooperate with others, and build your own territory. Build your own new po"
+    },
+    {
+      "id": "igdb-game-310733",
+      "title": "Dawn of Defense",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dawn of Defense blends RTS, Tower Defense, and Roguelite progression. In a last defense, lead your tribe against the Empire: Command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland."
+    },
+    {
+      "id": "igdb-game-376950",
+      "title": "Donut Panic",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Order up! Donut Panic is an anomaly horror game with a cooking sim twist. Take customer orders. Prepare and serve up delicious donuts. But when the hallucinations appear, run for your life. Your panic room is there for a reason..."
+    },
+    {
+      "id": "igdb-game-275747",
+      "title": "Dungeons Deep",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Plunge into the Dungeons Deep! A dark-fantasy ARPG featuring vast underworlds full of horrifying monsters and ancient treasures. Liberate the old lands of Antioch for those who still remain."
     }
   ],
   "undated": [
