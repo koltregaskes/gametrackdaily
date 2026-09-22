@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-20T14:00:29.862Z",
+  "updatedAt": "2026-09-22T17:30:06.768Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,50 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-365465",
-      "title": "Dressmaker",
-      "date": "2026-09-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers."
-    },
-    {
-      "id": "igdb-game-265277",
-      "title": "The Rabbit Haul",
-      "date": "2026-09-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Rabbit Haul is a tower defense farming game with roguelite elements where you grow a healthy ecosystem of plants that yield crops during the day and that will help defend your farm from the Trash Panda Posse at night."
-    },
-    {
-      "id": "igdb-game-339966",
-      "title": "Brave New Wonders",
-      "date": "2026-09-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Command automatons with customized instructions to build Brave New Wonders in this factory automation game. You can deploy your automatons to explore a post-apocalypse world, discover ruins from the past, battle, collect resources and make your automated factories thrive!"
-    },
-    {
-      "id": "igdb-game-270906",
-      "title": "Soggy Beans",
-      "date": "2026-09-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Fish will come, fish will go. Take photos, collect beans, decorate your seascape, then relax or do other things while your friends swim by in this calming side-idler."
-    },
-    {
       "id": "igdb-game-397817",
       "title": "Graveyard Keeper II",
       "date": "2026-09-21",
@@ -879,6 +835,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Head to the USA and grow your own business with a realistic and relaxing lawn mowing experience! With brand new grass tech and reworked systems based on player feedback to the original, plus licensed equipment from around the world."
+    },
+    {
+      "id": "igdb-game-213574",
+      "title": "Nomori",
+      "date": "2026-09-22",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Nomori is a mind-bending puzzle game where you need to control time and space to journey through a shattered spirit world. Take shortcuts through portals, rotate your perspective, and control the flow of time to move forward, whichever way that is."
     },
     {
       "id": "igdb-game-355983",
@@ -2299,6 +2266,17 @@
       "summary": "Explore bizarre procedural generated psychedelic worlds, encounter surreal creatures, experience shifting rulesets, retro aesthetics, and altered music for a wild and truly strange experience."
     },
     {
+      "id": "igdb-game-408365",
+      "title": "Vessels: Noiret Mansion",
+      "date": "2026-09-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A retro-inspired PSX survival horror game set in the mysterious Noiret Mansion. Explore a cursed estate, solve puzzles, uncover the fate of the Noiret family, and survive the horrors lurking within its walls."
+    },
+    {
       "id": "igdb-game-347637",
       "title": "End of Abyss",
       "date": "2026-09-30",
@@ -2334,19 +2312,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A striking modern revival of \"DYNASTY WARRIORS 3\" and \"DYNASTY WARRIORS 3: Xtreme Legends,\" which established the foundation of the entire series. The complete cast of more than 40 officers and numerous battlefields will be beautifully recreated using Unreal Engine 5. Aim for the"
-    },
-    {
-      "id": "igdb-game-393015",
-      "title": "We Were Here Tomorrow",
-      "date": "2026-09-30",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You and your partner are taken to a mysterious facility where communication and cooperation are your lifelines. This asymmetrical co-op adventure will have you uncover secrets that will shape the fate of Tomorrow…"
     },
     {
       "id": "igdb-game-305181",
@@ -2476,7 +2441,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Hardcore yet cute Danmaku shooting makes a grand comeback!"
+      "summary": "With this collection, you’re not just getting one fantastic shoot ’em up, but two! This Boosted re-release features a fully arranged soundtrack with brand new tracks from a fresh lineup of arrangers. (These differ from the 2011 console version.) In addition, you get several diffe"
     },
     {
       "id": "igdb-game-317382",
@@ -2687,6 +2652,19 @@
       "summary": "A co-op survival horror game about a cursed board game. Play with up to 5 friends. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom."
     },
     {
+      "id": "igdb-game-309799",
+      "title": "Truckful",
+      "date": "2026-10-08",
+      "platforms": [
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching."
+    },
+    {
       "id": "igdb-game-276028",
       "title": "Paperhead",
       "date": "2026-10-08",
@@ -2823,7 +2801,8 @@
         "PlayStation 5"
       ],
       "source": "IGDB",
-      "trackingState": "live-api"
+      "trackingState": "live-api",
+      "summary": "Like an aggressive bull jumping in the dust of the fields, Arjun moves heaven and earth with his powerful breathing techniques!"
     },
     {
       "id": "igdb-game-406477",
@@ -3026,6 +3005,18 @@
         "PlayStation 5"
       ],
       "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "This product contains the full game, Digital Sound & Art Gallery, as well as 3 bonus in-game items.\n・Castlevania: Belmont’s Curse\n・Digital Sound & Art Gallery\n・Bonuses (In-game items) x3\n- Trevor Style Costume\n- Sypha Style Costume\n- Family's Grace（Relic）"
+    },
+    {
+      "id": "igdb-game-419027",
+      "title": "Quarantine Zone: Miami Zero",
+      "date": "2026-10-14",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
       "trackingState": "live-api"
     },
     {
@@ -3080,6 +3071,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight and forgive in this QTE based RPG, and travel the Earth and stars with those who matter most. SOLEMNFABLE - A journey of acceptance."
+    },
+    {
+      "id": "igdb-game-393015",
+      "title": "We Were Here Tomorrow",
+      "date": "2026-10-19",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You and your partner are taken to a mysterious facility where communication and cooperation are your lifelines. This asymmetrical co-op adventure will have you uncover secrets that will shape the fate of Tomorrow…"
     },
     {
       "id": "igdb-game-405102",
@@ -3222,6 +3226,17 @@
       "summary": "A horror job simulator where you work in the mailroom of a small regional office of Hell located in Modesto, California.\n\nYou just started working in the mailroom of that weird building on 5th. The job was easy enough at first. Sort the mail and use their creaky old pneumatic tub"
     },
     {
+      "id": "igdb-game-378426",
+      "title": "Night Plane",
+      "date": "2026-10-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Night Plane is a job-sim horror game where you work as a flight attendant on a doomed plane. Check tickets, serve passengers, and decide who stays onboard as demons hide among innocent souls. Naturally, management says it’s your problem."
+    },
+    {
       "id": "igdb-game-400252",
       "title": "Last Floor",
       "date": "2026-10-26",
@@ -3267,6 +3282,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the trilogy reveals every secret behind the series most unsettling icon: the Red Nun."
+    },
+    {
+      "id": "igdb-game-381077",
+      "title": "Virtue and a Sledgehammer",
+      "date": "2026-10-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up."
     },
     {
       "id": "igdb-game-403093",
@@ -3409,6 +3435,18 @@
       "summary": "This open-world game lets you experience the thrill of the hunt, with your faithful dog or fellow hunters by your side! Choose your equipment from official brands, and explore the wilderness in search of your next game."
     },
     {
+      "id": "igdb-game-397806",
+      "title": "Cairn: On the Trail",
+      "date": "2026-10-29",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "New climbing locations, fresh problems, same freedom to climb!"
+    },
+    {
       "id": "igdb-game-398336",
       "title": "Planted!",
       "date": "2026-10-29",
@@ -3489,6 +3527,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Become a magical mermaid and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and embark on a thrilling new ocean adventure."
+    },
+    {
+      "id": "igdb-game-417258",
+      "title": "FFFF: Fatal Five Finger Fillet",
+      "date": "2026-11-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Bet your fingers. A physically immersive horror roguelite.\nPlace your real fingers on the keyboard. Stab the knife between them.\nUse rings and stab items to rack up a high score.\nCan you keep your cool as the spinning blade closes in?"
     },
     {
       "id": "igdb-game-354269",
@@ -4397,19 +4446,6 @@
       "summary": "The Bornless is an FPS action shooter packed with a variety of gameplay modes. Dive into last-man-standing co-op gameplay or try the thrilling demon versus disciple mode, all within a terror-filled world. Players pair up and form teams, conjure demons to aid in combat, and utiliz"
     },
     {
-      "id": "igdb-game-309799",
-      "title": "Truckful",
-      "date": "2026-12-31",
-      "platforms": [
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching."
-    },
-    {
       "id": "igdb-game-316461",
       "title": "Agni: Village of Calamity",
       "date": "2026-12-31",
@@ -4551,6 +4587,20 @@
       "summary": "The award winning adventure returns with 4K visuals and remastered audio. A mysterious escapade of intrigue and deceit, in which journalist Nico Collard and her adventuring companion George Stobbart must overcome powerful forces from fulfilling their evil ambitions"
     },
     {
+      "id": "igdb-game-285768",
+      "title": "Lost Hellden",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lost Hellden is a unique 3D hand-painted J-RPG from Artisan Studios, enhanced by dynamic lighting and weather effects. Follow Cyphel and his allies as a mature story unfolds. Customize your characters as you see fit and dive into a battle system that mixes action and strategy."
+    },
+    {
       "id": "igdb-game-265267",
       "title": "Tom the Postgirl",
       "date": "2026-12-31",
@@ -4643,20 +4693,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Welcome to Loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! Connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together."
-    },
-    {
-      "id": "igdb-game-285768",
-      "title": "Lost Hellden",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lost Hellden is a unique 3D hand-painted J-RPG from Artisan Studios, enhanced by dynamic lighting and weather effects. Follow Cyphel and his allies as a mature story unfolds. Customize your characters as you see fit and dive into a battle system that mixes action and strategy."
     },
     {
       "id": "igdb-game-310336",
@@ -5061,17 +5097,6 @@
       "summary": "UN:Me is an adventure game where you guide a girl harboring multiple souls within her body through an unsettling mental labyrinth, engaging in dialogue with each soul while making the harrowing choice of which to keep and which to erase in your escape attempt."
     },
     {
-      "id": "igdb-game-381077",
-      "title": "Virtue and a Sledgehammer",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up."
-    },
-    {
       "id": "igdb-game-246147",
       "title": "Bogdan's Cross",
       "date": "2026-12-31",
@@ -5292,28 +5317,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dawn of Defense blends RTS, Tower Defense, and Roguelite progression. In a last defense, lead your tribe against the Empire: Command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland."
-    },
-    {
-      "id": "igdb-game-376950",
-      "title": "Donut Panic",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Order up! Donut Panic is an anomaly horror game with a cooking sim twist. Take customer orders. Prepare and serve up delicious donuts. But when the hallucinations appear, run for your life. Your panic room is there for a reason..."
-    },
-    {
-      "id": "igdb-game-275747",
-      "title": "Dungeons Deep",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Plunge into the Dungeons Deep! A dark-fantasy ARPG featuring vast underworlds full of horrifying monsters and ancient treasures. Liberate the old lands of Antioch for those who still remain."
     }
   ],
   "undated": [

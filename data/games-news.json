@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-21T17:45:16.702Z",
+  "generated": "2026-09-22T17:45:27.975Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-21T17:45:16.702Z",
+      "generatedAt": "2026-09-22T17:45:27.975Z",
       "items": [
         {
-          "title": "Hideo Kojima Says Sony Dropping Physint Was A Serious Blow, But There’s No Bad Blood",
+          "title": "Xbox’s Second Wave Of Planned Layoffs Is Reportedly Starting As Studios Face Major Restructuring",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/hideo-kojima-says-sony-dropping-physint-was-a-serious-blow-but-theres-no-bad-blood/",
-          "summary": "Sony's announcement that it would no longer publish Physint for PlayStation came as a shock, especially to the game's director, Hideo Kojima. While Xbox has since stepped in to save the project, there",
-          "publishedAt": "2026-09-21T11:00:44.000Z",
+          "url": "https://www.gamespot.com/articles/xbox-layoffs-are-starting-again-report/",
+          "summary": "The second wave of Xbox layoffs could be imminent, as new reports claim that Microsoft is also looking to further restructure its gaming division by consolidating several of its studios. This would ti",
+          "publishedAt": "2026-09-22T12:21:26.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How Many Resident Evil Games Fit In The Popcorn Bucket? Now We Know",
+          "title": "New Injustice 3 Evidence Suggests It May Bring Back A Character Who Died A Very Injustice Death",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-many-resident-evil-games-fit-in-the-popcorn-bucket-now-we-know/",
-          "summary": "In the realm of gaming memorabilia, novelty items often serve as little more than dust collectors once the hype fades. However, Capcom's first aid kit popcorn bucket , launched as a collectible for th",
-          "publishedAt": "2026-09-21T12:29:02.000Z",
+          "url": "https://www.gamespot.com/articles/new-injustice-3-evidence-suggests-it-may-bring-back-a-character-who-died-a-very-injustice-death/",
+          "summary": "Just what has NetherRealm Studios been up to since Mortal Kombat 1? All signs currently suggest that Injustice 3 is in development at the Mortal Kombat developer, and to add more fuel to the rumor-fir",
+          "publishedAt": "2026-09-22T13:13:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "007 First Light Dev Says It Had “No Choice” But To Delay The Game’s Switch 2 Edition Again",
+          "title": "All The Major Xbox Changes Microsoft Announced Today: Layoffs, Halo Goes To Activision, And Lots More",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/007-first-light-dev-says-it-had-no-choice-but-to-delay-the-games-switch-2-edition-again/",
-          "summary": "IO Interactive recently delayed the Switch 2 edition of 007 First Light yet again , and now the studio's technical producer, Cristina Vega, has shared more details on why the company had \"no choice\" b",
-          "publishedAt": "2026-09-21T13:17:02.000Z",
+          "url": "https://www.gamespot.com/articles/all-the-major-xbox-changes-microsoft-announced-today-layoffs-halo-changing-hands-and-more/",
+          "summary": "Microsoft's \"reset\" of the Xbox business continued today with the announcement of another giant wave of changes and restructuring to help the business become more successful in the future, or at least",
+          "publishedAt": "2026-09-22T14:14:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Hideo Kojima Doesn’t Know If Physint Will Be Xbox Exclusive",
+          "title": "GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/hideo-kojima-doesnt-know-if-physint-will-be-xbox-exclusive/",
-          "summary": "In a big twist, Sony just dropped Hideo Kojima's new spy game Physint , with Xbox swooping in to pick it up. But will Physint be exclusive to Xbox? Kojima himself said in a new interview with IGN that",
-          "publishedAt": "2026-09-21T13:56:26.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/",
+          "summary": "Ahead of its release in November, the marketing for Grand Theft Auto 6 has begun to take over Miami's Kaseya Center. As part of the campaign, developer Rockstar Games and publisher Take-Two Interactiv",
+          "publishedAt": "2026-09-22T14:25:05.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "We Can Take A Small Bite Of Castlevania: Belmont’s Curse Early",
+          "title": "Ninja Theory Now Expected To Close As Deal Falls Apart",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/we-can-take-a-small-bite-of-castlevania-belmonts-curse-early/",
-          "summary": "Konami has revealed that a free demo for Castlevania: Belmont's Curse will become available on October 1. Even better, progress from this early taste of the metroidvania title will carry over to the g",
-          "publishedAt": "2026-09-21T14:33:56.000Z",
+          "url": "https://www.gamespot.com/articles/ninja-theory-now-expected-to-close-as-deal-falls-apart/",
+          "summary": "It's yet another sad day in the games industry as Xbox's continued gutting of its subsidiaries gets worse, with acclaimed action game studio Ninja Theory headed for the chopping block. Xbox's chief co",
+          "publishedAt": "2026-09-22T14:15:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Physint Is Biggest-Selling Game Kojima Could Ever Make, He Says",
+          "title": "State Of Decay 3 Lives On, And Is Still Coming To Game Pass",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/physint-is-biggest-selling-game-kojima-could-ever-make-he-says/",
-          "summary": "Gaming legend Hideo Kojima was recently in the news when it was announced that Sony had dropped his new spy game Physint , with Xbox swooping in to sign it. In the aftermath of the shocking announceme",
-          "publishedAt": "2026-09-21T14:42:40.000Z",
+          "url": "https://www.gamespot.com/articles/state-of-decay-3-lives-on-and-is-still-coming-to-game-pass/",
+          "summary": "In the wake of the latest round of reshuffles and retrenchments, Microsoft has confirmed that State of Decay 3 developer, Undead Labs, has reached an agreement with a new publisher that will keep the ",
+          "publishedAt": "2026-09-22T15:15:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Wolverine Dev Denies Using GenAI After Weird-Looking In-Game Sign Discovered",
+          "title": "Xbox’s Forza Studios Have Been Tag-Teaming For Years. Now They’re Becoming One",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/wolverine-dev-denies-using-genai-after-weird-looking-in-game-sign-discovered/",
-          "summary": "Fans recently discovered an odd-looking bathroom sign in Marvel's Wolverine, prompting people to wonder if developer Insomniac Games used generative AI. According to Insomniac's community and marketin",
-          "publishedAt": "2026-09-21T15:42:29.000Z",
+          "url": "https://www.gamespot.com/articles/xboxs-forza-studios-have-been-tag-teaming-for-years-now-theyre-becoming-one/",
+          "summary": "Big changes are afoot at Microsoft, as the company announced a massive reorganization of its Xbox gaming division . While Activision and Bethesda will expand their remit , adding several studios to th",
+          "publishedAt": "2026-09-22T15:25:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
+          "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+          "source": "BBC News (World)",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+          "publishedAt": "2026-09-22T14:51:39.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-          "summary": "Hello all! Welcome to another week of feeding the Maw, the gluttonous cosmic sinkhole we must keep topped up with videogame news, lest it expand and masticate the entire universe. We're up against it ",
-          "publishedAt": "2026-09-21T11:18:36.000Z",
+          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+          "summary": "When I was younger, I loved Chewits. Each parcel of chewy sugar threatened to tear out a tooth, but their punch of strawberry, blackcurrent, and orange flavour was hard to resist. Left to my own devic",
+          "publishedAt": "2026-09-22T15:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
+          "title": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
-          "summary": "I loved 2024's Lorn's Lure , the megastructure exploration game with the handsome climbing axes, but it took me a while to get the better of the whole \"repeatedly falling and dying\" element. I imagine",
-          "publishedAt": "2026-09-21T14:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "summary": "For decades, Halo developers have resisted the influence of the vastly better-selling Call of Duty shooters. Now, the makers of Call of Duty own Halo. As part of Microsoft's on-going axing-down of the",
+          "publishedAt": "2026-09-22T15:18:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October",
+          "title": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
-          "summary": "I dug The Cosmic Wheel Sisterhood . It's a game about a fortune-telling witch on an asteroid who designs tarot cards and eventually gets sucked into politics. It also has its own special dildo . The d",
-          "publishedAt": "2026-09-21T14:47:23.000Z",
+          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+          "summary": "Earlier this year, Microsoft announced that they were trying to sell UK-based Hellblade creators Ninja Theory as part of their steady efforts to siphon larger, shinier doubloons from the Xbox gaming b",
+          "publishedAt": "2026-09-22T16:18:22.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
-          "summary": "Uncle Microsoft's efforts to keep inventing the Torment Nexus proceed apace with a patent application for an in-game advertising system that might use machine learning to read your activities, and wor",
-          "publishedAt": "2026-09-21T15:42:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
-          "summary": "Remember when, a couple of weeks ago, the singer of American band Breaking Benjamin was filmed promoting a Fallout 4 first person he'd made via a mid-gig speech about modding community drama? Well, ac",
-          "publishedAt": "2026-09-21T16:15:21.000Z",
+          "title": "Garfield’s New Video Game Is GOTY…for 4th Graders",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/garfield-escape-from-monday-review/",
+          "summary": "Garfield: Escape From Monday is the kind of low-effort licensed 3D platformer that only a kid could love.",
+          "publishedAt": "2026-09-22T15:00:15.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,68 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-21T17:45:16.702Z",
+      "generatedAt": "2026-09-22T17:45:27.975Z",
       "items": [
         {
-          "title": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+          "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
-          "summary": "Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebrati",
-          "publishedAt": "2026-09-21T08:26:38.000Z",
+          "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+          "summary": "Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the in",
+          "publishedAt": "2026-09-22T08:33:05.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Silent Hill: Townfall Is Genuinely Scary, Then Gets Really Dull | Review",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/silent-hill-townfall-review-konami-horror/",
-          "summary": "'Silent Hill: Townfall' understands what sets this horror series apart, but can't quite replicate it.",
-          "publishedAt": "2026-09-21T07:01:15.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill: Townfall review",
+          "title": "Sony Inzone M10S II gaming monitor review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-review/",
-          "summary": "There's no place like home.",
-          "publishedAt": "2026-09-21T07:00:07.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill: Townfall Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/silent-hill-townfall-review",
-          "summary": "Like the intravenous needle permanently jutting out of its hero’s wrist, Silent Hill: Townfall gives this long running series a welcome shot in the arm.",
-          "publishedAt": "2026-09-21T07:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill: Townfall review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
-          "summary": "As I watch the credits roll on Silent Hill Townfall, it's hard to believe this is the same series that had, until just a few years ago, been neglected into near-irrelevance. Like 2025's excellent Sile",
-          "publishedAt": "2026-09-21T07:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
-          "summary": "All the interesting Steam facts for the week ending September 20.",
-          "publishedAt": "2026-09-21T04:24:25.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Monster: The Lizzie Borden Story Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/monster-lizzie-borden-story-review",
-          "summary": "Monster: The Lizzie Borden Story aims to be an insightful commentary on female rage, but it never commits to how it wants to convey that message.",
-          "publishedAt": "2026-09-20T22:44:11.000Z",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
+          "summary": "Probably the best ultra-high-refresh esports monitor yet.",
+          "publishedAt": "2026-09-22T09:57:30.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -189,23 +144,41 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-21T17:45:16.702Z",
+      "generatedAt": "2026-09-22T17:45:27.975Z",
       "items": [
         {
-          "title": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
-          "summary": "If you've been hungering for something gothic as we inch towards October, the scariest month of the year, then you're in luck. Castlevania: Belmont's Curse is getting a demo you'll be able to sink you",
-          "publishedAt": "2026-09-21T09:28:53.000Z",
+          "title": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+          "summary": "One of the bright spots of a miserably grey Summer Game Fest 2026 was Mr. Records, a mashup of rhythm-action autorunner and casual vinyl shop management by music game specialists Glee-Cheese Studio. I",
+          "publishedAt": "2026-09-22T13:01:39.000Z",
           "tag": "Preview",
           "_example": false
         },
         {
-          "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
+          "title": "Nodusfall Hands-On Preview: It’s Hoyoverse’s New One About Squadding Up and Killing Really, Really Big Monsters",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date",
-          "summary": "Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamescom last month, will be launching into Steam Early A",
-          "publishedAt": "2026-09-20T17:30:00.000Z",
+          "url": "https://www.ign.com/articles/nodusfall-hands-on-preview-its-hoyoverses-new-one-about-squadding-up-and-killing-really-really-big-monsters",
+          "summary": "I didn’t know anything about Nodusfall coming into it, but I came out very, very impressed by it. It’s no secret that the action game is in something of a bad way at the moment. Most things are kind o",
+          "publishedAt": "2026-09-22T15:05:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Rayman Legends Retold Does a Good Job of Scratching That Platforming Itch | IGN Preview",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/rayman-legends-retold-does-a-good-job-of-scratching-that-platforming-itch-ign-preview",
+          "summary": "Rayman Legends Retold isn't breaking any new ground – not visually and not gameplay-wise, not that it should be expected to since it's a remake, after all – but it is a clean remake chock-full of cont",
+          "publishedAt": "2026-09-22T16:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+          "summary": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
+          "publishedAt": "2026-09-22T09:00:42.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -214,77 +187,113 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-21T17:45:16.702Z",
+      "generatedAt": "2026-09-22T17:45:27.975Z",
       "items": [
         {
-          "title": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
+          "title": "Obsidian’s New Fallout Game Is Still Coming, As The Studio Moves Under Bethesda’s Umbrella",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
+          "summary": "As Xbox continues its reset and lays off nearly 300 staff , the company announced that some of its subsidiaries have been shaken up as well. This includes Obsidian Entertainment, which will now operat",
+          "publishedAt": "2026-09-22T15:45:13.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Halo’s Next Game Is Coming From An Unexpected Developer: Activision",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/halo-next-game-is-coming-from-an-unexpected-developer-activision/",
+          "summary": "Microsoft has officially announced a major change to its Halo franchise, as Activision will develop the next game in the series with a new, purpose-built team. A small team at Halo Studios will contin",
+          "publishedAt": "2026-09-22T14:04:45.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-          "summary": "Having launched though the same system of reservations and waitlists as the Steam Machine , the Steam Frame is still navigating that inscrutable void betixt \"on sale\" and \"actually out.\" Nevertheless,",
-          "publishedAt": "2026-09-21T12:53:27.000Z",
+          "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
+          "summary": "Well, there you go . Xbox have enacted a second round of layoffs and internal upheaval this year, following July's initial shooting of 1600 staff into the sun and parting ways with multiple studios. T",
+          "publishedAt": "2026-09-22T14:53:12.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
+          "title": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-          "summary": "Hideo Koijima and his studio Kojima Productions have offered a more in-depth version of their side of the story after action espionage game Physint switched publishers from PlayStation to Xbox earlier",
-          "publishedAt": "2026-09-21T13:28:30.000Z",
+          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+          "summary": "After a rip-roaring start for The Blood of Dawnwalker (one that has seen a bit of pushback against its timer mechanic , and an apparent confirmation of a sequel being in the works ), developer Rebel W",
+          "publishedAt": "2026-09-22T16:32:13.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-          "summary": "A herald of the end, dressed in yellow.",
-          "publishedAt": "2026-09-21T14:07:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
-          "summary": "Metal Gear and Death Stranding creator Hideo Kojima has spoken about a number of topics concerning Sony's sudden shocking decision to back away from publishing his tactical espionage project, Physint ",
-          "publishedAt": "2026-09-21T14:37:11.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-          "summary": "Speaking to Eurogamer, The Blood of Dawnwalker game director Konrad Tomaszkiewicz has discussed several game improvements coming in a \"big patch\" currently scheduled for early October - including a br",
-          "publishedAt": "2026-09-21T16:41:09.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
-          "summary": "Marvel's Wolverine has received a hotfix update that addresses one of the core features in the game many people have an issue with: scent trails. These are represented on screen by a gassy, bright blu",
-          "publishedAt": "2026-09-21T08:26:49.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Wit Studio President George Wada Is Ready to Bring One Piece to a New Generation",
+          "title": "Every Xbox Studio’s Current Status After Multiple Rounds of Layoffs",
           "source": "Polygon",
-          "url": "https://www.polygon.com/one-piece-remake-wit-studio-president-george-wada-interview/",
-          "summary": "George Wada speaks about the honor and burden of bringing Japan's 'treasure' One Piece to a new audience.",
-          "publishedAt": "2026-09-20T13:00:17.000Z",
+          "url": "https://www.polygon.com/xbox-studio-status-september-2026/",
+          "summary": "Xbox has once again trimmed jobs as it further consolidates its business. Here's the status of each of its studios as of now.",
+          "publishedAt": "2026-09-22T16:08:14.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Kojima Productions Confirms The Studio Is Alright After Concerning Physint Report",
+          "title": "'State of Decay 3' Gets Encouraging Update as Studio Escapes Xbox Layoffs",
           "source": "Polygon",
-          "url": "https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/",
-          "summary": "\"The studio is in a healthy, profitable state,\" Kojima Productions stated, refuting Bloomberg's reporting on Physint's rocky development",
-          "publishedAt": "2026-09-20T13:36:59.000Z",
+          "url": "https://www.polygon.com/undead-labs-state-of-decay-3-microsoft-layoffs-closures/",
+          "summary": "Undead Labs is now fully independent from Microsoft and will release 'State of Decay 3' in 2027.",
+          "publishedAt": "2026-09-22T16:11:17.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Rockstar Issues Major Update Before 'GTA 6' Release",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gta-6-release-new-mod-guidelines-pc-rdr2/",
+          "summary": "GTA and RDR2 fans have strict new rules to worry about on PC, according to a new Rockstar announcement",
+          "publishedAt": "2026-09-22T16:47:43.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Handing Halo to Activision Makes Business Sense, but Is That Enough to Save the Series?",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/handing-halo-to-activision-makes-business-sense-but-is-that-enough-to-save-the-series",
+          "summary": "The next Halo game will be developed by Activision, but is the slick Call of Duty development pipeline enough to save Master Chief?",
+          "publishedAt": "2026-09-22T14:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup",
+          "summary": "Microsoft has today confirmed that the next mainline Halo game will be developed by Call of Duty maker Activision, with mass layoffs hitting Halo Studios amid a significant restructure of its Xbox stu",
+          "publishedAt": "2026-09-22T14:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Microsoft Signals Intention to Close Down Ninja Theory After Deals to Save the Hellblade Developer Fall Through",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/microsoft-signals-intention-to-close-down-ninja-theory-after-deals-to-save-the-hellblade-developer-fall-through",
+          "summary": "Microsoft has signalled its intention to close down Hellblade developer Ninja Theory after two deals to save the Xbox studio fell through.",
+          "publishedAt": "2026-09-22T14:03:24.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "summary": "Ninja Theory - developer of the Hellblade series of games, Enslaved: Odyssey to the West, DmC: Devil May Cry, and Heavenly Sword - is entering consultation in preperation for the studio's closure as p",
+          "publishedAt": "2026-09-22T14:09:57.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
+          "summary": "Following reports that further job cuts were imminent at Xbox , Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others ",
+          "publishedAt": "2026-09-22T14:44:43.000Z",
           "tag": "Industry",
           "_example": false
         }
