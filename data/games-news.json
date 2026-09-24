@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-23T17:45:20.025Z",
+  "generated": "2026-09-24T17:45:32.699Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-23T17:45:20.025Z",
+      "generatedAt": "2026-09-24T17:45:32.699Z",
       "items": [
         {
-          "title": "Halo Co-Creator Reacts To Franchise Moving To Activision: “Shocked But Not Entirely Surprised”",
+          "title": "Xbox’s New Mythic Achievements Take 15 Seconds To Tell You “Good Job”",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised/",
-          "summary": "The Halo franchise has a new home at Activision, as Microsoft announced sweeping changes to its Xbox games division this week. As various Xbox studios are being consolidated under new branches of the ",
-          "publishedAt": "2026-09-23T11:43:25.000Z",
+          "url": "https://www.gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job/",
+          "summary": "Xbox Achievements have remained mostly the same since they were first introduced decades ago, but it looks like they're set to evolve slightly with the introduction of \"Mythic\" Achievements. Similar t",
+          "publishedAt": "2026-09-24T12:12:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gears of War: E-Day Story Director Laid Off Just Before Launch",
+          "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-story-director-laid-off-just-before-launch/",
-          "summary": "Gears of War: E-Day officially went gold several days ago--indicating that the game is ready to hit its October launch date--but sadly, story director Juan Vaca was caught up in the latest wave of Xbo",
-          "publishedAt": "2026-09-23T13:29:36.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
+          "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonid",
+          "publishedAt": "2026-09-24T15:26:16.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Diablo 5 Wants You To Feel Your Power, Not Just See A Bigger Number",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/diablo-5-wants-you-to-feel-your-power-not-just-see-a-bigger-number/",
-          "summary": "Diablo 5 won't be out until 2029, but Blizzard is already sharing plenty of details on the game following its reveal at BlizzCon earlier this month. The power fantasy of being a demon-slaying warrior ",
-          "publishedAt": "2026-09-23T13:50:45.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Activision’s Halo Game: Everything We Know So Far",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/activisions-halo-game-everything-we-know-so-far/",
-          "summary": "Microsoft is overhauling its Xbox business in a big--and painful--way . Part of the effort to \"reset\" Xbox involves enlisting Call of Duty publisher Activision to make the next Halo game . This isn't ",
-          "publishedAt": "2026-09-23T14:04:39.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Nintendo Turns 137 Today, Making It Older (And Better) Than Sliced Bread",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-turns-137-today-making-it-older-and-better-than-sliced-bread/",
-          "summary": "Nintendo is officially 137 years old today, and while that's an odd number to celebrate, it's certainly an impressive one. While it's a leading producer of video games and gaming hardware, the company",
-          "publishedAt": "2026-09-23T14:37:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says/",
-          "summary": "Steven Adams of the NBA's Houston Rockets has predicted that all the major professional sports leagues will experience a dip in quality this November because top athletes will be too focused on GTA 6.",
-          "publishedAt": "2026-09-23T14:57:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Resident Evil Movie Director Reveals His Four Favorite Games",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/resident-evil-movie-director-reveals-his-four-favorite-games/",
-          "summary": "Zach Cregger, the director of the newly released Resident Evil movie, has revealed his top four favorite video games, and he made some solid choices. Before he listed off his top four to Regal, Cregge",
-          "publishedAt": "2026-09-23T15:38:21.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "More Lord Of The Rings Game Re-Releases Revealed, And They’re Great",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-revealed-and-theyre-great/",
-          "summary": "Aspyr Media is on a mission to re-release more The Lord of the Rings games , and now the latest titles have been revealed. The publisher announced on September 22--the shared birthday of Frodo and Bil",
-          "publishedAt": "2026-09-23T16:13:08.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Marvel’s Wolverine Claws Are Real Now, And Your Groceries Don’t Stand A Chance",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/marvels-wolverine-claws-are-real-now-and-your-groceries-dont-stand-a-chance/",
-          "summary": "Contrary to comic book science, you don't need to enroll in a shadowy Canadian black-ops program and undergo excruciating pain to get a set of Wolverine's signature claws. Instead, it's much easier--a",
-          "publishedAt": "2026-09-23T16:20:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+          "title": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-          "summary": "A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing. It's not only your face they want, but also any wor",
-          "publishedAt": "2026-09-23T12:17:21.000Z",
+          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+          "summary": "Discord have rolled out a revised global age verification system , having delayed deploying one earlier this year following largely privacy-based backlash. Read more",
+          "publishedAt": "2026-09-24T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+          "title": "Warhammer 40,000: Rogue Trader's final DLC is now coming in December, with an \"unsanctioned psyker\" companion who cries tears of blood",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-          "summary": "People Playground, a Steam sandbox game about torturing or otherwise messing with innocent ragdolls that work like crash test dummies, has had its Steam Workshop disabled over a \"malicious mod\" peddli",
-          "publishedAt": "2026-09-23T15:09:11.000Z",
+          "url": "https://www.rockpapershotgun.com/warhammer-40000-rogue-traders-final-dlc-is-now-coming-in-december-with-an-unsanctioned-psyker-companion-who-cries-tears-of-blood",
+          "summary": "Warhammer 40,000: Rogue Trader 's story-concluding final DLC has been pushed back to December, developers Owlcat have announced. At the same time, they've introduced the companion around which this la",
+          "publishedAt": "2026-09-24T15:25:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-          "summary": "Control Resonant is almost everything I wanted from a Remedy-flavoured character action game, including several sub-things I didn&rsquo;t initially believe it would pull off. However, one particular a",
-          "publishedAt": "2026-09-23T15:45:39.000Z",
+          "title": "Pokémon TCG Card Types Explained: Pokémon, Trainers, and Energy",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/pokemon-tcg-card-types-explained-pokemon-trainers-and-energy/",
+          "summary": "Not sure where to start when it comes to the different card types in the Pokemon Trading Card Game? We've got your back with this handy guide.",
+          "publishedAt": "2026-09-24T15:19:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Capcom Officially Just Let Down Millions of Gamers",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/ace-attorney-7-dual-destinies-vr/",
+          "summary": "Ace Attorney: Dual Destinies is coming to VR platforms next year, but fans of Phoenix Wright just want a sequel already",
+          "publishedAt": "2026-09-24T15:20:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Everybody Hates Fire Emblem’s Most Controversial New Feature",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-save-file/",
+          "summary": "Fire Emblem: Fortune's Weave players are united in hating that the RPG only features a single save file.",
+          "publishedAt": "2026-09-24T16:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Who Built the Robot Devil? 'Futurama' Showrunner David X. Cohen Weighs in on a Popular Fan Theory",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/who-built-the-robot-devil-david-x-cohen-on-futurama-fan-theory/",
+          "summary": "Fans of Futurama have long wondered who built Beelzebot, the Robot Devil. The show's co-developer and showrunner, David X. Cohen, weighs in.",
+          "publishedAt": "2026-09-24T16:24:25.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "New $500 AI-Powered Console Can Create Digital Tabletop Games From Scratch",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/everboard-tablet-tabletop-board-gaming-evervibe-ai-creation-interview/",
+          "summary": "EverBoard exclusively reveals how its EverVibe AI game creator works, along with subscription pricing, and safeguards for families.",
+          "publishedAt": "2026-09-24T16:30:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to reach the 10th floor at CEG Headquarters in Silent Hill Townfall",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/silent-hill-townfall-reach-the-10th-floor-ceg-headquarters-security-door-code/",
+          "summary": "Here's how to enter CEG security and print a level 10 access card in Silent Hill: Townfall.",
+          "publishedAt": "2026-09-24T16:32:57.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Collector’s Box Officially Revealed and It Doesn’t Include the Game",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gta-6-vice-city-collection-announced-price-features/",
+          "summary": "Rockstar's $400 GTA 6: The Goodtime State - Vice City Collection includes everything but the actual game",
+          "publishedAt": "2026-09-24T16:34:37.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "$14,000 for a PC with titanium-alloy flowers that unfurl as your system temps get toasty? Well, okay then...",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-pcs/usd14-000-for-a-pc-with-titanium-alloy-flowers-that-unfurl-as-your-system-temps-get-toasty-well-okay-then/",
+          "summary": "AMD Ryzen 9800X3D and Nvidia RTX 5080 thrown in, too, just because.",
+          "publishedAt": "2026-09-24T12:55:16.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,32 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-23T17:45:20.025Z",
+      "generatedAt": "2026-09-24T17:45:32.699Z",
       "items": [
         {
-          "title": "Razer Soma Chroma gaming chair review",
+          "title": "Razer Reclusa X Mini 65% gaming keyboard review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-soma-chroma-review/",
-          "summary": "Lights, camera, inaction! Illuminate your sitting with Razer's RGB chair.",
-          "publishedAt": "2026-09-23T16:17:27.000Z",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
+          "summary": "A budget mini keeb that somehow manages to feel high-end.",
+          "publishedAt": "2026-09-24T11:05:07.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Resident Evil movie review - the best video game adaptation of playing a video game",
+          "title": "Absolute Batman #24 Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/absolute-batman-24-review",
+          "summary": "With the debut of Absolute Batgirl, Absolute Batman #24 almost has too much going on, but the series succeeds by keeping the focus mostly on Batman himself.",
+          "publishedAt": "2026-09-24T16:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/resident-evil-movie-review",
-          "summary": "There's a bit somewhere in the middle of the rubbish Doom movie, where the perspective suddenly switches to first-person. Look, it seems to say, it's just like you playing the video game! But what Zac",
-          "publishedAt": "2026-09-23T09:00:00.000Z",
+          "url": "https://www.eurogamer.net/roman-sands-rebuild-review",
+          "summary": "After first hearing about Roman Sands Re:Build, and following along with bits of its development over the last few years, it's been a real ride getting to sit down with it; the demo from a couple year",
+          "publishedAt": "2026-09-24T12:38:07.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,93 +153,92 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-23T17:45:20.025Z",
-      "items": [
-        {
-          "title": "Monster Hunter Wilds: Ascendance Might Be the Endgame I’ve Been Waiting For | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/monster-hunter-wilds-ascendance-might-be-the-endgame-ive-been-waiting-for-ign-preview",
-          "summary": "The first taste of Monster Hunter Wilds: Ascendance already has me salivating. The new tricks, new (and returning) monsters, and brand new suite of boosts are going to significantly disrupt how I do m",
-          "publishedAt": "2026-09-23T15:08:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-09-24T17:45:32.699Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-23T17:45:20.025Z",
+      "generatedAt": "2026-09-24T17:45:32.699Z",
       "items": [
         {
-          "title": "Star Wars Zero Company Reportedly Hits 1 Million Sales, But Will It Be Enough?",
+          "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/star-wars-zero-company-reportedly-hits-1-million-sales-but-will-it-be-enough/",
-          "summary": "Star Wars Zero Company released in late August, and the game has evidently found an audience, as market-data firm Alinea Analytics estimates that the game has sold 1 million units. Writing on Twitter,",
-          "publishedAt": "2026-09-23T16:06:16.000Z",
+          "url": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
+          "summary": "RGG Studio's Stranger Than Heaven is certainly living up to its title, as the decision to resurrect the late rapper Tupac Shakur as a character in the game was perceived as odd when it was first annou",
+          "publishedAt": "2026-09-24T15:44:34.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Arc Raiders Frozen Trail Is Officially the Game's Biggest-Ever Update, And It Looks Epic",
+          "title": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+          "summary": "I&rsquo;m not saying that the reveal of Beat Saber &rsquo;s \" biggest update ever \" was timed to coincide with a swell of VR interest induced by the new Steam Frame . But I am going to infer it, witho",
+          "publishedAt": "2026-09-24T11:32:32.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Bethesda Ditches Divisive Quake Game's Free-To-Play Model in Final Update",
           "source": "Polygon",
-          "url": "https://www.polygon.com/arc-raiders-frozen-trail-biggest-ever-update/",
-          "summary": "Arc Raiders Frozen Trail is introducing three new Arc enemies, two new weapons and a modification system, and a whole new map.",
-          "publishedAt": "2026-09-23T17:00:15.000Z",
+          "url": "https://www.polygon.com/quake-championship-bethesda-final-update-id-software/",
+          "summary": "Bethesda has announced a surprise final update that makes Quake Champions a paid title on Steam",
+          "publishedAt": "2026-09-24T15:29:14.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff",
-          "summary": "Star Wars Zero Company, the XCOM-like turn-based tactics game from Bit Reactor, appears to have been a success, selling more than 1m copies, according to estimates from industry analyst Alinea Analyti",
-          "publishedAt": "2026-09-23T11:37:47.000Z",
+          "title": "Age of Empires Studio’s Next Game Canceled as Part of Xbox Layoffs",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/age-of-empires-canceled-studio-layoffs-activision/",
+          "summary": "Xbox cut Age of Empires studio World's Edge in half and canceled its next game, according to former employees.",
+          "publishedAt": "2026-09-24T15:57:21.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "summary": "Yesterday's Xbox cuts saw organisational restructuring that moved Age of Empires studio World's Edge under Activision's control. The initial announcement did not specify whether the Age of Empire stud",
-          "publishedAt": "2026-09-23T12:33:37.000Z",
+          "title": "Reddit Moderator Has to Pay Nintendo $4.5M After Lawsuit",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/nintendo-reddit-moderator-lawsuit-damages-archbox-sept-2026/",
+          "summary": "The Redditor is accused of running Nintendo Switch piracy shops, as well as promoting the theft of the Mario maker's intellectual property",
+          "publishedAt": "2026-09-24T16:23:45.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-          "summary": "Xbox's massive and still ongoing reorganisation has pushed Obsidian Entertainment under Bethesda's umbrella. Despite the quite drastic corporate shakeup, Bethesda's president is promising folks the ic",
-          "publishedAt": "2026-09-23T16:47:38.000Z",
+          "title": "Apple, Nvidia, Google, Microsoft...pretty much all the big US players in the chip business are reportedly evaluating Intel's new 14A node",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/apple-nvidia-google-microsoft-pretty-much-all-the-big-us-players-in-the-chip-business-are-reportedly-evaluating-intels-new-14a-node/",
+          "summary": "We've heard something similar before.",
+          "publishedAt": "2026-09-24T15:24:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "summary": "Further details have emerged of the impact that Microsoft&rsquo;s Xbox consolidation and job cuts programme is having on affected workers. World&rsquo;s Edge, the studio that effectively manages strat",
-          "publishedAt": "2026-09-23T09:13:14.000Z",
+          "title": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+          "summary": "The 2.0 patch is comprehensive.",
+          "publishedAt": "2026-09-23T17:03:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
-          "summary": "Less than 24 hours after confirming they've managed to secure a future outside of Xbox by going independent , State of Decay 3 studio Undead Labs have announced that they've had to lay off \"a signific",
-          "publishedAt": "2026-09-23T09:45:00.000Z",
+          "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+          "summary": "Blizzard is bringing intense weather effects back to Azeroth.",
+          "publishedAt": "2026-09-23T22:06:43.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off \"a significant number\" of the team in doing so",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay",
-          "summary": "State of Decay studio Undead Labs has shared good and bad news following Xbox's second round of job cuts this year . Read more",
-          "publishedAt": "2026-09-23T08:36:33.000Z",
+          "title": "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-pc-sales-figures-and-player-count-spark-worry-from-players-about-games-longevity",
+          "summary": "It’s been over a month since Marvel Tokon: Fighting Souls released, and its early sales figures and player counts on PC are sparking concern within the fighting game community about its longevity.",
+          "publishedAt": "2026-09-23T18:45:50.000Z",
           "tag": "Industry",
           "_example": false
         }

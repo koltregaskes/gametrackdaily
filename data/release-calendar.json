@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-23T17:30:04.049Z",
+  "updatedAt": "2026-09-24T17:30:04.574Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,63 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-392569",
-      "title": "Island Restoration",
-      "date": "2026-09-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Bring procedurally generated islands back to life. Explore different biomes and damage scenarios. Relax as you clean, upgrade your tools, rescue wildlife, and watch each island return to its natural beauty. Customize your ship and decorate your own private island."
-    },
-    {
-      "id": "igdb-game-375076",
-      "title": "Lawn Mowing Simulator 2",
-      "date": "2026-09-22",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Head to the USA and grow your own business with a realistic and relaxing lawn mowing experience! With brand new grass tech and reworked systems based on player feedback to the original, plus licensed equipment from around the world."
-    },
-    {
-      "id": "igdb-game-213574",
-      "title": "Nomori",
-      "date": "2026-09-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Nomori is a mind-bending puzzle game where you need to control time and space to journey through a shattered spirit world. Take shortcuts through portals, rotate your perspective, and control the flow of time to move forward, whichever way that is."
-    },
-    {
-      "id": "igdb-game-355983",
-      "title": "Otterly Lost",
-      "date": "2026-09-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as Otto, a curious sea otter swept far from home. In this story-rich adventure, explore wild forests, dive underwater, glide over rocky canyons, and climb your way back. Meet friendly animals, complete heartfelt quests, and enjoy soft challenges, at your own pace!"
-    },
-    {
-      "id": "igdb-game-348482",
-      "title": "Thalia",
-      "date": "2026-09-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Thalia is a fast paced roguelike action game. You as Thalia has been summoned to this ancient place where death is not the end, it is only the beginning. Fight hoards of enemies, giant bosses and improve in an infinite mechanic where death only makes you stronger!"
-    },
     {
       "id": "igdb-game-225582",
       "title": "Control Resonant",
@@ -5321,6 +5264,61 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "V.E.D.A is a Soulslike training game with weighty combat and exploration. The protagonist, awakened with no memory, undergoes combat training in a training simulator and uncovers hidden secrets. You too can enter the Soulslike genre. Don't hesitate."
+    },
+    {
+      "id": "igdb-game-260169",
+      "title": "Water Me & You",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Water Me & You is a cozy two-player co-op adventure in which you play as a water droplet or a seed-like creature that can change states, on a quest to regenerate a world left behind by humans."
+    },
+    {
+      "id": "igdb-game-268103",
+      "title": "500 Caliber Contractz",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "500 Caliber Contractz is a momentum-based 3D-Platformer in which you play as a contract killer hired via crowdfunding to murder CEOs, Disgraced Sinister Ex-Doctors, Private-Prison-Owning DJs, etc. With your handy high caliber sniper rifle and a chest full of anxiety, you can and "
+    },
+    {
+      "id": "igdb-game-263964",
+      "title": "Alpine Lake",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Kick back in the fresh mountain air and craft your ideal haven on the shores of Alpine Lake! Build, and decorate your inn to bring joy and prosperity to the community. Welcome guests to your cozy escape in the woods. Farm, cook, and entertain them in your own unique way!"
+    },
+    {
+      "id": "igdb-game-335259",
+      "title": "Animas",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Animas is a first-person psychological horror experience that plunges you into the dark secrets of the Blanco family. Explore a cursed house in the Venezuelan mountains, where time unravels to reveal decades of sectarian rituals and familial tragedies."
+    },
+    {
+      "id": "igdb-game-191817",
+      "title": "Ardenfall",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Ardenfall is a first-person RPG set in a world of intricate politics and ancient cultures. Explore rain-drenched wetlands and forgotten dungeons full of danger. Meet countless interesting characters with unique dialog and quests, and leave your mark on this mysterious world."
     }
   ],
   "undated": [
