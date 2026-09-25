@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-24T17:30:04.574Z",
+  "updatedAt": "2026-09-25T17:30:05.694Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,160 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-225582",
-      "title": "Control Resonant",
-      "date": "2026-09-23",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and survival against a reality-bending cosmic threat."
-    },
-    {
-      "id": "igdb-game-222342",
-      "title": "Silent Hill: Townfall",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Silent Hill: Townfall is a full-length, self-contained psychological horror set against the cold, isolated backdrop of Scotland, 1996.\n\nPlayers can explore St. Amelia, where fog-soaked streets, abandoned communities, and forgotten corners tell their story through atmosphere and h"
-    },
-    {
-      "id": "igdb-game-131927",
-      "title": "Sin: Reloaded",
-      "date": "2026-09-23",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Nightdive Studios and 3D Realms have joined forces to bring you SiN: Reloaded, a completely remastered experience of the classic 1998 shooter from Ritual Entertainment. SiN was a groundbreaking story driven FPS brimming with memorable characters, horrific enemies and a devastatin"
-    },
-    {
-      "id": "igdb-game-279963",
-      "title": "Dragon Shelter",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dragon Shelter is a farm sim set in a fantasy world. Take on the role of a hero who will revive the long-lost friendship between humans and dragons. Take care of wondrous creatures, explore the magical world, and restore destroyed biomes!"
-    },
-    {
-      "id": "igdb-game-394023",
-      "title": "Cozy Game Restoration",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Game Restoration is a soothing simulator where you gently bring forgotten video game cartridges back to life. Tear wrapping paper, peel old stickers, lift away grime, and transform dusty relics into cherished collectibles. No pressure or failure, just the quiet joy of restor"
-    },
-    {
-      "id": "igdb-game-383138",
-      "title": "Farming Camp",
-      "date": "2026-09-23",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Every summer, Evertree Farming Camp searches for the next best Evertree Farmer, someone ready to raise the bar in agriculture. In hopes of a better future, young Alessandra enters the contest to claim the title, but she will have to face her peers and discover what it means to be"
-    },
-    {
-      "id": "igdb-game-380378",
-      "title": "Total War: Warhammer III - Lords of the End Times",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
-      "id": "igdb-game-391618",
-      "title": "Coin & Cauldron",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Kingdom of Valoria is in grave danger - The King has sent his most trusted Alchemist to help fight off the monster hordes near the town of Elyzium. Fight monsters, craft potions, cast spells and live the life of a powerful sorcerer fighting to repel the monsters from the defe"
-    },
-    {
-      "id": "igdb-game-394375",
-      "title": "Kingdom Rush 6: Genesis TD",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Kingdom Rush 6: Genesis brings a new chapter to the beloved tower defense saga, packed with the charm fans fell in love with.\n\nJourney back to the very beginning of the Kingdom with the mission to rewrite history, and stop young Vez’nan before darkness takes hold!\n\nReturn to the "
-    },
-    {
-      "id": "igdb-game-380068",
-      "title": "Among Shadows",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Among Shadows is an intense blend of fast-paced combat and identity-based deduction. You are sent to stop a deadly infection from spreading across a corrupted land, but traitors have infiltrated your team. With the Blood Moon rising, can you escape from this place under the consp"
-    },
-    {
-      "id": "igdb-game-407405",
-      "title": "Garfield: Escape from Monday",
-      "date": "2026-09-23",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Wake up Garfield from this nightmarish veggie filled 3D Platformer! The laziest cat is about to work hard in Garfield - Escape from Monday!"
-    },
-    {
-      "id": "igdb-game-388642",
-      "title": "Oh!Ware",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Sow the seeds of victory, forge alliances, and carve your own destiny. A spiritual Mancala roguelike where every marble shapes the board and your fate. Every pit is a choice and every marble, a desperate prayer."
-    },
-    {
-      "id": "igdb-game-408068",
-      "title": "Qliphah in Providence's Shadow",
-      "date": "2026-09-23",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Set against the backdrop of a distorted Shibuya—where supernatural anomalies have begun bleeding into reality—the story follows two dual protagonists. Both harbor these very anomalies within themselves as they embark on a dark quest to uncover the truth behind the city's eerie ph"
-    },
     {
       "id": "igdb-game-408819",
       "title": "EA Sports FC 27",
@@ -5319,6 +5165,156 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Ardenfall is a first-person RPG set in a world of intricate politics and ancient cultures. Explore rain-drenched wetlands and forgotten dungeons full of danger. Meet countless interesting characters with unique dialog and quests, and leave your mark on this mysterious world."
+    },
+    {
+      "id": "igdb-game-390172",
+      "title": "Become",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life."
+    },
+    {
+      "id": "igdb-game-361039",
+      "title": "DDoD",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "DDoD is a single-player and co-op tactical roguelite shooter set in the near future, deep inside an abandoned industrial zone. Explore, fight, and mutate your way to the source of a semi-sentient biological AI anomaly."
+    },
+    {
+      "id": "igdb-game-375096",
+      "title": "Dumb Ways to Party",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The worlds dumbest party game is here! Play as your favorite Bean, and go head-to-head with up to three other players to become the Dumbest of the Dumb. Will you use skill, sabotage or sheer dumb luck to win?"
+    },
+    {
+      "id": "igdb-game-151707",
+      "title": "Eden.schemata();",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "EDEN.schemata(); is a multi-ending sci-fi mystery adventure game, featuring headless corpses, a sealed laboratory, a limbless android suspect/heroine, and an amnesiac protagonist. The game design and gradually UI change in reflection of your actions."
+    },
+    {
+      "id": "igdb-game-340741",
+      "title": "Ember & Blade",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Become the immortal hunter and stand against the archdemon Asmodeus. Cut through bullet-hell swarms, clash with Souls-like bosses, and harness celestial blessings that\nreshape your powers each run. The demons are rising—raise your sword."
+    },
+    {
+      "id": "igdb-game-324300",
+      "title": "Expedition: Into Darkness",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Expedition: Into Darkness is a medieval third-person cooperative dungeon crawler and extraction looter. Assemble weapons, customize gear, and join forces with up to four other allies. Survive the ruins—or lose everything you carr"
+    },
+    {
+      "id": "igdb-game-267590",
+      "title": "Fantastic Haven",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Restore the equilibrium of magic by saving endangered fantasy creatures. Build your shelter to welcome and protect them, explore unique regions, rally neighboring populations to your cause and rehabilitate creatures in their natural environment."
+    },
+    {
+      "id": "igdb-game-348350",
+      "title": "Farmbotic",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Get ready to venture into the world of Farmatic. Prepare to automate the farm work with the help of your trusty bots. Explore and fight your way through the mines. Optimize the transportation of your resources and help the villagers with their tasks. All that alone or with friend"
+    },
+    {
+      "id": "igdb-game-264694",
+      "title": "Ghost Vanguard",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Ghost Vanguard is a Beat'em Up game that combines stylish action with roguelike elements. Grab your sword and step into treacherous evil dungeons, using stylish and magnificent combos to defeat the sinister forces from the darkness!"
+    },
+    {
+      "id": "igdb-game-292994",
+      "title": "Goeland: Seagull Adventure",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Take off as a mischievous seagull, and soar into a captivating escapade! From playful pranks to selfless deeds, be the ultimate feathered troublemaker or a helpful hero. Solve puzzles, unravel secrets, and engage with an interactive world. Let your wings decide the fate of this c"
+    },
+    {
+      "id": "igdb-game-189333",
+      "title": "Mars Tactics",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Classic turn-based tactical combat with some modern twists. Use stress to manage RNG. Master advanced suppression mechanics. Grow troops who develop abilities, personalities & relationships based on what happens in battle. Procedural, destructible maps. Realistic bullet physics."
+    },
+    {
+      "id": "igdb-game-197172",
+      "title": "Mira and the Legend of the Djinns",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "An epic 2D pixel art style Metroidvania, inspired by Moroccan culture and spiritual traditions. Wield powerful ancient weapons and forge your way through unrelenting deserts, crumbling necropoli, floating islands and dangerous mountains as you try to uncover the secret of the las"
+    },
+    {
+      "id": "igdb-game-131231",
+      "title": "Neverlooted Dungeon",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Venture deep into the Neverlooted Dungeon and face its treacherous, deadly traps. Armed with your creativity, trusty weapon and magical items, find your own ways to outsmart the dangers in a highly immersive world. Be careful, become paranoid, be the first to loot!"
     }
   ],
   "undated": [
