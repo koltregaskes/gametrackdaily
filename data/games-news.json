@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-25T17:48:14.318Z",
+  "generated": "2026-09-26T17:45:21.177Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-25T17:48:14.318Z",
+      "generatedAt": "2026-09-26T17:45:21.177Z",
       "items": [
         {
-          "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
-          "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if y",
-          "publishedAt": "2026-09-25T11:45:22.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
-          "summary": "Castlevania celebrated its 40th anniversary this week--an impressive milestone in video games and a terrifying pair of numbers for anyone who was born in 1987. Konami marked the occasion with a new vi",
-          "publishedAt": "2026-09-25T15:00:37.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
+          "title": "What are we all playing this weekend?",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
-          "summary": "There&rsquo;s plenty to dislike about this latest round of corporate-mandated Xbox misery . The hundreds more human beings losing their livelihoods. The embracing of risk-averse factory line developme",
-          "publishedAt": "2026-09-25T14:04:10.000Z",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
+          "summary": "I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the ",
+          "publishedAt": "2026-09-26T07:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Pokémon 30th Anniversary Jirachi Card Price Explodes After Tragic Death",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/pokemon-30th-anniversary-jirachi-sir-price-avery-poke-kid/",
-          "summary": "A heartbreaking card pack opening by Avery The Poke Kid has the Pokémon world scrambling to buy a 30th Anniversary SiR card drawn by Akira Egawa",
-          "publishedAt": "2026-09-25T15:40:29.000Z",
+          "title": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
+          "summary": "A developer's work is never done! On the very same day it launched, Control Resonant received a hotfix that tackled various complaints that were levied against the game's combat , making it slightly m",
+          "publishedAt": "2026-09-26T15:57:33.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Ubisoft Was Working on an Official Legend of Zelda Game, Report Says",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/legend-of-zelda-ganondorf-ubisoft-game-canceled/",
-          "summary": "According to a new report, Ubisoft was working on a The Legend of Zelda game with a new protagonist before Nintendo pulled the plug on it.",
-          "publishedAt": "2026-09-25T15:47:18.000Z",
+          "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+          "summary": "My first thought when I played through the Chimera tank boss fight in Cyberpunk 2077: Phantom Liberty was probably something along the lines of, \"wow, this sure looks expensive!\" It's incredibly flash",
+          "publishedAt": "2026-09-26T16:56:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Where to find the mysterious dog's toy in Control Resonant",
+          "title": "World of Warcraft Forever's Plan to Bring 'Classic Plus' to New and Old Players",
           "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-mysterious-dog-toy-locations-where-to-find/",
-          "summary": "A mysterious dog needs your help getting their toy for the \"Every Dog Has Her Day\" quest in Control Resonant. Here's where you can find it.",
-          "publishedAt": "2026-09-25T15:55:12.000Z",
+          "url": "https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/",
+          "summary": "Blizzard reveals how World of Warcraft Forever will cater to 'Classic Plus' fans and newcomers who are jumping in 22 years later.",
+          "publishedAt": "2026-09-26T12:15:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Konami Teaser Gives Castlevania Fans Hope for a New 3D Collection",
+          "title": "Forgotten Island's directors unpack their 'very personal' anime references",
           "source": "Polygon",
-          "url": "https://www.polygon.com/castlevania-new-collection-40th-anniversary/",
-          "summary": "Castlevania's 40th anniversary trailer seems to tease a 3D collection.",
-          "publishedAt": "2026-09-25T16:11:50.000Z",
+          "url": "https://www.polygon.com/forgotten-island-anime-references-director-interview/",
+          "summary": "Sailor Moon, Street Fighter, and Dragon Ball all get Easter egg moments in Forgotten Island, alongside a little Marvel Vs. Capcom.",
+          "publishedAt": "2026-09-26T13:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Resonant boss locations and combat ability list in Control Resonant",
+          "title": "Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature",
           "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-boss-locations-combat-ability-list/",
-          "summary": "Defeating a resonant in Control Resonant will unlock more combat abilities. Here's where you can find them and which abilities you'll learn.",
-          "publishedAt": "2026-09-25T16:27:10.000Z",
+          "url": "https://www.polygon.com/wolverine-turn-off-scent-trails/",
+          "summary": "The latest update for PS5 exclusive Marvel's Wolverine lets players turn off controversial scent trails",
+          "publishedAt": "2026-09-26T13:32:45.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How to solve the laundromat puzzle in Central in Control Resonant",
+          "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
           "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-laundromat-washing-machines-central-puzzle-secret-solution-how-to-solve/",
-          "summary": "A guide explaining how to solve the puzzle inside the laundromat with the washing machines in Central in Control Resonant.",
-          "publishedAt": "2026-09-25T16:32:18.000Z",
+          "url": "https://www.polygon.com/control-resonant-lore-logs/",
+          "summary": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
+          "publishedAt": "2026-09-26T14:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Prince of Persia Dev Officially Confirms End of Development As New Game Looms",
+          "title": "Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026",
           "source": "Polygon",
-          "url": "https://www.polygon.com/castlevania-belmonts-curse-developer-announces-rogue-prince-of-persia-final-update/",
-          "summary": "Evil Empire is saying goodbye to The Rogue Prince of Persia weeks before it launches the next Castlevania game",
-          "publishedAt": "2026-09-25T16:35:39.000Z",
+          "url": "https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/",
+          "summary": "The 1990s are back, or at least its war between TCGs is",
+          "publishedAt": "2026-09-26T14:30:16.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This Massive Tactical Shooter Is Free to Play on Steam Right Now",
+          "title": "The Last of Us Season 3 Casts Abby And Lev's Game Actors In Different Roles",
           "source": "Polygon",
-          "url": "https://www.polygon.com/squad-free-to-play-steam-weekend-september-2026/",
-          "summary": "Looking for a large-scale military shooter? Squad is free to play on Steam this weekend, with 100-player battles and huge maps.",
-          "publishedAt": "2026-09-25T16:59:36.000Z",
+          "url": "https://www.polygon.com/the-last-of-us-season-3-casting/",
+          "summary": "Laura Bailey and Ian Alexander, as well as John Goodman, will appear in The Last of Us season 3",
+          "publishedAt": "2026-09-26T15:19:05.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Every Tactics Game Needs a Rewind Button",
+          "title": "Fire Emblem: Fortune's Weave's 5 Weirdest Little Guys, Ranked",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-difficulty-rewind-blessings/",
-          "summary": "Fire Emblem Fortune's Weave's rewind feature and blessings are essential difficulty options that give you more room for better strategizing",
-          "publishedAt": "2026-09-25T17:00:15.000Z",
+          "url": "https://www.polygon.com/fire-emblem-fortunes-weaves-weird-little-guys-characters-ranked/",
+          "summary": "Fire Emblem Fortune's Weave cast may be more grounded than usual, but there's still a premium selection of weirdos floating around Dagsion",
+          "publishedAt": "2026-09-26T16:00:16.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/",
+          "summary": "Three years after Larian walked away from Baldur's Gate 3 DLC, its modding scene is still building expansion-sized content",
+          "publishedAt": "2026-09-26T17:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+          "summary": "\"It's, in a way, too bad\".",
+          "publishedAt": "2026-09-26T10:43:02.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,17 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-25T17:48:14.318Z",
+      "generatedAt": "2026-09-26T17:45:21.177Z",
       "items": [
+        {
+          "title": "EA Sports FC 27 Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ea-sports-fc-27-review",
+          "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
+          "publishedAt": "2026-09-25T23:50:24.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
           "source": "The Guardian (Culture)",
@@ -156,39 +165,38 @@
           "publishedAt": "2026-09-25T14:00:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-          "summary": "Enemy damage sponginess shouldn't be as severe for the rest of you, at least.",
-          "publishedAt": "2026-09-24T19:13:01.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-25T17:48:14.318Z",
-      "items": [
-        {
-          "title": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
-          "summary": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
-          "publishedAt": "2026-09-24T21:46:39.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-09-26T17:45:21.177Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-25T17:48:14.318Z",
+      "generatedAt": "2026-09-26T17:45:21.177Z",
       "items": [
+        {
+          "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+          "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
+          "publishedAt": "2026-09-26T06:42:12.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+          "summary": "It's actually on sale for $4 at the moment.",
+          "publishedAt": "2026-09-25T22:26:16.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
           "source": "GameSpot",
@@ -213,24 +221,6 @@
           "url": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
           "summary": "Resident Evil Requiem sold just 8.6% of its copies on Xbox, new sales analysis indicates.",
           "publishedAt": "2026-09-25T16:17:38.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-          "summary": "Last week brought reports of further layoffs at Build A Rocket Boy, the beleaguered studio behind the poorly received 2025 shooter MindsEye . In the wake of that news, the company - which has repeated",
-          "publishedAt": "2026-09-25T12:10:19.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
-          "summary": "Maybe it's time for something new.",
-          "publishedAt": "2026-09-24T23:10:43.000Z",
           "tag": "Industry",
           "_example": false
         }

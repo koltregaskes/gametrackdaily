@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-25T17:30:05.694Z",
+  "updatedAt": "2026-09-26T17:30:04.710Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,65 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-408819",
-      "title": "EA Sports FC 27",
-      "date": "2026-09-24",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Welcome to The World’s Game in EA Sports FC 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay."
-    },
-    {
-      "id": "igdb-game-379952",
-      "title": "Fallosophy",
-      "date": "2026-09-24",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Use just two buttons to climb a colossal pinball table spanning the history of western philosophy. Fallosophy is a minimalist game that turns pinball into a quiet struggle against gravity. No score. No tilts. No savers. Falling down means climbing back up again. Why climb? What d"
-    },
-    {
-      "id": "igdb-game-403155",
-      "title": "Online: 404",
-      "date": "2026-09-24",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An open-world survival simulator where even seasoned veterans of the genre will have to rethink their typical survival approach and how they interact with the world around them. Play solo or with friends, follow the story or simply explore — just don’t forget your most important "
-    },
-    {
-      "id": "igdb-game-370010",
-      "title": "Black Cat Book Club",
-      "date": "2026-09-24",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A magical library you can place on your desktop. Help the black cat study ancient tomes and learn spells in this cozy idle game."
-    },
-    {
-      "id": "igdb-game-350476",
-      "title": "Decklings",
-      "date": "2026-09-24",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tame magical creatures called decklings and lead them into challenging battles in this survival deck-building card game. Explore wild biomes, gather resources, and craft to build your base as you shape your path to become the deckling champion."
-    },
     {
       "id": "igdb-game-347748",
       "title": "Replay Value: Second Hand Games",
@@ -2132,6 +2073,17 @@
       "summary": "Collect +1,000,000 golf balls, earn money, buy new vehicles, and clean up the golf yard. Ball Picker - Clean up the Golf Yard is an active incremental game centered on an organizing and relaxing experience."
     },
     {
+      "id": "igdb-game-419808",
+      "title": "Dub Party",
+      "date": "2026-10-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dub Party is a party game where players replace every voice in a video with their own. Import a clip or pick a community scene, claim the roles, record each line, then watch the finished dub together. Play solo, pass one mic around the couch, or invite up to seven friends online."
+    },
+    {
       "id": "igdb-game-305160",
       "title": "Gears of War: E-Day",
       "date": "2026-10-05",
@@ -2679,6 +2631,17 @@
       "summary": "Tales of Eternia returns as a remastered edition! As the threat of world destruction looms, an epic journey begins to determine the fate of two worlds: Inferia and Celestia."
     },
     {
+      "id": "igdb-game-375229",
+      "title": "Dupery: A Game of Solo Deduction",
+      "date": "2026-10-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A terrible syndicate has infiltrated society, explore cases, listen to what the citizens have to say, and use that information to route out the good from the evil in this roguelike 'clock-like' deduction game. Can you uncover the head of the syndicate? Or will you be duped like t"
+    },
+    {
       "id": "igdb-game-413517",
       "title": "Solemnfable",
       "date": "2026-10-15",
@@ -2773,6 +2736,18 @@
       "summary": "Misdeed, Theft, Abduction, Plunder. This is a tale of “Evil,” where anything goes.\nWhere the hero is a dull boy named Kyoshiro, who hates the world. And a self-proclaimed evil god having lost his powers appears to him. Team up with the evil god and go beyond the limits of evil! S"
     },
     {
+      "id": "igdb-game-418499",
+      "title": "Once Human: Isles of Abyss",
+      "date": "2026-10-21",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api"
+    },
+    {
       "id": "igdb-game-403310",
       "title": "Call of Duty: Modern Warfare 4",
       "date": "2026-10-22",
@@ -2832,17 +2807,6 @@
       "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the"
     },
     {
-      "id": "igdb-game-365273",
-      "title": "The Mailroom",
-      "date": "2026-10-26",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A horror job simulator where you work in the mailroom of a small regional office of Hell located in Modesto, California.\n\nYou just started working in the mailroom of that weird building on 5th. The job was easy enough at first. Sort the mail and use their creaky old pneumatic tub"
-    },
-    {
       "id": "igdb-game-378426",
       "title": "Night Plane",
       "date": "2026-10-26",
@@ -2852,6 +2816,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Night Plane is a job-sim horror game where you work as a flight attendant on a doomed plane. Check tickets, serve passengers, and decide who stays onboard as demons hide among innocent souls. Naturally, management says it’s your problem."
+    },
+    {
+      "id": "igdb-game-365273",
+      "title": "The Mailroom",
+      "date": "2026-10-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A horror job simulator where you work in the mailroom of a small regional office of Hell located in Modesto, California.\n\nYou just started working in the mailroom of that weird building on 5th. The job was easy enough at first. Sort the mail and use their creaky old pneumatic tub"
     },
     {
       "id": "igdb-game-400252",
@@ -5315,6 +5290,32 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Venture deep into the Neverlooted Dungeon and face its treacherous, deadly traps. Armed with your creativity, trusty weapon and magical items, find your own ways to outsmart the dangers in a highly immersive world. Be careful, become paranoid, be the first to loot!"
+    },
+    {
+      "id": "igdb-game-145755",
+      "title": "Pocket Wheels",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Pocket Wheels isn't just a racing game, it's an objective-based 3D platformer. Take a seat in various toy cars with special abilities and explore a house full of themed rooms filled with collectibles, objectives and race tracks!"
+    },
+    {
+      "id": "igdb-game-336154",
+      "title": "Raev: Kingdom on the Distant Shores",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build an empire, founding its villages and cities. Every kingdom started with a single bonfire, and RAEV allows you to create your own thriving civilization across a sprawling continent. Craft interwoven cityscapes, inspire your people, and build a kingdom to forge your path to g"
     }
   ],
   "undated": [
