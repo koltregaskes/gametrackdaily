@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-26T17:45:21.177Z",
+  "generated": "2026-09-27T17:47:22.190Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-26T17:45:21.177Z",
+      "generatedAt": "2026-09-27T17:47:22.190Z",
       "items": [
         {
-          "title": "What are we all playing this weekend?",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
-          "summary": "I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the ",
-          "publishedAt": "2026-09-26T07:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
-          "summary": "A developer's work is never done! On the very same day it launched, Control Resonant received a hotfix that tackled various complaints that were levied against the game's combat , making it slightly m",
-          "publishedAt": "2026-09-26T15:57:33.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-          "summary": "My first thought when I played through the Chimera tank boss fight in Cyberpunk 2077: Phantom Liberty was probably something along the lines of, \"wow, this sure looks expensive!\" It's incredibly flash",
-          "publishedAt": "2026-09-26T16:56:58.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "World of Warcraft Forever's Plan to Bring 'Classic Plus' to New and Old Players",
+          "title": "The GTA Series is a Game Preservation Nightmare",
           "source": "Polygon",
-          "url": "https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/",
-          "summary": "Blizzard reveals how World of Warcraft Forever will cater to 'Classic Plus' fans and newcomers who are jumping in 22 years later.",
-          "publishedAt": "2026-09-26T12:15:17.000Z",
+          "url": "https://www.polygon.com/gta-game-preservation-classic-games-availability/",
+          "summary": "Rockstar Games doesn't seem to care about making classic Grand Theft Auto games available to play on PS5 and other current platforms",
+          "publishedAt": "2026-09-27T12:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Forgotten Island's directors unpack their 'very personal' anime references",
+          "title": "Control Resonant Has a Secret Weapon in the GOTY Race",
           "source": "Polygon",
-          "url": "https://www.polygon.com/forgotten-island-anime-references-director-interview/",
-          "summary": "Sailor Moon, Street Fighter, and Dragon Ball all get Easter egg moments in Forgotten Island, alongside a little Marvel Vs. Capcom.",
-          "publishedAt": "2026-09-26T13:00:15.000Z",
+          "url": "https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/",
+          "summary": "Remedy Entertainment has a good chance of a Game of the Year nomination at The Game Awards thanks to its underdog status",
+          "publishedAt": "2026-09-27T13:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature",
+          "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
           "source": "Polygon",
-          "url": "https://www.polygon.com/wolverine-turn-off-scent-trails/",
-          "summary": "The latest update for PS5 exclusive Marvel's Wolverine lets players turn off controversial scent trails",
-          "publishedAt": "2026-09-26T13:32:45.000Z",
+          "url": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
+          "summary": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why.",
+          "publishedAt": "2026-09-27T14:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
+          "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
           "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-lore-logs/",
-          "summary": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
-          "publishedAt": "2026-09-26T14:00:15.000Z",
+          "url": "https://www.polygon.com/physint-budget-controversy/",
+          "summary": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
+          "publishedAt": "2026-09-27T14:43:45.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026",
+          "title": "Xbox Almost Spoiled the Best Time of Year for Games",
           "source": "Polygon",
-          "url": "https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/",
-          "summary": "The 1990s are back, or at least its war between TCGs is",
-          "publishedAt": "2026-09-26T14:30:16.000Z",
+          "url": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
+          "summary": "The Xbox layoffs and Halo move to Activision sounded a bum note, but fall game season always brings joy",
+          "publishedAt": "2026-09-27T16:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Last of Us Season 3 Casts Abby And Lev's Game Actors In Different Roles",
+          "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
           "source": "Polygon",
-          "url": "https://www.polygon.com/the-last-of-us-season-3-casting/",
-          "summary": "Laura Bailey and Ian Alexander, as well as John Goodman, will appear in The Last of Us season 3",
-          "publishedAt": "2026-09-26T15:19:05.000Z",
+          "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
+          "summary": "A CD Projekt Red dev told Polygon that while a Geralt-inspired skin is coming to Diablo 4, don't expect Diablo characters in The Witcher 3 Remastered",
+          "publishedAt": "2026-09-27T16:31:42.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Fire Emblem: Fortune's Weave's 5 Weirdest Little Guys, Ranked",
+          "title": "Control Resonant's Completely Ignores The Most Interesting Character",
           "source": "Polygon",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weaves-weird-little-guys-characters-ranked/",
-          "summary": "Fire Emblem Fortune's Weave cast may be more grounded than usual, but there's still a premium selection of weirdos floating around Dagsion",
-          "publishedAt": "2026-09-26T16:00:16.000Z",
+          "url": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
+          "summary": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
+          "publishedAt": "2026-09-27T17:00:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/",
-          "summary": "Three years after Larian walked away from Baldur's Gate 3 DLC, its modding scene is still building expansion-sized content",
-          "publishedAt": "2026-09-26T17:00:15.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+          "title": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
-          "summary": "\"It's, in a way, too bad\".",
-          "publishedAt": "2026-09-26T10:43:02.000Z",
+          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+          "summary": "The developers of Armed Fantasia had completed a vertical slice as of March this year.",
+          "publishedAt": "2026-09-27T12:38:05.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+          "summary": "Oh, and a space shuttle.",
+          "publishedAt": "2026-09-27T13:43:47.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+          "summary": "The end of The End Times.",
+          "publishedAt": "2026-09-27T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+          "summary": "The founder of Crows Crows Crows guides us through the games on his PC.",
+          "publishedAt": "2026-09-27T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Shadow the Hedgehog is supposed to be dead",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+          "summary": "It all starts with this: a jewel containing the ultimate power.",
+          "publishedAt": "2026-09-27T16:44:32.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,50 +119,14 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-26T17:45:21.177Z",
+      "generatedAt": "2026-09-27T17:47:22.190Z",
       "items": [
         {
-          "title": "EA Sports FC 27 Review",
+          "title": "Godzilla Minus Zero Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/ea-sports-fc-27-review",
-          "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-          "publishedAt": "2026-09-25T23:50:24.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-          "source": "The Guardian (Culture)",
-          "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
-          "summary": "PlayStation 5, Xbox, PC (version played); Bandai Namco The game generates blood-pumping moments as you twist, turn and weave through the skies, while your locked-on missiles speed away to obliterate a",
-          "publishedAt": "2026-09-25T14:00:08.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Ace Combat 8: Wings of Theve review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
-          "summary": "The arcade air combat series soars to dizzying new heights.",
-          "publishedAt": "2026-09-25T14:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto: San Andreas – The Legacy Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/grand-theft-auto-san-andreas-the-legacy-review",
-          "summary": "Revisiting Grand Theft Auto: San Andreas in 2026: the single bestselling game on the most successful console in the history of the business.",
-          "publishedAt": "2026-09-25T14:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Ace Combat 8: Wings of Theve Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ace-combat-8-wings-of-theve-review",
-          "summary": "The best aerial combat the series has ever had alongside some of its best mission design.",
-          "publishedAt": "2026-09-25T14:00:00.000Z",
+          "url": "https://www.ign.com/articles/godzilla-minus-zero-review",
+          "summary": "Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its predecessor held.",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -171,14 +135,32 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-26T17:45:21.177Z",
+      "generatedAt": "2026-09-27T17:47:22.190Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-26T17:45:21.177Z",
+      "generatedAt": "2026-09-27T17:47:22.190Z",
       "items": [
+        {
+          "title": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+          "summary": "Microsoft continues to slash and burn the legacies under its banner.",
+          "publishedAt": "2026-09-27T16:14:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
+          "summary": "Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat. Announced during M",
+          "publishedAt": "2026-09-26T17:30:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
           "source": "IGN",
@@ -194,33 +176,6 @@
           "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
           "summary": "It's actually on sale for $4 at the moment.",
           "publishedAt": "2026-09-25T22:26:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million/",
-          "summary": "After suing a former Reddit moderator in October 2025 for pirating Switch games , a Washington court has ordered the individual in question to pay Nintendo $4.5 million in damages. According to a Sept",
-          "publishedAt": "2026-09-25T16:08:07.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
-          "summary": "After months of smaller patches, Hytale &rsquo;s early access phase is getting its inaugural Chapter update, confirmed release date and all. Chapter 1 is out on October 12th, and it&rsquo;s a bundle o",
-          "publishedAt": "2026-09-25T12:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
-          "summary": "Resident Evil Requiem sold just 8.6% of its copies on Xbox, new sales analysis indicates.",
-          "publishedAt": "2026-09-25T16:17:38.000Z",
           "tag": "Industry",
           "_example": false
         }
