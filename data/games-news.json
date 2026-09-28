@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-27T17:47:22.190Z",
+  "generated": "2026-09-28T17:45:15.734Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-27T17:47:22.190Z",
+      "generatedAt": "2026-09-28T17:45:15.734Z",
       "items": [
         {
-          "title": "The GTA Series is a Game Preservation Nightmare",
+          "title": "God Of War Laufey Preorders Go Live September 29, Here’s What Each Edition Includes",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/god-of-war-laufey-preorders-go-live-september-29-heres-what-each-edition-includes/",
+          "summary": "Ahead of its release on February 16 , 2027, Sony has announced that God of War Laufey preorders will go live on September 29. The Standard Edition will be available in both physical and digital format",
+          "publishedAt": "2026-09-28T12:31:44.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Minecraft Dungeons 2 Deliberately Moves Closer To Vanilla Minecraft",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/minecraft-dungeons-2-deliberately-moves-closer-to-vanilla-minecraft/",
+          "summary": "Minecraft Dungeons 2 is taking a different approach to its relationship with vanilla Minecraft than its predecessor did. According to the game's developers, the sequel deliberately moves closer to the",
+          "publishedAt": "2026-09-28T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
+          "summary": "Happy this week all! ...Ugh, you are all still here. When I went on holiday last week, I was hoping that I'd return to find that the whole \"videogame journalism career\" thing was just a fleeting delus",
+          "publishedAt": "2026-09-28T11:41:22.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
+          "summary": "Early in horror game Clive Barker's Hellraiser: Revival, the character you play, Aidan, and his partner Sunny, are pushing the bounds of the sex they enjoy together. Already into BDSM, they discover a",
+          "publishedAt": "2026-09-28T12:40:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+          "summary": "There's been a wave of furry horror games with surprisingly elaborate tactical simulation elements, and when I say \"wave\", I mean that I'm aware of two. One is Casualties: Unknown, a 2D misericore spe",
+          "publishedAt": "2026-09-28T15:11:08.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "summary": "CD Projekt have released the full list of PC system requirements for The Witcher 3: Wild Hunt &ndash; Remastered , a free upgrade for the base edition of the grizzled and cantankerous fantasy action-R",
+          "publishedAt": "2026-09-28T16:09:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "16 Years Later, A 'Let's Play' Classic Blows Up on Steam with 750K Wishlists",
           "source": "Polygon",
-          "url": "https://www.polygon.com/gta-game-preservation-classic-games-availability/",
-          "summary": "Rockstar Games doesn't seem to care about making classic Grand Theft Auto games available to play on PS5 and other current platforms",
-          "publishedAt": "2026-09-27T12:00:17.000Z",
+          "url": "https://www.polygon.com/happy-wheels-steam-success/",
+          "summary": "Happy Wheels makes a comeback on Steam, amassing thousands of players in a week.",
+          "publishedAt": "2026-09-28T15:51:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Control Resonant Has a Secret Weapon in the GOTY Race",
+          "title": "All karaoke answers for 'The Party Won't Stop' in Control Resonant",
           "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/",
-          "summary": "Remedy Entertainment has a good chance of a Game of the Year nomination at The Game Awards thanks to its underdog status",
-          "publishedAt": "2026-09-27T13:00:15.000Z",
+          "url": "https://www.polygon.com/control-resonant-karaoke-machine-answers-party-wont-stop-singing-quest/",
+          "summary": "A guide explaining all the correct karaoke lyrics during \"The Party Won't Stop\" in Control Resonant, along with how to get inside the building.",
+          "publishedAt": "2026-09-28T15:52:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
+          "title": "Target's Pokémon 30th Anniversary Event Leaves Parents Angry and Confused",
           "source": "Polygon",
-          "url": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
-          "summary": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why.",
-          "publishedAt": "2026-09-27T14:00:17.000Z",
+          "url": "https://www.polygon.com/target-pokemon-30th-anniversary-tcg-family-event-issues-restock-drop/",
+          "summary": "Misinformed parents were expecting a family-oriented Pokémon 30th Anniversary TCG event at Target",
+          "publishedAt": "2026-09-28T16:19:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
+          "title": "Super Mario Galaxy on PC Is Officially One Step Closer to Being Reality",
           "source": "Polygon",
-          "url": "https://www.polygon.com/physint-budget-controversy/",
-          "summary": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
-          "publishedAt": "2026-09-27T14:43:45.000Z",
+          "url": "https://www.polygon.com/super-mario-galaxy-nintendo-fan-port-pc/",
+          "summary": "One of Mario's best adventures is close to a PC port as community announces Super Mario Galaxy has been decompiled",
+          "publishedAt": "2026-09-28T16:40:01.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox Almost Spoiled the Best Time of Year for Games",
+          "title": "'Legacy of a Legendary Sculptor' walkthrough in Fire Emblem Fortune's Weave",
           "source": "Polygon",
-          "url": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
-          "summary": "The Xbox layoffs and Halo move to Activision sounded a bum note, but fall game season always brings joy",
-          "publishedAt": "2026-09-27T16:00:18.000Z",
+          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-legacy-legendary-sculptor-walkthrough-statue-locations/",
+          "summary": "Here's where to find each goddess statue in Fire Emblem Fortune's Weave's \"Legacy of a Legendary Sculptor\" quest",
+          "publishedAt": "2026-09-28T16:43:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
+          "title": "Steam Dev’s Viral GTA Clone Is The Perfect PS2 Throwback",
           "source": "Polygon",
-          "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
-          "summary": "A CD Projekt Red dev told Polygon that while a Geralt-inspired skin is coming to Diablo 4, don't expect Diablo characters in The Witcher 3 Remastered",
-          "publishedAt": "2026-09-27T16:31:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Control Resonant's Completely Ignores The Most Interesting Character",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
-          "summary": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
-          "publishedAt": "2026-09-27T17:00:15.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-          "summary": "The developers of Armed Fantasia had completed a vertical slice as of March this year.",
-          "publishedAt": "2026-09-27T12:38:05.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
-          "summary": "Oh, and a space shuttle.",
-          "publishedAt": "2026-09-27T13:43:47.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-          "summary": "The end of The End Times.",
-          "publishedAt": "2026-09-27T15:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
-          "summary": "The founder of Crows Crows Crows guides us through the games on his PC.",
-          "publishedAt": "2026-09-27T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Shadow the Hedgehog is supposed to be dead",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-          "summary": "It all starts with this: a jewel containing the ultimate power.",
-          "publishedAt": "2026-09-27T16:44:32.000Z",
+          "url": "https://www.polygon.com/ps2-gta-inspired-game-alaturka/",
+          "summary": "A solo developer's new game inspired by PS2-era GTA went viral on X with an incredible trailer.",
+          "publishedAt": "2026-09-28T16:51:18.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,14 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-27T17:47:22.190Z",
+      "generatedAt": "2026-09-28T17:45:15.734Z",
       "items": [
         {
-          "title": "Godzilla Minus Zero Review",
+          "title": "'Get Jiro' Review: Adult Swim’s Anthony Bourdain’s Adaptation Is Best When it Focuses on the Food",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/get-jiro-adult-swim-review/",
+          "summary": "John Wick meets Delicious in Dungeon in a blood-soaked series about killer chefs. Read our Get Jiro review.",
+          "publishedAt": "2026-09-28T15:37:06.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Minecraft Dungeons 2 Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/godzilla-minus-zero-review",
-          "summary": "Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its predecessor held.",
-          "publishedAt": "2026-09-27T00:30:00.000Z",
+          "url": "https://www.ign.com/articles/minecraft-dungeons-2-review",
+          "summary": "This shallow sequel provides some peaceful button mashing, but does little to stand out.",
+          "publishedAt": "2026-09-28T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Get Jiro Series Premiere Review: Anthony Bourdain's Graphic Novel Comes to Adult Swim",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/get-jiro-series-premiere-review-anthony-bourdain-adult-swim",
+          "summary": "The late Anthony Bourdain's creative legacy lives on in Get Jiro, a worthy new addition to the Adult Swim lineup.",
+          "publishedAt": "2026-09-28T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Steam Week in Review: Great, haystack slop is a thing now",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
+          "summary": "All the interesting Steam facts for the week ending September 27.",
+          "publishedAt": "2026-09-28T01:57:44.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -135,14 +162,41 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-27T17:47:22.190Z",
+      "generatedAt": "2026-09-28T17:45:15.734Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-27T17:47:22.190Z",
+      "generatedAt": "2026-09-28T17:45:15.734Z",
       "items": [
+        {
+          "title": "The Resident Evil Movie Wasn’t The Main Force Behind RE Games’ Recent Sales Boost",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-resident-evil-movie-wasnt-the-main-force-behind-re-games-recent-sales-boost/",
+          "summary": "Zach Cregger's Resident Evil movie has done big numbers at the box office since it hit theaters on September 18, but has that been reflected in increased Resident Evil game sales? According to new dat",
+          "publishedAt": "2026-09-28T13:53:32.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out",
+          "summary": "World of Warcraft Forever’s beta marches on, and all evidence points to it being a massive success. But it’s worth remembering this is a beta, and a beta is for reporting issues. Enter one of the best",
+          "publishedAt": "2026-09-28T11:19:42.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Witcher 3: Wild Hunt – Remastered Update Patch Notes Include PC-Specific and Console-Specific Changes",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes",
+          "summary": "CD Projekt has released the patch notes for The Witcher 3: Wild Hunt – Remastered update, confirming PC and console-specific changes to the single-player role-playing game.",
+          "publishedAt": "2026-09-28T15:14:55.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
           "source": "PC Gamer",
@@ -158,24 +212,6 @@
           "url": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
           "summary": "Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat. Announced during M",
           "publishedAt": "2026-09-26T17:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
-          "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
-          "publishedAt": "2026-09-26T06:42:12.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-          "summary": "It's actually on sale for $4 at the moment.",
-          "publishedAt": "2026-09-25T22:26:16.000Z",
           "tag": "Industry",
           "_example": false
         }

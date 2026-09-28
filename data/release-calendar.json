@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-27T17:30:14.769Z",
+  "updatedAt": "2026-09-28T17:30:04.169Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -758,17 +758,6 @@
       "summary": "Meet the Merlies, a tiny birds community trying to find harmony in a world where the remains of an ancient civilisation are still visible. Build your village ingeniously, gather your birdies and explore this way-too-big world in this cute post-apocalyptic adventure ! Ready to spr"
     },
     {
-      "id": "igdb-game-392212",
-      "title": "Escape from 8-Bit High",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "When a cursed cassette awakens a sentient Pomodore 64, Cloudydale High is overrun by 8-bit villains! Join alt-rock trio Blueberry Finn—Hank, Duck, and Alex—as they battle mole men, aliens, dinosaurs and more in a bizarre, musical quest to save the world!"
-    },
-    {
       "id": "igdb-game-368055",
       "title": "Frutiger Home",
       "date": "2026-09-28",
@@ -778,6 +767,28 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Decorate your dream frutiger home in this cozy co-op frutiger house decorating game. Pick a home layout, add from a wide range of frutiger-themed decor and hang out with your friends!"
+    },
+    {
+      "id": "igdb-game-386448",
+      "title": "Dicevaders",
+      "date": "2026-09-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build an army of alien invaders to invade the Earth in DiceVaders, the roguelike dice game set in the same universe as StarVaders!"
+    },
+    {
+      "id": "igdb-game-392212",
+      "title": "Escape from 8-Bit High",
+      "date": "2026-09-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "When a cursed cassette awakens a sentient Pomodore 64, Cloudydale High is overrun by 8-bit villains! Join alt-rock trio Blueberry Finn—Hank, Duck, and Alex—as they battle mole men, aliens, dinosaurs and more in a bizarre, musical quest to save the world!"
     },
     {
       "id": "igdb-game-345539",
@@ -1769,6 +1780,17 @@
       "summary": "The Blue Cut Hook blends cozy tavern management with subtle adventure. You're no hero, just a humble tavern keeper, but your food, gear, and advice quietly shape the adventurers who pass through. They make the choices, take the glory, and face the danger, but your influence might"
     },
     {
+      "id": "igdb-game-405841",
+      "title": "The Crimson Hunt",
+      "date": "2026-09-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You play as Victoria, a vampire hunter haunted by her past, and Eleanor, a young woman trapped in a nightmare that has only just begun. Together, they must endure grotesque creatures, hidden traps, and a presence that seems to know them better than they realize."
+    },
+    {
       "id": "igdb-game-219392",
       "title": "The Human Story",
       "date": "2026-09-29",
@@ -1909,6 +1931,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Don't! Fret is stylized first-person psychological mascot-horror game set in a musically themed world. Play as a guitar named Fret to solve puzzles, escape from foes, and uncover the mystery behind Harmonic Heights."
+    },
+    {
+      "id": "igdb-game-341980",
+      "title": "Demon Bluff",
+      "date": "2026-09-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?"
     },
     {
       "id": "igdb-game-413275",
@@ -2860,7 +2893,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Drive the train. Follow the schedule. Ignore what's outside."
+      "summary": "A slow-burn psychological horror train simulator. Drive the train. Follow the schedule. Ignore what's outside."
     },
     {
       "id": "igdb-game-394670",
@@ -2887,17 +2920,6 @@
       "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up."
     },
     {
-      "id": "igdb-game-403093",
-      "title": "Archivist: Tidy Up & Sort",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by"
-    },
-    {
       "id": "igdb-game-414126",
       "title": "You Are Empty: Absolute Edition",
       "date": "2026-10-27",
@@ -2907,6 +2929,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Just in time for the 20th anniversary, You Are Empty has been revitalized for modern systems, with fixes, new features, and QoL additions, including all the official localizations. Our team carefully went through the entire game whilst faithfully preserving the intent of the orig"
+    },
+    {
+      "id": "igdb-game-403093",
+      "title": "Archivist: Tidy Up & Sort",
+      "date": "2026-10-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by"
     },
     {
       "id": "igdb-game-405677",
@@ -2931,6 +2964,16 @@
       "summary": "Pidgeon Pocket is a chill incremental game about a rooftop pigeon-keeper who sends a flock of trained pigeons into a living city park to pickpocket small valuables from park-goers and bring the loot home. Each round the park transforms into a different live event, from a marathon"
     },
     {
+      "id": "igdb-game-411313",
+      "title": "Possessed Kingdom",
+      "date": "2026-10-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api"
+    },
+    {
       "id": "igdb-game-279615",
       "title": "Usual June",
       "date": "2026-10-28",
@@ -2952,6 +2995,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "“ANOMALITH” is a survival third-person shooter set in Japan, steeped in the atmosphere of liminal spaces and Showa-era retro aesthetics. To search for her missing friend, a girl steps into a world writhing with anomalies."
+    },
+    {
+      "id": "igdb-game-418751",
+      "title": "Ironwake",
+      "date": "2026-10-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A linear single-session psychological horror. Your mind is uploaded into an old Soviet robot sealed inside a dead bunker. Stealth in the dark, puzzles inside dying machines, and one voice on the radio guiding you. Find the clues and change how it ends."
     },
     {
       "id": "igdb-game-412177",
@@ -4594,17 +4648,6 @@
       "summary": "A mind and space-bending puzzle game where you fold space to cheat your way through puzzles. Master space manipulation and reach beyond the stars to uncover the mystery at the end of the universe."
     },
     {
-      "id": "igdb-game-341980",
-      "title": "Demon Bluff",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?"
-    },
-    {
       "id": "igdb-game-347671",
       "title": "Escape Academy 2: Back 2 School",
       "date": "2026-12-31",
@@ -5268,54 +5311,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Classic turn-based tactical combat with some modern twists. Use stress to manage RNG. Master advanced suppression mechanics. Grow troops who develop abilities, personalities & relationships based on what happens in battle. Procedural, destructible maps. Realistic bullet physics."
-    },
-    {
-      "id": "igdb-game-197172",
-      "title": "Mira and the Legend of the Djinns",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An epic 2D pixel art style Metroidvania, inspired by Moroccan culture and spiritual traditions. Wield powerful ancient weapons and forge your way through unrelenting deserts, crumbling necropoli, floating islands and dangerous mountains as you try to uncover the secret of the las"
-    },
-    {
-      "id": "igdb-game-131231",
-      "title": "Neverlooted Dungeon",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Venture deep into the Neverlooted Dungeon and face its treacherous, deadly traps. Armed with your creativity, trusty weapon and magical items, find your own ways to outsmart the dangers in a highly immersive world. Be careful, become paranoid, be the first to loot!"
-    },
-    {
-      "id": "igdb-game-145755",
-      "title": "Pocket Wheels",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Pocket Wheels isn't just a racing game, it's an objective-based 3D platformer. Take a seat in various toy cars with special abilities and explore a house full of themed rooms filled with collectibles, objectives and race tracks!"
-    },
-    {
-      "id": "igdb-game-336154",
-      "title": "Raev: Kingdom on the Distant Shores",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build an empire, founding its villages and cities. Every kingdom started with a single bonfire, and RAEV allows you to create your own thriving civilization across a sprawling continent. Craft interwoven cityscapes, inspire your people, and build a kingdom to forge your path to g"
     }
   ],
   "undated": [
