@@ -96,6 +96,19 @@ The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
 
 Once GitHub Pages is enabled for the repository, pushes to `main` will publish the site automatically.
 
+## Security metadata
+
+Every public HTML route carries the same early meta Content Security Policy and
+`strict-origin-when-cross-origin` referrer policy. The CSP allows local scripts,
+JSON, images and manifest data, plus the Google Fonts stylesheet and font hosts
+used by `styles.css`. Inline styles remain allowed because the current renderer
+uses style attributes.
+
+GitHub Pages does not turn these meta tags into response headers. Header-only
+directives such as `frame-ancestors` and CSP reporting therefore remain outside
+this policy. `test/security-metadata.test.mjs` prevents policy drift and checks
+the current external resource graph.
+
 ## Contributor Notes
 
 - Keep visible naming aligned with `GameTrackDaily`.
