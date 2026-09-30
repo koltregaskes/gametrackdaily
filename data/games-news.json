@@ -1,116 +1,116 @@
 {
-  "generated": "2026-09-29T17:45:11.385Z",
+  "generated": "2026-09-30T17:45:11.569Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-09-29T17:45:11.385Z",
+      "generatedAt": "2026-09-30T17:45:11.569Z",
       "items": [
         {
-          "title": "Marvel’s Wolverine Is Holding Its Own Against PlayStation’s Live-Service Giants",
+          "title": "The Biggest New Game Releases Of October 2026",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/marvels-wolverine-is-holding-its-own-against-playstations-live-service-giants/",
-          "summary": "Marvel's Wolverine might not be a critical hit, but it's doing surprisingly well commercially. The new superhero adventure from Insomniac Games faced stiff opposition from new releases and established",
-          "publishedAt": "2026-09-29T11:49:38.000Z",
+          "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
+          "summary": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid bein",
+          "publishedAt": "2026-09-30T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Sony Makes Japanese Players Prove They’re Gamers To Get A PS5 Pro",
+          "title": "Steam Is Finally Changing How Games Get Their Big Front-Page Break",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro/",
-          "summary": "The demand for PlayStation 5 Pro consoles is currently outpacing supply in Japan, due to ongoing memory shortages that have yet to be resolved. Now, Sony is offering Japanese players a unique way to e",
-          "publishedAt": "2026-09-29T12:05:33.000Z",
+          "url": "https://www.gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break/",
+          "summary": "The front page of Steam has long been a hot commodity for game developers and publishers, but next year, some big changes are coming. Valve has announced that it'll be changing how it handles game dis",
+          "publishedAt": "2026-09-30T13:01:32.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
+          "title": "The Witcher 3 Is Having A Record-Breaking Comeback In A Very Busy Gaming Month",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
-          "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month th",
-          "publishedAt": "2026-09-29T13:07:36.000Z",
+          "url": "https://www.gamespot.com/articles/the-witcher-3-is-having-a-record-breaking-comeback-in-a-very-busy-gaming-month/",
+          "summary": "More than a decade has passed since The Witcher 3: The Wild Hunt first launched, and on Steam, the game is doing better than ever. With the launch of The Witcher 3 Remastered, the game has surged up t",
+          "publishedAt": "2026-09-30T13:14:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
+          "title": "This New Riftbound Card Is An Exciting Variant Of A Time-Traveling Legend",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/this-new-riftbound-card-is-an-exciting-variant-of-a-time-traveling-legend/",
+          "summary": "While it already feels like it's been around forever, October 31 will mark the one-year anniversary of Riftbound, the trading card game based on Riot Games's popular League of Legends franchise, relea",
+          "publishedAt": "2026-09-30T13:53:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Ex-PlayStation Boss Has Some Advice For Xbox: “Pick A Lane”",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ex-playstation-boss-has-some-advice-for-xbox-pick-a-lane/",
+          "summary": "Xbox has undergone major changes since a new leadership team took over. Under Xbox CEO Asha Sharma, Microsoft's gaming division has had waves of mass layoffs , parted ways with several studios, and co",
+          "publishedAt": "2026-09-30T13:58:51.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Disc-To-Digital Program Is Officially Live For Everyone",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-disc-to-digital-program-is-officially-live-for-everyone/",
+          "summary": "Following an initial rollout to Xbox Insiders, the Xbox disc-to-digital program is officially available for all Xbox One and Xbox Series X users. The program allows you to receive digital licenses for",
+          "publishedAt": "2026-09-30T15:10:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Activision Should Hire Former Halo Devs For Next Mainline Game, Former Franchise Director Says",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/activision-should-hire-former-halo-devs-for-next-mainline-game-former-franchise-director-says/",
+          "summary": "Now that development of future Halo games is being handled by Activision Blizzard's hands , some former developers of the series have spoken out to share their thoughts on the shocking but not entirel",
+          "publishedAt": "2026-09-30T15:37:31.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "PlayStation Plus Free Games For October 2026 Revealed",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
+          "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting October 6-- F1 25 , Hunt: Showdown 189",
+          "publishedAt": "2026-09-30T10:46:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"I always see it kind of like a triangle\": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-          "summary": "The recent screening of Nintendo's The Legend of Zelda: Ocarina of Time remake has proven a thing of existential horror for many grey-haired Zeldenthusiasts. Is that you, Link? What have they done to ",
-          "publishedAt": "2026-09-29T12:40:37.000Z",
+          "url": "https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values",
+          "summary": "When I first learned about Core Values, the upcoming expansion to factory automation game Satisfactory , I didn't grasp the scale of the challenge developer Coffee Stain had set themselves. 'So, the g",
+          "publishedAt": "2026-09-30T11:15:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
+          "title": "All the RPS Supporter rewards for September 2026: Model ships, maze cities, and the tyranny of content",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
-          "summary": "While the cover's flown off The Witcher 3 Remastered today, September 29th, the wait for the RPGs elusive extra expansion goes on until next year. I've had rather mixed feelings on the decision to ext",
-          "publishedAt": "2026-09-29T15:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content",
+          "summary": "In case you missed it, September happened. Technically it&rsquo;s still happening, and we have one more exclusive post for RPS Premium Supporters coming this week, but this time I fancy doing the mont",
+          "publishedAt": "2026-09-30T11:48:52.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now",
+          "title": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
-          "summary": "Has the pre-GTA 6 autumn exhaustion hit you yet? There's already been a lot of games this month, but this train stops for no one, especially with Rockstar's behemoth looming over it all. Today is no d",
-          "publishedAt": "2026-09-29T16:08:50.000Z",
+          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+          "summary": "Arc Raiders developers Embark heavily underestimated the challenges of creating a full-blown live service game, executive producer Aleksander Gr&oslash;ndal has conceded in a new interview. The extrac",
+          "publishedAt": "2026-09-30T12:15:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Blizzard Promises 'Diablo 4' Support Even After 'Diablo 5' Launches",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/blizzard-promises-suppport-diablo-4-after-diablo-5-release/",
-          "summary": "Blizzard promised that it will keep supporting 'Diablo 4' with new seasons after 'Diablo 5' launches.",
-          "publishedAt": "2026-09-29T15:46:09.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How to evolve Applin into Flapple, Appletun, and Dipplin in Pokémon Go",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/pokemon-go-guide/564604/applin-flapple-appletun-dipplin-how-to-get-evolve-apples/",
-          "summary": "You can find Applin in Pokémon Go, though you’ll need to look for literal apples on the floor. We explain how to find the apple Pokémon and evolve it.",
-          "publishedAt": "2026-09-29T15:47:49.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Critical Role's New Game Announced for 2027 (Exclusive)",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/critical-role-video-game-rockbeasts/",
-          "summary": "Critical Role has set its sights on another management game, this time collaborating with studio LICHTHUND on the story-driven game 'ROCKBEASTS.'",
-          "publishedAt": "2026-09-29T16:00:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Guillermo Del Toro Officially Confirms He Almost Directed the Bioshock Movie",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/bioshock-movie-guillermo-del-toro-confirms-failed-adaptation-involvement/",
-          "summary": "Horror legend Guillermo del Toro once tried to adapt seminal FPS BioShock, but the process was 'disastrous'",
-          "publishedAt": "2026-09-29T16:42:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Witcher 3 Remastered Is Officially the Best-Reviewed Game of the Year",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/",
-          "summary": "CD Project Red's update to The Witcher 3: Wild Hunt has a 94 rating on Metacritic. Can GTA 6 beat it?",
-          "publishedAt": "2026-09-29T16:50:09.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
-          "summary": "Life sure is a beach.",
-          "publishedAt": "2026-09-29T12:19:01.000Z",
+          "title": "Crusader Kings 3's By God Alone expansion offers plenty of holy hijinks, even if your polyamorous Pope doesn't get divorced three times in one day",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/crusader-kings-3s-by-god-alone-expansion-offers-plenty-of-holy-hijinks-even-if-your-polyamorous-pope-doesnt-get-divorced-three-times-in-one-day",
+          "summary": "My very soul has been cleft into pieces on this day. January 3rd, 902 AD. First, my Christian faith fractured in twain. I stand in Rome, head of the Roman Rite and now the leader of the Catholic world",
+          "publishedAt": "2026-09-30T13:27:57.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,32 +119,68 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-09-29T17:45:11.385Z",
+      "generatedAt": "2026-09-30T17:45:11.569Z",
       "items": [
         {
-          "title": "SteelSeries Rival Pro gaming mouse review",
+          "title": "Secretlab ATLAS Dune+ Review",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/secretlab-atlas-dune-chair-review/",
+          "summary": "Secretlab have given me a crash course on how to sit properly.",
+          "publishedAt": "2026-09-30T15:30:17.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Lenovo Legion 5i Gen 10 gaming laptop review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
-          "summary": "SteelSeries is back, baby.",
-          "publishedAt": "2026-09-29T14:00:00.000Z",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-5i-gen-10-review/",
+          "summary": "Beautiful screen, solid performance, and a reasonable price, but…",
+          "publishedAt": "2026-09-30T15:21:08.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Digger Review",
+          "title": "MSI Katana 15 HX B14W gaming laptop review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-katana-15-hx-b14w-review/",
+          "summary": "How about a hilarious sword pun about MSI's Katana losing its edge?",
+          "publishedAt": "2026-09-30T15:21:11.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Asus TUF Gaming A16 gaming laptop review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+          "summary": "Probably the only mid-range gaming laptop I'd buy today.",
+          "publishedAt": "2026-09-30T15:21:13.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "End of Abyss Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/digger-review-tom-cruise",
-          "summary": "Review: Digger's satire may not change your thinking on global warming, but there are excellent performances from Tom Cruise and the rest of the cast, and more than a few laughs.",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
+          "url": "https://www.ign.com/articles/end-of-abyss-review",
+          "summary": "An unrivaled atmosphere isn't enough to make this metroidvania worth the ride.",
+          "publishedAt": "2026-09-30T14:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Wardogs early access review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-early-access-review",
-          "summary": "It took me four attempts to successfully parachute into a Wardogs match. On the first try, I opened my parachute far too early, and was promptly sniped from the sky by one of the many sharpshooters th",
-          "publishedAt": "2026-09-29T10:27:30.000Z",
+          "title": "Scrubs Season 11: Episodes 1 & 2 Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/scrubs-revival-season-11-episodes-1-2-review",
+          "summary": "Scrubs Season 11 is off to a strong start, as this charming sitcom looks to improve on some of the flaws of Season 10. Read our review of the first two episodes.",
+          "publishedAt": "2026-09-30T16:18:13.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+          "summary": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles.",
+          "publishedAt": "2026-09-29T18:04:43.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -153,14 +189,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-09-29T17:45:11.385Z",
+      "generatedAt": "2026-09-30T17:45:11.569Z",
       "items": [
         {
-          "title": "Thief Gets a New Sequel 30 Years Later — Here's a First Look",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/thief-pulse-of-promise-exclusive-look/",
-          "summary": "One of the great 1990s video games returns with a story set between Dark Project and Metal Age ahead of a remaster",
-          "publishedAt": "2026-09-29T16:00:17.000Z",
+          "title": "Gravhounds – The First Hands-On Preview of an Intriguing Deep Rock Galactic-Like Extraction Shooter",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gravhounds-the-first-hands-on-preview-of-an-intriguing-deep-rock-galactic-like-extraction-shooter",
+          "summary": "After exploring its worlds and systems a bit during this initial playtest, Gravhounds has left a strong enough impression on me that I’m intrigued to come back and give it a try when it enters early a",
+          "publishedAt": "2026-09-30T14:00:00.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -169,59 +205,41 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-09-29T17:45:11.385Z",
+      "generatedAt": "2026-09-30T17:45:11.569Z",
       "items": [
         {
-          "title": "When Is The Next Steam Sale? Dates For 2026 And 2027 Sales Revealed",
+          "title": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record",
+          "summary": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
+          "publishedAt": "2026-09-30T08:49:15.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Majority Of Gears Of War: E-Day Revenue On Xbox Will Be Cannibalized By Game Pass, Analyst Says",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/when-is-the-next-steam-sale-date/1100-6532422/",
-          "summary": "While it's always a good idea to save some cash toward the end of the month, Valve's quarterly Steam sales make it very tempting to dip into those rainy day funds. Fortunately, knowing when these sale",
-          "publishedAt": "2026-01-22T17:07:00.000Z",
+          "url": "https://www.gamespot.com/articles/majority-of-gears-of-war-e-day-revenue-on-xbox-will-be-cannibalized-by-game-pass-analyst-says/",
+          "summary": "Gears of War: E-Day is launching into Xbox Game Pass, and because of that, the majority of the game's moneymaking potential will be cannibalized by its inclusion on the service. That's according to Rh",
+          "publishedAt": "2026-09-29T17:02:05.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-          "summary": "Warhammer 40,000: Darktide continues to cling tightly, perhaps even aggressively, to my Steam installations, my occasionally waning interest repeatedly re-sparked by the addition of akimbo-autopistoll",
-          "publishedAt": "2026-09-29T15:01:48.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Nintendo Officially Launches Zelda 40th Anniversary Concert Ticket Sales",
+          "title": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
           "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-40th-anniversary-concert-tickets-price-dates-location/",
-          "summary": "Ticket sales for the Legend of Zelda 40th anniversary concert will begin on Sept. 30 for performances in North America, Europe, and Australia",
-          "publishedAt": "2026-09-29T16:23:26.000Z",
+          "url": "https://www.polygon.com/valve-deadlock-update-september-2026-development/",
+          "summary": "Deadlock's City Never Sleeps update is huge and pushes the PC multiplayer hero shooter to an all-time peak concurrent player count on Steam.",
+          "publishedAt": "2026-09-29T22:18:41.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "The Witcher 3 Remastered has scuppered an ambitious cut plague quest restoration mod, but there'll be \"something extra\" in the update that gets it working again",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
-          "summary": "Today, September 29th, The Witcher 3 is back on the path in Remastered form . With that remaster bringing a host of tweaks to the decade-old RPG, there was always going to be an adjustment period for ",
-          "publishedAt": "2026-09-29T09:24:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Best-Selling Game About Shooting Fish Unveils First Major Update",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/how-to-fish-content-update-manta-boss-bow/",
-          "summary": "Players have a reason to call their friends and boot up How to Fish once again, as a major content update has just dropped.",
-          "publishedAt": "2026-09-29T10:41:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "A 'fundamental' update for this 34-year-old survival game is coming in October",
+          "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
-          "summary": "Are you ready to make some socks?",
-          "publishedAt": "2026-09-28T20:28:16.000Z",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+          "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
+          "publishedAt": "2026-09-29T22:19:27.000Z",
           "tag": "Industry",
           "_example": false
         }

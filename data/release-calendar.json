@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-09-29T17:30:04.008Z",
+  "updatedAt": "2026-09-30T17:30:06.049Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,160 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-203301",
-      "title": "Nivalis Nights",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Grow your business, manage restaurants and nightclubs, make friends and enemies, buy and decorate apartments, go fishing and maybe even find love in Nivalis, the city that stretches from the ocean to the clouds."
-    },
-    {
-      "id": "igdb-game-395525",
-      "title": "Minecraft Dungeons II",
-      "date": "2026-09-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Drop the pickaxe, grab a sword, and charge into a thrilling new adventure in Minecraft Dungeons II. Journey through unexplored lands and mysterious locations, in a quest to stop a new evil from causing chaos in not one, but two worlds! Clash with menacing foes in explosive encoun"
-    },
-    {
-      "id": "igdb-game-415005",
-      "title": "The Witcher 3: Wild Hunt Remastered",
-      "date": "2026-09-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Coming on September 29, this is the definitive way to experience Geralt of Rivia’s legendary adventure. The Witcher 3: Wild Hunt — Remastered features an array of improvements, bringing upgrades to visuals, gameplay, and more.\n\nRemastered is a free upgrade for players who own The"
-    },
-    {
-      "id": "igdb-game-325182",
-      "title": "Toem 2",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step back into the shoes of a curious photographer and set off on a brand new adventure all about uncovering hidden details, helping friends along the way, and documenting the world’s little wonders in TOEM 2, the sequel to the acclaimed TOEM."
-    },
-    {
-      "id": "igdb-game-344466",
-      "title": "Transport Fever 3",
-      "date": "2026-09-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Transport Fever 3, the ultimate transport tycoon returns, bigger, deeper, and more dynamic than ever. Build the routes that transform the world across land, sea, and sky using over a century of evolving transport options. Design and build your ideal transport network."
-    },
-    {
-      "id": "igdb-game-398405",
-      "title": "Dog in the Machine",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A tactical roguelite where you help an AutoDog escape a dystopian mecha-city and get back to their exiled humans. Teach the dog custom tricks to tackle strategic challenges through devastating chain reactions. Break the Machine in your path to freedom!"
-    },
-    {
-      "id": "igdb-game-265820",
-      "title": "The Merlies",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Meet the Merlies, a tiny birds community trying to find harmony in a world where the remains of an ancient civilisation are still visible. Build your village ingeniously, gather your birdies and explore this way-too-big world in this cute post-apocalyptic adventure ! Ready to spr"
-    },
-    {
-      "id": "igdb-game-321243",
-      "title": "Blades & Battles",
-      "date": "2026-09-28",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Blades & Battles is a fantasy Beat'Em Up game that takes players to the heart of the legendary world of King Arthur in his barbarian youth. A modern version of classic titles such as Golden Axe."
-    },
-    {
-      "id": "igdb-game-368055",
-      "title": "Frutiger Home",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Decorate your dream frutiger home in this cozy co-op frutiger house decorating game. Pick a home layout, add from a wide range of frutiger-themed decor and hang out with your friends!"
-    },
-    {
-      "id": "igdb-game-386448",
-      "title": "Dicevaders",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build an army of alien invaders to invade the Earth in DiceVaders, the roguelike dice game set in the same universe as StarVaders!"
-    },
-    {
-      "id": "igdb-game-392212",
-      "title": "Escape from 8-Bit High",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "When a cursed cassette awakens a sentient Pomodore 64, Cloudydale High is overrun by 8-bit villains! Join alt-rock trio Blueberry Finn—Hank, Duck, and Alex—as they battle mole men, aliens, dinosaurs and more in a bizarre, musical quest to save the world!"
-    },
-    {
-      "id": "igdb-game-345539",
-      "title": "King's Guard",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this turn-based strategy roguelike your job is to keep an ungrateful king alive. As the royal guard's manager you unlock upgrades, assign badges for special skills and try to keep morale and supplies from collapsing faster than the monarchy."
-    },
-    {
-      "id": "igdb-game-410968",
-      "title": "Tempest Rising: The Vetis Wrath",
-      "date": "2026-09-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Take command of the fractured Veti to reclaim what is rightfully yours. Subjugate your foes and use them as tools to sacrifice for your goals in the conquest for vengeance against enemies both new and older than humanity itself."
-    },
     {
       "id": "igdb-game-305550",
       "title": "Acts of Blood",
@@ -2536,6 +2382,17 @@
       "summary": "Explore Bluey’s world like never before in Bluey's Happy Snaps!\n\nJoin Bluey and her family in a new photo-powered adventure game. Discover familiar locations, play with loads of toys, and use Bluey's camera to capture and keep all your favorite moments."
     },
     {
+      "id": "igdb-game-58718",
+      "title": "Desolus",
+      "date": "2026-10-14",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore a city of Gothic architecture torn between past and future in Desolus, a first person puzzle game."
+    },
+    {
       "id": "igdb-game-388377",
       "title": "We Are So Cooked",
       "date": "2026-10-14",
@@ -3028,6 +2885,17 @@
       "summary": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about the locals. Her approach, although controversial, is highly effective: intense and obsessive stalking."
     },
     {
+      "id": "igdb-game-391801",
+      "title": "Curse of Resthaven",
+      "date": "2026-10-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this single-player narrative roguelite, govern a cursed island as you investigate your niece’s mysterious disappearance. Interrogate, trade, upgrade, and embark upon card-based expeditions to uncover dark secrets – before the next cataclysm strikes."
+    },
+    {
       "id": "igdb-game-321579",
       "title": "Danchi Days",
       "date": "2026-10-29",
@@ -3348,6 +3216,17 @@
       "summary": "Single-player horde survival with a touch of incremental base building. Eight-minute runs. Eight hours to complete."
     },
     {
+      "id": "igdb-game-403821",
+      "title": "Chivalware",
+      "date": "2026-11-05",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike."
+    },
+    {
       "id": "igdb-game-416123",
       "title": "Where the Seeds Fall",
       "date": "2026-11-05",
@@ -3369,6 +3248,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Immerse yourself in this thrilling action JRPG and uncover the secrets of Emery crystals as you face challenging enemies that will demand all your skill and ingenuity to defeat them."
+    },
+    {
+      "id": "igdb-game-349756",
+      "title": "In Full Bloom",
+      "date": "2026-11-05",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for anything around it. There is only one way."
     },
     {
       "id": "igdb-game-399408",
@@ -3860,6 +3750,17 @@
       "summary": "Fight your way through a diverse world in this action-adventure side scroller, where you are given one weapon and die in one hit. Can you earn the right to peer beyond the Zeroed Abyss?"
     },
     {
+      "id": "igdb-game-324950",
+      "title": "Muri: Wildwoods",
+      "date": "2026-12-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore the mysterious creature-filled Wildwoods as a Muri. Find secrets, solve puzzles, befriend creatures, and clean away the corruption. Restore the world's beauty in this cozy adventure!"
+    },
+    {
       "id": "igdb-game-344878",
       "title": "The Glued",
       "date": "2026-12-08",
@@ -4280,6 +4181,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for t"
+    },
+    {
+      "id": "igdb-game-404896",
+      "title": "Arizona Sunshine",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Sharpen your machete and grab your friends. Arizona Sunshine brings its award-winning zombie apocalypse to explosive third-person action, featuring online and split-screen co-op, brutal combat, dark humor, and Buddy, your loyal zombie-chomping canine companion."
     },
     {
       "id": "igdb-game-360263",
@@ -4805,6 +4719,17 @@
       "summary": "UN:Me is an adventure game where you guide a girl harboring multiple souls within her body through an unsettling mental labyrinth, engaging in dialogue with each soul while making the harrowing choice of which to keep and which to erase in your escape attempt."
     },
     {
+      "id": "igdb-game-404738",
+      "title": "Apple Crumble",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Its your grandmas 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and dont worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective."
+    },
+    {
       "id": "igdb-game-246147",
       "title": "Bogdan's Cross",
       "date": "2026-12-31",
@@ -4972,6 +4897,20 @@
       "summary": "Townseek is a relaxing exploration-trading game where you embark on a journey across the world of Explora and discover the lost legacy of Sir Reginald Sharkingston! Discover exotic landmarks, trade with faraway towns, fish, mine, and farm as you complete your journal and make a n"
     },
     {
+      "id": "igdb-game-405077",
+      "title": "Age of Empires IV: Raiders of the North",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A New Age Rises in Age of Empires IV. Raiders of the North introduces two full civilizations, deeper Crucible systems, and more."
+    },
+    {
       "id": "igdb-game-319187",
       "title": "Beyond Astra",
       "date": "2026-12-31",
@@ -4992,6 +4931,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Journey on the back of the space whale Kewa, building a city for your people as you travel across the galaxy seeking purpose and answers, and developing deep relationships with the universe around you."
+    },
+    {
+      "id": "igdb-game-404870",
+      "title": "Burn-9",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A spy thriller where you’re not the spy. Safe behind your screen, guide the last survivor of an elite black-ops team in a desperate attempt to salvage a mission gone horribly wrong. Caught between military command and your agent, information is your greatest weapon."
     },
     {
       "id": "igdb-game-313921",
@@ -5289,6 +5239,58 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Build, repair, and grow your automotive empire — now also in co-op mode! Run a workshop together, fix cars, and expand your collection. Hundreds of configurations, thousands of parts, and full customization await!"
+    },
+    {
+      "id": "igdb-game-398522",
+      "title": "Construction Simulator: Evolution",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dig into the next exciting evolution of the Construction Simulator series and experience the biggest construction playground ever. Control numerous licensed machines, take on manual labor, and master both construction and demolition."
+    },
+    {
+      "id": "igdb-game-404917",
+      "title": "Cronos: Lazarus",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Wield the Warden’s power in this combat‑heavy expansion to Cronos: The New Dawn, pushing the series toward faster, more aggressive action. Teleport, strike, and outrun a relentless hunter using enhanced traversal, decoys, and temporary invisibility as you race to revive a lost Es"
+    },
+    {
+      "id": "igdb-game-400795",
+      "title": "Curse of the Crimson Stag",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Curse of the Crimson Stag is a story-driven mystery thriller in which you explore a blurred line between supernatural occurrences and past tragedy. Uncover what led to the abandoning of the once luxurious Whiteroot Hotel. Local myth tells of a wrathful spirit known as the Crimson"
+    },
+    {
+      "id": "igdb-game-403822",
+      "title": "Deadzone Rogue 2",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fight as Talon 13-10 in this FPS roguelite adventure set on a fallen Earth. Combine weapons, augments, and elements to forge devastating builds, and blast through Monarch’s endless machines. Grow stronger each run, solo or with friends."
     },
     {
       "id": "igdb-game-291190",
