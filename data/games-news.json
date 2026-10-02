@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-01T17:45:14.291Z",
+  "generated": "2026-10-02T17:45:09.400Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-01T17:45:14.291Z",
+      "generatedAt": "2026-10-02T17:45:09.400Z",
       "items": [
         {
-          "title": "Ubisoft’s Massive Entertainment Rebrand Has Made The Name Much More Literal And Slightly Confusing",
+          "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ubisofts-massive-entertainment-rebrand-has-made-the-name-much-more-literal-and-slightly-confusing/",
-          "summary": "After folding several of its studios into \" Creative Houses \" earlier this year, Ubisoft has announced a rebranding for Creative House 2, which might be slightly confusing. The branch that is home to ",
-          "publishedAt": "2026-10-01T12:44:27.000Z",
+          "url": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
+          "summary": "Halo has a new home at Activision following recent changes at Xbox , and while it's still early days, Activision has reportedly proposed a total reboot for the series. This would be a fresh start, mov",
+          "publishedAt": "2026-10-02T12:26:54.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Control Resonant Has Finally Gotten The One Thing It’s Missing (But Only On PC)",
+          "title": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/control-resonant-has-finally-gotten-the-one-thing-its-missing-but-only-on-pc/",
-          "summary": "There's a lot to love about Control Resonant, from its delightfully weird world to its intriguing story, but visually, the game offers some jaw-dropping visuals and art direction. From the Hiss hoveri",
-          "publishedAt": "2026-10-01T12:45:15.000Z",
+          "url": "https://www.gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds/",
+          "summary": "Ahead of its release later this month, marketing for the Street Fighter movie has focused on deep references to the long-running fighting game series. How deep? We already knew that fighting game lege",
+          "publishedAt": "2026-10-02T12:45:47.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How Long Is Gears of War: E-Day – Mission List And Hours Played",
+          "title": "Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-long-is-gears-of-war-e-day-mission-list-and-hours-played/",
-          "summary": "Gears of War: E-Day is almost here--unless you're hopping in a few days early with the Premium Edition--and if you're looking to try out the campaign, you can settle in for a few days of action and ch",
-          "publishedAt": "2026-10-01T13:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
+          "summary": "A prominent World of Warcraft: Forever streamer has been banned following comments made on stream encouraging his viewers to buy gold on his behalf.  Forever, which is currently in beta ahead of the M",
+          "publishedAt": "2026-10-02T13:13:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "007 First Light’s Free Expansion Gives Bond A Driving License To Kill",
+          "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/007-first-light-free-expansion-gives-bond-a-driving-license-to-kill/",
-          "summary": "007 First Light developer IO Interactive has revealed a major new free update for the James Bond game, which is now available across PC, PS5, and Xbox Series X|S. Extended Operations adds new missions",
-          "publishedAt": "2026-10-01T13:11:30.000Z",
+          "url": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
+          "summary": "The NBA's Miami Heat have announced that they will wear GTA 6 -inspired jerseys when they host the Milwaukee Bucks on November 18, a day before the game releases. Additionally, the game will take plac",
+          "publishedAt": "2026-10-02T13:38:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Witcher 3 Remastered Is Already Being Patched For Being Too Bright",
+          "title": "Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-witcher-3-remastered-is-already-being-patched-for-being-too-bright/",
-          "summary": "The Witcher 3: Wild Hunt Remastered launched for free earlier this week, and has since been subject to debate over whether its visual changes have been for the better. One aspect that has routinely do",
-          "publishedAt": "2026-10-01T13:38:01.000Z",
+          "url": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
+          "summary": "It looks like Sony has quietly revised the PS5 console once again, with new internal changes across the (mother)board. It's not clear when these new models came into service, but they seem to have ent",
+          "publishedAt": "2026-10-02T14:17:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox Is Paying A Lot Less Than Normal For Kojima’s Physint, Possibly Under $200 Million – Report",
+          "title": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-is-paying-a-lot-less-than-normal-for-kojimas-physint-possibly-under-200-million-report/",
-          "summary": "New Xbox CEO Asha Sharma has made a lot of big moves since taking over for Phil Spencer in the role, one of which was signing Hideo Kojima's new spy-thriller game, Physint , after Sony walked away fro",
-          "publishedAt": "2026-10-01T14:18:19.000Z",
+          "url": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
+          "summary": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sar",
+          "publishedAt": "2026-10-02T15:55:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "PUBG: Black Budget Canceled, Joining Live-Service Graveyard",
+          "title": "Xbox Game Pass Loses These 9 Games In October",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/pubg-black-budget-canceled-joining-live-service-graveyard/",
-          "summary": "PUBG publisher Krafton has pulled the plug on its extraction shooter spin-off PUBG: Black Budget . Announced less than a year ago and already through several closed alpha tests, the publisher's reason",
-          "publishedAt": "2026-10-01T15:08:15.000Z",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
+          "summary": "The start of the month usually brings several new Xbox Game Pass titles for subscribers, along with confirmation of which games will leave the subscription service in the coming days. This month, at l",
+          "publishedAt": "2026-10-02T16:34:36.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
-          "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an ",
-          "publishedAt": "2026-10-01T15:38:13.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/",
-          "summary": "Early access for Gears of War: E-Day has kicked off for anyone who bought the Premium Edition, and if you're on PC, you're probably dreading the traditional shader compilation wait that comes with it.",
-          "publishedAt": "2026-10-01T16:13:46.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
-          "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects",
-          "publishedAt": "2026-10-01T16:25:57.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"We want people to try and outsmart the game\": No Law aims for Arkane-style reactivity within a dangerous walled city",
+          "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-want-people-to-try-and-outsmart-the-game-no-law-aims-for-arkane-style-reactivity-within-a-dangerous-walled-city",
-          "summary": "Port Desire, the hemmed-in city setting of immersive sim No Law, is hard to place. At points, it reminds me of walking around Lisbon. It shares that Portuguese city's verticality, where hill-straddlin",
-          "publishedAt": "2026-10-01T11:20:00.000Z",
+          "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+          "summary": "In perhaps the least surprising Fallout news since Raul from New Vegas confirmed that ghouls with dodgy knees don't enjoy sneaking, the person behind an AI-generated browser game dubbed Fallout: New Y",
+          "publishedAt": "2026-10-02T11:45:53.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard",
+          "title": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
-          "summary": "Ever since The Witcher 3 's decade-on expansion Songs of the Past was revealed not to be a windup nor a case of empthy rumourmongering, I've been eating up as many details about its story as CD Projek",
-          "publishedAt": "2026-10-01T12:03:02.000Z",
+          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+          "summary": "Another day, another company declaring that the current memory crisis driving RAM prices through the roof is far from over. This time it's Micron, one of three firms - Samsung and SK Hynix are the oth",
+          "publishedAt": "2026-10-02T14:09:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+          "summary": "Cheesed off with unauthorised reuploads of their Total War: Warhammer 3 overhaul which make use of AI, the main modder behind SFO: Grimhammer 3 has opted to purposefully corrupt the mod. The aim is to",
+          "publishedAt": "2026-10-02T15:37:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
+          "summary": "I don&rsquo;t know if memory shortages have permanently killed off the concept of 'cheap' gaming PCs, but they have at least beat it into a coma. On the desktop side, inflated RAM, SSDs and graphics c",
+          "publishedAt": "2026-10-02T16:15:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Critical Role Reveals Why Campaign 4's Biggest Change Is Also a Huge Challenge",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/critical-role-campaign-4-biggest-challenge/",
+          "summary": "Campaign 4's West Marches format is increasingly impacting Critical Role's cast.",
+          "publishedAt": "2026-10-02T14:54:40.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,41 +119,32 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-01T17:45:14.291Z",
+      "generatedAt": "2026-10-02T17:45:09.400Z",
       "items": [
         {
-          "title": "Gears of War: E-Day review in progress — Good shooting, but the campaign's a slog",
+          "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
-          "summary": "Gears has never felt better to play, or more creatively stagnant.",
-          "publishedAt": "2026-10-01T13:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+          "summary": "F-Zero Company.",
+          "publishedAt": "2026-10-02T12:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Carrie Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/carrie-review-prime-video",
-          "summary": "Review: With smart story accommodations for the social media age and a pair of stellar performances from Summer H. Howell and Samantha Sloyan, Mike Flanagan and his team have successfully made the cas",
-          "publishedAt": "2026-10-01T15:46:54.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Ghost of Yotei DLC Review – Echoes of Sekigahara and Most Wanted",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ghost-of-yotei-dlc-review-echoes-of-sekigahara-and-most-wanted",
-          "summary": "The Echoes of Sekigahara story expansion and the new Most Wanted run-based mode deliver more of what made Ghost of Yotei great to begin",
-          "publishedAt": "2026-10-01T16:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks",
+          "title": "Star Wars: Galactic Racer review",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
-          "summary": "\"Look ma, no face,\" growls Marcus Fenix as I land a headshot on an Elite Sniper from across the map. The foley, wet with viscera and meat, drips and gloops in my ears. A nearby Locust roars its outrag",
-          "publishedAt": "2026-10-01T13:00:33.000Z",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "summary": "A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the arcadey immediacy lay ",
+          "publishedAt": "2026-10-02T13:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+          "source": "The Guardian (Culture)",
+          "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+          "summary": "Xbox, PC (version tested); The Coalition/Xbox Game Studios E-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointing Every Gears of War game released in ",
+          "publishedAt": "2026-10-01T13:09:12.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -162,102 +153,83 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-01T17:45:14.291Z",
-      "items": [
-        {
-          "title": "March of Giants Might Actually Get You to Play a MOBA Besides Dota 2 and League | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/march-of-giants-might-actually-get-you-to-play-a-moba-besides-dota-2-and-league-ign-preview",
-          "summary": "It's wild to challenge the titans of it like League of Legends and Dota 2. However, key developers on March of Giants also worked on another game you'd think was challenging immovable competition—Rain",
-          "publishedAt": "2026-10-01T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
-          "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more",
-          "publishedAt": "2026-10-01T15:11:16.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-10-02T17:45:09.400Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-01T17:45:14.291Z",
+      "generatedAt": "2026-10-02T17:45:09.400Z",
       "items": [
         {
-          "title": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-          "summary": "Trippy hack 'n' slash sequel (and, for the benefit of anyone planning for this year&rsquo;s Advent Calendar guessing game in the RPS Discord, my current second-favouritest game of 2026) Control Resona",
-          "publishedAt": "2026-10-01T14:22:50.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Don't fear the BIOS update: Asus has just fixed a local access vulnerability affecting older Intel motherboards",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/dont-fear-the-bios-update-asus-has-just-fixed-a-local-access-vulnerability-affecting-older-intel-motherboards/",
-          "summary": "To be clear, it's only older motherboards for 8th and 9th Gen Intel CPUs that are affected by the issue.",
-          "publishedAt": "2026-10-01T14:47:22.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio",
-          "summary": "Jason Jones, one of the co-founders of Bungie and a co-creator of Halo and Destiny, has announced his new studio, Stone Kite, which will work on projects across various entertainment mediums. The stud",
-          "publishedAt": "2026-10-01T14:42:37.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-          "summary": "Since The Witcher 3: Wild Hunt - Remastered's launch earlier this week, the debate around its lighting changes - whether it's overly brightened and washed out - has waged on. Now, CD Projekt Red has r",
-          "publishedAt": "2026-10-01T12:07:40.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
-          "summary": "The early access launch of Ace Combat 8: Wings of Theve kicked off on a down note due to some confusion regarding one of the game's pre-order bonuses. Pre-orders of the flight action game include a co",
-          "publishedAt": "2026-10-01T13:55:47.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-          "summary": "Ubisoft has expanded the remit of Swedish studio Massive Entertainment - responsible for The Division series, Star Wars Outlaws and Avatar: Frontiers of Pandora - to become a second major part of the ",
-          "publishedAt": "2026-10-01T09:02:25.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Xbox CEO Insists It’s Not For Sale Amid Studio Closures, Layoffs",
+          "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/",
-          "summary": "The \" Xbox reset \" has people wondering whether Microsoft is preparing to exit the video game business, but Xbox CEO Asha Sharma has flatly denied that the gaming division will be put up for sale. \"Xb",
-          "publishedAt": "2026-09-30T18:11:12.000Z",
+          "url": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
+          "summary": "One juicy gaming rumor that continues to swirl is that The Walt Disney Company could buy Epic Games and Fortnite. It remains to be seen if such a deal may materialize, and now a top boss at the House ",
+          "publishedAt": "2026-10-02T13:08:05.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "'Xbox Is Not for Sale' — Asha Sharma Denies Reports That Microsoft Is Considering Selling Its Gaming Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business",
-          "summary": "Xbox CEO Asha Sharma has denied reports suggesting Microsoft was considering selling its gaming business.",
-          "publishedAt": "2026-09-30T18:10:58.000Z",
+          "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+          "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be th",
+          "publishedAt": "2026-10-02T16:52:25.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
+          "summary": "Some power efficiency improvements for Steam Frame in the 0.4.3 beta update.",
+          "publishedAt": "2026-10-02T09:53:15.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+          "summary": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more",
+          "publishedAt": "2026-10-02T11:09:05.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Survival Game Rust's Big Update Adds Raw Milk and Rotten-Meat Fuel",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/rust-livestock-update-force-wipe-october-2026/",
+          "summary": "Rust's livestock update is finally here, letting players build actual farms, trade cattle, cook tasty recipes, and even produce biofuel.",
+          "publishedAt": "2026-10-01T20:08:29.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+          "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
+          "publishedAt": "2026-10-01T20:13:04.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
+          "summary": "And there's a tantalising, titan-sized teaser included, too",
+          "publishedAt": "2026-10-01T21:35:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
+          "summary": "Alinea Analytics points out that Steam's not slowing down.",
+          "publishedAt": "2026-10-02T02:50:39.000Z",
           "tag": "Industry",
           "_example": false
         }
