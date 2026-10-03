@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-02T17:45:09.400Z",
+  "generated": "2026-10-03T17:45:08.246Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-02T17:45:09.400Z",
+      "generatedAt": "2026-10-03T17:45:08.246Z",
       "items": [
         {
-          "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
-          "summary": "Halo has a new home at Activision following recent changes at Xbox , and while it's still early days, Activision has reportedly proposed a total reboot for the series. This would be a fresh start, mov",
-          "publishedAt": "2026-10-02T12:26:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds/",
-          "summary": "Ahead of its release later this month, marketing for the Street Fighter movie has focused on deep references to the long-running fighting game series. How deep? We already knew that fighting game lege",
-          "publishedAt": "2026-10-02T12:45:47.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
-          "summary": "A prominent World of Warcraft: Forever streamer has been banned following comments made on stream encouraging his viewers to buy gold on his behalf.  Forever, which is currently in beta ahead of the M",
-          "publishedAt": "2026-10-02T13:13:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
-          "summary": "The NBA's Miami Heat have announced that they will wear GTA 6 -inspired jerseys when they host the Milwaukee Bucks on November 18, a day before the game releases. Additionally, the game will take plac",
-          "publishedAt": "2026-10-02T13:38:28.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
-          "summary": "It looks like Sony has quietly revised the PS5 console once again, with new internal changes across the (mother)board. It's not clear when these new models came into service, but they seem to have ent",
-          "publishedAt": "2026-10-02T14:17:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
-          "summary": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sar",
-          "publishedAt": "2026-10-02T15:55:59.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Game Pass Loses These 9 Games In October",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
-          "summary": "The start of the month usually brings several new Xbox Game Pass titles for subscribers, along with confirmation of which games will leave the subscription service in the coming days. This month, at l",
-          "publishedAt": "2026-10-02T16:34:36.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
-          "summary": "In perhaps the least surprising Fallout news since Raul from New Vegas confirmed that ghouls with dodgy knees don't enjoy sneaking, the person behind an AI-generated browser game dubbed Fallout: New Y",
-          "publishedAt": "2026-10-02T11:45:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
-          "summary": "Another day, another company declaring that the current memory crisis driving RAM prices through the roof is far from over. This time it's Micron, one of three firms - Samsung and SK Hynix are the oth",
-          "publishedAt": "2026-10-02T14:09:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-          "summary": "Cheesed off with unauthorised reuploads of their Total War: Warhammer 3 overhaul which make use of AI, the main modder behind SFO: Grimhammer 3 has opted to purposefully corrupt the mod. The aim is to",
-          "publishedAt": "2026-10-02T15:37:33.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
-          "summary": "I don&rsquo;t know if memory shortages have permanently killed off the concept of 'cheap' gaming PCs, but they have at least beat it into a coma. On the desktop side, inflated RAM, SSDs and graphics c",
-          "publishedAt": "2026-10-02T16:15:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Critical Role Reveals Why Campaign 4's Biggest Change Is Also a Huge Challenge",
+          "title": "Pokémon Winds and Waves Could Completely Change Pokémon Forever",
           "source": "Polygon",
-          "url": "https://www.polygon.com/critical-role-campaign-4-biggest-challenge/",
-          "summary": "Campaign 4's West Marches format is increasingly impacting Critical Role's cast.",
-          "publishedAt": "2026-10-02T14:54:40.000Z",
+          "url": "https://www.polygon.com/switchboard-pokemon-winds-waves-leaks/",
+          "summary": "Amid silence from Game Freak, Pokémon leaks paint a picture of Gen 10 and beyond",
+          "publishedAt": "2026-10-03T13:00:21.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/",
+          "summary": "The Simpsons c-executive producer Mike Price answers some of the internets biggest quarions about the show, including the status of Apu",
+          "publishedAt": "2026-10-03T14:00:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/",
+          "summary": "Pokémon TCG fans will likely receive a Mewtwo promo card and other free 30th Anniversary goodies during Best Buy's Oct. 3 Pokémon event.",
+          "publishedAt": "2026-10-03T14:18:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+          "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI",
+          "publishedAt": "2026-10-03T14:31:26.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'Lanterns' Makes Even More Sense If You Know About DC's Iconic 20-Year-Old Meme",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/green-lantern-head-trauma/",
+          "summary": "If not for the universal reboots, Hal might be having some problems by now",
+          "publishedAt": "2026-10-03T15:00:16.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/dan-houser-absured-ventures-open-world-game/",
+          "summary": "Rockstar founder Dan Houser is avoiding GTA 6's gameplay reveal while working on a new open-world game at Absurd Ventures, his new company",
+          "publishedAt": "2026-10-03T15:50:02.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Fire Emblem: Fortune's Weave Doesn't Have to Be a Slog",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-free-time-too-big/",
+          "summary": "Fire Emblem Fortune's Weave's free time segments seem overwhelming, but you don't have to spend hours doing tasks that have no value",
+          "publishedAt": "2026-10-03T16:00:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'Game Changer' Season 9 Will Have \"Unexplainable\" Games, Dropout CEO Sam Reich Reveals",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/game-changer-season-9-dropout-ceo-sam-reich-interview/",
+          "summary": "Dropout CEO Sam Reich chats with Polygon about lessons he's learned from eight seasons of Game Changer and how the Topeka trip almost didn't happen.",
+          "publishedAt": "2026-10-03T17:00:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+          "summary": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers.",
+          "publishedAt": "2026-10-03T11:17:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+          "summary": "Extended Operations adds two TacSim missions, new game plus, and a photo mode.",
+          "publishedAt": "2026-10-03T12:24:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+          "summary": "I'm not sure niche brands would be able to change the industry like this.",
+          "publishedAt": "2026-10-03T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+          "summary": "Chat King.",
+          "publishedAt": "2026-10-03T13:49:02.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,17 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-02T17:45:09.400Z",
+      "generatedAt": "2026-10-03T17:45:08.246Z",
       "items": [
+        {
+          "title": "Verity Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/verity-review",
+          "summary": "Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
+          "publishedAt": "2026-10-02T19:14:47.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
           "source": "PC Gamer",
@@ -129,107 +138,98 @@
           "publishedAt": "2026-10-02T12:00:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Star Wars: Galactic Racer review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
-          "summary": "A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the arcadey immediacy lay ",
-          "publishedAt": "2026-10-02T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-          "source": "The Guardian (Culture)",
-          "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
-          "summary": "Xbox, PC (version tested); The Coalition/Xbox Game Studios E-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointing Every Gears of War game released in ",
-          "publishedAt": "2026-10-01T13:09:12.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-02T17:45:09.400Z",
+      "generatedAt": "2026-10-03T17:45:08.246Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-02T17:45:09.400Z",
+      "generatedAt": "2026-10-03T17:45:08.246Z",
       "items": [
+        {
+          "title": "Arc Raiders Will Temporarily Go Free-to-Play Alongside Major Update",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/arc-raiders-free-to-play-weekend-october-2026/",
+          "summary": "Embark Studios is hosting a free-to-play weekend for Arc Raiders that coincides with the game's biggest update, the Frozen Trail.",
+          "publishedAt": "2026-10-03T13:08:43.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Gamers Will Recognize The Studio Making The Battlefield Movie",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/battlefield-movie-sony-pictures/",
+          "summary": "Sony Pictures will be the studio that brings Battlefield to the big screen",
+          "publishedAt": "2026-10-03T13:51:06.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+          "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more",
+          "publishedAt": "2026-10-03T12:04:23.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more",
+          "publishedAt": "2026-10-03T14:47:09.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
+          "summary": "But that isn't necessarily the same as a generative AI game engine.",
+          "publishedAt": "2026-10-03T10:42:31.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
+          "summary": "I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review , and ultimately concluded it was a fun but inconsistent experience hindered by a few particul",
+          "publishedAt": "2026-10-02T23:26:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Valve's patch note supremacy",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
+          "summary": "The king of patch notes reclaims its throne.",
+          "publishedAt": "2026-10-02T22:07:36.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+          "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+          "publishedAt": "2026-10-03T01:33:39.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
           "source": "GameSpot",
           "url": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
           "summary": "One juicy gaming rumor that continues to swirl is that The Walt Disney Company could buy Epic Games and Fortnite. It remains to be seen if such a deal may materialize, and now a top boss at the House ",
           "publishedAt": "2026-10-02T13:08:05.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-          "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be th",
-          "publishedAt": "2026-10-02T16:52:25.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
-          "summary": "Some power efficiency improvements for Steam Frame in the 0.4.3 beta update.",
-          "publishedAt": "2026-10-02T09:53:15.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-          "summary": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more",
-          "publishedAt": "2026-10-02T11:09:05.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Survival Game Rust's Big Update Adds Raw Milk and Rotten-Meat Fuel",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/rust-livestock-update-force-wipe-october-2026/",
-          "summary": "Rust's livestock update is finally here, letting players build actual farms, trade cattle, cook tasty recipes, and even produce biofuel.",
-          "publishedAt": "2026-10-01T20:08:29.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-          "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
-          "publishedAt": "2026-10-01T20:13:04.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-          "summary": "And there's a tantalising, titan-sized teaser included, too",
-          "publishedAt": "2026-10-01T21:35:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-          "summary": "Alinea Analytics points out that Steam's not slowing down.",
-          "publishedAt": "2026-10-02T02:50:39.000Z",
           "tag": "Industry",
           "_example": false
         }
