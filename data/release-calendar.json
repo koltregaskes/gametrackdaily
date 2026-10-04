@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-03T17:30:04.068Z",
+  "updatedAt": "2026-10-04T17:30:04.312Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -2843,6 +2843,17 @@
       "summary": "A whispering flame craves souls. With each offering, your resolve strengthens. Fight spirits, collect their essences, and feed a hunger that may never subside in this short active incremental."
     },
     {
+      "id": "igdb-game-421242",
+      "title": "Aurora Requiem: The Lullaby of Calvaris",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Year 41 without the sun. Inside the skeleton of a colossal sea creature, the lighthouses burn memories for light. A late-90s-style JRPG with pre-rendered backdrops, three discs, time-gauge battles and a mechanic with a giant wrench who always keeps his word."
+    },
+    {
       "id": "igdb-game-385308",
       "title": "Milki Delivery",
       "date": "2026-11-17",
@@ -3004,6 +3015,17 @@
       "summary": "Three loves. One week. Zero chill. Merry Crisis is an intimate, character-driven romance visual novel about love, loss, and belonging—is home what you left behind, or where you’re headed?"
     },
     {
+      "id": "igdb-game-418084",
+      "title": "Call of Blood",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The game takes place in 2009-2011.\n\nCall of Blood is a cinematic single-player first-person shooter that immerses you in a gritty survival experience. The world is engulfed in a zombie outbreak, but the walking dead are far from your only problem.\n\nYou became the most wanted targ"
+    },
+    {
       "id": "igdb-game-415147",
       "title": "DNA Nemesis",
       "date": "2026-12-01",
@@ -3144,6 +3166,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Explore the mysterious creature-filled Wildwoods as a Muri. Find secrets, solve puzzles, befriend creatures, and clean away the corruption. Restore the world's beauty in this cozy adventure!"
+    },
+    {
+      "id": "igdb-game-416647",
+      "title": "Did You See That?",
+      "date": "2026-12-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 2 player psychological horror game where not every player sees the same reality. Explore a carnival trapped in an endless transformation, detect anomalies, verify with your friend if they see the same thing and make the right decisions before the clown Bobby loses his temper..."
     },
     {
       "id": "igdb-game-344878",
@@ -5277,40 +5310,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In Foxy Dumplings, you’ll run your own food truck and make friends along the way. Cook dumplings from all over the world, take good care of your clients, and discover how a meal can mend more than just hunger in this cozy cooking sim. Rise to the top of Foxtagram, one heartfelt d"
-    },
-    {
-      "id": "igdb-game-335826",
-      "title": "Ghost Sector",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Ghost Sector is a survival horror game where you play as M-07, a prototype machine trapped in a cybernetic facility during lockdown. Outwit the automated defenses, search for answers to your origin uncovering secrets, solving puzzles, and upgrade your abilities while preserving y"
-    },
-    {
-      "id": "igdb-game-251065",
-      "title": "Haruka: Beyond the Stars",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Haruka: Beyond the Stars is a juvenile sci-fi RPG about the intergalactic adventures of the protagonist, Yuuki, and a mysterious girl named Miiya. Set out on a spaceship and explore unique planets. Enjoy a thrilling adventure in the latest 3D anime art style."
-    },
-    {
-      "id": "igdb-game-351785",
-      "title": "Haunted Room! Urami-chan",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this \"life-intervention watching game,\" you control the earthbound spirit \"Urami-chan.\" Travel between an apartment's past and present to change the murdered resident's future. The game unfolds in semi-real time, tasking you to watch over the resident and intervene."
     }
   ],
   "undated": [
