@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-04T17:30:04.312Z",
+  "updatedAt": "2026-10-05T17:30:03.949Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "igdb-game-404114",
-      "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack",
+      "title": "Toy Story: Retro Roundup! + Toy Story 3: Complete Edition Double Pack",
       "date": "2026-10-14",
       "platforms": [
         "Xbox Series X/S",
@@ -2154,7 +2154,7 @@
     },
     {
       "id": "igdb-game-397806",
-      "title": "Cairn: On the Trail",
+      "title": "Cairn: On the Trail - Deep Water",
       "date": "2026-10-29",
       "platforms": [
         "Windows PC",
@@ -2270,6 +2270,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "S.O.N.A.R. (Submarine Operators Not Actually Ready) is a 1–4 player online co-op submarine sim where teamwork is essential, panic is inevitable, and sinking is always just one wrong button away. Pilot, fight, repair, and pray your friends know what to do."
+    },
+    {
+      "id": "igdb-game-273790",
+      "title": "The Transference",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Escape from your own house, in which you have been locked up. But be careful, you will not be alone in your captivity. Immerse yourself in this first-person horror adventure, full of family secrets and betrayals. And find out who and why they locked you up."
     },
     {
       "id": "igdb-game-258775",
@@ -4137,6 +4150,17 @@
       "summary": "Its your grandmas 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and dont worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective."
     },
     {
+      "id": "igdb-game-390172",
+      "title": "Become",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life."
+    },
+    {
       "id": "igdb-game-246147",
       "title": "Bogdan's Cross",
       "date": "2026-12-31",
@@ -4291,17 +4315,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Townseek is a relaxing exploration-trading game where you embark on a journey across the world of Explora and discover the lost legacy of Sir Reginald Sharkingston! Discover exotic landmarks, trade with faraway towns, fish, mine, and farm as you complete your journal and make a n"
-    },
-    {
-      "id": "igdb-game-390172",
-      "title": "Become",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life."
     },
     {
       "id": "igdb-game-319187",
@@ -5295,21 +5308,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Expendabots is a 4-player CO-OP horror-extraction game where you and your friends explore ever-changing islands full of danger and secrets. Run, hide, loot abandoned facilities, and extract with your squad before the island is lost."
-    },
-    {
-      "id": "igdb-game-386440",
-      "title": "Foxy Dumplings",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In Foxy Dumplings, you’ll run your own food truck and make friends along the way. Cook dumplings from all over the world, take good care of your clients, and discover how a meal can mend more than just hunger in this cozy cooking sim. Rise to the top of Foxtagram, one heartfelt d"
     }
   ],
   "undated": [

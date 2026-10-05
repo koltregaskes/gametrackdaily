@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-04T17:45:08.934Z",
+  "generated": "2026-10-05T17:45:08.623Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-04T17:45:08.934Z",
+      "generatedAt": "2026-10-05T17:45:08.623Z",
       "items": [
         {
-          "title": "Xbox Finally Had a Good Week",
+          "title": "Love And Deepspace Devs Have One Simple Request: Please Don’t Drink The Poison",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/love-and-deepspace-devs-have-one-simple-request-please-dont-drink-the-poison/",
+          "summary": "It hasn't been an easy year for the Love and Deepspace community after the Valko controversy left the fandom divided, but it looks like developer Papergames has brewed up new trouble for the gacha gam",
+          "publishedAt": "2026-10-05T13:04:56.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "10 New Things We Just Learned About GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/",
+          "summary": "New information about Grand Theft Auto 6 continues to be revealed. Game Informer 's most recent issue included a number of new details, and we've rounded up some of the key things we learned below. St",
+          "publishedAt": "2026-10-05T14:04:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "NBA 2K25 Is Getting Delisted Soon, Single-Player Modes Also Closing Down",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nba-2k25-is-getting-delisted-soon-single-player-modes-also-closing-down/",
+          "summary": "2K Sports has announced that NBA 2K25 will be discontinued soon, and that includes delisting the product and server shutdowns that will make even the game's single-player MyCareer and MyTeam component",
+          "publishedAt": "2026-10-05T14:11:07.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How Bill Skarsgard Became The Face Of Hideo Kojima’s Physint",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/",
+          "summary": "Hideo Kojima's spiritual successor to Metal Gear Solid, Physint , doesn't just have a new home at Xbox ; it also has a famous face attached to it, with Bill Skarsgard (It, Boy Kills World) playing the",
+          "publishedAt": "2026-10-05T16:26:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
+          "summary": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game",
+          "publishedAt": "2026-10-05T16:32:43.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Hideo Kojima Wants To Keep OD A Mystery, Even By His Standards",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/",
+          "summary": "Games developed by Hideo Kojima typically have an air of mystery, but for his upcoming horror project OD , the veteran game director wants to both terrify and mystify his fans. On a new episode of his",
+          "publishedAt": "2026-10-05T16:48:12.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
+          "summary": "In the grim darkness of the far future, there is something far worse than war. There is: a level that is basically a huge, spinning lock full of tentacles, with your Space Marine or Sister of Battle p",
+          "publishedAt": "2026-10-05T11:56:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+          "summary": "Details about and dev chatter concerning GTA 6 continue to drip out as part of the marketing push towards its console launch in November. This time, some of the aspects of it I'm most intrigued to see",
+          "publishedAt": "2026-10-05T13:23:13.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
+          "summary": "Following Microsoft's recent reveal that Hellblade makers Ninja Theory would be facing closure , with two deals to buy them after their split from Xbox have fallen through, the studio look to be in th",
+          "publishedAt": "2026-10-05T14:31:27.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+          "summary": "Over the course of my illustrious tenure as RPS news mangler, I have seen many Simslikes. Tragically cancelled Simslikes from publishers better known for feats of tactical incest! Corrosively telegeni",
+          "publishedAt": "2026-10-05T16:37:44.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Disney Makes WandaVision Episodes Free Ahead of Marvel's Next Big Show",
           "source": "Polygon",
-          "url": "https://www.polygon.com/patch-notes-xbox-disc-to-digital/",
-          "summary": "After the Halo-Activision controversy, Microsoft had good news: Gears of War E-Day reviews, Mythic Achievements, and Disc-to-Digital",
-          "publishedAt": "2026-10-04T13:00:17.000Z",
+          "url": "https://www.polygon.com/wandavision-youtube-streaming-free-visionquest/",
+          "summary": "VisionQuest premieres next week on Disney Plus. Ahead of it, Marvel has uploaded episodes of WandaVision to YouTube for free.",
+          "publishedAt": "2026-10-05T14:30:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "61 Years Ago, Star Trek's Greatest Failure Changed the Franchise Forever",
+          "title": "Steam's Secretly Biggest Driving Game Ever is Coming to PS5 in 2 Weeks",
           "source": "Polygon",
-          "url": "https://www.polygon.com/star-trek-the-cage-rejected-pilot/",
-          "summary": "NBC rejected “The Cage,” but Star Trek’s failed first pilot laid the groundwork for the franchise and the eventual return of Captain Pike.",
-          "publishedAt": "2026-10-04T14:00:15.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/",
-          "summary": "Critical Role Campaign 4's next arc is only a few days away, but it looks like one cast member probably won't be involved.",
-          "publishedAt": "2026-10-04T14:37:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Ghost of Yotei DLC’s Best Boss Fight Stars Giant Murder Bears",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/",
-          "summary": "Ghost of Yōtei Echoes of Sekigahara features one of the best boss fights in the game, thanks to a pair of deadly bears.",
-          "publishedAt": "2026-10-04T15:00:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Man of Tomorrow Passed An Important Post-Production Milestone",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/man-of-tomorrow-assembly-cut/",
-          "summary": "The assembly cut of Superman sequel Man of Tomorrow is complete, according to director James Gunn",
-          "publishedAt": "2026-10-04T15:21:35.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/digger-tom-cruise-box-office/",
-          "summary": "Digger did not do very well in theaters during its opening weekend, hitting a grossing low Tom Cruise hasn't seen in almost 20 years",
-          "publishedAt": "2026-10-04T16:22:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/buffy-season-5-hot-take/",
-          "summary": "Buffy the Vampire Slayer ran for seven seasons, but cutting two of its weakest would have made the beloved series even better.",
-          "publishedAt": "2026-10-04T17:00:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
-          "summary": "Quake Rooftops Jam takes a bird's eye view to level design.",
-          "publishedAt": "2026-10-04T14:24:59.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
-          "summary": "I was perhaps too trigger-happy.",
-          "publishedAt": "2026-10-04T15:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
-          "summary": "The designer of 2025's celebrated puzzler guides us through the games on his PC.",
-          "publishedAt": "2026-10-04T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
-          "summary": "RuneScape Reignited is a new way to play RS3… kind of.",
-          "publishedAt": "2026-10-04T16:10:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "What does your dream videogame concert look like?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
-          "summary": "You are the conductor.",
-          "publishedAt": "2026-10-04T16:21:59.000Z",
+          "url": "https://www.polygon.com/beamng-drive-ps5-release-date-steam-driving-simulator/",
+          "summary": "BeamNG.drive, a sandbox open-world car simulator with amazing soft-body physics, is quietly a massive hit on Steam already.",
+          "publishedAt": "2026-10-05T14:46:02.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,98 +119,107 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-04T17:45:08.934Z",
+      "generatedAt": "2026-10-05T17:45:08.623Z",
       "items": []
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-04T17:45:08.934Z",
+      "generatedAt": "2026-10-05T17:45:08.623Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-04T17:45:08.934Z",
+      "generatedAt": "2026-10-05T17:45:08.623Z",
       "items": [
+        {
+          "title": "Resident Evil Studio That’s Making Nintendo’s Zelda Movie Now Gunning For Battlefield As Well",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/resident-evil-studio-thats-making-nintendos-zelda-movie-now-gunning-for-battlefield-as-well/",
+          "summary": "Video games are the new battlefield for movie ideas , and after a reported bidding war , it appears Sony Pictures is the frontrunner to secure the rights to the Battlefield movie . The Wrap reported t",
+          "publishedAt": "2026-10-05T13:06:49.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+          "summary": "The software developer behind an unofficial PC version of N64 platformer Banjo-Kazooie has posted an impassioned screed about the usage of generative AI tools for rush-job PC ports of classic games. T",
+          "publishedAt": "2026-10-05T15:13:13.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+          "summary": "Maybe a little *too* bad, LaDS?",
+          "publishedAt": "2026-10-05T16:38:23.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+          "summary": "Player numbers are still rising for The Witcher 3 following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for th",
+          "publishedAt": "2026-10-05T11:17:51.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+          "summary": "Behaviour Interactive, the Canadian studio mostly known for asymmetrical multiplayer horror survival game Dead by Daylight , is hiring for a new project that sounds altogether different. Read more",
+          "publishedAt": "2026-10-05T12:44:39.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+          "summary": "More bad news for Ninja Theory today, as the studio's consultation process with Xbox - following a second wave of cuts last week - seems to have resulted in layoffs. Read more",
+          "publishedAt": "2026-10-05T14:53:45.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
+          "summary": "A fourth entry in the RuneScape series of MMOs has been announced by developers Jagex at this year's RuneFest. It's going by the obvious placeholder name of RuneScape 4 for now, is being developed usi",
+          "publishedAt": "2026-10-05T09:52:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+          "summary": "Arc Raiders studio Embark is making the extraction shooter free to play for four days alongside the launch of the game's biggest update yet, Frozen Trail. The studio spent the last few days detailing ",
+          "publishedAt": "2026-10-05T08:21:21.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
+          "summary": "\"Everybody's going to think that I am hating on Expedition 33 right now, but that's definitely not the case.\"",
+          "publishedAt": "2026-10-04T18:19:05.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
           "source": "Polygon",
           "url": "https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/",
           "summary": "There are only two weeks between the launch of the Ocarina of Time remake and GTA 6, which led to a rivalry between the games' protagonists on SNL.",
           "publishedAt": "2026-10-04T16:03:18.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
-          "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.",
-          "publishedAt": "2026-10-03T20:00:22.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Arc Raiders Will Temporarily Go Free-to-Play Alongside Major Update",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/arc-raiders-free-to-play-weekend-october-2026/",
-          "summary": "Embark Studios is hosting a free-to-play weekend for Arc Raiders that coincides with the game's biggest update, the Frozen Trail.",
-          "publishedAt": "2026-10-03T13:08:43.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Gamers Will Recognize The Studio Making The Battlefield Movie",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/battlefield-movie-sony-pictures/",
-          "summary": "Sony Pictures will be the studio that brings Battlefield to the big screen",
-          "publishedAt": "2026-10-03T13:51:06.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-          "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more",
-          "publishedAt": "2026-10-03T12:04:23.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more",
-          "publishedAt": "2026-10-03T14:47:09.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
-          "summary": "But that isn't necessarily the same as a generative AI game engine.",
-          "publishedAt": "2026-10-03T10:42:31.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
-          "summary": "I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review , and ultimately concluded it was a fun but inconsistent experience hindered by a few particul",
-          "publishedAt": "2026-10-02T23:26:26.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Valve's patch note supremacy",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
-          "summary": "The king of patch notes reclaims its throne.",
-          "publishedAt": "2026-10-02T22:07:36.000Z",
           "tag": "Industry",
           "_example": false
         }
