@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-05T17:30:03.949Z",
+  "updatedAt": "2026-10-06T17:30:04.014Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -667,6 +667,17 @@
       "summary": "STAR WARS: Galactic Racer is a runs-based, high-stakes reinvention of racing born in the lawless Outer Rim. With the Empire gone and the galaxy rebuilding, The Galactic League is created: an underground, unsanctioned circuit where syndicates bankroll chaos and champions are forge"
     },
     {
+      "id": "igdb-game-315689",
+      "title": "Spam",
+      "date": "2026-10-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore the different cards and let your imagination run wild to develop an original strategy. Once you're ready for battle, jump into the arena and face players from around the world in a dynamic duel that will require observation and adaptation. Each victory will allow you to e"
+    },
+    {
       "id": "igdb-game-356552",
       "title": "Clive Barker's Hellraiser: Revival",
       "date": "2026-10-07",
@@ -731,6 +742,18 @@
       "summary": "Calx is an atmospheric 3D action adventure inspired by visionary sci-fi art. Explore planet Syro - vast landscapes filled with crystal structures and ancient technology. Find out what the WARP did to the Quoths civilization. The environment guides you, revealing secrets through e"
     },
     {
+      "id": "igdb-game-405459",
+      "title": "Kingdom Hearts Collection [I-III]",
+      "date": "2026-10-07",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Play Kingdom Hearts I–III together in one unforgettable collection. A value‑packed bundle featuring three collections: Kingdom Hearts -HD 1.5+2.5 ReMIX-, Kingdom Hearts HD 2.8 Final Chapter Prologue, and Kingdom Hearts III + Re Mind (DLC)."
+    },
+    {
       "id": "igdb-game-290107",
       "title": "Echo Weaver",
       "date": "2026-10-07",
@@ -742,18 +765,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A fast-paced metroidBRAINia that tells the tale of a ruined society trapped in a fatal time loop. Uncover their story - and your own - as you explore what remains. Use each loop to chip away at the mystery, unlocking powerful knowledge to reshape the timeline and master the loop."
-    },
-    {
-      "id": "igdb-game-405459",
-      "title": "Kingdom Hearts Collection [I-III]",
-      "date": "2026-10-07",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play Kingdom Hearts I–III together in one unforgettable collection. A value‑packed bundle featuring three collections: Kingdom Hearts -HD 1.5+2.5 ReMIX-, Kingdom Hearts HD 2.8 Final Chapter Prologue, and Kingdom Hearts III + Re Mind (DLC)."
     },
     {
       "id": "igdb-game-359277",
@@ -787,6 +798,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "All You Can Fish is an active, relaxing incremental fishing adventure where every voyage matters, every upgrade counts, and every fish brings you one step closer to maritime legend."
+    },
+    {
+      "id": "igdb-game-374245",
+      "title": "Cyan Heart",
+      "date": "2026-10-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A horror exploration puzzle adventure where you relive events through a selfie viewpoint. Alone, with only voice communication from comrades as support, she simply keeps the camera rolling. Witness the record she wished to leave behind."
     },
     {
       "id": "igdb-game-406930",
@@ -1723,17 +1745,6 @@
       "summary": "Run the cutest little photo & print shop in town! Snap & Print is a cozy job simulator, where you take portraits, edit and restore pictures, and decorate shots with hats, flowers, stickers, and more. Upgrade your studio, unlock new props, and make every customer smile."
     },
     {
-      "id": "igdb-game-416105",
-      "title": "Hunter's Moon",
-      "date": "2026-10-26",
-      "platforms": [
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the"
-    },
-    {
       "id": "igdb-game-378426",
       "title": "Night Plane",
       "date": "2026-10-26",
@@ -1743,6 +1754,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Night Plane is a job-sim horror game where you work as a flight attendant on a doomed plane. Check tickets, serve passengers, and decide who stays onboard as demons hide among innocent souls. Naturally, management says it’s your problem."
+    },
+    {
+      "id": "igdb-game-416105",
+      "title": "Hunter's Moon",
+      "date": "2026-10-26",
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the"
     },
     {
       "id": "igdb-game-365273",
@@ -2069,7 +2091,7 @@
     },
     {
       "id": "igdb-game-250618",
-      "title": "Phantom Blade 0",
+      "title": "Phantom Blade Zero",
       "date": "2026-10-29",
       "platforms": [
         "Windows PC",
@@ -2749,6 +2771,17 @@
       "summary": "In MONOMOON, the way forward is reserved for the knowing and the daring. Guided by moonlight, you’ll uncover hidden truths and wander through a tiny and mysterious open world."
     },
     {
+      "id": "igdb-game-418247",
+      "title": "Headshot Holdout",
+      "date": "2026-11-11",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Headshot Holdout is a retro styled co-op shooter where squads of 1-4 players slaughter their way across a hand-authored, zombie infested stronghold on a quest to rescue DEATH itself."
+    },
+    {
       "id": "igdb-game-371477",
       "title": "Wetter",
       "date": "2026-11-11",
@@ -3421,6 +3454,19 @@
       "summary": "Petit Planet is HoYoverse's brand-new cosmic life sim that's free-to-play and cross-platform. Here, you can build your home, live alongside fuzzy neighbors, and discover the infinite possibilities of life on this planet!"
     },
     {
+      "id": "igdb-game-336164",
+      "title": "Dark Mass",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dark Mass is a fully underwater horror game. Explore the ruins of a sunken manor and flee from a curse trapped within for centuries. Your choices will decide if you escape or join the lost souls of the abyss."
+    },
+    {
       "id": "igdb-game-152268",
       "title": "SacriFire",
       "date": "2026-12-31",
@@ -3434,19 +3480,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A modern JRPG-inspired game with a unique battle system, rich story, fantastic visuals and music by Motoi Sakuraba."
-    },
-    {
-      "id": "igdb-game-336164",
-      "title": "Dark Mass",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dark Mass is a fully underwater horror game. Explore the ruins of a sunken manor and flee from a curse trapped within for centuries. Your choices will decide if you escape or join the lost souls of the abyss."
     },
     {
       "id": "igdb-game-330566",
@@ -4150,17 +4183,6 @@
       "summary": "Its your grandmas 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and dont worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective."
     },
     {
-      "id": "igdb-game-390172",
-      "title": "Become",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life."
-    },
-    {
       "id": "igdb-game-246147",
       "title": "Bogdan's Cross",
       "date": "2026-12-31",
@@ -4315,6 +4337,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Townseek is a relaxing exploration-trading game where you embark on a journey across the world of Explora and discover the lost legacy of Sir Reginald Sharkingston! Discover exotic landmarks, trade with faraway towns, fish, mine, and farm as you complete your journal and make a n"
+    },
+    {
+      "id": "igdb-game-390172",
+      "title": "Become",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life."
     },
     {
       "id": "igdb-game-319187",
@@ -5211,6 +5244,17 @@
       "summary": "Deprision is a psychological horror game that delivers an immersive and terrifying AAA experience. Survive human madness, amnesia's power, and navigate parallel worlds via a deadly virus. Solve your world's problem, survive, prevent more deaths, and escape before it's too late."
     },
     {
+      "id": "igdb-game-206842",
+      "title": "Derelikt",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
       "id": "igdb-game-340340",
       "title": "Dicewood",
       "date": "2026-12-31",
@@ -5264,50 +5308,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A new Dungeons & Dragons Party Game! Let our Dungeon Master take you and up to 8 players on an adventure, where you control the next move by answering and voting from your phones"
-    },
-    {
-      "id": "igdb-game-381563",
-      "title": "Dungeon Gambler: All In, No Out",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hit the jackpot in this gambling-infused dungeon crawler. Pay what you owe. Survive the dungeon. Play your cards close to your chest and defeat Skelly."
-    },
-    {
-      "id": "igdb-game-382632",
-      "title": "Encryptid",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Encryptid is a short FMV horror game about hunting and catching cryptids. Use real-world footage recorded exclusively via the Gameboy Camera to identify, locate and capture iconic creatures of myth and folklore."
-    },
-    {
-      "id": "igdb-game-342002",
-      "title": "Eternal Palace Sakura",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"Eternal Palace Sakura\" is a rogue-lite 3D action game where you power up your character and take on thrilling dungeon challenges packed with flashy combat. Step into the shoes of Retla, a brown-skinned, cat-eared dual-wielder, and explore the ever-shifting dream labyrinth!"
-    },
-    {
-      "id": "igdb-game-404929",
-      "title": "Expendabots",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Expendabots is a 4-player CO-OP horror-extraction game where you and your friends explore ever-changing islands full of danger and secrets. Run, hide, loot abandoned facilities, and extract with your squad before the island is lost."
     }
   ],
   "undated": [
