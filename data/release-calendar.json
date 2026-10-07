@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-06T17:30:04.014Z",
+  "updatedAt": "2026-10-07T17:30:04.983Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,32 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-305160",
-      "title": "Gears of War: E-Day",
-      "date": "2026-10-05",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Experience the brutal horror of Emergence Day through the eyes of Marcus Fenix in the origin story of one of gaming's most acclaimed sagas.​\nFourteen years before Gears of War, war heroes Marcus Fenix and Dom Santiago return home to face a new nightmare: the Locust Horde. These s"
-    },
-    {
-      "id": "igdb-game-381248",
-      "title": "Star Wars: Galactic Racer",
-      "date": "2026-10-05",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "STAR WARS: Galactic Racer is a runs-based, high-stakes reinvention of racing born in the lawless Outer Rim. With the Empire gone and the galaxy rebuilding, The Galactic League is created: an underground, unsanctioned circuit where syndicates bankroll chaos and champions are forge"
-    },
-    {
       "id": "igdb-game-315689",
       "title": "Spam",
       "date": "2026-10-06",
@@ -786,7 +760,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Become the new manager of a run-down maid cafe. Rebuild it with unique kemonomimi maids, each with their own secrets and personalities. Manage ingredients, serve customers, expand your shop, and chase the ultimate dream: the legendary Maidchelin 3-Star!"
+      "summary": "Run a maid café with five charming kemonomimi maids! Make drinks, serve customers, and tackle troublemakers in this first-person management sim. Get to know the girls behind the aprons as you turn a rundown café into a thriving business and aim for three Maidchelin stars."
     },
     {
       "id": "igdb-game-398056",
@@ -2364,6 +2338,17 @@
       "summary": "After a huge solar storm destroyed their ship and left them stranded, help Volt and her crewmates escape the dangerous planet filled with deadly robots and a mysterious AI."
     },
     {
+      "id": "igdb-game-417938",
+      "title": "Zenden",
+      "date": "2026-10-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Zenden is a relaxing garden-building game where you decorate a peaceful Zen garden and solve puzzles along the way. Place Trees, Rocks, Paths, and many more hand drawn pixel art items for a calming, meditative experience with instrumental music tracks."
+    },
+    {
       "id": "igdb-game-253915",
       "title": "Light of Atlantis",
       "date": "2026-11-01",
@@ -2476,6 +2461,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Discover hidden truths about the world in this 3D adventure about a giraffe with an unreasonably long neck. Figure out the rules, solve strange mysteries, and stumble upon unexpected twists. Choose your own path."
+    },
+    {
+      "id": "igdb-game-421462",
+      "title": "Blastlane Racers",
+      "date": "2026-11-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Blastlane Racers is a top-down arcade combat racing game inspired by classics of the genre.\n\nRace across 24 hand-crafted tracks, use powerful weapons to take out your rivals, and upgrade your vehicles and equipment between races.\n\nChoose from 10 unique vehicles and compete in cha"
     },
     {
       "id": "igdb-game-412247",
@@ -2713,6 +2709,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A cozy Christmas-themed Sokoban puzzle game where Santa must push presents into the right places. Solve 50 handcrafted pixel art levels full of festive charm."
+    },
+    {
+      "id": "igdb-game-376145",
+      "title": "Warhammer Survivors",
+      "date": "2026-11-10",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Thrust into a universe of relentless war, become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and evolve iconic weapons and destroy endless"
     },
     {
       "id": "igdb-game-310336",
@@ -3039,6 +3048,17 @@
       "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
     },
     {
+      "id": "igdb-game-418084",
+      "title": "Call of Blood",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The game takes place in 2009-2011.\n\nCall of Blood is a cinematic single-player first-person shooter that immerses you in a gritty survival experience. The world is engulfed in a zombie outbreak, but the walking dead are far from your only problem.\n\nYou became the most wanted targ"
+    },
+    {
       "id": "igdb-game-23163",
       "title": "Knights Province",
       "date": "2026-12-01",
@@ -3059,17 +3079,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Three loves. One week. Zero chill. Merry Crisis is an intimate, character-driven romance visual novel about love, loss, and belonging—is home what you left behind, or where you’re headed?"
-    },
-    {
-      "id": "igdb-game-418084",
-      "title": "Call of Blood",
-      "date": "2026-12-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The game takes place in 2009-2011.\n\nCall of Blood is a cinematic single-player first-person shooter that immerses you in a gritty survival experience. The world is engulfed in a zombie outbreak, but the walking dead are far from your only problem.\n\nYou became the most wanted targ"
     },
     {
       "id": "igdb-game-415147",
@@ -3482,19 +3491,6 @@
       "summary": "A modern JRPG-inspired game with a unique battle system, rich story, fantastic visuals and music by Motoi Sakuraba."
     },
     {
-      "id": "igdb-game-330566",
-      "title": "Liminal Point",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Classic Survival Horror. Drawn to Ashen Point by a cryptic voicemail, Lyra returns to the island where her band’s story ended in tragedy. Shrouded in fog and prowled by horrors, confront deadly creatures, explore the desolate town, and reveal the truth behind the night that chang"
-    },
-    {
       "id": "igdb-game-348205",
       "title": "At Fate's End",
       "date": "2026-12-31",
@@ -3506,6 +3502,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "At Fate’s End is an action-adventure game where you fight the ones you love and your skill tree is your family tree. Explore a lush fantasy world, defeat the foul creatures of the realm, and face your estranged siblings in intense, emotional duels to decide your family’s fate."
+    },
+    {
+      "id": "igdb-game-330566",
+      "title": "Liminal Point",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Classic Survival Horror. Drawn to Ashen Point by a cryptic voicemail, Lyra returns to the island where her band’s story ended in tragedy. Shrouded in fog and prowled by horrors, confront deadly creatures, explore the desolate town, and reveal the truth behind the night that chang"
     },
     {
       "id": "igdb-game-381203",
@@ -3574,7 +3583,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "DREADMOOR is a Lovecraftian fishing adventure set in a post-nuclear apocalypse world. Sell your yield, upgrade your boat, build equipment and battle monsters lurking in water and on land. Explore forgotten lands and discover ancient secrets."
+      "summary": "DREADMOOR is a dark first-person fishing adventure game set in a submerged world, rotting from a past catastrophe. Fish in murky waters, upgrade your boat, craft survival gear, and fight monstrous creatures that lurk under the water and on the land."
     },
     {
       "id": "igdb-game-335684",
@@ -3707,19 +3716,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lost Hellden is a unique 3D hand-painted J-RPG from Artisan Studios, enhanced by dynamic lighting and weather effects. Follow Cyphel and his allies as a mature story unfolds. Customize your characters as you see fit and dive into a battle system that mixes action and strategy."
-    },
-    {
-      "id": "igdb-game-376145",
-      "title": "Warhammer Survivors",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Thrust into a universe of relentless war, become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and evolve iconic weapons and destroy endless"
     },
     {
       "id": "igdb-game-348268",
@@ -5199,7 +5195,7 @@
     },
     {
       "id": "igdb-game-259216",
-      "title": "Cook, Serve, Delicious: Re-Mustard!",
+      "title": "Cook, Serve, Delicious: Remustard!",
       "date": "2026-12-31",
       "platforms": [
         "Windows PC"
