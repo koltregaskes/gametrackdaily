@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-07T17:30:04.983Z",
+  "updatedAt": "2026-10-08T17:30:03.636Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,17 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-315689",
-      "title": "Spam",
-      "date": "2026-10-06",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore the different cards and let your imagination run wild to develop an original strategy. Once you're ready for battle, jump into the arena and face players from around the world in a dynamic duel that will require observation and adaptation. Each victory will allow you to e"
-    },
     {
       "id": "igdb-game-356552",
       "title": "Clive Barker's Hellraiser: Revival",
@@ -1471,6 +1460,17 @@
       "summary": "A flippin' hard game where rotation is your only motion. Flip, fall, and climb through the land of lost things to return to your boy."
     },
     {
+      "id": "igdb-game-377451",
+      "title": "Dreadline Express",
+      "date": "2026-10-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Investigative odyssey into the minds of fading passengers facing the end of the world aboard the last human train.\n\nAn adventure game that doesn't set specific goals. It naturally encourages you to make your own decisions and draw your own conclusions, providing a highly immersiv"
+    },
+    {
       "id": "igdb-game-338479",
       "title": "Mahjong Sex & Girls",
       "date": "2026-10-15",
@@ -1491,6 +1491,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Purranoia is an action roguelike with a twist to the genre - you have no control over your characters movement. Instead you control a variety of powerful scientific inventions to protect poor cat Mousti from waves of enemies."
+    },
+    {
+      "id": "igdb-game-413417",
+      "title": "Sleep Walk",
+      "date": "2026-10-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A son attempts to bridge the emotional divide between himself and his father in an attempt to get them both to stop dwelling on the past and create a new path forward together. Sleep Walk is a story about forgiveness and self worth."
     },
     {
       "id": "igdb-game-413517",
@@ -2758,6 +2769,17 @@
       "summary": "Never Sort By Color is a first-person zen organization game where you use magnet gloves, part detection, sieves, and quick hotkey tossing to sort an enormous pile of plastic bricks into a labeled workshop. Instead of sorting by color, you sort by part type, rebuilding drawers and"
     },
     {
+      "id": "igdb-game-346890",
+      "title": "Shock",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In SHOCK, you play as a disabled war veteran, hunted by a cybernetic creature. With only a wheelchair for mobility, use stealth, solve puzzles, and crawl into tight spaces to escape. Survive the horror and uncover the truth behind this nightmare."
+    },
+    {
       "id": "igdb-game-405328",
       "title": "Bottled by Bears",
       "date": "2026-11-11",
@@ -3212,6 +3234,19 @@
       "summary": "Fight your way through a diverse world in this action-adventure side scroller, where you are given one weapon and die in one hit. Can you earn the right to peer beyond the Zeroed Abyss?"
     },
     {
+      "id": "igdb-game-406115",
+      "title": "Sombras: Negative Frames",
+      "date": "2026-12-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "‘Sombras: Negative Frames’ is a first person narrative game with a focus on photography and light horror elements. Follow Shiomi, a Japanese-Spanish photography student, as she is spirited away in a dark mirror of her 2000s Japanese town and must confront fragments of her own psy"
+    },
+    {
       "id": "igdb-game-324950",
       "title": "Muri: Wildwoods",
       "date": "2026-12-07",
@@ -3232,6 +3267,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A 2 player psychological horror game where not every player sees the same reality. Explore a carnival trapped in an endless transformation, detect anomalies, verify with your friend if they see the same thing and make the right decisions before the clown Bobby loses his temper..."
+    },
+    {
+      "id": "igdb-game-421268",
+      "title": "Diorama Tactics",
+      "date": "2026-12-08",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Diorama Tactics is a strategic roguelite auto-battler inspired by fantasy board games. Players build a team of unique units, place them on a grid-based battlefield, and watch them fight automatically. Each unit has different strengths, roles, and abilities, while positioning and "
     },
     {
       "id": "igdb-game-344878",
@@ -3528,6 +3574,17 @@
       "summary": "Decrepit is a first-person action game with souls-like combat where every death drags you back into the depths. Learn the dungeon, master the combat, and find your way out of the forsaken castle."
     },
     {
+      "id": "igdb-game-340334",
+      "title": "Dreadmoor",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "DREADMOOR is a dark first-person fishing adventure game set in a submerged world, rotting from a past catastrophe. Fish in murky waters, upgrade your boat, craft survival gear, and fight monstrous creatures that lurk under the water and on the land."
+    },
+    {
       "id": "igdb-game-283354",
       "title": "Enginefall",
       "date": "2026-12-31",
@@ -3573,17 +3630,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Chronoscript: The Endless End is an exploration-based action-adventure game where you, an editor trapped within a manuscript, must unravel a thousand-year story that writes itself beyond its endacross 2D pages and a 3D manor."
-    },
-    {
-      "id": "igdb-game-340334",
-      "title": "Dreadmoor",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "DREADMOOR is a dark first-person fishing adventure game set in a submerged world, rotting from a past catastrophe. Fish in murky waters, upgrade your boat, craft survival gear, and fight monstrous creatures that lurk under the water and on the land."
     },
     {
       "id": "igdb-game-335684",
@@ -4107,6 +4153,21 @@
       "summary": "Step into the enigmatic world of Gummy Nightmares as a little boy who wakes up in a mysterious amusement park with no memory. Explore, solve puzzles, and uncover lost memories while evading sinister plushie robots. Use weapons, set traps, and find hideouts to survive and reveal t"
     },
     {
+      "id": "igdb-game-381684",
+      "title": "Hollow Knight: Silksong - Sea of Sorrow",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Voyage across and beneath the salt-stricken seas in this thrilling nautically-themed expansion of Hollow Knight: Silksong, free for all players in 2026!"
+    },
+    {
       "id": "igdb-game-171529",
       "title": "Island of Winds",
       "date": "2026-12-31",
@@ -4273,21 +4334,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Hollow Home is an isometric narrative RPG about the russian invasion of Ukraine, told from the perspective of a teenager trapped inside an occupied city. Learn survival skills, build relationships and face tough choices as each passing day brings new tragedies and destruction to "
-    },
-    {
-      "id": "igdb-game-381684",
-      "title": "Hollow Knight: Silksong - Sea of Sorrow",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Voyage across and beneath the salt-stricken seas in this thrilling nautically-themed expansion of Hollow Knight: Silksong, free for all players in 2026!"
     },
     {
       "id": "igdb-game-317592",
@@ -4652,6 +4698,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Ardenfall is a first-person RPG set in a world of intricate politics and ancient cultures. Explore rain-drenched wetlands and forgotten dungeons full of danger. Meet countless interesting characters with unique dialog and quests, and leave your mark on this mysterious world."
+    },
+    {
+      "id": "igdb-game-332314",
+      "title": "Baptiste",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Submerge yourself in a first-hand experience that will make you feel each chill as if it were real. The line between the game and reality blurs further with each step you take.\n\nExplore a mansion where horror awaits in every shadow. The masterful dubbing and sound track will drag"
     },
     {
       "id": "igdb-game-394698",
@@ -5249,61 +5308,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
-    },
-    {
-      "id": "igdb-game-340340",
-      "title": "Dicewood",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dicewood is a fantasy horror turn-based roguelike deck-builder where adorable forest animals band together to escape the relentless hunter.\n\nFleeing into a dark, twisted forest filled with ancient horrors, creepy monsters, and cannibal tribes, player must strategically combine di"
-    },
-    {
-      "id": "igdb-game-145333",
-      "title": "Disc Creatures World",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Embark on a grand adventure through a world full of mysteries, uncovering ‘Discs’ to collect your own party of creatures! Engage in strategic battles, enjoy an assortment of collectables, and meet unique characters along the way. A monster taming RPG with a blend of nostalgia and"
-    },
-    {
-      "id": "igdb-game-275560",
-      "title": "Dr. Finklestein's Marvelous Room",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dr. Finklestein's Marvelous Room is a community run experimental story game. With the end of the world fast approaching, Dr. Gumphrey Finklestein announces his plans for a groundbreaking scientific experiment. What will it entail? Does even he know?"
-    },
-    {
-      "id": "igdb-game-375898",
-      "title": "Dual Fire Walled City",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dual Fire Walled City is a story-driven co-op game for two players. Featuring close friends who grew up together in the Kowloon Walled City, only to be pulled onto vastly different life paths by a twist of fate. Get ready to immerse yourself in a classic Hong Kong-style movie."
-    },
-    {
-      "id": "igdb-game-355028",
-      "title": "DungeonBox",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A new Dungeons & Dragons Party Game! Let our Dungeon Master take you and up to 8 players on an adventure, where you control the next move by answering and voting from your phones"
     }
   ],
   "undated": [
