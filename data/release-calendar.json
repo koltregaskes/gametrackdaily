@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-09T17:30:04.479Z",
+  "updatedAt": "2026-10-10T17:30:11.256Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,69 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-309799",
-      "title": "Truckful",
-      "date": "2026-10-08",
-      "platforms": [
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching."
-    },
-    {
-      "id": "igdb-game-276028",
-      "title": "Paperhead",
-      "date": "2026-10-08",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "PAPERHEAD is a fast-paced FPS game set in a world where everything is made out of cardboard and paper but is infested with horror!\nUse a pencil as a weapon and explore what exactly went wrong in the secret research facility and why suddenly papercut people were able to...bleed.\nP"
-    },
-    {
-      "id": "igdb-game-405433",
-      "title": "Dragon's Dogma II: Dark Arisen Expansion",
-      "date": "2026-10-08",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dragon's Dogma 2: Dark Arisen enriches the dynamic fantasy world and expansive adventures of Dragon's Dogma 2 with unforgettable new tales and thrilling encounters.\n\nBased on feedback we received after the initial release of Dragon's Dogma 2, we established three goals for oursel"
-    },
-    {
-      "id": "igdb-game-408164",
-      "title": "Dragon's Dogma II: Dark Arisen",
-      "date": "2026-10-08",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "This is a bundle containing both Dragon's Dogma II and the Dragon's Dogma II: Dark Arisen Expansion."
-    },
-    {
-      "id": "igdb-game-297042",
-      "title": "True Love For Her",
-      "date": "2026-10-08",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "True Love For Her (TLFH) is a Yandere game inspired by Yandere Simulator and Life Is Strange that doesn’t compete with the original games. This game involves murder and other methods of killing, so it is not suitable for kids. We are not responsible for any actions taken by kids "
-    },
     {
       "id": "igdb-game-377145",
       "title": "Within",
@@ -2313,17 +2250,6 @@
       "summary": "A disappearance in a secluded mountain. A village hiding its secrets. A detective running out of time. Hillthorn's investigation system encourages you to use logic and imagination. Combine actions, clues and characters to uncover the mystery."
     },
     {
-      "id": "igdb-game-414428",
-      "title": "Cleanup On Aisle 3",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
-    },
-    {
       "id": "igdb-game-417172",
       "title": "Disney Dreamlight Valley: The Keepsake Sea",
       "date": "2026-11-01",
@@ -2563,6 +2489,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "If the ship stops, humanity ends. Manage a spaceship, treat puny humans as resources, and repel relentless alien assaults in a base-management tower-defense roguelite where every choice seemed reasonable at the time."
+    },
+    {
+      "id": "igdb-game-414428",
+      "title": "Cleanup On Aisle 3",
+      "date": "2026-11-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
     },
     {
       "id": "igdb-game-333201",
@@ -3115,6 +3052,17 @@
       "summary": "Terror Type: A.L.C.H.E.M.Y. is a stealth-action immersive sim about resistance, redemption, and the explosive power of chemistry. As a skilled alchemist turned freedom fighter, you’ll craft potions for the resistance, engineer devastating bombs, and dismantle tyranny from the sha"
     },
     {
+      "id": "igdb-game-418547",
+      "title": "The Sky Project: Land of Noris",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hand-drawn monster collector where every creature lost might be gone forever. Explore four unique planes and train 200+ mana creatures."
+    },
+    {
       "id": "igdb-game-396969",
       "title": "You Will Fall",
       "date": "2026-12-01",
@@ -3124,6 +3072,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A parkour climbing game where gravity is your enemy, fire is your only friend, and the ground keeps winning. No checkpoints. No mercy. Just you and your poor life choices."
+    },
+    {
+      "id": "igdb-game-308033",
+      "title": "Night Machine",
+      "date": "2026-12-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "We’ve just learned the Moon is a giant alien doomsday factory, which is kind of a bummer. You've been chosen to operate a spaceship into the core and destroy it for us. Think fast, adapt under pressure, and deploy powerful combinations as you fight your way through in this real-t"
     },
     {
       "id": "igdb-game-404044",
@@ -3204,6 +3163,18 @@
       "summary": "Aeterna Lucis is the highly anticipated sequel to Aeterna Noctis. Following the gameplay steps of the first entry in the series, Aeterna Lucis is a Metroidvania that combines fast-paced combat, a large interconnected map, secret hunting, optional challenges, and a rich and deep s"
     },
     {
+      "id": "igdb-game-288479",
+      "title": "Waltz and Jam",
+      "date": "2026-12-03",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Waltz is a pure and innocent soul who awoke in Downtown, and Jam is the lovable dog who was there waiting. Join them on this amazing and heartwarming journey."
+    },
+    {
       "id": "igdb-game-359867",
       "title": "Akashic Slingshot",
       "date": "2026-12-03",
@@ -3226,18 +3197,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "‘Sombras: Negative Frames’ is a first person narrative game with a focus on photography and light horror elements. Follow Shiomi, a Japanese-Spanish photography student, as she is spirited away in a dark mirror of her 2000s Japanese town and must confront fragments of her own psy"
-    },
-    {
-      "id": "igdb-game-288479",
-      "title": "Waltz and Jam",
-      "date": "2026-12-03",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Waltz is a pure and innocent soul who awoke in Downtown, and Jam is the lovable dog who was there waiting. Join them on this amazing and heartwarming journey."
     },
     {
       "id": "igdb-game-324950",
@@ -4385,6 +4344,17 @@
       "summary": "Townseek is a relaxing exploration-trading game where you embark on a journey across the world of Explora and discover the lost legacy of Sir Reginald Sharkingston! Discover exotic landmarks, trade with faraway towns, fish, mine, and farm as you complete your journal and make a n"
     },
     {
+      "id": "igdb-game-260169",
+      "title": "Water Me & You",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Water Me & You is a cozy two-player co-op adventure in which you play as a water droplet or a seed-like creature that can change states, on a quest to regenerate a world left behind by humans."
+    },
+    {
       "id": "igdb-game-390172",
       "title": "Become",
       "date": "2026-12-31",
@@ -4634,17 +4604,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "V.E.D.A is a Soulslike training game with weighty combat and exploration. The protagonist, awakened with no memory, undergoes combat training in a training simulator and uncovers hidden secrets. You too can enter the Soulslike genre. Don't hesitate."
-    },
-    {
-      "id": "igdb-game-260169",
-      "title": "Water Me & You",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Water Me & You is a cozy two-player co-op adventure in which you play as a water droplet or a seed-like creature that can change states, on a quest to regenerate a world left behind by humans."
     },
     {
       "id": "igdb-game-268103",
@@ -5308,6 +5267,39 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Embark on a grand adventure through a world full of mysteries, uncovering ‘Discs’ to collect your own party of creatures! Engage in strategic battles, enjoy an assortment of collectables, and meet unique characters along the way. A monster taming RPG with a blend of nostalgia and"
+    },
+    {
+      "id": "igdb-game-275560",
+      "title": "Dr. Finklestein's Marvelous Room",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dr. Finklestein's Marvelous Room is a community run experimental story game. With the end of the world fast approaching, Dr. Gumphrey Finklestein announces his plans for a groundbreaking scientific experiment. What will it entail? Does even he know?"
+    },
+    {
+      "id": "igdb-game-375898",
+      "title": "Dual Fire Walled City",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dual Fire Walled City is a story-driven co-op game for two players. Featuring close friends who grew up together in the Kowloon Walled City, only to be pulled onto vastly different life paths by a twist of fate. Get ready to immerse yourself in a classic Hong Kong-style movie."
+    },
+    {
+      "id": "igdb-game-355028",
+      "title": "DungeonBox",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A new Dungeons & Dragons Party Game! Let our Dungeon Master take you and up to 8 players on an adventure, where you control the next move by answering and voting from your phones"
     }
   ],
   "undated": [

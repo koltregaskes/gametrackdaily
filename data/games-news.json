@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-09T17:45:29.534Z",
+  "generated": "2026-10-10T17:45:26.997Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-09T17:45:29.534Z",
+      "generatedAt": "2026-10-10T17:45:26.997Z",
       "items": [
         {
-          "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/",
-          "summary": "Rockstar Games recently announced GTA 6's in-game radio stations , and one of them is co-hosted by 11-time Grammy-nominated Lana Del Rey. The singer-songwriter had a connection to video games before t",
-          "publishedAt": "2026-10-09T13:15:08.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The EU Is Coming For Gaming’s Most Manipulative Monetization Tactics",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-eu-is-coming-for-gamings-most-manipulative-monetization-tactics/",
-          "summary": "European consumer protection authorities have announced a series of \"coordinated actions\" aimed at 10 video companies, accusing several of the biggest names in the industry--like Activision Blizzard a",
-          "publishedAt": "2026-10-09T14:01:08.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Is The BioShock Movie Ever Going To Happen? Director Weighs In",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/",
-          "summary": "A movie adaptation of the popular game series BioShock has been in the works for a long time, and like a lot of film projects, it appears to be trapped in Development Hell. It remains to be seen how t",
-          "publishedAt": "2026-10-09T14:24:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
-          "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is comin",
-          "publishedAt": "2026-10-09T15:01:41.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
-          "summary": "Street Fighter 5 launched in 2016 in rough shape, and if things hadn't changed, the classic fighting game franchise might have been dead and buried by 2026. That's according to Street Fighter 6 produc",
-          "publishedAt": "2026-10-09T15:42:21.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
-          "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6 's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser. Battlefield did",
-          "publishedAt": "2026-10-09T16:21:38.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
+          "title": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-          "summary": "This Is Not For You is, in fact, for some very specific kinds of people. It is for people who love drawing maps, and it is for people who love having their blood sucked by a non-Euclidean lighthouse. ",
-          "publishedAt": "2026-10-09T14:10:53.000Z",
+          "url": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
+          "summary": "I've spoken here before how the ultimate way to rope me into checking your game out is by having a nebulously designed Strong Vibe, a look that immediately sets it apart before I even know what any me",
+          "publishedAt": "2026-10-10T16:07:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-          "summary": "The dashing Da Vincis of Amanita Design have announced Machinarium 2 , a sequel to the 2009 puzzle adventure young master John Walker called \"a sort of beauty that games are almost never graced with\".",
-          "publishedAt": "2026-10-09T15:05:20.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
-          "summary": "I'm sure you already had it marked in your calendars, but it is that time of year again when the Galaxies Showcase takes one more spin around the internet. This year's stream will see new announcement",
-          "publishedAt": "2026-10-09T15:32:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-          "summary": "Cyberpunk 2077 quest mods are still a relative rarity and the latest's aimed at folks who don't think getting to play that one gig with Samurai during the main story's enough jammin' in front of a cro",
-          "publishedAt": "2026-10-09T16:38:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Expedition 33 Star Charlie Cox Officially Confirms Role in Unannounced Sega Game",
+          "title": "Star Citizen Spinoff Squadron 42 Officially Reveals Huge Cast in New Look",
           "source": "Polygon",
-          "url": "https://www.polygon.com/clair-obscur-expedition-33-charlie-cox-next-unannounced-sega-game/",
-          "summary": "Clair Obscur Expedition 33 and Daredevil star Charlie Cox is starring in a new video game from Sega, and he's already finished recording it.",
-          "publishedAt": "2026-10-09T14:56:49.000Z",
+          "url": "https://www.polygon.com/star-citizen-squadron-42-trailer-gameplay-cast/",
+          "summary": "The 'Star Citizen' spinoff 'Squadron 42' got a new trailer featuring gameplay and cinematics.",
+          "publishedAt": "2026-10-10T15:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Boss Officially Comments on GTA 6 Coming to Switch",
+          "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
           "source": "Polygon",
-          "url": "https://www.polygon.com/gta-6-switch2-release-nintendo-boss-comments/",
-          "summary": "Nintendo of America's boss gives a worrying update on the possibility of GTA 6 getting a Switch 2 release",
-          "publishedAt": "2026-10-09T16:01:52.000Z",
+          "url": "https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/",
+          "summary": "Nintendo's gamble on the November release date clash between GTA 6 and Zelda: Ocarina of Time for Switch 2 seems to be paying off",
+          "publishedAt": "2026-10-10T15:00:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I Have Discovered The Best Game Soundtrack of 2026 and It Is Super Woden: Rally Edge",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/super-woden-rally-edge-game-music-best-2026/",
+          "summary": "Super Woden: Rally Edge evokes the grubby thrills of the arcade with its banging music.",
+          "publishedAt": "2026-10-10T15:31:42.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Avatar: Seven Havens is a brilliant take-down of Korra's biggest haters",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/avatar-seven-havens-korra-haters-are-wrong/",
+          "summary": "Revenge is a dish best served 12 years later",
+          "publishedAt": "2026-10-10T16:00:16.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WandaVision Creator Set To Develop New Stargate Series",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer/",
+          "summary": "Amazon is having another go at creating a new Stargate series, this time bringing WandaVision's Jac Schaeffer onboard to develop it.",
+          "publishedAt": "2026-10-10T16:01:56.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "7 Switch 2 Characters Nintendo Should Add to the Next Super Smash Bros.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/switch-2-super-smash-bros-character-predictions/",
+          "summary": "Nintendo's strong first year of Switch 2 games brings a lot of potential for the next Super Smash Bros. game.",
+          "publishedAt": "2026-10-10T16:41:25.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "7 Final Fantasy Games That Deserved Better",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/ff-final-fantasy-games-underrated-overlooked/",
+          "summary": "There've been more than 100 Final Fantasy games since the series got its start on the NES back in 1987. Here are a few under-the-radar treasures.",
+          "publishedAt": "2026-10-10T16:57:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
+          "summary": "\"We're currently looking at a number of projects,\" says producer Motoi Okamoto.",
+          "publishedAt": "2026-10-10T12:26:13.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
+          "summary": "It wouldn't be the first cozy game with horrific debts to pay, though.",
+          "publishedAt": "2026-10-10T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
+          "summary": "\"Oof, a mine!\"",
+          "publishedAt": "2026-10-10T14:07:03.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
+          "summary": "No Season-ing.",
+          "publishedAt": "2026-10-10T15:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,17 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-09T17:45:29.534Z",
+      "generatedAt": "2026-10-10T17:45:26.997Z",
       "items": [
+        {
+          "title": "Soylent Green Blu-ray Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/soylent-green-blu-ray-review",
+          "summary": "Soylent Green Blu-ray review: The future, sadly, is now.",
+          "publishedAt": "2026-10-10T12:45:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "End Of Abyss review – a creepy dollhouse take on Resident Evil and The Thing",
           "source": "The Guardian (Culture)",
@@ -129,50 +138,32 @@
           "publishedAt": "2026-10-09T09:00:44.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "EA Sports FC 27 review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-          "summary": "The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can roam and rise. It's touching not for its play &ndash; which",
-          "publishedAt": "2026-10-09T12:33:20.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Gears of War E-Day review: a hole new world that grubs me up in all the right ways",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-review",
-          "summary": "Though there's still plenty of waist-high cover, ebb-and-flow firefighting, and braindead machismo, Gears E-Day proves that looking back can, indeed, help you look forward, too. Read more",
-          "publishedAt": "2026-10-09T13:59:57.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Avatar: Seven Havens Episodes 1-3 Recap and Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/avatar-seven-havens-episodes-1-3-recap-and-review",
-          "summary": "Avatar: Seven Havens episodes 1-3 recap and review: Twins take on the challenge of a post-apocalyptic world.",
-          "publishedAt": "2026-10-09T07:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Avatar: Seven Havens Review: A Near-Perfect Followup to a Fantasy Masterpiece",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/avatar-seven-havens-review/",
-          "summary": "The Legend of Korra sequel is packed with mystery, action, and heart. Read our review of Avatar: Seven Havens.",
-          "publishedAt": "2026-10-09T07:00:16.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-09T17:45:29.534Z",
+      "generatedAt": "2026-10-10T17:45:26.997Z",
       "items": [
+        {
+          "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+          "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well. Activision has announced that MW4's extraction-based DMZ mode ",
+          "publishedAt": "2026-10-09T19:17:24.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
+          "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they we",
+          "publishedAt": "2026-10-09T22:58:43.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
         {
           "title": "First Look: Andy Weir Teases New Sci-Fi Audio Project Exoplanet",
           "source": "IGN",
@@ -199,92 +190,83 @@
           "publishedAt": "2026-10-09T13:52:05.000Z",
           "tag": "Preview",
           "_example": false
-        },
-        {
-          "title": "Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/dungeons-dragons-is-going-to-outer-space-with-star-wars-tyro-squadron-first-look-at-official-art",
-          "summary": "Dungeons & Dragons: World of Warcraft isn't even out yet, but Wizards of the Coast has already announced its next Universes Beyond release for the TTRPG – and it's Star Wars.",
-          "publishedAt": "2026-10-09T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "After Going Hands-On With the New Marvel Comics App, I Still Don't Know Why Unlimited Had to Die",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/after-going-hands-on-with-the-new-marvel-comics-app-i-still-dont-know-why-unlimited-had-to-die",
-          "summary": "Earlier this week, Marvel announced that it was discontinuing the Marvel Unlimited app, only to have it replaced by the new Marvel Comics app, powered by Webtoon. At New York Comic Con I had the chanc",
-          "publishedAt": "2026-10-09T09:36:23.000Z",
-          "tag": "Preview",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-09T17:45:29.534Z",
+      "generatedAt": "2026-10-10T17:45:26.997Z",
       "items": [
+        {
+          "title": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
+          "summary": "Revisiting the forgotten fourth state of PC gaming.",
+          "publishedAt": "2026-10-10T14:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The studio behind Star Wars Zero Company is hiring back some of its furloughed staff",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+          "summary": "\"[The furlough] was an incredibly difficult decision, but one that was necessary to help us eventually bring back as many people as possible.\"",
+          "publishedAt": "2026-10-10T16:52:57.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+          "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more",
+          "publishedAt": "2026-10-10T11:44:06.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+          "summary": "As ever, I'm a genius tastemaker ahead of my time.",
+          "publishedAt": "2026-10-10T11:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
+          "summary": "Full Circle, the developer of Skate, published a statement addressing community mods following the viral launch of a fan-made modding platform called ReSkate.",
+          "publishedAt": "2026-10-09T19:31:29.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
+          "summary": "Xbox console exclusive Gears of War: E-Day is reportedly off to a soft start after reaching an estimated 230,000 copies sold in its first week.",
+          "publishedAt": "2026-10-09T21:49:35.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+          "summary": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console ",
+          "publishedAt": "2026-10-09T18:51:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Wardogs Gambling Is Officially Here With Season 2 Update",
           "source": "Polygon",
           "url": "https://www.polygon.com/wardogs-season-2-patch-notes-gambling/",
           "summary": "You can now bet on your own in-game performance with the arrival of the Wardogs season 2 update, and the blue team is getting a huge buff.",
           "publishedAt": "2026-10-09T16:00:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Witcher 3 Remastered's New Patch Adds Highly Requested Graphics Fix",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/",
-          "summary": "The Witcher 3: Wild Hunt Remastered gets a big patch a few days into release, making some much-needed changes to visuals.",
-          "publishedAt": "2026-10-09T10:13:34.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Arc Raiders’ Big Update Has It Surging To Numbers It Hasn’t Seen In Months",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/",
-          "summary": "When Embark said it would take several months to deliver the major Arc Raiders update it envisioned, days like today were probably the goal. The extraction shooter is once again high up in Steam's cha",
-          "publishedAt": "2026-10-08T16:46:50.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
-          "summary": "Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release",
-          "publishedAt": "2026-10-08T18:33:08.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-          "summary": "A dev's work is never done, and certainly not with a big ole revamp like The Witcher 3 Remastered . CD Projekt Red put out a new patch today bringing in a range of fixes for the RPG , perhaps most not",
-          "publishedAt": "2026-10-08T18:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/muramasa-revenant-blades-preview/",
-          "summary": "The swords may be cursed, but the action is better than ever.",
-          "publishedAt": "2026-10-08T04:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-          "summary": "Machinarium 2 is finally happening.",
-          "publishedAt": "2026-10-08T17:56:59.000Z",
           "tag": "Industry",
           "_example": false
         }
