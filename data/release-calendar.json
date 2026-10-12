@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-11T17:30:10.998Z",
+  "updatedAt": "2026-10-12T17:30:14.019Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,17 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-377145",
-      "title": "Within",
-      "date": "2026-10-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Immerse yourself in the atmospheric world of a first-person thriller. You will face a cunning criminal. Explore locations, solve puzzles, and try to escape the nightmare. But be careful: you can become not only the hunter but also the prey."
-    },
-    {
       "id": "igdb-game-375578",
       "title": "Battleplan",
       "date": "2026-10-11",
@@ -807,6 +796,17 @@
       "summary": "Chaos has descended upon the town of Gruesome Grove and its fate rests in Nora’s hands. Join her on an oftentimes gory journey through a beautifully hand-drawn world. Discover forgotten truths, make peculiar friends, encounter monsters and solve puzzles in this mysterious and mac"
     },
     {
+      "id": "igdb-game-374635",
+      "title": "Rolla",
+      "date": "2026-10-12",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Play as the monster from the movie series that never existed, ROLLA. ROLL. EAT. REPEAT. Fast paced arcade game with chunky old school 3d graphics: eat people, destroy whole cities and battle with cops, army and government agents! Uncover the secrets of what ROLLA is and where it "
+    },
+    {
       "id": "igdb-game-404718",
       "title": "Street Fighter 6: Year 4 - Arjun",
       "date": "2026-10-12",
@@ -843,17 +843,6 @@
       "summary": "A dreamlike, half-remembered nowhere. Quietly wander through it, solve opaque puzzles, meet strange figures, and uncover the subtle threads of melancholy from which this place was born."
     },
     {
-      "id": "igdb-game-374635",
-      "title": "Rolla",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as the monster from the movie series that never existed, ROLLA. ROLL. EAT. REPEAT. Fast paced arcade game with chunky old school 3d graphics: eat people, destroy whole cities and battle with cops, army and government agents! Uncover the secrets of what ROLLA is and where it "
-    },
-    {
       "id": "igdb-game-406477",
       "title": "Trash Day",
       "date": "2026-10-12",
@@ -875,6 +864,17 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api"
+    },
+    {
+      "id": "igdb-game-418272",
+      "title": "Total War: Shogun 2 - Complete Edition",
+      "date": "2026-10-12",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Experience the updated, enhanced, and complete version of the grand strategy classic; Total War: Shogun 2 and all of its DLC, including the Rise of the Samurai and Fall of the Samurai campaigns. Battle across an exquisite, authentic realisation of Feudal Japan stretching from 117"
     },
     {
       "id": "igdb-game-329124",
@@ -958,6 +958,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Thank You Bus Driver is a chaotic bus driving game where you take on the role of a town’s bus driver just trying to get through the day with minimal rulebreaking and maximum gratitude… in the form of Thank Yous!"
+    },
+    {
+      "id": "igdb-game-339624",
+      "title": "Fire and Ashes",
+      "date": "2026-10-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "It's 1977. Henry Gray awakens in a psychiatric hospital, haunted by the ghosts of his past. Fire and Ashes await: An immersive survival horror where nothing is certain, insanity and reality mix, and voice recognition means every monster will hear you scream - within the asylum an"
     },
     {
       "id": "igdb-game-389434",
@@ -2196,6 +2207,17 @@
       "summary": "After a huge solar storm destroyed their ship and left them stranded, help Volt and her crewmates escape the dangerous planet filled with deadly robots and a mysterious AI."
     },
     {
+      "id": "igdb-game-420863",
+      "title": "The Graves Vigil",
+      "date": "2026-10-30",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Graves Vigil is an atmospheric psychological horror game with point-and-click elements. Alone in the Graves estate, you must survive until five in the morning: spot anomalies, guard your sanity, and keep the house from sinking into darkness."
+    },
+    {
       "id": "igdb-game-417938",
       "title": "Zenden",
       "date": "2026-10-30",
@@ -2710,17 +2732,6 @@
       "summary": "In SHOCK, you play as a disabled war veteran, hunted by a cybernetic creature. With only a wheelchair for mobility, use stealth, solve puzzles, and crawl into tight spaces to escape. Survive the horror and uncover the truth behind this nightmare."
     },
     {
-      "id": "igdb-game-405328",
-      "title": "Bottled by Bears",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
-    },
-    {
       "id": "igdb-game-360260",
       "title": "Monomoon",
       "date": "2026-11-11",
@@ -2730,6 +2741,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In MONOMOON, the way forward is reserved for the knowing and the daring. Guided by moonlight, you’ll uncover hidden truths and wander through a tiny and mysterious open world."
+    },
+    {
+      "id": "igdb-game-405328",
+      "title": "Bottled by Bears",
+      "date": "2026-11-11",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
     },
     {
       "id": "igdb-game-418247",
@@ -5281,28 +5303,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
-    },
-    {
-      "id": "igdb-game-340340",
-      "title": "Dicewood",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dicewood is a fantasy horror turn-based roguelike deck-builder where adorable forest animals band together to escape the relentless hunter.\n\nFleeing into a dark, twisted forest filled with ancient horrors, creepy monsters, and cannibal tribes, player must strategically combine di"
-    },
-    {
-      "id": "igdb-game-145333",
-      "title": "Disc Creatures World",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Embark on a grand adventure through a world full of mysteries, uncovering ‘Discs’ to collect your own party of creatures! Engage in strategic battles, enjoy an assortment of collectables, and meet unique characters along the way. A monster taming RPG with a blend of nostalgia and"
     }
   ],
   "undated": [
