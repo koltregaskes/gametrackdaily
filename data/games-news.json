@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-12T17:45:23.165Z",
+  "generated": "2026-10-13T17:45:15.565Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-12T17:45:23.165Z",
+      "generatedAt": "2026-10-13T17:45:15.565Z",
       "items": [
         {
-          "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
+          "title": "GTA 6 Fans Are Excited For Another Date In November, And It’s Not Release Day",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-          "summary": "Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been announced in October 2021. While there's no official word o",
-          "publishedAt": "2026-10-12T11:09:52.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-fans-are-excited-for-another-date-in-november-and-its-not-release-day/",
+          "summary": "Take-Two has announced the details for its next earnings briefing, and as you might expect, GTA 6 fans are circling the date on their calendars. The next Take-Two quarterly earnings report will be rel",
+          "publishedAt": "2026-10-13T13:18:16.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe",
+          "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/",
-          "summary": "Star Citizen 's single-player mode, Squadron 42, has made a reappearance with a new trailer showing off the mode's impressive cast and interstellar warfare. In development for 12 years, the ambitious ",
-          "publishedAt": "2026-10-12T11:57:55.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-will-reportedly-come-to-pc-much-earlier-than-expected/",
+          "summary": "The November launch of Grand Theft Auto 6 will leave PC gamers sitting out in the cold, but the wait for the yet-to-be-announced PC port might be surprisingly short this time. According to a new repor",
+          "publishedAt": "2026-10-13T14:24:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator",
+          "title": "Xbox Is Testing A New Streak Feature That Could Make Gaming Feel (More) Like A Chore",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
-          "summary": "Bandai Namco has dropped a new trailer for Tekken 8 , and while this one is mostly focused on everyone's favorite Kangaroo, Roger, it also included a brief tease of one of the most ridiculous characte",
-          "publishedAt": "2026-10-12T13:27:28.000Z",
+          "url": "https://www.gamespot.com/articles/xbox-is-testing-a-new-streak-feature-that-could-make-gaming-feel-more-like-a-chore/",
+          "summary": "It looks like another new Xbox feature is in development, and this time, it's designed to encourage users to go on a hot streak--of using their console, not disrupting a sports event with a quick birt",
+          "publishedAt": "2026-10-13T14:49:57.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Says It Has No Plans To Ditch Physical Games Yet",
+          "title": "God Of War’s Laufey Collector’s Edition Leaves One Important Thing Out: The Game",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/",
-          "summary": "Unlike Sony, which has decided to move toward a digital-only game marketplace starting in 2028, Nintendo is sticking to an \"agnostic\" approach for the Switch 2 console. In a new interview , Nintendo's",
-          "publishedAt": "2026-10-12T14:29:29.000Z",
+          "url": "https://www.gamespot.com/articles/god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-the-game/",
+          "summary": "The God of War Laufey Collector's Edition has been revealed, but unlike the standard and digital deluxe editions that went up for preorder last month , this is purely a box of merch. The main attracti",
+          "publishedAt": "2026-10-13T12:47:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
+          "title": "Battlefield 6 Comes To Game Pass, As $30 Microtransaction That Instantly Unlocks All Guns Is Now Available",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
-          "summary": "The new Street Fighter movie hits theaters in just a few days, and if you're a fan of the Capcom series, you might be tempted to celebrate with some new poster art on your wall. While the official pos",
-          "publishedAt": "2026-10-12T16:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/battlefield-6-comes-to-game-pass-as-30-microtransaction-that-instantly-unlocks-all-guns-is-now-available/",
+          "summary": "It's a big day for Xbox Game Pass, as developer Battlefield Studios has launched Battlefield 6 into Game Pass, and it comes at a big moment for the game. Battlefield 6 is now available for Xbox Game P",
+          "publishedAt": "2026-10-13T15:59:29.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
+          "title": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
-          "summary": "Squadron 42 , the singleplayer spinoff that Star Citizen devs Cloud Imperium Games have been teasing and promising and roadmapping for a loooooooooooooooooonnnnnnnnngggg while, now has a Steam page. Y",
-          "publishedAt": "2026-10-12T11:41:47.000Z",
+          "url": "https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
+          "summary": "Ubisoft appear to have copyright struck a YouTube video showing off an unused epilogue cutscene datamined from Assassin&rsquo;s Creed Black Flag Resynced . The unfinished scene reportedly features Edw",
+          "publishedAt": "2026-10-13T11:20:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
+          "title": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-          "summary": "Edwin came up the ladder to my office last week to remind me that my quarterly Maw Safety Certification was up for renewal. Without an in date health and safety and wild eldritch creature control lice",
-          "publishedAt": "2026-10-12T12:31:47.000Z",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
+          "summary": "Another day of news, another day in which I find something genAI - related to write about while sighing. But, lo and behold, for once, it isn't a case of a company shifting gears to prioritise AI usag",
+          "publishedAt": "2026-10-13T13:42:44.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
+          "title": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
-          "summary": "You may have heard that the pen is mightier than the sword, but did you know that the pencil is mightier than the 7th Panzer Division? Here is Battleplan to educate us on the subject. In this WW2 real",
-          "publishedAt": "2026-10-12T13:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
+          "summary": "I think I'm a pretty decent Space Whale Mayor, all told. A caring and responsible fellow traveler for Kewa, the astral cetacean on whose craggy, cloud-hung back every city in Beyond These Stars is fou",
+          "publishedAt": "2026-10-13T16:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gears of War: E-Day DDoS attacks are to blame for \"intermittent disconnects\" and \"login issues\", The Coalition confirm",
+          "title": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gears-of-war-e-day-ddos-attacks-are-to-blame-for-intermittent-disconnects-and-login-issues-the-coalition-confirm",
-          "summary": "DDoS attacks suffered by Gears of War: E-Day over the weekend were to blame for players being suddenly disconnected from servers and having trouble logging in, according to devs The Coalition. The chu",
-          "publishedAt": "2026-10-12T14:31:41.000Z",
+          "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+          "summary": "Four years after the release of Dead Space spiritual successor The Callisto Protocol , the co-creator of both, Glen Schofield (no relation), has now openly claimed that Callisto's sub-par release stat",
+          "publishedAt": "2026-10-13T17:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
-          "summary": "The Legend of Zelda series is fond of stories about the inexorable and obliviating passage of time. Somebody should make one about growing so old, stupid and exhausted that you can't distinguish origi",
-          "publishedAt": "2026-10-12T15:04:54.000Z",
+          "title": "'GTA 6' Fans Convinced Rockstar Has Quietly Already Spoiled An Ending",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/gta-6-ending-screenshot-lucia-jason-story-spoiler/",
+          "summary": "A single screenshot shared by Rockstar might tell GTA 6 fans more than they realize",
+          "publishedAt": "2026-10-13T16:13:39.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
-          "summary": "Nvidia, AI-obsessives to the point of yassifying basketballers , are shifting production away from their top of the range RTX 5090 consumer graphics cards in favour of RTX Pro ones. That's according t",
-          "publishedAt": "2026-10-12T16:06:36.000Z",
+          "title": "Xbox 'Won’t Survive' Without New IP, CEO Says",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/microsoft-new-ip-comments-ceo-asha-sharma-hypocrisy/",
+          "summary": "Xbox CEO Asha Sharma said in a town hall that the division needs to focus on new IP after divesting from many of its studios that made new IP.",
+          "publishedAt": "2026-10-13T16:22:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-          "summary": "Last week, Valve chose their absolute most favourite announcement time &ndash; Friday evening, after we all go home &ndash; to release the Steam Frame &rsquo;s CAD files to the world. In short, this l",
-          "publishedAt": "2026-10-12T16:47:22.000Z",
+          "title": "Avatar: Seven Havens Creators Officially Respond to Korra Hate",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/avatar-seven-havens-creators-defend-korra-tease-more-reveals/",
+          "summary": "Avatar franchise creators Michael DiMartino and Bryan Konietzko shut down Korra hate and tease more to her story in Seven Havens",
+          "publishedAt": "2026-10-13T16:42:48.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,50 +119,86 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-12T17:45:23.165Z",
+      "generatedAt": "2026-10-13T17:45:15.565Z",
       "items": [
         {
-          "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-          "summary": "Well, I say \"freshest.\" In its ickily up-close vision of Napoleonic battlefields, swapping the boring old bubonic plague for a fleshy, pustulating necro-blight, Valor Mortis is as horrid and grim as a",
-          "publishedAt": "2026-10-12T13:00:26.000Z",
+          "title": "Castlevania: Belmont’s Curse review – every fantastical vampire-hunting vision is fulfilled",
+          "source": "The Guardian (Culture)",
+          "url": "https://www.theguardian.com/games/2026/oct/13/castlevania-belmonts-curse-review-vampire-hunting",
+          "summary": "Evil Empire/Konami; PC, PS5, Switch, Xbox There are buzzsaws and blood pits, bats burst into blood and demons burn to cinders. The series’ new emphasis on twitch-based action may annoy purists but you",
+          "publishedAt": "2026-10-13T09:00:19.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Valor Mortis Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/valor-mortis-review",
-          "summary": "A novel soulslike packed with interesting ideas, even if they don’t always work out super smoothly.",
-          "publishedAt": "2026-10-12T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Valor Mortis review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valor-mortis-review",
-          "summary": "Valor Mortis plays a bit of a sneaky trick. For a while it keeps it straight. 'Yes', it seems to say; 'I'm definitely a Soulslike. Look at my bonfire equivalents, my healing flasks, my corpse runs, ev",
-          "publishedAt": "2026-10-12T13:00:58.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+          "title": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
-          "summary": "All the interesting Steam facts for the week ending October 11.",
-          "publishedAt": "2026-10-12T02:57:30.000Z",
+          "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
+          "summary": "The animals are as beautiful as ever, but they're trapped in a cage of rote micromanagement.",
+          "publishedAt": "2026-10-13T12:43:34.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Wildwood Review",
+          "title": "Crystal Lake Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/wildwood-review",
-          "summary": "Review: Wildwood is an arresting, exciting fantasy epic made all the more impressive by the fact that it’s handmade and hand-animated, even if some story stumbles occasionally hold it back.",
-          "publishedAt": "2026-10-11T13:15:00.000Z",
+          "url": "https://www.ign.com/articles/crystal-lake-review",
+          "summary": "Review: Crystal Lake works in large part thanks to Linda Cardellini’s turn as Pamela Voorhees, while showrunner Brad Caleb Kane brings a thorough knowledge of the original Friday the 13th movies to th",
+          "publishedAt": "2026-10-13T15:30:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "summary": "Rose Belmont is not her father. Rose is something new: the next generation of the legendary vampire hunters spending her life trying to step out of Trevor's shadow, to be seen as the self-reliant woma",
+          "publishedAt": "2026-10-13T10:03:04.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Castlevania: Belmont’s Curse Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/castlevania-belmonts-curse-review",
+          "summary": "A long-awaited return that brings the series into the modern era with a fast-paced focus on action first.",
+          "publishedAt": "2026-10-13T07:01:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "summary": "Let's chase 'em off, Rex! Two more missiles arc toward a hapless enemy F2-A, droplets peppering my windshield as I skim past a glowering grey cloud, dulling the distant explosion. Visibility is garbag",
+          "publishedAt": "2026-10-13T09:19:45.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Marvel's VisionQuest Episodes 1 & 2 Review (No Spoilers)",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/marvels-visionquest-episodes-1-2-review",
+          "summary": "VisionQuest may struggle a bit to reestablish the titular hero in this post-WandaVision MCU, but at least the series has James Spader’s Ultron to fall back upon. Read our spoiler-free review of the fi",
+          "publishedAt": "2026-10-12T19:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Gears of War: E-Day Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-review",
+          "summary": "A prequel that returns to the heart of this series.",
+          "publishedAt": "2026-10-12T19:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "TCL 27C2A Pro Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/tcl-27c2a-pro-review",
+          "summary": "The TCL 272A Pro can impress in testing, but in practice its shortcomings become all the more apparent and it fails to shine nearly as brightly.",
+          "publishedAt": "2026-10-12T20:10:16.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -171,50 +207,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-12T17:45:23.165Z",
+      "generatedAt": "2026-10-13T17:45:15.565Z",
       "items": [
         {
-          "title": "Metaphor: Refantazio’s Switch 2 Demo Is Finally Available",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/nintendo-switch-2-metaphor-refantazio-rpg-prologue-demo-released/",
-          "summary": "Nintendo Switch 2 players in certain regions can dive into Metaphor: ReFantazio right now thanks to the release of a demo for the Atlus RPG",
-          "publishedAt": "2026-10-12T17:17:11.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Miami Vice '85 Pictures Reveal First Look at Michael B. Jordan and Austin Butler in Costume",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/miami-vice-85-pictures-reveal-first-look-at-michael-b-jordan-and-austin-butler-in-costume",
-          "summary": "Universal has revealed first-look pictures of Miami Vice '85 showing Michael B. Jordan as Ricardo Tubbs and Austin Butler as James 'Sonny' Crockett.",
-          "publishedAt": "2026-10-12T15:04:38.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Riftbound: Radiance Hands-On Preview and Interview - Riftbound Embraces Complexity",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/riftbound-radiance-hands-on-preview-and-interview-riftbound-embraces-complexity",
-          "summary": "I played Riftbound fifth set, Radiance, in Pre-Rift and sealed formats and spoke with executive producer Chengran Chai, who spoke on how Deploy is primed to disrupt the meta and more.",
-          "publishedAt": "2026-10-12T07:01:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-          "summary": "Teach My Little Sister How to Drive centres around a costly chatbot.",
-          "publishedAt": "2026-10-11T12:31:04.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027",
-          "summary": "Marvel Tokon: Fighting Souls will continue its Year 1 DLC roadmap with Thor (Jane Foster) this winter, with two more characters coming in 2027.",
-          "publishedAt": "2026-10-11T14:29:41.000Z",
+          "title": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
+          "summary": "The main selling point of Tekken 8 's Season 3 DLC pass, alongside veterans Kunimitsu, Bob and Roger Jr, is Yujiro Hanma, the main antagonist of fighting manga Baki and father of its eponymous protago",
+          "publishedAt": "2026-10-13T11:58:24.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -223,32 +223,41 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-12T17:45:23.165Z",
+      "generatedAt": "2026-10-13T17:45:15.565Z",
       "items": [
         {
-          "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
-          "summary": "Gears of War: E-Day's servers have been struggling because they've been suffering distributed denial-of-service (DDoS) attacks, apparently - so someone, or some people, have been deliberately trying t",
-          "publishedAt": "2026-10-12T11:38:55.000Z",
+          "title": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+          "summary": "Going Medieval may have been in early access for almost five years, but even after it arrived in 1.0 back in March developer Foxy Voxel have continued to build upon it. The sim's latest update has arr",
+          "publishedAt": "2026-10-13T16:28:51.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "33 Years Later, Tom Cruise's Near-Perfect Legal Thriller Is Officially on Streaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/the-firm-tom-cruise-streaming-paramount-plus-october-2026/",
-          "summary": "A dream job, a crooked law firm, and Tom Cruise in way over his head",
-          "publishedAt": "2026-10-12T08:00:23.000Z",
+          "title": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/",
+          "summary": "Which is quite the feat.",
+          "publishedAt": "2026-10-13T13:58:15.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+          "title": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-          "summary": "Phasmophobia has sold more than 30 million copies across PC and console since it launched in Early Access in 2020. Read more",
-          "publishedAt": "2026-10-11T12:06:58.000Z",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+          "summary": "CD Projekt Red has released an update for The Witcher 3 Remastered on PlayStation 5 and PS5 Pro , making \"various stability improvements to help ensure a more reliable experience\" to the game. And tho",
+          "publishedAt": "2026-10-13T16:13:54.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow",
+          "summary": "Ludeon Studios, developers of sci-fi colony construction sim RimWorld , have announced in a Steam update that the game will be moving over from Unity to the studio's own in-house Waylith Engine in its",
+          "publishedAt": "2026-10-13T08:51:40.000Z",
           "tag": "Industry",
           "_example": false
         }
