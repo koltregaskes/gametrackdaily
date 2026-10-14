@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-13T17:30:07.494Z",
+  "updatedAt": "2026-10-14T17:30:04.113Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,136 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-361833",
-      "title": "Valor Mortis",
-      "date": "2026-10-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Valor Mortis is a first-person action soulslike from the creators of Ghostrunner. Rise from death as a former soldier of Napoleon’s army. Wield supernatural powers, battle horrifying monsters, and unravel a conspiracy that threatens all of humanity."
-    },
-    {
-      "id": "igdb-game-402959",
-      "title": "Planet Zoo 2",
-      "date": "2026-10-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build a wilder world in Planet Zoo 2. Create distinctive zoos around the globe filled with awe-inspiring animals, including fully aquatic and flying species, before taking your experience beyond the zoo to release your animals into expansive Wildlife Reserves."
-    },
-    {
-      "id": "igdb-game-298680",
-      "title": "Deep Dish Dungeon",
-      "date": "2026-10-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Co-op online multiplayer game where you must unite to survive the treacherous depths of a mysterious dungeon, navigate puzzling passageways and gather resources to improve your camping site. Encounter enemies with diverse behaviors, discover coveted treasures, and unravel enigmas"
-    },
-    {
-      "id": "igdb-game-277935",
-      "title": "Allogloom",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Chaos has descended upon the town of Gruesome Grove and its fate rests in Nora’s hands. Join her on an oftentimes gory journey through a beautifully hand-drawn world. Discover forgotten truths, make peculiar friends, encounter monsters and solve puzzles in this mysterious and mac"
-    },
-    {
-      "id": "igdb-game-374635",
-      "title": "Rolla",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as the monster from the movie series that never existed, ROLLA. ROLL. EAT. REPEAT. Fast paced arcade game with chunky old school 3d graphics: eat people, destroy whole cities and battle with cops, army and government agents! Uncover the secrets of what ROLLA is and where it "
-    },
-    {
-      "id": "igdb-game-404718",
-      "title": "Street Fighter 6: Year 4 - Arjun",
-      "date": "2026-10-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Like an aggressive bull jumping in the dust of the fields, Arjun moves heaven and earth with his powerful breathing techniques!"
-    },
-    {
-      "id": "igdb-game-347168",
-      "title": "Legion Was Here",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You are Legion, a secret agent who can change his appearance at will. Use your investigative and chameleon skills to infiltrate enemy ranks!"
-    },
-    {
-      "id": "igdb-game-399059",
-      "title": "My Beautiful Faraway, Please Don't Be Cruel to Me",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A dreamlike, half-remembered nowhere. Quietly wander through it, solve opaque puzzles, meet strange figures, and uncover the subtle threads of melancholy from which this place was born."
-    },
-    {
-      "id": "igdb-game-406477",
-      "title": "Trash Day",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Team up with your raccoon squad in this physics-based co-op adventure. Scavenge trash, fill your stolen shopping cart, and work together to get back home. Live your best raccoon life."
-    },
-    {
-      "id": "igdb-game-405085",
-      "title": "Microsoft Flight Simulator 2024: National Championship Air Races",
-      "date": "2026-10-12",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
-      "id": "igdb-game-418272",
-      "title": "Total War: Shogun 2 - Complete Edition",
-      "date": "2026-10-12",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Experience the updated, enhanced, and complete version of the grand strategy classic; Total War: Shogun 2 and all of its DLC, including the Rise of the Samurai and Fall of the Samurai campaigns. Battle across an exquisite, authentic realisation of Feudal Japan stretching from 117"
-    },
     {
       "id": "igdb-game-329124",
       "title": "Over the Hill",
@@ -1610,6 +1480,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up."
+    },
+    {
+      "id": "igdb-game-334698",
+      "title": "Lacey's Flash Games",
+      "date": "2026-10-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "These are the REAL girls’ games. In the mid 2000s, Charlie (Charchar887), discovers the Laceys's Flash Games and their disturbing secrets. Step into the virtual world to uncover the whereabouts of the missing website creator, Rocio Yani, and explore all the games and activities w"
     },
     {
       "id": "igdb-game-414126",
@@ -3706,7 +3587,8 @@
       "date": "2026-12-31",
       "platforms": [
         "Xbox Series X/S",
-        "Windows PC"
+        "Windows PC",
+        "Xbox One"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -3784,6 +3666,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A roguelike deckbuilder with a delicious twist. Think like a master chef, balancing resources as you strategically combo ingredients to subdue hungry hordes. Recruit a legendary kitchen crew, and rise through the heroic cooking guilds—before The Hunger consumes us all!"
+    },
+    {
+      "id": "igdb-game-213557",
+      "title": "Bloody Hell Hotel",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In Bloody Hell Hotel, you embody a vampire. You wake up from a coma that has lasted for centuries, only to find your once-grand estate is now in ruins. It's time to turn it into a prosperous hotel! It's no easy task, though, as times are tough and resources are scarce. There are "
     },
     {
       "id": "igdb-game-314420",
@@ -3911,17 +3804,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The Toxic Crusaders return for an all-new, all-action beat 'em up for one to four players! Grab your mop, tutu and attitude, and get ready to clean up the mean streets of Tromaville, one radioactive goon at a time!"
-    },
-    {
-      "id": "igdb-game-213557",
-      "title": "Bloody Hell Hotel",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In Bloody Hell Hotel, you embody a vampire. You wake up from a coma that has lasted for centuries, only to find your once-grand estate is now in ruins. It's time to turn it into a prosperous hotel! It's no easy task, though, as times are tough and resources are scarce. There are "
     },
     {
       "id": "igdb-game-377235",
@@ -4355,17 +4237,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The story that started Inazuma Eleven will be revived in a remake!"
-    },
-    {
-      "id": "igdb-game-334698",
-      "title": "Lacey's Flash Games",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "These are the REAL girls’ games. In the mid 2000s, Charlie (Charchar887), discovers the Laceys's Flash Games and their disturbing secrets. Step into the virtual world to uncover the whereabouts of the missing website creator, Rocio Yani, and explore all the games and activities w"
     },
     {
       "id": "igdb-game-220395",
@@ -5305,6 +5176,132 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
+      "id": "igdb-game-340340",
+      "title": "Dicewood",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dicewood is a fantasy horror turn-based roguelike deck-builder where adorable forest animals band together to escape the relentless hunter.\n\nFleeing into a dark, twisted forest filled with ancient horrors, creepy monsters, and cannibal tribes, player must strategically combine di"
+    },
+    {
+      "id": "igdb-game-145333",
+      "title": "Disc Creatures World",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Embark on a grand adventure through a world full of mysteries, uncovering ‘Discs’ to collect your own party of creatures! Engage in strategic battles, enjoy an assortment of collectables, and meet unique characters along the way. A monster taming RPG with a blend of nostalgia and"
+    },
+    {
+      "id": "igdb-game-275560",
+      "title": "Dr. Finklestein's Marvelous Room",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dr. Finklestein's Marvelous Room is a community run experimental story game. With the end of the world fast approaching, Dr. Gumphrey Finklestein announces his plans for a groundbreaking scientific experiment. What will it entail? Does even he know?"
+    },
+    {
+      "id": "igdb-game-375898",
+      "title": "Dual Fire Walled City",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dual Fire Walled City is a story-driven co-op game for two players. Featuring close friends who grew up together in the Kowloon Walled City, only to be pulled onto vastly different life paths by a twist of fate. Get ready to immerse yourself in a classic Hong Kong-style movie."
+    },
+    {
+      "id": "igdb-game-355028",
+      "title": "DungeonBox",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A new Dungeons & Dragons Party Game! Let our Dungeon Master take you and up to 8 players on an adventure, where you control the next move by answering and voting from your phones"
+    },
+    {
+      "id": "igdb-game-381563",
+      "title": "Dungeon Gambler: All In, No Out",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hit the jackpot in this gambling-infused dungeon crawler. Pay what you owe. Survive the dungeon. Play your cards close to your chest and defeat Skelly."
+    },
+    {
+      "id": "igdb-game-382632",
+      "title": "Encryptid",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Encryptid is a short FMV horror game about hunting and catching cryptids. Use real-world footage recorded exclusively via the Gameboy Camera to identify, locate and capture iconic creatures of myth and folklore."
+    },
+    {
+      "id": "igdb-game-404929",
+      "title": "Expendabots",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Expendabots is a 4-player CO-OP horror-extraction game where you and your friends explore ever-changing islands full of danger and secrets. Run, hide, loot abandoned facilities, and extract with your squad before the island is lost."
+    },
+    {
+      "id": "igdb-game-386440",
+      "title": "Foxy Dumplings",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In Foxy Dumplings, you’ll run your own food truck and make friends along the way. Cook dumplings from all over the world, take good care of your clients, and discover how a meal can mend more than just hunger in this cozy cooking sim. Rise to the top of Foxtagram, one heartfelt d"
+    },
+    {
+      "id": "igdb-game-335826",
+      "title": "Ghost Sector",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Ghost Sector is a survival horror game where you play as M-07, a prototype machine trapped in a cybernetic facility during lockdown. Outwit the automated defenses, search for answers to your origin uncovering secrets, solving puzzles, and upgrade your abilities while preserving y"
+    },
+    {
+      "id": "igdb-game-251065",
+      "title": "Haruka: Beyond the Stars",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Haruka: Beyond the Stars is a juvenile sci-fi RPG about the intergalactic adventures of the protagonist, Yuuki, and a mysterious girl named Miiya. Set out on a spaceship and explore unique planets. Enjoy a thrilling adventure in the latest 3D anime art style."
     }
   ],
   "undated": [
