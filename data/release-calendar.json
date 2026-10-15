@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-14T17:30:04.113Z",
+  "updatedAt": "2026-10-15T17:30:03.401Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,100 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-329124",
-      "title": "Over the Hill",
-      "date": "2026-10-13",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery."
-    },
-    {
-      "id": "igdb-game-344669",
-      "title": "Warhammer 40,000: Boltgun 2",
-      "date": "2026-10-13",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with more enemies, more weapons, and new ways to purge!"
-    },
-    {
-      "id": "igdb-game-278824",
-      "title": "The Witch's Bakery",
-      "date": "2026-10-13",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Witch’s Bakery is a 2D Adventure Puzzle game where you play as a joyful witch who opens a bakery in modern Paris.\n\nShe has a special power: she can heal emotions with her bread."
-    },
-    {
-      "id": "igdb-game-201754",
-      "title": "Among the Trolls",
-      "date": "2026-10-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Among the Trolls is a first-person, survival, action-adventure game where the secret mysteries of Finnish forests are unraveled. Venture deep into the Finnish wilderness to uncover family truths and master the art of survival"
-    },
-    {
-      "id": "igdb-game-379667",
-      "title": "Cozy Builder",
-      "date": "2026-10-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build, design, and decorate your dream château in a cozy vineyard valley. Live among your creations, harvest grapes from sunlit vineyards, and craft artisanal wine blends in a relaxing sandbox builder where every home helps restore beauty and balance to the countryside."
-    },
-    {
-      "id": "igdb-game-283550",
-      "title": "Nowhere",
-      "date": "2026-10-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Nowhere is a Nordic inspired narrative mystery/horror game, revolving around Nordic mythology and what happened to these Gods after Ragnarök and how the rise of Christianity impacted them and their worship.\n\nFeaturing the mixing styles of detective gameplay and survival horror, I"
-    },
-    {
-      "id": "igdb-game-416605",
-      "title": "Thank You Bus Driver",
-      "date": "2026-10-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Thank You Bus Driver is a chaotic bus driving game where you take on the role of a town’s bus driver just trying to get through the day with minimal rulebreaking and maximum gratitude… in the form of Thank Yous!"
-    },
-    {
-      "id": "igdb-game-339624",
-      "title": "Fire and Ashes",
-      "date": "2026-10-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "It's 1977. Henry Gray awakens in a psychiatric hospital, haunted by the ghosts of his past. Fire and Ashes await: An immersive survival horror where nothing is certain, insanity and reality mix, and voice recognition means every monster will hear you scream - within the asylum an"
-    },
-    {
       "id": "igdb-game-389434",
       "title": "Castlevania: Belmont's Curse",
       "date": "2026-10-14",
@@ -990,6 +896,20 @@
       "summary": "Journey on the back of the space whale Kewa, building a city for your people as you travel across the galaxy seeking purpose and answers, and developing deep relationships with the universe around you."
     },
     {
+      "id": "igdb-game-405458",
+      "title": "Tales of Eternia: Remastered",
+      "date": "2026-10-15",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Tales of Eternia returns as a remastered edition! As the threat of world destruction looms, an epic journey begins to determine the fate of two worlds: Inferia and Celestia."
+    },
+    {
       "id": "igdb-game-351327",
       "title": "DayZ: Badlands",
       "date": "2026-10-15",
@@ -1014,20 +934,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "An open-world survival simulator where even seasoned veterans of the genre will have to rethink their typical survival approach and how they interact with the world around them. Play solo or with friends, follow the story or simply explore — just don’t forget your most important "
-    },
-    {
-      "id": "igdb-game-405458",
-      "title": "Tales of Eternia: Remastered",
-      "date": "2026-10-15",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tales of Eternia returns as a remastered edition! As the threat of world destruction looms, an epic journey begins to determine the fate of two worlds: Inferia and Celestia."
     },
     {
       "id": "igdb-game-351111",
@@ -1094,6 +1000,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight and forgive in this QTE based RPG, and travel the Earth and stars with those who matter most. SOLEMNFABLE - A journey of acceptance."
+    },
+    {
+      "id": "igdb-game-422702",
+      "title": "Video Store Chaos",
+      "date": "2026-10-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Video Store Chaos is a single-player simulation. Pick up, sort and shelve over 2,500 movie, game and VHS cases to turn a messy video store into an organized collection. Unlock upgrades to carry more and work faster, find clues on the covers and explore the hidden basement."
     },
     {
       "id": "igdb-game-393015",
@@ -1963,6 +1880,19 @@
       "summary": "Escape from your own house, in which you have been locked up. But be careful, you will not be alone in your captivity. Immerse yourself in this first-person horror adventure, full of family secrets and betrayals. And find out who and why they locked you up."
     },
     {
+      "id": "igdb-game-404798",
+      "title": "The Zibbo Show",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Be the star of the most exciting game show on TV! Pick your dice, place your bets, build your combos, and try not to think too hard about what happens when you lose."
+    },
+    {
       "id": "igdb-game-258775",
       "title": "Queen's Domain",
       "date": "2026-10-30",
@@ -2204,6 +2134,18 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Chase the chair before someone steals your seat! Chair Chase is a chaotic 2-8 player online party game set in a big house full of living chairs that do not want to be sat on. They run, hide and parkour away from you, and they panic more the closer you get. Catch one, then win a q"
+    },
+    {
+      "id": "igdb-game-411743",
+      "title": "Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops",
+      "date": "2026-11-02",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Phoenix Cyclops, the first DLC character included in the Year 1 Character & Stage Pass, is coming to MARVEL Tōkon: Fighting Souls!\n\nInspired by his Phoenix Five incarnation from Avengers vs. X-Men, this iconic X-Men leader harnesses the overwhelming power of the Phoenix Force, br"
     },
     {
       "id": "igdb-game-412247",
@@ -2537,6 +2479,17 @@
       "summary": "17-year-old Hope Song returns home from school to find her parents missing. Use Hope’s observant eye as an artist to investigate, piece together clues, and uncover a dark world beneath the surface of her peaceful life in this non-linear narrative mystery game."
     },
     {
+      "id": "igdb-game-359885",
+      "title": "Ashes of the Singularity II",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive mul"
+    },
+    {
       "id": "igdb-game-422495",
       "title": "Calmaria: Wild Growth",
       "date": "2026-11-10",
@@ -2601,6 +2554,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
+    },
+    {
+      "id": "igdb-game-159717",
+      "title": "Imperial Grace",
+      "date": "2026-11-11",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Imperial Grace is a unique mix of romance, medieval intrigue, and strategy. Play as the new Empress of Calidya through a visual novel rife with ambition and deceit. Make choices that will change your fate and that of your nation, rule wisely to make your Empire prosper, and find "
     },
     {
       "id": "igdb-game-418247",
@@ -2697,17 +2661,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "UnderMire is a 1-4 player first person co-op roguelite adventure where you descend into a magical, ever-changing bunker to confront the dark forces that lie within. Battle fear-fueled monsters, SMUSH everyday junk into magical weapons, master evolving tools, complete tasks from a"
-    },
-    {
-      "id": "igdb-game-412378",
-      "title": "Warrior Quest",
-      "date": "2026-11-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Warrior Quest is a single-player, text-driven dark-fantasy RPG where old-school dungeon crawling meets next-gen, free-form, offline AI diplomacy. Fight, sneak, negotiate in your own words, recruit unlikely companions... and whatever you do, roll well."
     },
     {
       "id": "igdb-game-382400",
@@ -3306,6 +3259,17 @@
       "summary": "Grave Seasons is a supernatural murder-mystery farming simulator. Play as the new farmer in Ashenridge as you harvest crops, fish and mine, meet and romance townsfolk, build up the community... and maybe stop the murders."
     },
     {
+      "id": "igdb-game-372154",
+      "title": "Bellum",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Bellum is the next evolution of platoon-scale tactical shooters, built in Unreal Engine 5 and shaped by die-hard fans who demanded more from the genre. Set in a fractured Africa of the 2030s, players are thrust into counter-insurgency campaigns where global powers engage in proxy"
+    },
+    {
       "id": "igdb-game-186613",
       "title": "Showa American Story",
       "date": "2026-12-31",
@@ -3316,17 +3280,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Showa American Story is a brand new RPG and an enthusiastic love letter to the 80s' pop culture that features a strong taste of B-Movies. Follow Choko's journey of truth and revenge across North America as she grows stronger."
-    },
-    {
-      "id": "igdb-game-372154",
-      "title": "Bellum",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Bellum is the next evolution of platoon-scale tactical shooters, built in Unreal Engine 5 and shaped by die-hard fans who demanded more from the genre. Set in a fractured Africa of the 2030s, players are thrust into counter-insurgency campaigns where global powers engage in proxy"
     },
     {
       "id": "igdb-game-26200",
@@ -4220,6 +4173,7 @@
       "title": "Hollow Home",
       "date": "2026-12-31",
       "platforms": [
+        "Xbox Series X/S",
         "Windows PC"
       ],
       "source": "IGDB",
@@ -5302,6 +5256,50 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Haruka: Beyond the Stars is a juvenile sci-fi RPG about the intergalactic adventures of the protagonist, Yuuki, and a mysterious girl named Miiya. Set out on a spaceship and explore unique planets. Enjoy a thrilling adventure in the latest 3D anime art style."
+    },
+    {
+      "id": "igdb-game-351785",
+      "title": "Haunted Room! Urami-chan",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this \"life-intervention watching game,\" you control the earthbound spirit \"Urami-chan.\" Travel between an apartment's past and present to change the murdered resident's future. The game unfolds in semi-real time, tasking you to watch over the resident and intervene."
+    },
+    {
+      "id": "igdb-game-249626",
+      "title": "Hayaku! Island of Darkness",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore a mysterious island full of dangers and uncover the secrets behind the anomalous creatures that inhabit it in this retro-style metroidvania."
+    },
+    {
+      "id": "igdb-game-364315",
+      "title": "Hollow Stories: Lockdown",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A neo-retro survival horror noir game where you explore, solve puzzles, and fight to survive in a city ruled by corruption and cults."
+    },
+    {
+      "id": "igdb-game-264603",
+      "title": "Killa",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Killa is a 3D adventure mystery with multiple endings. Valhalla, our protagonist, seeks the killer of her mentor, a mentor she treasures like family, venturing to an unknown island. Discover the culprit on this enigmatic island and embark on a journey of revenge."
     }
   ],
   "undated": [
