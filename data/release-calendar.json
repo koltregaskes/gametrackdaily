@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-15T17:30:03.401Z",
+  "updatedAt": "2026-10-16T17:30:03.317Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,226 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-389434",
-      "title": "Castlevania: Belmont's Curse",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "1499. Paris is engulfed in flames as monstrous creatures suddenly emerge from the shadows. Trevor Belmont, the hero who defeated Dracula, ventures into the burning streets with his daughter, Rose Belmont. Armed with the legendary holy whip, the Vampire Killer, they hunt down the "
-    },
-    {
-      "id": "igdb-game-404035",
-      "title": "Toy Story 3: Complete Edition",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Toy Story 3: Complete Edition brings the definitive version of the game inspired by the Academy Award-winning film to modern platforms for the first time, including previously platform-exclusive content from the PlayStation 3 version and an enhanced experience with upgraded visua"
-    },
-    {
-      "id": "igdb-game-344588",
-      "title": "Chained Beasts",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Chained Beasts is a 1-4 player co-op gladiator roguelite. Fight chaotic battles in the Colosseum while chained to your friends. Brave physical and mental injuries that change how you play. Entertain the blood-thirsty crowd by unleashing your inner beast."
-    },
-    {
-      "id": "igdb-game-278965",
-      "title": "Odd Town",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Odd Town is a retro-styled first-person adventure about being stuck in a town where everything feels just a little wrong. Explore a handcrafted, bite-sized open world, meet suspicious locals, take odd jobs, steal sandwiches, dodge cops, and uncover a conspiracy hidden under the p"
-    },
-    {
-      "id": "igdb-game-404006",
-      "title": "Toy Story: Retro Roundup!",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step back into Andy’s room with Woody, Buzz Lightyear, and more classic characters in Toy Story: Retro Roundup! This five-game collection features four Toy Story titles and A Bug’s Life. All the games have been upgraded with quality-of-life improvements and behind-the-scenes cont"
-    },
-    {
-      "id": "igdb-game-58718",
-      "title": "Desolus",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a city of Gothic architecture torn between past and future in Desolus, a first person puzzle game."
-    },
-    {
-      "id": "igdb-game-411674",
-      "title": "FreshWomen: Season 3",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "FreshWomen is a choice-driven adult Visual Novel focusing on the best parts of life. You're a college freshman who just earned a mansion. Bring girls to your home to romance, date, or fuck them. Your journey will be filled with comedy, love, and lots of sex."
-    },
-    {
-      "id": "igdb-game-404114",
-      "title": "Toy Story: Retro Roundup! + Toy Story 3: Complete Edition Double Pack",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Get all the toys in the toy chest with this double pack, featuring both Toy Story: Retro Roundup! and Toy Story 3: Complete Edition. Play as classic characters as you navigate familiar worlds and take on challenges inspired by the films. Toy Story: Retro Roundup! includes 11 clas"
-    },
-    {
-      "id": "igdb-game-396024",
-      "title": "Bluey's Happy Snaps",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore Bluey’s world like never before in Bluey's Happy Snaps!\n\nJoin Bluey and her family in a new photo-powered adventure game. Discover familiar locations, play with loads of toys, and use Bluey's camera to capture and keep all your favorite moments."
-    },
-    {
-      "id": "igdb-game-412590",
-      "title": "Ball Picker: Clean Up the Golf Yard",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Collect +1,000,000 golf balls, earn money, buy new vehicles, and clean up the golf yard. Ball Picker - Clean up the Golf Yard is an active incremental game centered on an organizing and relaxing experience."
-    },
-    {
-      "id": "igdb-game-375229",
-      "title": "Dupery: A Game of Solo Deduction",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A terrible syndicate has infiltrated society, explore cases, listen to what the citizens have to say, and use that information to route out the good from the evil in this roguelike 'clock-like' deduction game. Can you uncover the head of the syndicate? Or will you be duped like t"
-    },
-    {
-      "id": "igdb-game-388377",
-      "title": "We Are So Cooked",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You and your friends are in trouble. Big trouble. You’ve accidentally killed someone, and now you have to get rid of the evidence. \"We Are So Cooked\" is a 1-4 player co-op physics-stealth game where the objective is simple: Get the body to the exit. The execution? That’s the hard"
-    },
-    {
-      "id": "igdb-game-411834",
-      "title": "Castlevania: Belmont's Curse - Midnight Edition",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "This product contains the full game, Digital Sound & Art Gallery, as well as 3 bonus in-game items.\n・Castlevania: Belmont’s Curse\n・Digital Sound & Art Gallery\n・Bonuses (In-game items) x3\n- Trevor Style Costume\n- Sypha Style Costume\n- Family's Grace（Relic）"
-    },
-    {
-      "id": "igdb-game-357285",
-      "title": "Fatal Train",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Murder on the train? It doesn't matter, it's no longer our concern! Ladies and gentlemen, don't worry, we have four detectives who can handle this! After all, there's nothing complicated about murder investigations, right?"
-    },
-    {
-      "id": "igdb-game-416116",
-      "title": "Gran Turismo 7: Spec IV",
-      "date": "2026-10-14",
-      "platforms": [
-        "PlayStation 4",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Spec IV Update includes:\n\nOctober:\n• A new circuit, 'Sportsland SUGO'\n• Six new cars\n• A new 'Spec IV' opening cinematic\n• Vintage: a section featuring cars not available to purchase as new\n• Car Concierge: a service for ordering Used and Legend cars\n• Experience: a mode feat"
-    },
-    {
-      "id": "igdb-game-391781",
-      "title": "Hypnostasis",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A survival horror game about psychological trauma. You wake up from your room to an unsettling world of disturbing creatures. The world you know has warped into something sinister. Navigate nightmarish worlds, uncover buried memories, and confront the shadows. Will you find the p"
-    },
-    {
-      "id": "igdb-game-419027",
-      "title": "Quarantine Zone: Miami Zero",
-      "date": "2026-10-14",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
-      "id": "igdb-game-348482",
-      "title": "Thalia",
-      "date": "2026-10-14",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Thalia is a fast paced roguelike action game. You as Thalia has been summoned to this ancient place where death is not the end, it is only the beginning. Fight hoards of enemies, giant bosses and improve in an infinite mechanic where death only makes you stronger!"
-    },
-    {
       "id": "igdb-game-216692",
       "title": "Tenebris Somnia",
       "date": "2026-10-15",
@@ -1298,6 +1078,17 @@
       "summary": "Sink your fangs into Fangtopia, a cozy and relaxing tile puzzle game where you assemble landscapes to craft a monsterrific paradise for friendly ghouls and ghosts. Design a care-free, scare-free world of gentle chills."
     },
     {
+      "id": "igdb-game-340535",
+      "title": "Giggleland",
+      "date": "2026-10-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Giggleland is full of adventures and fun! Will you be the next to discover why our guests are always smiling? This game is not suitable for children."
+    },
+    {
       "id": "igdb-game-400252",
       "title": "Last Floor",
       "date": "2026-10-26",
@@ -1597,6 +1388,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A linear single-session psychological horror. Your mind is uploaded into an old Soviet robot sealed inside a dead bunker. Stealth in the dark, puzzles inside dying machines, and one voice on the radio guiding you. Find the clues and change how it ends."
+    },
+    {
+      "id": "igdb-game-326496",
+      "title": "Mega Met",
+      "date": "2026-10-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A Mega Man fan game which features Metalls (Mets) as the entire cast of characters, enemies and bosses."
     },
     {
       "id": "igdb-game-412177",
@@ -2159,17 +1961,6 @@
       "summary": "Run a cozy seaside chocolate boutique! Weigh, melt, and craft handmade treats for your colorful customers, experiment with new recipes, meet locals, grow your chocolate brand, and settle into life in Sunset Town."
     },
     {
-      "id": "igdb-game-400112",
-      "title": "Wilderdark",
-      "date": "2026-11-03",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Something dangerous is lurking in the wilderness. Wilderdark is a first-person survival horror game where you must navigate a strange island inhabited by ectoparasitic dinosaurs and organisms. You must remain vigilant to stealthily obtain evidence, samples, and craft tools to sur"
-    },
-    {
       "id": "igdb-game-404939",
       "title": "Godzilla: Destroy All Monsters Melee Remastered",
       "date": "2026-11-03",
@@ -2181,6 +1972,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The ultimate Godzilla arena brawler is back, completely remastered. Choose your monster and battle it out with a range of brutal attacks through recreated cities and other locations. Face off against your friends and foes in local co-op or new online multiplayer."
+    },
+    {
+      "id": "igdb-game-400112",
+      "title": "Wilderdark",
+      "date": "2026-11-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Something dangerous is lurking in the wilderness. Wilderdark is a first-person survival horror game where you must navigate a strange island inhabited by ectoparasitic dinosaurs and organisms. You must remain vigilant to stealthily obtain evidence, samples, and craft tools to sur"
     },
     {
       "id": "igdb-game-404711",
@@ -2316,19 +2118,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
-    },
-    {
-      "id": "igdb-game-333201",
-      "title": "Edge of Memories",
-      "date": "2026-11-05",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Corrosion, a plague of unparalleled proportions, has already ravaged the Astryan continent. On the other side of the world, the continent of Avaris and its nomadic peoples—so far spared from the horrors spawned by this abomination—now stand on the brink of extinction. Eline, "
     },
     {
       "id": "igdb-game-378342",
@@ -2488,6 +2277,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive mul"
+    },
+    {
+      "id": "igdb-game-365278",
+      "title": "Australia Did It: End-of-the-World Railway Defense Business",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
     },
     {
       "id": "igdb-game-422495",
@@ -2789,6 +2589,17 @@
       "summary": "This overhauled console version of the Cult Classic RPG integrates the community patch 1.75 and further gameplay improvements, features tailor-made gamepad UI & controls and delivers advanced optimization to offer the smoothest Gothic 3 experience yet."
     },
     {
+      "id": "igdb-game-335232",
+      "title": "Appulse",
+      "date": "2026-11-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Discover pinball like never before with Appulse! The game is a roguelite shooter, where you protect a Galactic Federation ship! Upgrade your ball, your weapons and your ship to pushback waves of unwavering robots."
+    },
+    {
       "id": "igdb-game-329692",
       "title": "Am I Nima",
       "date": "2026-11-27",
@@ -2942,7 +2753,7 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "A parkour climbing game where gravity is your enemy, fire is your only friend, and the ground keeps winning. No checkpoints. No mercy. Just you and your poor life choices."
+      "summary": "A brutal vertical parkour game where every fall costs real progress. No checkpoints. And now the water is rising. Master momentum, learn the map, find faster routes, and climb before everything below you disappears."
     },
     {
       "id": "igdb-game-308033",
@@ -2978,6 +2789,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Return to the RTS series’ roots with deeply satisfying strategy gameplay. Take command of four unique Warhammer 40,000 factions, including the Adeptus Mechanicus in their series debut! Fight through 70+ epic campaign missions, as well as the replayable Last Stand, Skirmish and mu"
+    },
+    {
+      "id": "igdb-game-333201",
+      "title": "Edge of Memories",
+      "date": "2026-12-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Corrosion, a plague of unparalleled proportions, has already ravaged the Astryan continent. On the other side of the world, the continent of Avaris and its nomadic peoples—so far spared from the horrors spawned by this abomination—now stand on the brink of extinction. Eline, "
     },
     {
       "id": "igdb-game-361053",
@@ -3101,6 +2925,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Drain the life from everything around you in this reverse-farming incremental game. Infect all that grows and upgrade your plagues as the land slowly dies. How far can the decay reach?"
+    },
+    {
+      "id": "igdb-game-408607",
+      "title": "Guns of Eschaton",
+      "date": "2026-12-08",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The worlds first soulslike FPS pulls you into an apocalyptic Western by the legendary Viktor Antonov: a land of dust, blood, and horror. Study your enemies, count your bullets, forge your own style with gunpowder and prayers. Solo or in co-opgo West, gunslinger, go West and die w"
     },
     {
       "id": "igdb-game-399414",
@@ -3419,6 +3256,19 @@
       "summary": "Decrepit is a first-person action game with souls-like combat where every death drags you back into the depths. Learn the dungeon, master the combat, and find your way out of the forsaken castle."
     },
     {
+      "id": "igdb-game-316461",
+      "title": "Agni: Village of Calamity",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Agni, a determined investigator from a covert Indonesian police unit who defied orders and ventures into a remote village despite ominous warnings. What begins as an unauthorized investigation quickly plunges Agni into a horrifying reality"
+    },
+    {
       "id": "igdb-game-340334",
       "title": "Dreadmoor",
       "date": "2026-12-31",
@@ -3452,19 +3302,6 @@
       "summary": "The Bornless is an FPS action shooter packed with a variety of gameplay modes. Dive into last-man-standing co-op gameplay or try the thrilling demon versus disciple mode, all within a terror-filled world. Players pair up and form teams, conjure demons to aid in combat, and utiliz"
     },
     {
-      "id": "igdb-game-316461",
-      "title": "Agni: Village of Calamity",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Agni, a determined investigator from a covert Indonesian police unit who defied orders and ventures into a remote village despite ominous warnings. What begins as an unauthorized investigation quickly plunges Agni into a horrifying reality"
-    },
-    {
       "id": "igdb-game-369997",
       "title": "Chronoscript: The Endless End",
       "date": "2026-12-31",
@@ -3488,17 +3325,6 @@
       "summary": "A grotesque illness binds the town of Flint Peak. Two survivors try to escape with their lives as mysterious creatures roam the streets. Face horrific monsters, solve puzzles and escape the town in this classic survival horror. Can you make it till dawn?"
     },
     {
-      "id": "igdb-game-235901",
-      "title": "Becrowned",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Surreal survival horror in a world standing between reality and dreams. Unravel all the mysteries of the dark world, escape from your own fears, and explore the terrifying world where fire no longer burns."
-    },
-    {
       "id": "igdb-game-380410",
       "title": "About Fishing",
       "date": "2026-12-31",
@@ -3509,6 +3335,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Cast your line into calm waters and feel the quiet pull beneath the surface. Each cast brings rewards, but some things you reel in were never meant to be found."
+    },
+    {
+      "id": "igdb-game-235901",
+      "title": "Becrowned",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Surreal survival horror in a world standing between reality and dreams. Unravel all the mysteries of the dark world, escape from your own fears, and explore the terrifying world where fire no longer burns."
     },
     {
       "id": "igdb-game-321054",
@@ -3848,17 +3685,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Explore a world where you try to preserve the still existing life forms. Technology has taken over and will try it's best to stop you in your adventure. Whilst those technologies try to stop you they could also be the only reason you're still alive."
-    },
-    {
-      "id": "igdb-game-335232",
-      "title": "Appulse",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Discover pinball like never before with Appulse! The game is a roguelite shooter, where you protect a Galactic Federation ship! Upgrade your ball, your weapons and your ship to pushback waves of unwavering robots."
     },
     {
       "id": "igdb-game-346199",
@@ -5300,6 +5126,164 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Killa is a 3D adventure mystery with multiple endings. Valhalla, our protagonist, seeks the killer of her mentor, a mentor she treasures like family, venturing to an unknown island. Discover the culprit on this enigmatic island and embark on a journey of revenge."
+    },
+    {
+      "id": "igdb-game-216390",
+      "title": "Kvlt",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fight your way through armies of Nazi occultists, religious zealots, and unspeakable cosmic horrors to unveil the Eldritch secrets behind the war theatre in this 2000s-era-inspired grimdark singleplayer FPS where WW2 meets Cthulhu Mythos."
+    },
+    {
+      "id": "igdb-game-240636",
+      "title": "Legends of Castile",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Legends of Castile is a comic fantasy point-and-click adventure set in the historic Castile region of Spain in the 19th century. It tells the story of a village girl who must investigate the myths and legends of Castile to fulfill her dream of becoming a nun. Advance the story by"
+    },
+    {
+      "id": "igdb-game-281253",
+      "title": "L.OD",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 2D exploration adventure.\nThe main character, Yoi, receives a letter from his dead sister, Chitose, saying that she wants to tell him a secret.\nIn order to find out the truth, Yoyi heads to an abandoned laboratory."
+    },
+    {
+      "id": "igdb-game-259454",
+      "title": "Lunr.Rdio.Taxi",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "lunr.rdio.taxi blends drifting and rhythm into an exhilarating spacetime 'Drifthm' adventure! Slide and boost your way through the solar system to the beat of Brazil's best DJs and earn big as an interplanetary taxi pilot trying to pay an infinite debt in this hypercapitalistic B"
+    },
+    {
+      "id": "igdb-game-397408",
+      "title": "Lurking",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Lurking is a first-person survival horror game set in a building infested by giant spiders. Search for tools and weapons to fight back and survive. Find a way out before you're eaten alive."
+    },
+    {
+      "id": "igdb-game-405152",
+      "title": "Maximum Thunderness",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities."
+    },
+    {
+      "id": "igdb-game-336526",
+      "title": "Melted Time",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Candle, your path is full of puzzles. Can you handle it? Hurry, your time is already melting away."
+    },
+    {
+      "id": "igdb-game-373749",
+      "title": "My Eerie Lair",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A dark cozy ‘Romantasy’ furnishing game where a vampire kidnaps his beloved and tries to win her heart by turning his eerie castle into their dream home."
+    },
+    {
+      "id": "igdb-game-212175",
+      "title": "Name of the Will",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You are informed to be a resident of Hope, a suspiciously harmonious community. Dodge the secretive governors, establish a rapport with your neighbors who monitor you, and solve puzzles to find out how you got here. Are you willing to sacrifice for the truth? Or, are you choosing"
+    },
+    {
+      "id": "igdb-game-380409",
+      "title": "Neath",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Manipulate the turns of friend and foe alike in this Eldritch roguelike tactical RPG by the makers of Rogue Legacy. Ascend the inverted tower. Kill an indolent god. Control every \"moment\"."
+    },
+    {
+      "id": "igdb-game-327111",
+      "title": "Nightmare Circus",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Nightmare Circus is an action-adventure game where the player takes on the role of a Puppeteer trapped in the Nightmare Realm. Set out on a journey to find his friends and escape the nightmare!"
+    },
+    {
+      "id": "igdb-game-347868",
+      "title": "No Straight Roads 2",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Metronomik and Shueisha Games are thrilled to announce NSR2 – the explosive sequel to the hit action-music adventure NO STRAIGHT ROADS – coming to Steam in 2026."
+    },
+    {
+      "id": "igdb-game-211234",
+      "title": "Paws and Leaves: A Last Tale",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Life flashes before your eyes when you die. Help Me Fox by finding his memories beyond life and experiencing a touching, cute, and scary tale."
+    },
+    {
+      "id": "igdb-game-261673",
+      "title": "Psychotic Bathtub",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Have a psychotic episode in your bathtub. Argue with a rubber duck, flood your bathroom and drown dad. Find your very own ending – or all of them."
     }
   ],
   "undated": [
