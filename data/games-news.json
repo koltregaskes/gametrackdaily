@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-16T17:45:08.170Z",
+  "generated": "2026-10-17T17:45:06.499Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-16T17:45:08.170Z",
+      "generatedAt": "2026-10-17T17:45:06.499Z",
       "items": [
         {
-          "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital/",
-          "summary": "GTA 6's takeover of real-life Miami is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes place in Vice City, which is a stand-in f",
-          "publishedAt": "2026-10-16T13:01:12.000Z",
+          "title": "Whalefall Isn't Really About a Whale, Says Josh Brolin",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/whalefall-interview-josh-brolin-austin-abrams-brian-duffield-daniel-krause/",
+          "summary": "Josh Brolin, Austin Abrams, director Brian Duffield, and screenwriter Daniel Krause talk to Polygon about the new release from 20th Century Studios",
+          "publishedAt": "2026-10-17T14:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/",
-          "summary": "Ken Kutaragi, the former PlayStation executive known colloquially as the \"Father of PlayStation,\" has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announceme",
-          "publishedAt": "2026-10-16T13:30:39.000Z",
+          "title": "2026 Has Been a Surprisingly Excellent Year for Shooters",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/2026-year-in-shooters/",
+          "summary": "Developers big and small have made 2026 one of the best years for shooting games in recent memory.",
+          "publishedAt": "2026-10-17T14:30:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target/",
-          "summary": "Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its",
-          "publishedAt": "2026-10-16T13:32:33.000Z",
+          "title": "Analogue Brings Back Its Perfect SNES And Sega Genesis Replacements",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/analogue-super-nt-mega-sg-return/",
+          "summary": "Analogue's Super Nt and Mega Sg models are back with significant improvements, making these consoles the best way to enjoy retro games.",
+          "publishedAt": "2026-10-17T14:34:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/",
-          "summary": "Developers have dealt with copycat games for many years, but generative AI has made it easier than ever to whip up a clone, and that problem has grown in recent years. The developer behind Drunken God",
-          "publishedAt": "2026-10-16T13:52:33.000Z",
+          "title": "Star Wars Zero Company Finally Makes Starting A New Campaign Worth It",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/star-wars-zero-company-second-patch-reaction/",
+          "summary": "There has never been a better time to play Star Wars Zero Company following the release of Patch 1.2 on PC, PlayStation 5, and Xbox Series X",
+          "publishedAt": "2026-10-17T14:54:09.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
-          "summary": "Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game.",
-          "publishedAt": "2026-10-16T15:07:49.000Z",
+          "title": "22 Years Ago, One Perfect Twist Changed TV's Greatest Sci-Fi Series Forever",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/lost-walkabout-locke-twist-22-anniversary/",
+          "summary": "Twenty-two years later, Lost’s “Walkabout” remains a perfect TV twist that transformed John Locke and established the Island’s mystical power.",
+          "publishedAt": "2026-10-17T15:00:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Call Of Duty: MW4’s Campaign Launches Today, Please Don’t Spoil It For Others",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
-          "summary": "It's a big day for Call of Duty, as Call of Duty: Modern Warfare 4's campaign is playable beginning today, October 16, for people who preorder the game. The campaign is available to preload now, but d",
-          "publishedAt": "2026-10-16T15:24:46.000Z",
+          "title": "US Representative Introduces Plan To Preserve Digital Game Ownership",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/power-to-the-players-act-ritchie-torres/",
+          "summary": "Representative Ritchie Torres will introduce the Power to the Players Act bill, which essentially grants players ownership of their digital games.",
+          "publishedAt": "2026-10-17T15:30:47.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
-          "summary": "I was already looking forward to upcoming tactics game Australia Did It , but now I've got another reason to do so: a hilariously expanded new name. In a fun turn of events, designer Rami Ismail has r",
-          "publishedAt": "2026-10-16T15:38:26.000Z",
+          "title": "D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/",
+          "summary": "One of the most eye-catching new systems in Arcana Unleashed outlines how to let magic items grow with your players.",
+          "publishedAt": "2026-10-17T16:01:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
-          "summary": "Footage alleged to show a prototype of a cancelled Assassin&rsquo;s Creed game in action has popped up online. The game, it's claimed, was set in ancient China, went by the working title Assassin&rsqu",
-          "publishedAt": "2026-10-16T12:02:35.000Z",
+          "title": "The 8 Best Castlevania Games, Ranked",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-castlevania-games-ranked/",
+          "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
+          "publishedAt": "2026-10-17T16:01:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The pleasures of Double Fine's Thank You Bus Driver are not in the destination, nor the journey, but in slapping my disobedient passengers",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-pleasures-of-double-fines-thank-you-bus-driver-are-not-in-the-destination-nor-the-journey-but-in-slapping-my-disobedient-passengers",
-          "summary": "Showing some gratitude is the least these scribbly wretches can do. The passengers in Thank You Bus Driver &ndash; Double Fine&rsquo;s new comedy public transport sim &ndash; are almost invariably row",
-          "publishedAt": "2026-10-16T14:38:59.000Z",
+          "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+          "summary": "…if you get it on GOG, anyway.",
+          "publishedAt": "2026-10-17T15:45:38.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
-          "summary": "Since the existence of plans for a Cyberpunk 2077 live-action adaptation from devs CD Projekt Red and Paramount Pictures was revealed last week, I've been hoping it won't take the form of porting V's ",
-          "publishedAt": "2026-10-16T15:15:40.000Z",
+          "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+          "summary": "Flesh grinders of the world, unite.",
+          "publishedAt": "2026-10-17T16:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The creator of last year's cult hit RPG The Necromancer's Tale is back with The Lich Wars, a storybook RPG that follows 30 years of undead botheration",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
-          "summary": "Psychic Software have announced The Lich Wars, a standalone prequel for their widely acclaimed RPG The Necromancer's Tale. Widely acclaimed by me , anyway. I'm pretty wide, these days &ndash; the loca",
-          "publishedAt": "2026-10-16T15:45:00.000Z",
+          "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
+          "summary": "Why are fighting game movies so scared of fighting tournaments? The Street Fighter movie is just the latest example.",
+          "publishedAt": "2026-10-17T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-          "summary": "Season 2 of Wardogs , the multiplayer sandbox FPS currently blasting and/or politely driving its way through early access, introduced an un usual \"social experiment\" when it launched yesterday. In an ",
-          "publishedAt": "2026-10-16T16:30:00.000Z",
+          "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+          "summary": "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
+          "publishedAt": "2026-10-17T13:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,17 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-16T17:45:08.170Z",
+      "generatedAt": "2026-10-17T17:45:06.499Z",
       "items": [
+        {
+          "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+          "summary": "A fractured, fun campaign that benefits from looking backward.",
+          "publishedAt": "2026-10-16T17:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires",
           "source": "Rock Paper Shotgun",
@@ -129,32 +138,23 @@
           "publishedAt": "2026-10-16T15:15:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Avatar: Seven Havens Episodes 4-6 Recap and Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/avatar-seven-havens-episodes-4-6-recap-and-review",
-          "summary": "Avatar: Seven Havens Episodes 4-6 recap and review: Pavi and Nisha's story continues as we catalogue Avatar artifacts and more.",
-          "publishedAt": "2026-10-16T07:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
-          "summary": "The general consensus seems to be that Street Fighter isn't a disaster, but it definitely misses a lot more than it hits.",
-          "publishedAt": "2026-10-15T20:51:45.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-16T17:45:08.170Z",
+      "generatedAt": "2026-10-17T17:45:06.499Z",
       "items": [
+        {
+          "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+          "summary": "Alliance Arts will instead host \"closed sessions\" for Drunken Goddess Reflux.",
+          "publishedAt": "2026-10-17T12:04:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
         {
           "title": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release",
           "source": "Rock Paper Shotgun",
@@ -181,23 +181,68 @@
           "publishedAt": "2026-10-16T11:04:42.000Z",
           "tag": "Preview",
           "_example": false
-        },
-        {
-          "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
-          "summary": "The increasing number of early access games always throws me off, because one day you're seeing an announcement of a game releasing, and then a while (normally years) later, you see another announceme",
-          "publishedAt": "2026-10-15T17:01:56.000Z",
-          "tag": "Preview",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-16T17:45:08.170Z",
+      "generatedAt": "2026-10-17T17:45:06.499Z",
       "items": [
+        {
+          "title": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+          "summary": "Earlier this year, Swedish developer Liquid Swords released Samson , a GTA-ish, open world beat 'em up about dealing with debt, driving sturdy but battered cars, and saving your sister. It wasn't rece",
+          "publishedAt": "2026-10-17T15:58:54.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+          "summary": "\"What happens when you merge a directional combat system with an ability to pet dogs and cats?\"",
+          "publishedAt": "2026-10-17T13:53:20.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+          "summary": "Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. ",
+          "publishedAt": "2026-10-17T11:18:21.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+          "summary": "Ghost of Yōtei sales appear to be trailing behind Ghost of Tsushima, but that doesn't mean it's not still pulling big numbers on PlayStation 5.",
+          "publishedAt": "2026-10-16T19:59:45.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+          "summary": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from a competitive tournament.",
+          "publishedAt": "2026-10-16T21:54:09.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
+          "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
+          "publishedAt": "2026-10-16T22:48:07.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
           "source": "GameSpot",
@@ -231,24 +276,6 @@
           "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
           "summary": "The Blood of Dawnwalker update 1.1 adds directional animal petting and over 1,100 other improvements and fixes.",
           "publishedAt": "2026-10-16T14:30:54.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
-          "summary": "Representative Ritchie Torres will introduce a bill aimed at protecting videogame ownership, including for online games that are decommissioned.",
-          "publishedAt": "2026-10-16T00:08:45.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
-          "summary": "Control Resonant has sold one million copies, becoming Remedy’s fastest-selling game in spite of leakers cracking the title and pirating it after its digital launch in September.",
-          "publishedAt": "2026-10-15T23:04:38.000Z",
           "tag": "Industry",
           "_example": false
         }
