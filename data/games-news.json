@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-17T17:45:06.499Z",
+  "generated": "2026-10-18T17:45:06.488Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-17T17:45:06.499Z",
+      "generatedAt": "2026-10-18T17:45:06.488Z",
       "items": [
         {
-          "title": "Whalefall Isn't Really About a Whale, Says Josh Brolin",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/whalefall-interview-josh-brolin-austin-abrams-brian-duffield-daniel-krause/",
-          "summary": "Josh Brolin, Austin Abrams, director Brian Duffield, and screenwriter Daniel Krause talk to Polygon about the new release from 20th Century Studios",
-          "publishedAt": "2026-10-17T14:00:18.000Z",
+          "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
+          "summary": "Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’",
+          "publishedAt": "2026-10-18T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "2026 Has Been a Surprisingly Excellent Year for Shooters",
+          "title": "11 Years Later, Dragon Ball Super: Beerus Finally Nails Akira Toriyama's Original Vision",
           "source": "Polygon",
-          "url": "https://www.polygon.com/2026-year-in-shooters/",
-          "summary": "Developers big and small have made 2026 one of the best years for shooting games in recent memory.",
-          "publishedAt": "2026-10-17T14:30:19.000Z",
+          "url": "https://www.polygon.com/dragon-ball-super-beerus-finally-respects-toriyamas-vision/",
+          "summary": "I doubted the need for another Beerus arc, but Dragon Ball Super's new take is admittedly winning me over.",
+          "publishedAt": "2026-10-18T14:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Analogue Brings Back Its Perfect SNES And Sega Genesis Replacements",
+          "title": "Forza Horizon Is No Longer the King of Video Game Road Trips",
           "source": "Polygon",
-          "url": "https://www.polygon.com/analogue-super-nt-mega-sg-return/",
-          "summary": "Analogue's Super Nt and Mega Sg models are back with significant improvements, making these consoles the best way to enjoy retro games.",
-          "publishedAt": "2026-10-17T14:34:21.000Z",
+          "url": "https://www.polygon.com/american-truck-simulator-road-trip-forza-horizon/",
+          "summary": "SCS Software's American Truck Simulator: Road Trip DLC adds cars and tourist destinations in a game-changing update",
+          "publishedAt": "2026-10-18T14:30:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Wars Zero Company Finally Makes Starting A New Campaign Worth It",
+          "title": "A Remaster Of The Best Shrek Game Ever Just Leaked",
           "source": "Polygon",
-          "url": "https://www.polygon.com/star-wars-zero-company-second-patch-reaction/",
-          "summary": "There has never been a better time to play Star Wars Zero Company following the release of Patch 1.2 on PC, PlayStation 5, and Xbox Series X",
-          "publishedAt": "2026-10-17T14:54:09.000Z",
+          "url": "https://www.polygon.com/shrek-2-remastered-leak/",
+          "summary": "Move over Shrek 5, I can't wait to replay the Shrek 2 game when its leaked remaster launches",
+          "publishedAt": "2026-10-18T14:57:20.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "22 Years Ago, One Perfect Twist Changed TV's Greatest Sci-Fi Series Forever",
+          "title": "D&D's New Arcana Unleashed Feats Are Breaking the Game, but There's an Easy Fix",
           "source": "Polygon",
-          "url": "https://www.polygon.com/lost-walkabout-locke-twist-22-anniversary/",
-          "summary": "Twenty-two years later, Lost’s “Walkabout” remains a perfect TV twist that transformed John Locke and established the Island’s mystical power.",
-          "publishedAt": "2026-10-17T15:00:19.000Z",
+          "url": "https://www.polygon.com/dnd-arcana-unleashed-adept-feats-broken-fix-dungeons-dragons/",
+          "summary": "The Adept feats from D&D Arcana Unleashed let every class cast the most powerful spells, potentially breaking the game, but there is an easy fix.",
+          "publishedAt": "2026-10-18T15:00:19.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "US Representative Introduces Plan To Preserve Digital Game Ownership",
+          "title": "Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI",
           "source": "Polygon",
-          "url": "https://www.polygon.com/power-to-the-players-act-ritchie-torres/",
-          "summary": "Representative Ritchie Torres will introduce the Power to the Players Act bill, which essentially grants players ownership of their digital games.",
-          "publishedAt": "2026-10-17T15:30:47.000Z",
+          "url": "https://www.polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development/",
+          "summary": "Tim Sweeney continues to advocate for the use of AI in video game development, stating that massive open-world games will be much more within reach.",
+          "publishedAt": "2026-10-18T15:43:33.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems",
+          "title": "13 Years Ago, 'The Legend of Korra' Finally Answered the Biggest Avatar Mystery",
           "source": "Polygon",
-          "url": "https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/",
-          "summary": "One of the most eye-catching new systems in Arcana Unleashed outlines how to let magic items grow with your players.",
-          "publishedAt": "2026-10-17T16:01:19.000Z",
+          "url": "https://www.polygon.com/avatar-legend-of-korra-beginnings-origin-story/",
+          "summary": "The Legend of Korra’s two-part origin story gave the Avatar a purpose — and a burden.",
+          "publishedAt": "2026-10-18T16:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The 8 Best Castlevania Games, Ranked",
+          "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-castlevania-games-ranked/",
-          "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
-          "publishedAt": "2026-10-17T16:01:19.000Z",
+          "url": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
+          "summary": "Street Fighter's opening weekend does not compare favorably to Resident Evil's box office performance",
+          "publishedAt": "2026-10-18T16:14:05.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+          "title": "8 Mass Effect Replay Ideas That Make the Trilogy Feel Brand-New",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mass-effect-challenge-runs/",
+          "summary": "Swap your class, tank a choice on purpose, or finish with one gun: eight Mass Effect challenge runs that make the trilogy feel brand new.",
+          "publishedAt": "2026-10-18T17:00:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-          "summary": "…if you get it on GOG, anyway.",
-          "publishedAt": "2026-10-17T15:45:38.000Z",
+          "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+          "summary": "\"I think what was achieved in the game is a wake-up call\".",
+          "publishedAt": "2026-10-18T12:41:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+          "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
-          "summary": "Flesh grinders of the world, unite.",
-          "publishedAt": "2026-10-17T16:00:00.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+          "summary": "The former game director of both Marathon and Valorant guides us through the games on his PC.",
+          "publishedAt": "2026-10-18T15:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
-          "summary": "Why are fighting game movies so scared of fighting tournaments? The Street Fighter movie is just the latest example.",
-          "publishedAt": "2026-10-17T12:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
-          "summary": "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
-          "publishedAt": "2026-10-17T13:00:00.000Z",
+          "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+          "summary": "The Fallen Emperor and Arc Frigate have me excited for the game's future.",
+          "publishedAt": "2026-10-18T16:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,7 +119,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-17T17:45:06.499Z",
+      "generatedAt": "2026-10-18T17:45:06.488Z",
       "items": [
         {
           "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
@@ -129,23 +129,41 @@
           "publishedAt": "2026-10-16T17:00:00.000Z",
           "tag": "Review",
           "_example": false
-        },
-        {
-          "title": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
-          "summary": "Penguin Colony is probably the best pisstake of Lovecraft and Lovecraftian horror I've played. It's the best because it places Lovecraft's universe at a creaturely remove, amplifying its absurdity wit",
-          "publishedAt": "2026-10-16T15:15:00.000Z",
-          "tag": "Review",
-          "_example": false
         }
       ]
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-17T17:45:06.499Z",
+      "generatedAt": "2026-10-18T17:45:06.488Z",
       "items": [
+        {
+          "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
+          "summary": "Drunken Goddess Reflux will no longer be at the Steam Next Fest, as developers opt for a closed playtest instead.",
+          "publishedAt": "2026-10-18T16:48:39.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
+          "summary": "With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself. Trailblaze",
+          "publishedAt": "2026-10-17T19:07:41.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+          "summary": "The developer behind Russian roulette anime game Drunken Goddess Reflux has canceled its plans for a public Steam demo, citing concerns over potential AI copycats.",
+          "publishedAt": "2026-10-17T23:00:23.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
         {
           "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
           "source": "PC Gamer",
@@ -154,41 +172,41 @@
           "publishedAt": "2026-10-17T12:04:00.000Z",
           "tag": "Preview",
           "_example": false
-        },
-        {
-          "title": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
-          "summary": "In what I suspect is the start of a trend, assuming it isn't one already, the creators of Drunken Goddess Reflux have yanked a planned public demo partly because they're concerned about people using g",
-          "publishedAt": "2026-10-16T16:50:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Modern Warfare 4 release times and early access explained",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-          "summary": "Here's what you can play and when.",
-          "publishedAt": "2026-10-16T12:44:53.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Here's Our First Look at Dark Link in The Legend of Zelda: Ocarina of Time Remake",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-ocarina-of-time-remake",
-          "summary": "Nintendo has shown off Dark Link in The Legend of Zelda: Ocarina of Time remake for the first time.",
-          "publishedAt": "2026-10-16T11:04:42.000Z",
-          "tag": "Preview",
-          "_example": false
         }
       ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-17T17:45:06.499Z",
+      "generatedAt": "2026-10-18T17:45:06.488Z",
       "items": [
+        {
+          "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+          "summary": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
+          "publishedAt": "2026-10-18T11:18:11.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+          "summary": "The administrator is currently seeking a buyer for the studio and its assets.",
+          "publishedAt": "2026-10-18T09:50:29.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+          "summary": "It's not just the principle of the thing: There could be more money up for grabs.",
+          "publishedAt": "2026-10-17T19:30:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
           "source": "Rock Paper Shotgun",
@@ -240,42 +258,6 @@
           "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
           "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
           "publishedAt": "2026-10-16T22:48:07.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
-          "summary": "The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, i",
-          "publishedAt": "2026-10-16T15:09:53.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-          "summary": "Quick! Hit left scratch ear! Hit down rub belly! Slap right bum pats! Annnnd you've died because you failed to parry a paw coming for you with the force of a vampire's claw. This is how I assume thing",
-          "publishedAt": "2026-10-16T16:21:53.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "'Pokémon TCG Pocket' Announces Big Update to Address Player Concerns",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/pokemon-tcg-pocket-fewer-set-releases/",
-          "summary": "After concerns over set fatigue, 'Pokémon TCG Pocket' will be slowing down its release cadence.",
-          "publishedAt": "2026-10-16T15:13:05.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
-          "summary": "The Blood of Dawnwalker update 1.1 adds directional animal petting and over 1,100 other improvements and fixes.",
-          "publishedAt": "2026-10-16T14:30:54.000Z",
           "tag": "Industry",
           "_example": false
         }

@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-17T17:30:03.586Z",
+  "updatedAt": "2026-10-18T17:30:03.539Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -1650,7 +1650,8 @@
       "platforms": [
         "Xbox Series X/S",
         "Windows PC",
-        "PlayStation 5"
+        "PlayStation 5",
+        "Xbox One"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -2470,6 +2471,17 @@
       "summary": "Discover pinball like never before with Appulse! The game is a roguelite shooter, where you protect a Galactic Federation ship! Upgrade your ball, your weapons and your ship to pushback waves of unwavering robots."
     },
     {
+      "id": "igdb-game-399078",
+      "title": "Reshine",
+      "date": "2026-11-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Gently restore old objects by cleaning away layers of dust, rust, and time. Reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. No management, no pressure - just you and the satisfaction of bringing vintage trea"
+    },
+    {
       "id": "igdb-game-329692",
       "title": "Am I Nima",
       "date": "2026-11-27",
@@ -2773,6 +2785,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight your way through a diverse world in this action-adventure side scroller, where you are given one weapon and die in one hit. Can you earn the right to peer beyond the Zeroed Abyss?"
+    },
+    {
+      "id": "igdb-game-305550",
+      "title": "Acts of Blood",
+      "date": "2026-12-04",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, brutal hand-to-hand combat. Set in dystopian city of Bandung, Indonesia."
     },
     {
       "id": "igdb-game-324950",
@@ -3336,6 +3361,17 @@
       "summary": "The award winning adventure returns with 4K visuals and remastered audio. A mysterious escapade of intrigue and deceit, in which journalist Nico Collard and her adventuring companion George Stobbart must overcome powerful forces from fulfilling their evil ambitions"
     },
     {
+      "id": "igdb-game-380440",
+      "title": "Inkblood",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You're an Inquisitor following a trail of death. A cult is at work, your predecessor has vanished, and the region teeters on the edge of chaos. Find the truth. Uphold the Inquisition. Do not fail."
+    },
+    {
       "id": "igdb-game-285768",
       "title": "Lost Hellden",
       "date": "2026-12-31",
@@ -3392,17 +3428,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "DreadOut 3 is a third-person horror adventure inspired by Asian - Indonesian urban legend. Follow Linda’s journey as a Keeper of the Dark into an interdimensional rabbit hole to find the source of unseen power threatening the balance of light and darkness."
-    },
-    {
-      "id": "igdb-game-380440",
-      "title": "Inkblood",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You're an Inquisitor following a trail of death. A cult is at work, your predecessor has vanished, and the region teeters on the edge of chaos. Find the truth. Uphold the Inquisition. Do not fail."
     },
     {
       "id": "igdb-game-252347",
@@ -3914,7 +3939,8 @@
       "date": "2026-12-31",
       "platforms": [
         "Xbox Series X/S",
-        "Windows PC"
+        "Windows PC",
+        "Xbox One"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -4076,6 +4102,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Take command of the last surviving fleet of humankind in Fragile Existence, a sci-fi RTS with fully 3D planet surfaces and vast solar systems to explore. Dispatch expeditions to find resources, build settlements, construct vital parts and supplies, and evolve your technology to m"
+    },
+    {
+      "id": "igdb-game-361817",
+      "title": "Grindworm",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A short horror game where you're buried alive in a collapsed underground mine, and your only hope for survival is an old mining machine. Workplace safety rules no longer apply. Just remember: Don't. Stop. Digging."
     },
     {
       "id": "igdb-game-239828",
@@ -4430,17 +4467,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Take off as a mischievous seagull, and soar into a captivating escapade! From playful pranks to selfless deeds, be the ultimate feathered troublemaker or a helpful hero. Solve puzzles, unravel secrets, and engage with an interactive world. Let your wings decide the fate of this c"
-    },
-    {
-      "id": "igdb-game-361817",
-      "title": "Grindworm",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A short horror game where you're buried alive in a collapsed underground mine, and your only hope for survival is an old mining machine. Workplace safety rules no longer apply. Just remember: Don't. Stop. Digging."
     },
     {
       "id": "igdb-game-189333",
@@ -4997,6 +5023,17 @@
       "summary": "Ghost Sector is a survival horror game where you play as M-07, a prototype machine trapped in a cybernetic facility during lockdown. Outwit the automated defenses, search for answers to your origin uncovering secrets, solving puzzles, and upgrade your abilities while preserving y"
     },
     {
+      "id": "igdb-game-363914",
+      "title": "Grobnopolis: Last Days",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You haven't been outside in quite a while. The sky was enveloped by a strange layer of clouds that's been blocking the sunlight for months. Something’s brewing in the air… and now it has found its way into your apartment."
+    },
+    {
       "id": "igdb-game-251065",
       "title": "Haruka: Beyond the Stars",
       "date": "2026-12-31",
@@ -5242,39 +5279,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Shadows of the Werewolf is a cinematic, third-person action-adventure game that places players in a suspenseful, horror-filled world. The story unfolds across various locations, including a suburban home and a mysterious forest retreat, where an innocent couple faces a relentless"
-    },
-    {
-      "id": "igdb-game-306921",
-      "title": "Sigils of Nightfall",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Sigils of Nightfall is a roguelike deckbuilder that combines dungeon crawling with elements of the award-winning RPG, Mörk Borg. Embark on a dark journey, improve your character, and survive at all costs — or be consumed by the horrors lurking in the darkness."
-    },
-    {
-      "id": "igdb-game-348286",
-      "title": "SkyRig",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build floating automated rigs in a volatile gas giant. Extract elements, synthesize compounds, and descend through atmospheric layers in this sci-fi systems-builder focused on chemistry, engineering, and survival."
-    },
-    {
-      "id": "igdb-game-250031",
-      "title": "Tako no Himitsu: Ocean of Secrets",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tako no Himitsu: Ocean of Secrets is an indie Action RPG made as a tribute to the Game Boy Advance era of gaming. A spiritual successor to Save me Mr Tako, play in a world where Octopuses were erased from history."
     }
   ],
   "undated": [
