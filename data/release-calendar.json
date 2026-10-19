@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-18T17:30:03.539Z",
+  "updatedAt": "2026-10-19T17:30:03.924Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -1381,6 +1381,19 @@
       "summary": "In this single-player narrative roguelite, govern a cursed island as you investigate your niece’s mysterious disappearance. Interrogate, trade, upgrade, and embark upon card-based expeditions to uncover dark secrets – before the next cataclysm strikes."
     },
     {
+      "id": "igdb-game-416102",
+      "title": "Crimson Desert: Charting the Unknown",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Reclaim power and reach beyond-into the unknown.The story of Pywel continues in Crimson Desert: Charting the Unknown as Kliff, Oongka, and Damiane set out to discover their purpose and shape their futures. However, as turmoil unfolds around them, each must fight to forge a path t"
+    },
+    {
       "id": "igdb-game-411706",
       "title": "Croc 2: Kingdom of the Gobbos",
       "date": "2026-10-29",
@@ -1416,19 +1429,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "New climbing locations, fresh problems, same freedom to climb!"
-    },
-    {
-      "id": "igdb-game-416102",
-      "title": "Crimson Desert: Charting the Unknown",
-      "date": "2026-10-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Reclaim power and reach beyond-into the unknown.The story of Pywel continues in Crimson Desert: Charting the Unknown as Kliff, Oongka, and Damiane set out to discover their purpose and shape their futures. However, as turmoil unfolds around them, each must fight to forge a path t"
     },
     {
       "id": "igdb-game-346441",
@@ -1488,6 +1488,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "After a mysterious explosion over Victorian London, Cummerbund Bandersnatch (a likeable, if dim-witted twit) visits his uncle's laboratory and discovers an experimental new formula guaranteeing a \"good time\" for whoever drinks it. Seduced by the promises in his uncle's journal, C"
+    },
+    {
+      "id": "igdb-game-347892",
+      "title": "Joe & Mac: Retro Collection",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Grab your club/hammer, the Stone Age is back and bigger than ever!\n\nFor the first time, three legendary adventures from the Joe & Mac universe are united in a single collection. Step back in time and join your favorite cavemen in their wildest escapades through jungle mayhem, fig"
     },
     {
       "id": "igdb-game-379670",
@@ -1689,6 +1702,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Jimin dreams of finally having her first birthday party, but what begins as a childhood wish unravels into social pressure, fragile friendships, family expectations, and consequences that hit closer than you’d like. Join Jimin in this coming-of-age story where every choice carrie"
+    },
+    {
+      "id": "igdb-game-388779",
+      "title": "Alchemortis",
+      "date": "2026-11-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Alchemortis is a roguelike inventory-management auto-battler about alchemy. Transmute and combine items to merge their stats, properties, and forms, then organize your inventory to unlock powerful synergies. Experiment, optimize, and craft the perfect build through the power of a"
     },
     {
       "id": "igdb-game-417172",
@@ -2159,6 +2183,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A disappearance in a secluded mountain. A village hiding its secrets. A detective running out of time. Hillthorn's investigation system encourages you to use logic and imagination. Combine actions, clues and characters to uncover the mystery."
+    },
+    {
+      "id": "igdb-game-424010",
+      "title": "Amusement Factory",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Amusement Factory is a cozy theme park builder with a bright, stylized look.\n\nYou start with an empty field, a bus stop and a bank balance, and you lay out everything else: roads, queues, rides, shops, arcades, and a lake with boats running laps of a route you painted yourself. G"
     },
     {
       "id": "igdb-game-422495",
@@ -2785,6 +2820,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight your way through a diverse world in this action-adventure side scroller, where you are given one weapon and die in one hit. Can you earn the right to peer beyond the Zeroed Abyss?"
+    },
+    {
+      "id": "igdb-game-362044",
+      "title": "Freestyle Football 2",
+      "date": "2026-12-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Freestyle Football 2 is a fast-paced, 5v5 match-based online multiplayer soccer game. Each position has a unique role, and you'll utilize a variety of strategies and skills to achieve victory with your team. Stylish play and unique characters transform the pitch into a stage."
     },
     {
       "id": "igdb-game-305550",
@@ -4469,6 +4517,17 @@
       "summary": "Take off as a mischievous seagull, and soar into a captivating escapade! From playful pranks to selfless deeds, be the ultimate feathered troublemaker or a helpful hero. Solve puzzles, unravel secrets, and engage with an interactive world. Let your wings decide the fate of this c"
     },
     {
+      "id": "igdb-game-363914",
+      "title": "Grobnopolis: Last Days",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You haven't been outside in quite a while. The sky was enveloped by a strange layer of clouds that's been blocking the sunlight for months. Something’s brewing in the air… and now it has found its way into your apartment."
+    },
+    {
       "id": "igdb-game-189333",
       "title": "Mars Tactics",
       "date": "2026-12-31",
@@ -5023,17 +5082,6 @@
       "summary": "Ghost Sector is a survival horror game where you play as M-07, a prototype machine trapped in a cybernetic facility during lockdown. Outwit the automated defenses, search for answers to your origin uncovering secrets, solving puzzles, and upgrade your abilities while preserving y"
     },
     {
-      "id": "igdb-game-363914",
-      "title": "Grobnopolis: Last Days",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You haven't been outside in quite a while. The sky was enveloped by a strange layer of clouds that's been blocking the sunlight for months. Something’s brewing in the air… and now it has found its way into your apartment."
-    },
-    {
       "id": "igdb-game-251065",
       "title": "Haruka: Beyond the Stars",
       "date": "2026-12-31",
@@ -5215,70 +5263,26 @@
       "summary": "Nightmare Circus is an action-adventure game where the player takes on the role of a Puppeteer trapped in the Nightmare Realm. Set out on a journey to find his friends and escape the nightmare!"
     },
     {
-      "id": "igdb-game-347868",
-      "title": "No Straight Roads 2",
+      "id": "igdb-game-311891",
+      "title": "Noblemen: 1941",
       "date": "2026-12-31",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Metronomik and Shueisha Games are thrilled to announce NSR2 – the explosive sequel to the hit action-music adventure NO STRAIGHT ROADS – coming to Steam in 2026."
+      "summary": "Set in an alternate reality World War II, Noblemen: 1941 mixes strategy, tactical decision-making, and 3rd person combat. Gameplay is a blend of realistic combat mechanics, historic influence, and fictional elements such as melee combat, heavy armor, mechs, battle suits, vampires"
     },
     {
-      "id": "igdb-game-211234",
-      "title": "Paws and Leaves: A Last Tale",
+      "id": "igdb-game-321176",
+      "title": "Nonolith",
       "date": "2026-12-31",
       "platforms": [
         "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Life flashes before your eyes when you die. Help Me Fox by finding his memories beyond life and experiencing a touching, cute, and scary tale."
-    },
-    {
-      "id": "igdb-game-261673",
-      "title": "Psychotic Bathtub",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Have a psychotic episode in your bathtub. Argue with a rubber duck, flood your bathroom and drown dad. Find your very own ending – or all of them."
-    },
-    {
-      "id": "igdb-game-399165",
-      "title": "Secret Files: Tunguska - Remastered",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The award-winning adventure classic returns as a remaster with modernized visuals and updated technology. Join Nina and Max on a globe-spanning investigation filled with puzzles, conspiracies, and danger - and uncover the secret of Tunguska that changes everything!"
-    },
-    {
-      "id": "igdb-game-301328",
-      "title": "Serial World",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"SerialWorld\" is a comedic yet serious RPG. Whether you've played deck-building games before or not, everyone can enjoy this adventurous tale. Embark on a journey into the mysterious world to solve the city's disturbances!"
-    },
-    {
-      "id": "igdb-game-315060",
-      "title": "Shadows of the Werewolf",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Shadows of the Werewolf is a cinematic, third-person action-adventure game that places players in a suspenseful, horror-filled world. The story unfolds across various locations, including a suburban home and a mysterious forest retreat, where an innocent couple faces a relentless"
+      "summary": "Discover the countless secrets of the NONOLITH. Copy and paste blocks to reach new areas, and master hidden mechanics that let you do the seemingly impossible. You are very powerful, you just don't know it yet."
     }
   ],
   "undated": [
