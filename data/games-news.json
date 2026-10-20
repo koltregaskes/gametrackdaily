@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-19T17:45:07.606Z",
+  "generated": "2026-10-20T17:46:12.167Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-19T17:45:07.606Z",
+      "generatedAt": "2026-10-20T17:46:12.167Z",
       "items": [
         {
-          "title": "After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date",
+          "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/",
-          "summary": "After more than a decade of development, developer Steph Thirion's chill sci-fi game has a release date of locked in. GameSpot can exclusively reveal that Faraway will launch on November 5 for PC, PS5",
-          "publishedAt": "2026-10-19T13:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
+          "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release . But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and ne",
+          "publishedAt": "2026-10-20T12:51:41.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Battlefield 6 Dev Owns Up To Mistakes With Strange-Looking Cosmetics, But Stays Silent On Possible AI Use",
+          "title": "“The Suits” Made All The Money From Call Of Duty: Black Ops 1 And 2 Ports, OG Dev Says",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/battlefield-6-dev-owns-up-to-mistakes-with-strange-looking-cosmetics-but-stays-silent-on-possible-ai-use/",
-          "summary": "Battlefield Studios has released a statement regarding Battlefield 6 after players came together to point out oddities and irregularities with some of the game's newest cosmetics, leading many to open",
-          "publishedAt": "2026-10-19T14:29:16.000Z",
+          "url": "https://www.gamespot.com/articles/the-suits-made-all-the-money-from-call-of-duty-black-ops-1-and-2-ports-og-dev-says/",
+          "summary": "Activision recently released ports of 2010's Call of Duty: Black Ops and 2012's Call of Duty: Black Ops 2 on PlayStation, and they were massive hits. According to a report, the games combined to sell ",
+          "publishedAt": "2026-10-20T13:50:20.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Wars Games Could Get More Interesting As Lucasfilm Looks Beyond The Big Studios",
+          "title": "Fortnite’s Obsession DLC Leaks, Includes A Twist On The Movie’s Iconic Line",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/star-wars-games-could-get-more-interesting-as-lucasfilm-looks-beyond-the-big-studios/",
-          "summary": "This year has seen the launch of two Star Wars games, with each one offering a new take on a galaxy far (far!) away. Bit Reactors' Star Wars Zero Company puts its best XCOM foot forward with an aggres",
-          "publishedAt": "2026-10-19T15:24:20.000Z",
+          "url": "https://www.gamespot.com/articles/fortnites-obsession-dlc-leaks-includes-a-twist-on-the-movies-iconic-line/",
+          "summary": "Fortnite's spooky season content is rolling out, and that includes the character Nikki from one of 2026's biggest movies, Obsession. Inde Navarrette's character from the Curry Barker movie is coming t",
+          "publishedAt": "2026-10-20T14:14:42.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Life has once again found a way in Athanasia, an \"immersive\" dinosaur FPS that feels like comfort food for Dino Crisis and System Shock players alike",
+          "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack/",
+          "summary": "Grand Theft Auto 6 doesn't just look visually impressive; it also has a killer sound thanks to French electronic music duo Justice. Composing the soundtrack for any game is no easy feat, but with GTA ",
+          "publishedAt": "2026-10-20T14:19:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/",
+          "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the next few weeks. We don’",
+          "publishedAt": "2026-10-20T15:15:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Netflix’s Push Into Gaming Continues To Fall Short",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/netflixs-push-into-gaming-continues-to-fall-short/",
+          "summary": "Netflix has undertaken efforts over the years to increase its footprint in the world of video games, but it's been a bumpy road, and new data suggests that the company is falling short of its targets.",
+          "publishedAt": "2026-10-20T15:25:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Here’s An Exclusive Look At How Cyberpunk: Edgerunners’ Cast Will Look In The Hit Trading Card Game",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/heres-an-exclusive-look-at-how-cyberpunk-edgerunners-cast-will-look-in-the-hit-trading-card-game/",
+          "summary": "Earlier this year, a new trading card game based on the hit Cyberpunk franchise hit Kickstarter and became the highest-funded game in Kickstarter's entire history . With the launch set now out in the ",
+          "publishedAt": "2026-10-20T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
+          "summary": "Right on schedule, the second wave of games coming to Xbox Game Pass has been revealed. After the first batch, which included Gears of War: E-Day, Battlefield 6, and more, the rest of the month will a",
+          "publishedAt": "2026-10-20T16:12:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/life-has-once-again-found-a-way-in-athanasia-an-immersive-dinosaur-fps-that-feels-like-comfort-food-for-dino-crisis-and-system-shock-players-alike",
-          "summary": "Good news, people who figure they are going to die of old age before they get another Dino Crisis ! Good news also, people who can't get enough throwback immersive sims! Even as Capcom forge ahead wit",
-          "publishedAt": "2026-10-19T11:17:27.000Z",
+          "url": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
+          "summary": "Umamusume: Pretty Derby has turned out to be one of the most popular games in the world, partly due to being a gacha game and partly due to making pretty girls out of very real Japanese racehorses (wh",
+          "publishedAt": "2026-10-20T12:05:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This week in PC games: build a better zombie in Stupid Never Dies, glue together houses in Cutout Village, and settle brave new worlds in Star Trek: Outposts Unknown",
+          "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-build-a-better-zombie-in-stupid-never-dies-glue-together-houses-in-cutout-village-and-settle-brave-new-worlds-in-star-trek-outposts-unknown",
-          "summary": "Hello all! Welcome to another wonderful week of PC games, and mounting bloodlust. As I type these words, a neighbour has started using a leafblower. I hate leafblowers. They are mutant hairdryers from",
-          "publishedAt": "2026-10-19T12:59:48.000Z",
+          "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
+          "summary": "I'm strongly of the opinion that loot boxes , gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for hav",
+          "publishedAt": "2026-10-20T14:45:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
+          "title": "\"It doesn’t have to always be triple-A\": Galactic Racer and Zero Company’s success has Lucasfilms wanting more smaller-scale Star Wars games",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
-          "summary": "In a metaphor far too on the nose to turn into any form of fiction, at least without the writer getting mercilessly cyberbullied, a game about finding a needle in a haystack has now become the genuine",
-          "publishedAt": "2026-10-19T13:25:56.000Z",
+          "url": "https://www.rockpapershotgun.com/it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys-success-has-lucasfilms-wanting-more-smaller-scale-star-wars-games",
+          "summary": "Star Wars: Galactic Racer has been fucking everywhere recently, seemingly both due to its actual quality as a game and also due to vast swathes of people falling in love with little mole guy Biddy Bla",
+          "publishedAt": "2026-10-20T15:00:36.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026",
-          "summary": "The second big expansion coming to Crusader Kings 3 this year finally has a proper release date. Silk and Silver, the gold-clinking sibling of recently released Church-centric DLC By God Alone, will a",
-          "publishedAt": "2026-10-19T14:55:52.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Sexy sorceresses\" and \"bare-chested fighters\": Dragon Age's original artists wanted to base it on Conan the Barbarian, much to the outrage of the designers",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sexy-sorceresses-and-bare-chested-fighters-dragon-ages-original-artists-wanted-to-base-it-on-conan-the-barbarian-much-to-the-outrage-of-the-designers",
-          "summary": "Buried in the vast and sooty-fingered Summer Eternal anthology , there's an interview with former BioWare developer and Dragon Age lead writer David Gaider, who is now creative director at Stray Gods ",
-          "publishedAt": "2026-10-19T16:05:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"I was a real anglophile\": A Canadian's obsession with Viz magazine is why Grand Theft Auto: London's streets are covered in dogs' eggs",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-was-a-real-anglophile-a-canadians-obsession-with-viz-magazine-is-why-grand-theft-auto-londons-streets-are-covered-in-dogs-eggs",
-          "summary": "The Grand Theft Auto games have a long history of being made by developers who live far from their source material. The original game and its mainline sequels have all been led by Rockstar North, hous",
-          "publishedAt": "2026-10-19T16:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Game Pass Is Officially Losing One of the Best Star Wars Games of All Time This Month",
+          "title": "Disney Finally Has a Plan To Save Star Wars, but There’s a Catch",
           "source": "Polygon",
-          "url": "https://www.polygon.com/xbox-game-pass-october-2026-leaving-star-wars-skywalker-saga-double-fine/",
-          "summary": "Lego Star Wars and Day of the Tentacle lead final batch of games leaving Xbox Game Pass in October",
-          "publishedAt": "2026-10-19T15:23:09.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Where to find penny buns in Enshrouded",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/enshrouded-penny-buns-how-to-get/",
-          "summary": "Here's where to find the best penny bun farming spot in Enshrouded.",
-          "publishedAt": "2026-10-19T15:30:22.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Lord of the Rings Director Says He’s Finally Making His Tintin Sequel",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/",
-          "summary": "Peter Jackson gave an update on his upcoming The Adventures of Tintin sequel and has new information on the next two Lord of the Rings movies.",
-          "publishedAt": "2026-10-19T15:34:50.000Z",
+          "url": "https://www.polygon.com/star-wars-video-games-lucasfilm-disney/",
+          "summary": "Lucasfilm's path is moving Star Wars away from relying on nostalgia and toward greater flexibility. Now Star Wars TV and film need to follow suit.",
+          "publishedAt": "2026-10-20T15:30:17.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,41 +119,41 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-19T17:45:07.606Z",
+      "generatedAt": "2026-10-20T17:46:12.167Z",
       "items": [
         {
-          "title": "GameSir Nova Lite 2 review",
+          "title": "Asus ProArt P16 (H7607) RTX Spark laptop review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-          "summary": "The best deal in controllers at $30 or less right now.",
-          "publishedAt": "2026-10-19T15:01:40.000Z",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/",
+          "summary": "The best RTX Spark machine, but is it the best for you? Probably not…",
+          "publishedAt": "2026-10-20T16:08:45.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Star Wars Zero Company review",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-review",
-          "summary": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company. The fate of its eponymous crew - short of cash, betrayed by the shifting sands of circumstance in a ",
-          "publishedAt": "2026-10-19T13:05:47.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk: Edgerunners 2 Review",
+          "title": "Wicker Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/cyberpunk-edgerunners-2-review",
-          "summary": "Cyberpunk: Edgerunners 2 review: Welcome back to Night City, but beware the corpos.",
-          "publishedAt": "2026-10-19T07:01:00.000Z",
+          "url": "https://www.ign.com/articles/wicker-review",
+          "summary": "Wicker review: An immersive and romantic journey to a dark and whimsical reality just beyond our own.",
+          "publishedAt": "2026-10-20T16:26:08.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-          "summary": "All the interesting Steam facts for the week ending October 18.",
-          "publishedAt": "2026-10-19T03:00:45.000Z",
+          "title": "Final Fantasy Resonance review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
+          "summary": "I think the most memorable bit of brilliance in the otherwise flawed diamond that is Final Fantasy 16 is the way it handles legacy. There are moments where Clive and his recalcitrant band of revolutio",
+          "publishedAt": "2026-10-20T13:00:39.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Nintendo Switch Sports Resort review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
+          "summary": "One of my very favourite things to do in Switch Sports Resort isn't, technically, a sport at all. I can't get enough of Prop Plane's free-play mode, taking to the skies, and watching Wuhu Island do it",
+          "publishedAt": "2026-10-20T13:03:25.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -162,23 +162,32 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-19T17:45:07.606Z",
+      "generatedAt": "2026-10-20T17:46:12.167Z",
       "items": [
         {
-          "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
-          "summary": "Drunken Goddess Reflux will no longer be at the Steam Next Fest, as developers opt for a closed playtest instead.",
-          "publishedAt": "2026-10-18T16:48:39.000Z",
+          "title": "The demo for city-flattening fighting game Godzilla: Destroy All Monsters Melee Remastered is a roaring good time, no nostalgia required",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-demo-for-city-flattening-fighting-game-godzilla-destroy-all-monsters-melee-remastered-is-a-roaring-good-time-no-nostalgia-required",
+          "summary": "Despite being a lover of the King of the Monsters, I was unfortunately too young to experience Pipeworks Software's Godzilla trilogy of 3D kaiju-fighters back its PS2/Gamecube-era heyday (there was a ",
+          "publishedAt": "2026-10-20T15:30:13.000Z",
           "tag": "Preview",
           "_example": false
         },
         {
-          "title": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
+          "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+          "summary": "Spooky, dark, deep.",
+          "publishedAt": "2026-10-20T10:32:58.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
-          "summary": "With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself. Trailblaze",
-          "publishedAt": "2026-10-17T19:07:41.000Z",
+          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+          "summary": "Moonlighter and Cataclismo developers Digital Sun Games have postponed a public Steam playtest for their new game ReVamp , for fear of people using generative AI to clone their work before release. Re",
+          "publishedAt": "2026-10-19T17:02:28.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -187,104 +196,113 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-19T17:45:07.606Z",
+      "generatedAt": "2026-10-20T17:46:12.167Z",
       "items": [
         {
-          "title": "Open-World Crime Game Samson Did Better On Console But Not Enough To Save Its Developer From Shutting Down",
+          "title": "Cyberpunk 2077 Is Celebrating Edgerunners Season 2 With A Surprise Update",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/",
-          "summary": "Liquid Swords, the Swedish developer behind the crime game Samson , is closing up shop. Founder Christofer Sundberg confirmed this after bankruptcy reports emerged, stating directly, \"Liquid Swords is",
-          "publishedAt": "2026-10-19T15:12:36.000Z",
+          "url": "https://www.gamespot.com/articles/cyberpunk-2077-is-celebrating-edgerunners-season-2-with-a-surprise-update/",
+          "summary": "As Cyberpunk 2077' s sixth anniversary approaches, developer CD Projekt Red has announced Update 2.5, timed to coincide with the second season of the anime spin-off series, Cyberpunk Edgerunners. The ",
+          "publishedAt": "2026-10-20T12:19:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Saros Gets Boss Rush And Tons Of Difficulty Options With Zenith Update",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/",
-          "summary": "Saros is a phenomenal sci-fi shooter, and it currently stands as my favorite game of 2026. If you've been waiting for the right time to play it--or to play it again--then developer Housemarque has som",
-          "publishedAt": "2026-10-19T16:19:09.000Z",
+          "title": "Steady yourself, Mortal Shell 2's Rotten Autumn update comes packed with 15 new dungeons, a photo mode, an alternative soundtrack, and a neat pumpkin helmet",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steady-yourself-mortal-shell-2s-rotten-autumn-update-comes-packed-with-15-new-dungeons-a-photo-mode-an-alternative-soundtrack-and-a-neat-pumpkin-helmet",
+          "summary": "How's your autumn going? Mine's fine so far, I've switched back to hot beverages, as much as every cell in my being screams to ask for ice. But I reckon that sounds better than the autumn Mortal Shell",
+          "publishedAt": "2026-10-20T16:03:25.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Saros' Biggest Update Yet Officially Gets Release Date and Full Details",
+          "title": "Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/",
+          "summary": "\"Basically, your sales curve becomes like a roller coaster.\"",
+          "publishedAt": "2026-10-20T12:44:51.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
+          "summary": "Together at last?",
+          "publishedAt": "2026-10-20T14:46:51.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "DLSS Swapper now lets you update all your upscalers in multiple games at once, adds Nvidia's new Frame Generation Preset C",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-swapper-now-lets-you-update-all-your-upscalers-in-multiple-games-at-once-adds-nvidias-new-frame-generation-preset-c/",
+          "summary": "Everything, everywhere, all at once.",
+          "publishedAt": "2026-10-20T16:01:15.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
+          "summary": "A former long-time Call of Duty developer has called out Activision executives profiteering from the re-release of games like Black Ops 1 and 2, whereas the developers who contributed \"blood, sweat, a",
+          "publishedAt": "2026-10-20T15:45:04.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Xbox 'Business Strategist' Claims Video Game Industry Is 'Pretending to Not Use AI,' Deletes Twitter Account After Deluge of Replies",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
+          "summary": "An Xbox staff member went viral this week for taking to social media to tell \"the truth that nobody wants you to know\": that the video game industry is \"pretending\" to not use AI.",
+          "publishedAt": "2026-10-20T09:30:25.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
+          "summary": "CD Projekt has announced a surprise update to Cyberpunk 2077, due out this week.",
+          "publishedAt": "2026-10-20T10:16:58.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
+          "summary": "Origame Digital, the studio behind 2020's critically acclaimed Umurangi Generation , has just released a new game but banned it from being sold in Israel. Read more",
+          "publishedAt": "2026-10-20T08:49:14.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Star Wars Battlefront 3: Bungie Rumored as New Developer",
           "source": "Polygon",
-          "url": "https://www.polygon.com/saros-zenith-update-accessibility-boss-rush-release-date/",
-          "summary": "Saros is getting the free Zenith update later today, which will add Boss Rush, New Game Plus, accessibility options, and more",
-          "publishedAt": "2026-10-19T14:11:41.000Z",
+          "url": "https://www.polygon.com/star-wars-battlefront-3-rumor-bungie-dice-disney/",
+          "summary": "Disney is reportedly looking to Bungie or EA DICE to make Star Wars Battlefront 3 in response to renewed popularity for 2017's Battlefront 2.",
+          "publishedAt": "2026-10-19T20:33:08.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
-          "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
-          "publishedAt": "2026-10-19T15:57:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
-          "summary": "CD Projekt Red is currently rolling the promised Switch 2 patch for The Witcher 3: Wild Hunt - Remastered, addressing a number of issues in the game. Read more",
-          "publishedAt": "2026-10-19T12:13:14.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus",
-          "summary": "Bullet-dodging PlayStation shooter Saros has welcomed a sizeable Zenith update today, which has the twin aims of making the game both more accessible for those who haven't played it (or are struggling",
-          "publishedAt": "2026-10-19T13:56:34.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Dune: Awakening studio faces layoffs as it restructures following console release",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring",
-          "summary": "Norwegian developer Funcom, creator of Dune: Awakening and Conan Exiles - and many other games - is entering a period of restructuring and bracing for layoffs as a result. You may remember the company",
-          "publishedAt": "2026-10-19T10:47:29.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
-          "summary": "Silent Hill developer Bloober Team wants to make physical versions of its games \"for as long as possible.\"",
-          "publishedAt": "2026-10-18T19:55:44.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+          "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
-          "summary": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
-          "publishedAt": "2026-10-18T11:18:11.000Z",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+          "summary": "Business strategy manager Brandon Stirrup said he was \"happy to take the hit\" for his stance on AI, then left social media.",
+          "publishedAt": "2026-10-19T20:44:12.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Liquid Swords founder confirms that the Samson studio has closed",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
-          "summary": "UPDATE 19TH OCTOBER: Liquid Swords founder and CCO Christofer Sundberg has confirmed the studio's closure. Read more",
-          "publishedAt": "2026-10-18T15:21:13.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+          "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-          "summary": "The administrator is currently seeking a buyer for the studio and its assets.",
-          "publishedAt": "2026-10-18T09:50:29.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+          "summary": "ReVamp will get a limited Discord playtest.",
+          "publishedAt": "2026-10-19T23:33:09.000Z",
           "tag": "Industry",
           "_example": false
         }
