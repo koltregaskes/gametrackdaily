@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-20T17:30:10.512Z",
+  "updatedAt": "2026-10-21T17:30:06.164Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,75 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-393015",
-      "title": "We Were Here Tomorrow",
-      "date": "2026-10-19",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "You and your partner are taken to a mysterious facility where communication and cooperation are your lifelines. This asymmetrical co-op adventure will have you uncover secrets that will shape the fate of Tomorrow…"
-    },
-    {
-      "id": "igdb-game-405102",
-      "title": "Star Trek: Outposts Unknown",
-      "date": "2026-10-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lead your crew across strange new worlds in this narrative driven outpost builder! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain!"
-    },
-    {
-      "id": "igdb-game-416083",
-      "title": "Dino Crisis 2",
-      "date": "2026-10-19",
-      "platforms": [
-        "PlayStation 4",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A port of Dino Crisis 2 originally released on the PlayStation, enhanced with up-rendering, rewind, quick save, and custom video filters."
-    },
-    {
-      "id": "igdb-game-183157",
-      "title": "A Sister's Journey",
-      "date": "2026-10-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a charmingly beautiful, hand-crafted pixel art world and help Violet on her journey searching for her sister. Uncover its mysteries, face its threatening foes, and run 'n gun your way through this challenging action-metroidvania - which will put your true platforming skil"
-    },
-    {
-      "id": "igdb-game-343199",
-      "title": "Out of the Shadows",
-      "date": "2026-10-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Out of the Shadows is a cooperative game (up to 4 players) that blends exploration, tension, and coordination. Infiltrate abandoned locations, solve complex puzzles, and survive the unsettling presence of those who still linger there..."
-    },
-    {
-      "id": "igdb-game-423070",
-      "title": "Sloptoberfest",
-      "date": "2026-10-19",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A chaotic festival tent simulator for up to 4 players. Run your own Oktoberfest beer tent, serve beer and food, expand your business, hire staff, brew your own beer, and sabotage the competition."
-    },
-    {
       "id": "igdb-game-381212",
       "title": "Stupid Never Dies",
       "date": "2026-10-20",
@@ -746,6 +677,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Embark on this Lovecraft-inspired tale and discover the mysteries that await you in this island. Explore the enigmatic lighthouse, solve challenging puzzles and most importantly: try not to lose your sanity when facing the darkness of your mind."
+    },
+    {
+      "id": "igdb-game-404431",
+      "title": "Woim",
+      "date": "2026-10-20",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "If you were a woim, could you still solve puzzles? in this rock pushing, egg cracking, woim snipping, puzzle game, you'll use your long, wriggly body to solve brain teasing puzzles, and find your way through the underground world of dirt you call home."
     },
     {
       "id": "igdb-game-405454",
@@ -958,6 +900,18 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Last Floor is a first-person psychological horror game focused on observation and anomaly detection. The player navigates a looping hospital corridor and must identify subtle changes in the environment.\n\nEach run begins in an elevator and progresses through an identical hallway. "
+    },
+    {
+      "id": "igdb-game-380980",
+      "title": "Scramble Knights Online",
+      "date": "2026-10-26",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to Scramble Knights Online! Embark together with friends on bite-sized, Zelda-inspired quests in the shared online kingdom of Terracotta! Venture across an archipelago filled with dangerous enemies, quaint towns, puzzling dungeons, and challenges suited for a knight-in-tr"
     },
     {
       "id": "igdb-game-414857",
@@ -1237,6 +1191,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Explore the scenes, find clues, and sort out people, pets, and belongings in this cozy slice-of-life detective puzzle game. Fans of Duck Detective, Little Problems, and The Case of the Worst Day Ever will enjoy this new deduction game for all ages."
+    },
+    {
+      "id": "igdb-game-375040",
+      "title": "Hypnosync",
+      "date": "2026-10-28",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "RHYTHM x HYPNOSIS. You are forced into being the manager of the brand new music game arcade, HYPNOSYNC! With your newfound hypnosis ability, hypnotize customers to the beat and turn them into your very own mindless employees!"
     },
     {
       "id": "igdb-game-418751",
@@ -2185,6 +2150,19 @@
       "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
     },
     {
+      "id": "igdb-game-424208",
+      "title": "Shrek 2 Remastered",
+      "date": "2026-11-10",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics."
+    },
+    {
       "id": "igdb-game-424010",
       "title": "Amusement Factory",
       "date": "2026-11-10",
@@ -2373,7 +2351,10 @@
       "title": "Derelikt",
       "date": "2026-11-13",
       "platforms": [
-        "Windows PC"
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -2619,17 +2600,6 @@
       "summary": "Beautiful Light is a PvPvP(vE) tactical first-person extraction shooter where 6 squads of 3 operators are tasked with entering, securing, and extracting an artifact in a hostile, horrific environment. Face other operators and player-controlled anomalies, but beware: mistakes can "
     },
     {
-      "id": "igdb-game-415120",
-      "title": "Dumpster Gang",
-      "date": "2026-12-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
-    },
-    {
       "id": "igdb-game-418084",
       "title": "Call of Blood",
       "date": "2026-12-01",
@@ -2639,6 +2609,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The game takes place in 2009-2011.\n\nCall of Blood is a cinematic single-player first-person shooter that immerses you in a gritty survival experience. The world is engulfed in a zombie outbreak, but the walking dead are far from your only problem.\n\nYou became the most wanted targ"
+    },
+    {
+      "id": "igdb-game-415120",
+      "title": "Dumpster Gang",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
     },
     {
       "id": "igdb-game-23163",
@@ -2705,6 +2686,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "An upcoming port of Former Dawn for the PC"
+    },
+    {
+      "id": "igdb-game-373539",
+      "title": "Omertà: Mafia Novel",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Noir visual novel set in 1950s New York. Infiltrate a prison, build a smuggling network, and shape fates through tough choices across branching paths."
     },
     {
       "id": "igdb-game-358369",
@@ -5280,6 +5272,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lurking is a first-person survival horror game set in a building infested by giant spiders. Search for tools and weapons to fight back and survive. Find a way out before you're eaten alive."
+    },
+    {
+      "id": "igdb-game-405152",
+      "title": "Maximum Thunderness",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities."
     }
   ],
   "undated": [
