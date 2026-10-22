@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-21T17:30:06.164Z",
+  "updatedAt": "2026-10-22T17:30:02.394Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,55 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-381212",
-      "title": "Stupid Never Dies",
-      "date": "2026-10-20",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Turn weak zombie Davy stupid strong, stupid fast in this Blazing Fast Growth action RPG! Devour enemies, steal powers, transform, and brave a deadly dungeon to revive frozen Julia."
-    },
-    {
-      "id": "igdb-game-127780",
-      "title": "The House in the Hollow",
-      "date": "2026-10-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "With stunning graphics, inspired by the 1920's Art Deco period, and a chilling soundtrack, the \"House In The Hollow\" will take you on a journey like no other. A journey filled with mystery, horror, and magic, where you are the master of your own fate."
-    },
-    {
-      "id": "igdb-game-158068",
-      "title": "Lighthouse of Madness",
-      "date": "2026-10-20",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Embark on this Lovecraft-inspired tale and discover the mysteries that await you in this island. Explore the enigmatic lighthouse, solve challenging puzzles and most importantly: try not to lose your sanity when facing the darkness of your mind."
-    },
-    {
-      "id": "igdb-game-404431",
-      "title": "Woim",
-      "date": "2026-10-20",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "If you were a woim, could you still solve puzzles? in this rock pushing, egg cracking, woim snipping, puzzle game, you'll use your long, wriggly body to solve brain teasing puzzles, and find your way through the underground world of dirt you call home."
-    },
-    {
       "id": "igdb-game-405454",
       "title": "Final Fantasy Resonance",
       "date": "2026-10-21",
@@ -1316,7 +1267,18 @@
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about the locals. Her approach, although controversial, is highly effective: intense and obsessive stalking."
+      "summary": "Join Tom, the village’s new postgirl, and get to know the locals, perhaps a little too well. Her method, although controversial, is highly effective: intense, obsessive stalking."
+    },
+    {
+      "id": "igdb-game-183657",
+      "title": "Cop Bastard",
+      "date": "2026-10-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cop Bastard - is a сlassic FPS takes place in the early 90s in Japan. Fight against yakuza, and other mobs..."
     },
     {
       "id": "igdb-game-405077",
@@ -1750,6 +1712,17 @@
       "summary": "Discover hidden truths about the world in this 3D adventure about a giraffe with an unreasonably long neck. Figure out the rules, solve strange mysteries, and stumble upon unexpected twists. Choose your own path."
     },
     {
+      "id": "igdb-game-368923",
+      "title": "Boost Vector EX",
+      "date": "2026-11-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Run fast. Faster than any other. Take control of a Vector Master and sprint in uncompromising pure parkour racing. Hone your style with responsive, flowing controls and break limits in the Premier Vector World Cup. The race, your friends, and victory beckon your arrival... Did I "
+    },
+    {
       "id": "igdb-game-397816",
       "title": "Brotato: Primal Dread",
       "date": "2026-11-02",
@@ -2036,6 +2009,17 @@
       "summary": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for anything around it. There is only one way."
     },
     {
+      "id": "igdb-game-389458",
+      "title": "Underkeep",
+      "date": "2026-11-05",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear and descend into the depths of the Underkeep to uncover what lies hidden below."
+    },
+    {
       "id": "igdb-game-399408",
       "title": "Crymelight",
       "date": "2026-11-05",
@@ -2057,6 +2041,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Bring prestige back to Earth by building your engines and finding Glory on Pluto in this offbeat and unique deckbuilding rougelike."
+    },
+    {
+      "id": "igdb-game-360263",
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 5 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subject"
     },
     {
       "id": "igdb-game-258341",
@@ -2128,6 +2123,19 @@
       "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive mul"
     },
     {
+      "id": "igdb-game-424208",
+      "title": "Shrek 2 Remastered",
+      "date": "2026-11-10",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics."
+    },
+    {
       "id": "igdb-game-343166",
       "title": "Hillthorn",
       "date": "2026-11-10",
@@ -2148,19 +2156,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
-    },
-    {
-      "id": "igdb-game-424208",
-      "title": "Shrek 2 Remastered",
-      "date": "2026-11-10",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics."
     },
     {
       "id": "igdb-game-424010",
@@ -2306,6 +2301,17 @@
       "summary": "Explore a whimsical island to find… pie recipes?! Bake them by gathering or growing ingredients, which may be the key to helping out your new found quirky friends leave the island! In this wholesome 3D platformer collectathon, you can enjoy discovering the world freely at your ow"
     },
     {
+      "id": "igdb-game-404859",
+      "title": "Moomin Midsummer Madness",
+      "date": "2026-11-12",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Midsummer is right around the corner in Moominvalley, when a sudden flood sets the Moomins adrift! Join Tove Jansson’s beloved Moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre."
+    },
+    {
       "id": "igdb-game-404714",
       "title": "Sonic Pico Park",
       "date": "2026-11-12",
@@ -2436,6 +2442,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Year 41 without the sun. Inside the skeleton of a colossal sea creature, the lighthouses burn memories for light. A late-90s-style JRPG with pre-rendered backdrops, three discs, time-gauge battles and a mechanic with a giant wrench who always keeps his word."
+    },
+    {
+      "id": "igdb-game-388729",
+      "title": "Clicky Islands",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Clicky Islands is a unique blend of incremental gameplay, clicker mechanics, city-builder elements, and resource management. You play as a governor appointed by the king to discover and develop a new island for his future kingdom."
     },
     {
       "id": "igdb-game-389217",
@@ -3405,19 +3422,6 @@
       "summary": "In this first-person, narrative-focused survival horror, you play as Penn, a hyper-intelligent chimpanzee. Hunted at every turn, your only chance of survival lies in scavenging, crafting, and exploring Anchorage Station. An epic story awaits. Be quick and quiet. Time is running o"
     },
     {
-      "id": "igdb-game-368311",
-      "title": "Arkheron",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this fast-paced, dynamic PvP game from Bonfire Studios, teams of three battle to ascend a mysterious Tower built from fragments of their life before. Here, items are the heroes - each one imbued with powerful abilities that shape how you fight, adapt, and outplay other teams. "
-    },
-    {
       "id": "igdb-game-317817",
       "title": "Tanuki: Pon's Summer",
       "date": "2026-12-31",
@@ -3431,6 +3435,19 @@
       "summary": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for t"
     },
     {
+      "id": "igdb-game-368311",
+      "title": "Arkheron",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this fast-paced, dynamic PvP game from Bonfire Studios, teams of three battle to ascend a mysterious Tower built from fragments of their life before. Here, items are the heroes - each one imbued with powerful abilities that shape how you fight, adapt, and outplay other teams. "
+    },
+    {
       "id": "igdb-game-404896",
       "title": "Arizona Sunshine",
       "date": "2026-12-31",
@@ -3442,17 +3459,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Sharpen your machete and grab your friends. Arizona Sunshine brings its award-winning zombie apocalypse to explosive third-person action, featuring online and split-screen co-op, brutal combat, dark humor, and Buddy, your loyal zombie-chomping canine companion."
-    },
-    {
-      "id": "igdb-game-360263",
-      "title": "Casualties: Unknown",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 5 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subject"
     },
     {
       "id": "igdb-game-380440",
@@ -3502,6 +3508,18 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lost Hellden is a unique 3D hand-painted J-RPG from Artisan Studios, enhanced by dynamic lighting and weather effects. Follow Cyphel and his allies as a mature story unfolds. Customize your characters as you see fit and dive into a battle system that mixes action and strategy."
+    },
+    {
+      "id": "igdb-game-370711",
+      "title": "Parasite Mutant",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Parasite Mutant is a science-fiction horror RPG set in the distant future. Psionic agent Nova was sent on a mission to an abandoned and secluded island city filled with horrifying creatures, not knowing that what happened on the island will completely change her fate."
     },
     {
       "id": "igdb-game-252349",
@@ -3583,18 +3601,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Welcome to Loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! Connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together."
-    },
-    {
-      "id": "igdb-game-370711",
-      "title": "Parasite Mutant",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Parasite Mutant is a science-fiction horror RPG set in the distant future. Psionic agent Nova was sent on a mission to an abandoned and secluded island city filled with horrifying creatures, not knowing that what happened on the island will completely change her fate."
     },
     {
       "id": "igdb-game-305031",
@@ -3869,6 +3875,19 @@
       "summary": "Step into the enigmatic world of Gummy Nightmares as a little boy who wakes up in a mysterious amusement park with no memory. Explore, solve puzzles, and uncover lost memories while evading sinister plushie robots. Use weapons, set traps, and find hideouts to survive and reveal t"
     },
     {
+      "id": "igdb-game-265621",
+      "title": "Hollow Home",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Hollow Home is an isometric narrative RPG about the russian invasion of Ukraine, told from the perspective of a teenager trapped inside an occupied city. Learn survival skills, build relationships and face tough choices as each passing day brings new tragedies and destruction to "
+    },
+    {
       "id": "igdb-game-381684",
       "title": "Hollow Knight: Silksong - Sea of Sorrow",
       "date": "2026-12-31",
@@ -4061,19 +4080,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A short horror game where you're buried alive in a collapsed underground mine, and your only hope for survival is an old mining machine. Workplace safety rules no longer apply. Just remember: Don't. Stop. Digging."
-    },
-    {
-      "id": "igdb-game-265621",
-      "title": "Hollow Home",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hollow Home is an isometric narrative RPG about the russian invasion of Ukraine, told from the perspective of a teenager trapped inside an occupied city. Learn survival skills, build relationships and face tough choices as each passing day brings new tragedies and destruction to "
     },
     {
       "id": "igdb-game-317592",
@@ -4640,17 +4646,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "An epic 2D pixel art style Metroidvania, inspired by Moroccan culture and spiritual traditions. Wield powerful ancient weapons and forge your way through unrelenting deserts, crumbling necropoli, floating islands and dangerous mountains as you try to uncover the secret of the las"
-    },
-    {
-      "id": "igdb-game-404859",
-      "title": "Moomin Midsummer Madness",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Midsummer is right around the corner in Moominvalley, when a sudden flood sets the Moomins adrift! Join Tove Jansson’s beloved Moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre."
     },
     {
       "id": "igdb-game-131231",

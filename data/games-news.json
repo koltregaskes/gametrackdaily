@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-21T17:45:09.401Z",
+  "generated": "2026-10-22T17:45:10.044Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-21T17:45:09.401Z",
+      "generatedAt": "2026-10-22T17:45:10.044Z",
       "items": [
         {
-          "title": "PS5’s Biggest Physical Games Look Very Different From Its Biggest Digital Hits",
+          "title": "If You Want Heartfelt BioWare Eulogies, Check The Comments",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ps5s-biggest-physical-games-look-very-different-from-its-biggest-digital-hits/",
-          "summary": "The furore over Sony's decision to effectively kill physical games on its PlayStation platform appears to have died down (for now), and new data from Alinea Analytics shows how wide the split between ",
-          "publishedAt": "2026-10-21T12:00:22.000Z",
+          "url": "https://www.gamespot.com/articles/if-you-want-heartfelt-bioware-eulogies-check-the-comments/",
+          "summary": "After Bloomberg broke the news of BioWare's shutting down at the hands of Electronic Arts, I searched for one of my favorite video game pieces of all time, the fittingly named \" An End Once And For Al",
+          "publishedAt": "2026-10-22T12:32:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Prospective Buyers Reportedly Value Xbox As High As $150 Billion",
+          "title": "NBA 2K27 Dunks On Resident Evil Requiem To Become The US’s Best-Selling Game Of 2026",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/",
-          "summary": "Everything has a selling price, and in Xbox's case, Microsoft's gaming division could be worth at least $100 billion. That's according to a new report, which claims that several private equity firms m",
-          "publishedAt": "2026-10-21T12:56:23.000Z",
+          "url": "https://www.gamespot.com/articles/nba-2k27-dunks-on-resident-evil-requiem-to-become-the-uss-best-selling-game-of-2026/",
+          "summary": "Resident Evil Requiem emerged as one of 2026's first big hits when it launched earlier this year, quickly setting new records for Capcom's survival-horror-action series. In the US, it has been the yea",
+          "publishedAt": "2026-10-22T13:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says",
+          "title": "Marvel’s Wolverine Proves You Shouldn’t Always Trust What You See On Social Media",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/",
-          "summary": "Xbox CEO Asha Sharma is reportedly plotting a \"major overhaul\" of the Xbox Game Pass service, beyond some of the big changes she's made already like dropping new Call of Duty game releases from the me",
-          "publishedAt": "2026-10-21T13:04:31.000Z",
+          "url": "https://www.gamespot.com/articles/marvels-wolverine-proves-you-shouldnt-always-trust-what-you-see-on-social-media/",
+          "summary": "Despite mixed reviews and lukewarm player reception, Marvel's Wolverine has done surprisingly well on the sales chart and set a new record for Sony. New data shared by Circana shows Marvel’s Wolverine",
+          "publishedAt": "2026-10-22T13:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "After 15-Year Absence, EA Is Bringing Back The Fight Night Franchise",
+          "title": "Mass Effect TV Show Still Going Ahead After EA Cancels Mass Effect 5 And Closes BioWare, Report Says",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/after-15-year-absence-ea-is-bringing-back-the-fight-night-franchise/",
-          "summary": "EA Sports has announced that its Fight Night series of boxing games is coming back. Fans have been waiting a very long time, considering the last game in the series was 2011's Fight Night Champion for",
-          "publishedAt": "2026-10-21T13:37:04.000Z",
+          "url": "https://www.gamespot.com/articles/mass-effect-tv-show-still-going-ahead-after-ea-cancels-mass-effect-5-and-closes-bioware-report-says/",
+          "summary": "While EA has closed BioWare and canceled the next Mass Effect game , the TV show based on the sci-fi series remains in development, according to a source speaking to IGN . The source said all the key ",
+          "publishedAt": "2026-10-22T13:22:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Halo 3 Looks Like It Could Come To Browsers Via Xbox Labs",
+          "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/halo-3-looks-like-it-could-come-to-browsers-via-xbox-labs/",
-          "summary": "We just got our strongest hint at what Xbox Labs might be \"cooking up\" for players, thanks to Xbox chief technology officer Scott Van Vliet. The executive posted a video on X that ends with Halo 3 boo",
-          "publishedAt": "2026-10-21T13:56:38.000Z",
+          "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
+          "summary": "Rockstar's marketing efforts for GTA 6 are ramping up, and this now includes burgers and fried chicken that you can buy in real life. Rockstar's partnership with Miami's Kaseya Center expanded this we",
+          "publishedAt": "2026-10-22T13:26:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Diablo Is Getting A New Board Game, And You Can Play It Solo",
+          "title": "Resident Evil Director Zach Cregger Feels “Gratified” Following Gamer Backlash To His Highly Successful Movie",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/diablo-is-getting-a-new-board-game-and-you-can-play-it-solo/",
-          "summary": "The world of Diablo will expand over the next couple of years with a new video game and a Netflix animated series , but if you'd rather roll some dice, Diablo Unbound will offer an officially licensed",
-          "publishedAt": "2026-10-21T16:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/resident-evil-director-zach-cregger-feels-vindicated-following-gamer-backlash-to-his-highly-successful-movie/",
+          "summary": "Resident Evil director Zach Cregger has responded to the success of his video game movie, and while he doesn't want to say “I told you so” to his haters, he's happy with the response, both critically ",
+          "publishedAt": "2026-10-22T14:11:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Might Give America A Very Expensive Sick Day",
+          "title": "Why Street Fighter Movie Goes For “Gonzo” Vibes Instead of Gritty And Grounded",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
-          "summary": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6 --so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, whic",
-          "publishedAt": "2026-10-21T16:02:00.000Z",
+          "url": "https://www.gamespot.com/articles/why-street-fighter-movie-goes-for-gonzo-vibes-instead-of-gritty-and-grounded/",
+          "summary": "Street Fighter movie director Kitao Sakurai has shared new insights into the recently released video game movie, including how he intentionally wanted it to go for a \"gonzo\" style of over-the-top acti",
+          "publishedAt": "2026-10-22T15:19:11.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+          "title": "Katana Zero DLC Is Still Coming, And It’s Apparently Freakin’ Huge Now",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
-          "summary": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed ",
-          "publishedAt": "2026-10-21T16:16:36.000Z",
+          "url": "https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/",
+          "summary": "It's been a minute since we've heard anything about Askiisoft's samurai platformer Katana Zero , but the developer has re-re-reconfirmed that, yes, the DLC is still on the way--and it's big . Like, so",
+          "publishedAt": "2026-10-22T15:28:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
+          "title": "Dispatch Is Coming To Mobile In December, With Its First Four Episodes Free",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/",
+          "summary": "Ahead of its first anniversary, Dispatch developer AdHoc has revealed a big (and free) update for the deluxe edition of the superhero workplace-dramedy. Available now on all platforms where the deluxe",
+          "publishedAt": "2026-10-22T16:15:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"We made a very difficult decision\": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a \"zionist\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
-          "summary": "Prominent capital-p Political game developer and left-wing academic Paulo \"Molleindustria\" Pedercini has revealed that he used generative AI tools for aspects of recent ecosocialist satire Future? No ",
-          "publishedAt": "2026-10-21T11:42:31.000Z",
+          "url": "https://www.rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist",
+          "summary": "The organisers of Australian independent games showcase Parallels have rejected accusations of \"prejudice\" and say they've received \"violent threats\", after a Jewish developer had her sponsorship of t",
+          "publishedAt": "2026-10-22T11:30:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Dawn of War 4 clearly loves the Warhammer 40K strategy games that came before, but it misses that they loved to reinvent themselves",
+          "title": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves",
-          "summary": "I may have set my expectations for Dawn of War 4 too high, but it's a series that, to my mind, never retreads the same ground. It's therefore been disappointing to feel, having played it across two it",
-          "publishedAt": "2026-10-21T12:12:24.000Z",
+          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
+          "summary": "Resident Evil , Street Fighter, and Monster Hunter publishers Capcom have revealed that a data breach has seen a third-party gain access to information associated with more than 11 million Capcom ID a",
+          "publishedAt": "2026-10-22T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "A puzzle game where you must avoid the doing the most awkward of things: facing someone while riding an elevator",
+          "title": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator",
-          "summary": "You know when you follow someone into the elevator and when they turn around to face the doors, you choose to stand still and instead meet their eyes? No, of course you don't. Everyone knows that when",
-          "publishedAt": "2026-10-21T15:29:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Entire Internet Is Officially In Crisis Mode Today",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/php-vulnerability-2026-what-is-security-update-today-issue-patch/",
-          "summary": "Websites and services ranging from Spotify to WordPress are all at risk thanks to a massive PHP security breach with horrifying implications",
-          "publishedAt": "2026-10-21T14:59:49.000Z",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+          "summary": "Xbox have reportedly informed staff that, from the start of February 2027, those within commuting distance of Microsoft's Washington base will have to come into the office four days a week. This follo",
+          "publishedAt": "2026-10-22T14:53:43.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,32 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-21T17:45:09.401Z",
+      "generatedAt": "2026-10-22T17:45:10.044Z",
       "items": [
         {
-          "title": "One Piece: Grand Gourmet Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/one-piece-grand-gourmet-review",
-          "summary": "Unless you’re an established fan of One Piece and want some fan service, there’s no rush to climb aboard for this culinary voyage.",
-          "publishedAt": "2026-10-21T14:59:50.000Z",
+          "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
+          "summary": "Hellraiser: Revival may not be great action horror but it does win the prize for most unique fetch quest.",
+          "publishedAt": "2026-10-22T15:50:04.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "MSI Claw 8 EX AI+ review - superlative playing power with familiar Windows handheld caveats",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
-          "summary": "Welcome to my review of the MSI Claw 8 EX AI+, a handheld PC that went on sale four months ago. And if you think that&rsquo;s bad, tell it to the 2025-spec Lenovo Legion Go 2 I&rsquo;ve left, neglecte",
-          "publishedAt": "2026-10-21T08:40:01.000Z",
+          "title": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
+          "source": "The Guardian (Culture)",
+          "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
+          "summary": "Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sport",
+          "publishedAt": "2026-10-22T09:00:58.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Cooler Master HAF II 500 review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review/",
+          "summary": "Three mighty fans make for a mighty amount of airflow.",
+          "publishedAt": "2026-10-22T08:48:50.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,50 +153,32 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-21T17:45:09.401Z",
+      "generatedAt": "2026-10-22T17:45:10.044Z",
       "items": [
         {
-          "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
+          "title": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
-          "summary": "One of the most memorable demos I played at Gamescom Latam 2026 was that of Talaka , a watercoloured 2D action-roguelike that - like many games at the S&atilde;o Paulo-based show &ndash; leaned deeply",
-          "publishedAt": "2026-10-21T14:45:36.000Z",
+          "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
+          "summary": "I just love me a megastructure, I do. I'm not entirely sure why, to be honest. My best guess is that growing up in a major city with concrete pillars looming over me higher into the sky than I care to",
+          "publishedAt": "2026-10-22T16:01:24.000Z",
           "tag": "Preview",
           "_example": false
         },
         {
-          "title": "Warhammer 40,000: Dawn of War 4 – Detailed Impressions of the Necron and AdMech Factions | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-detailed-impressions-of-the-necron-and-admech-factions-ign-preview",
-          "summary": "I had a great time getting chromed up with the Adeptus Mechanicus and the Necrons in Warhammer 40,000: Dawn of War 4. The campaign story really starts to come together in some interesting ways in its ",
-          "publishedAt": "2026-10-21T12:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Stranger Than Heaven: The Final Preview of the Yakuza Team’s Ambitious, Decades-Spanning Action-Adventure",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/stranger-than-heaven-the-final-preview-of-the-yakuza-teams-ambitious-decades-spanning-action-adventure",
-          "summary": "in a new three-hour demo, I got to play Stranger Than Heaven from the start, see a bit of its decade-spanning story in action, and explore the different towns that represent each time period. That als",
-          "publishedAt": "2026-10-21T14:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Dragon Ball Xenoverse 3 Spices Up Anime Fighters With the Soul Switching Mechanic | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-spices-up-anime-fighters-with-the-soul-switching-mechanic-ign-preview",
-          "summary": "Dragon Ball Xenoverse 3's bigger focus on multiplayer PvE seems like the right direction for Xenoverse. Not just because it would be tough to top Xenoverse 2 as one of the shining examples of the Anim",
-          "publishedAt": "2026-10-21T14:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+          "title": "I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-          "summary": "Opus 5.5 continues to wreak havoc among independent devs.",
-          "publishedAt": "2026-10-20T21:34:35.000Z",
+          "url": "https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/",
+          "summary": "I saw it hit the corner, I swear I did.",
+          "publishedAt": "2026-10-22T15:25:08.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+          "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
+          "publishedAt": "2026-10-21T20:06:33.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -196,113 +187,113 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-21T17:45:09.401Z",
+      "generatedAt": "2026-10-22T17:45:10.044Z",
       "items": [
         {
-          "title": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6",
+          "title": "Xbox’s Hardware Problem: September Sales Drop To New Low Amid Sony’s Market Dominance",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
-          "summary": "Another day, another PS5 update, as Sony tweaks its system with another minor upgrade. It looks like business as usual for PS5 Update Version: 26.07-14.20.00, with Sony focusing on overall usage and m",
-          "publishedAt": "2026-10-21T13:46:30.000Z",
+          "url": "https://www.gamespot.com/articles/xbox-hardware-problem-september-sales-drop-to-new-low-amid-sonys-market-dominance/",
+          "summary": "September saw a surge in video game spending, but Xbox had a bleak month. New Circana data show Xbox Series hardware fell 27% year-over-year to an all-time September low, beating the previous record l",
+          "publishedAt": "2026-10-22T13:23:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Everything New In Cyberpunk 2077 Update 2.5",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/",
-          "summary": "A new season of Cyberpunk: Edgerunners is now on Netflix, and to celebrate, Cyberpunk 2077 is getting an update . Developer CD Projekt Red announced Update 2.5 this week, teasing new items and feature",
-          "publishedAt": "2026-10-21T14:50:42.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
+          "title": "\"It just seemed arbitrary, and not very smart\": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
-          "summary": "Over the weekend, Swedish reports revealed that Samson studio Liquid Swords have gone bankrupt less than a year after releasing their debut crimebrawler. Founder and former Just Cause lead Christofer ",
-          "publishedAt": "2026-10-21T12:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes",
+          "summary": "19 years after buying Bioware, Electronic Arts have closed the veteran RPG developer . But as saddening as this is, bringing an end to series such as Dragon Age and Mass Effect , EA have never had an ",
+          "publishedAt": "2026-10-22T13:33:16.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Sony Rolls Out New Official PS5 Update After Major Hack",
+          "title": "Superhero Workplace Comedy Hit 'Dispatch' Reveals Huge Update and New Platforms",
           "source": "Polygon",
-          "url": "https://www.polygon.com/ps5-jailbreak-hack-homebrew-gta-6-firmware-update/",
-          "summary": "Sony just rolled out the 14.20 PS5 firmware update shortly after homebrewers found a new way to jailbreak the system",
-          "publishedAt": "2026-10-21T15:45:45.000Z",
+          "url": "https://www.polygon.com/dispatch-anniversary-new-modes-mobile-release/",
+          "summary": "Dispatch hits 5 million players as AdHoc Studio announces new game modes, a December mobile release, a live concert, and collectibles.",
+          "publishedAt": "2026-10-22T16:15:22.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ",
+          "title": "Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
-          "summary": "TPM and Secure Boot requirements strike again.",
-          "publishedAt": "2026-10-21T15:55:30.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/",
+          "summary": "The former KotOR director's new studio is working on its own Star Wars entry in the Old Republic era.",
+          "publishedAt": "2026-10-22T16:24:11.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Everything Coming to Cyberpunk 2077 With the 2.5 Update, Including New Side Quests, New Double Trouble Perk, and Much More",
+          "title": "Skate Studio Also Hit With Cuts as Scope of EA's Mass Layoffs Becomes Clearer",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/everything-coming-to-cyberpunk-2077-with-the-25-update-including-new-side-quests-new-double-trouble-perk-and-much-more",
-          "summary": "CD Projekt has revealed what to expect from the Cyberpunk 2077 2.5 update, which ties in with the release of Netflix anime Edgerunners 2. Check out the patch notes.",
-          "publishedAt": "2026-10-21T16:00:38.000Z",
+          "url": "https://www.ign.com/articles/skate-studio-hit-with-layoffs",
+          "summary": "Following the announcement that EA is closing down Mass Effect developer BioWare, staff at the studio behind the latest Skate game have also reported suffering layoffs.",
+          "publishedAt": "2026-10-22T14:11:15.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-          "summary": "Who doesn't love a big swing, a bold new direction, especially when so many video game publishers seem increasingly determined to walk the safest route? While Stranger Than Heaven might look familiar ",
-          "publishedAt": "2026-10-21T14:00:41.000Z",
+          "title": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
+          "summary": "Here lies BioWare's sci-fi opera, you can tell because we put 'Mass Effect' on the gravestone.",
+          "publishedAt": "2026-10-22T10:52:44.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
-          "summary": "Bracingly moist open world survival game Subnautica 2 is embarking on the \"voyage to early access 2.0\" - this being developer Unknown Worlds' excitable term for the next round of updates, which will i",
-          "publishedAt": "2026-10-21T08:07:06.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
-          "summary": "Further rounds of layoffs as part of Xbox's ongoing efforts to eventually have fed 3200 people into the furnace are reportedly planned to take place during this month, November, and January. The compa",
-          "publishedAt": "2026-10-21T10:34:44.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/",
-          "summary": "To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content.",
-          "publishedAt": "2026-10-21T09:55:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+          "title": "Street Fighter Was Never Going to Be a Dark, Grounded Batman Begins-Style Movie, Director Insists — the Studio Wanted Silliness and Absurdity",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
-          "summary": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
-          "publishedAt": "2026-10-21T09:36:28.000Z",
+          "url": "https://www.ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
+          "summary": "Street Fighter is the number one movie in North America, but it’s sparked much debate about its goofy tone. Some fans of Capcom’s fighting game franchise had wanted something darker and more grounded ",
+          "publishedAt": "2026-10-22T09:33:48.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Subnautica 2 adding its \"scariest\" region ever in next major update, the developers say",
+          "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+          "summary": "Capcom has disclosed a data breach of its online membership service affecting over 11 million customer accounts, warning gamers to brace themselves for potential phishing attempts.",
+          "publishedAt": "2026-10-22T10:17:24.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update",
-          "summary": "Subnautica 2 has begun its \"voyage to Early Access 2.0\", developer Unknown Worlds has said, with the revelation of a new update containing the \"scariest\" region they've ever made for the underwater ga",
-          "publishedAt": "2026-10-21T11:08:04.000Z",
+          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+          "summary": "A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE.",
+          "publishedAt": "2026-10-22T08:40:15.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
+          "summary": "Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere. In a new Bloomberg report , a person familiar",
+          "publishedAt": "2026-10-21T17:12:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "RIP BioWare: EA has shut down the legendary RPG developer",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
+          "summary": "Bloomberg also reports that EA is cutting \"around 400 jobs\" across the company.",
+          "publishedAt": "2026-10-21T17:16:53.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+          "summary": "Three cheers for the slop intolerant.",
+          "publishedAt": "2026-10-21T22:26:41.000Z",
           "tag": "Industry",
           "_example": false
         }
