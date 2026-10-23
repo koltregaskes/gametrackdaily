@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-22T17:30:02.394Z",
+  "updatedAt": "2026-10-23T17:30:03.198Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,67 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-405454",
-      "title": "Final Fantasy Resonance",
-      "date": "2026-10-21",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Return to the pixelart world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin."
-    },
-    {
-      "id": "igdb-game-190169",
-      "title": "Moadra",
-      "date": "2026-10-21",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Endure... Evolve... Or Die. Embrace the unknown and traverse a vast alien world riddled with bizarre creatures, deadly hazards, and grim mysteries. Seek redemption, and confront the terrifying sin buried in the depths of the forgotten planet Protea VI."
-    },
-    {
-      "id": "igdb-game-271659",
-      "title": "Alyssa",
-      "date": "2026-10-21",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "ALYSSA is an adventure horror game, in which you play as a little girl who wakes up in an unfamiliar place… Or rather, she’s awakened by Emily, who has a… strange mask permanently attached to her head. Armed with nothing but a small lighter, Alyssa must attempt to escape from thi"
-    },
-    {
-      "id": "igdb-game-351210",
-      "title": "Demons' Night Fever",
-      "date": "2026-10-21",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Misdeed, Theft, Abduction, Plunder. This is a tale of “Evil,” where anything goes.\nWhere the hero is a dull boy named Kyoshiro, who hates the world. And a self-proclaimed evil god having lost his powers appears to him. Team up with the evil god and go beyond the limits of evil! S"
-    },
-    {
-      "id": "igdb-game-418499",
-      "title": "Once Human: Isles of Abyss",
-      "date": "2026-10-21",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api"
-    },
-    {
       "id": "igdb-game-403310",
       "title": "Call of Duty: Modern Warfare 4",
       "date": "2026-10-22",
@@ -863,6 +802,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Welcome to Scramble Knights Online! Embark together with friends on bite-sized, Zelda-inspired quests in the shared online kingdom of Terracotta! Venture across an archipelago filled with dangerous enemies, quaint towns, puzzling dungeons, and challenges suited for a knight-in-tr"
+    },
+    {
+      "id": "igdb-game-420601",
+      "title": "Crack",
+      "date": "2026-10-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Why is there a giant egg in this lab? Your job is simple: crack it open. Don't ask questions. Crack is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg."
     },
     {
       "id": "igdb-game-414857",
@@ -1295,19 +1245,6 @@
       "summary": "A New Age Rises in Age of Empires IV. Raiders of the North introduces two full civilizations, deeper Crucible systems, and more."
     },
     {
-      "id": "igdb-game-391801",
-      "title": "Curse of Resthaven",
-      "date": "2026-10-29",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this single-player narrative roguelite, govern a cursed island as you investigate your niece’s mysterious disappearance. Interrogate, trade, upgrade, and embark upon card-based expeditions to uncover dark secrets – before the next cataclysm strikes."
-    },
-    {
       "id": "igdb-game-416102",
       "title": "Crimson Desert: Charting the Unknown",
       "date": "2026-10-29",
@@ -1319,6 +1256,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Reclaim power and reach beyond-into the unknown.The story of Pywel continues in Crimson Desert: Charting the Unknown as Kliff, Oongka, and Damiane set out to discover their purpose and shape their futures. However, as turmoil unfolds around them, each must fight to forge a path t"
+    },
+    {
+      "id": "igdb-game-391801",
+      "title": "Curse of Resthaven",
+      "date": "2026-10-29",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this single-player narrative roguelite, govern a cursed island as you investigate your niece’s mysterious disappearance. Interrogate, trade, upgrade, and embark upon card-based expeditions to uncover dark secrets – before the next cataclysm strikes."
     },
     {
       "id": "igdb-game-411706",
@@ -1505,6 +1455,17 @@
       "summary": "Be the star of the most exciting game show on TV! Pick your dice, place your bets, build your combos, and try not to think too hard about what happens when you lose."
     },
     {
+      "id": "igdb-game-421865",
+      "title": "Your Way Out",
+      "date": "2026-10-29",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Pushed into a manhole, you wake up in the sewers with nothing but a lighter. Scavenge the dark tunnels, sell your finds to Rattus the rat trader, upgrade your gear and find your way out before the flame dies."
+    },
+    {
       "id": "igdb-game-258775",
       "title": "Queen's Domain",
       "date": "2026-10-30",
@@ -1640,21 +1601,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Alchemortis is a roguelike inventory-management auto-battler about alchemy. Transmute and combine items to merge their stats, properties, and forms, then organize your inventory to unlock powerful synergies. Experiment, optimize, and craft the perfect build through the power of a"
-    },
-    {
-      "id": "igdb-game-417172",
-      "title": "Disney Dreamlight Valley: The Keepsake Sea",
-      "date": "2026-11-01",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Become a magical mermaid and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and embark on a thrilling new ocean adventure."
     },
     {
       "id": "igdb-game-419955",
@@ -1869,7 +1815,8 @@
       "title": "Lost Host",
       "date": "2026-11-04",
       "platforms": [
-        "Windows PC"
+        "Windows PC",
+        "PlayStation 5"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
@@ -2043,6 +1990,17 @@
       "summary": "Bring prestige back to Earth by building your engines and finding Glory on Pluto in this offbeat and unique deckbuilding rougelike."
     },
     {
+      "id": "igdb-game-425187",
+      "title": "Tiny Knight and the Corrupted Crystal",
+      "date": "2026-11-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Tiny Knight and the Corrupted Crystal is a single-player action roguelite built around an incremental power curve. The knight's corrupted sword drains his own health for as long as he stays in a level, so the health bar doubles as the level timer and there is no separate countdow"
+    },
+    {
       "id": "igdb-game-360263",
       "title": "Casualties: Unknown",
       "date": "2026-11-09",
@@ -2112,17 +2070,6 @@
       "summary": "17-year-old Hope Song returns home from school to find her parents missing. Use Hope’s observant eye as an artist to investigate, piece together clues, and uncover a dark world beneath the surface of her peaceful life in this non-linear narrative mystery game."
     },
     {
-      "id": "igdb-game-359885",
-      "title": "Ashes of the Singularity II",
-      "date": "2026-11-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive mul"
-    },
-    {
       "id": "igdb-game-424208",
       "title": "Shrek 2 Remastered",
       "date": "2026-11-10",
@@ -2134,6 +2081,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics."
+    },
+    {
+      "id": "igdb-game-359885",
+      "title": "Ashes of the Singularity II",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive mul"
     },
     {
       "id": "igdb-game-343166",
@@ -2400,6 +2358,17 @@
       "summary": "Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters."
     },
     {
+      "id": "igdb-game-410782",
+      "title": "Satelital",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A rule-discovery puzzle game where you place alien symbols on a grid. Uncover their logic as you journey through an atmospheric solar system."
+    },
+    {
       "id": "igdb-game-345177",
       "title": "UnderMire",
       "date": "2026-11-13",
@@ -2409,6 +2378,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "UnderMire is a 1-4 player first person co-op roguelite adventure where you descend into a magical, ever-changing bunker to confront the dark forces that lie within. Battle fear-fueled monsters, SMUSH everyday junk into magical weapons, master evolving tools, complete tasks from a"
+    },
+    {
+      "id": "igdb-game-420893",
+      "title": "IWA Fighting Adventure",
+      "date": "2026-11-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A feature-packed autobattler where you build and develop your own settlement, gather resources, prepare for battle, and lead your forces on dangerous expeditions and auto-battles."
     },
     {
       "id": "igdb-game-382400",
@@ -2455,6 +2435,17 @@
       "summary": "Clicky Islands is a unique blend of incremental gameplay, clicker mechanics, city-builder elements, and resource management. You play as a governor appointed by the king to discover and develop a new island for his future kingdom."
     },
     {
+      "id": "igdb-game-422022",
+      "title": "Dungeonbound",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again."
+    },
+    {
       "id": "igdb-game-389217",
       "title": "Tekken 8: Roger Jr.",
       "date": "2026-11-16",
@@ -2476,6 +2467,21 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Grab your bike and milk bottles, let's hit the road! Explore the countryside in this short cozy delivery adventure. Befriend folks and gently help them rebuild their community, one bottle at a time. Upgrade your bike, your dairy farm, and venture deeper into a once-lively region."
+    },
+    {
+      "id": "igdb-game-417172",
+      "title": "Disney Dreamlight Valley: The Keepsake Sea",
+      "date": "2026-11-18",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Become a magical mermaid and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and embark on a thrilling new ocean adventure."
     },
     {
       "id": "igdb-game-52189",
@@ -3411,17 +3417,6 @@
       "summary": "Surreal survival horror in a world standing between reality and dreams. Unravel all the mysteries of the dark world, escape from your own fears, and explore the terrifying world where fire no longer burns."
     },
     {
-      "id": "igdb-game-321054",
-      "title": "Animal Use Protocol",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this first-person, narrative-focused survival horror, you play as Penn, a hyper-intelligent chimpanzee. Hunted at every turn, your only chance of survival lies in scavenging, crafting, and exploring Anchorage Station. An epic story awaits. Be quick and quiet. Time is running o"
-    },
-    {
       "id": "igdb-game-317817",
       "title": "Tanuki: Pon's Summer",
       "date": "2026-12-31",
@@ -3433,6 +3428,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for t"
+    },
+    {
+      "id": "igdb-game-321054",
+      "title": "Animal Use Protocol",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this first-person, narrative-focused survival horror, you play as Penn, a hyper-intelligent chimpanzee. Hunted at every turn, your only chance of survival lies in scavenging, crafting, and exploring Anchorage Station. An epic story awaits. Be quick and quiet. Time is running o"
     },
     {
       "id": "igdb-game-368311",
@@ -5267,17 +5273,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lurking is a first-person survival horror game set in a building infested by giant spiders. Search for tools and weapons to fight back and survive. Find a way out before you're eaten alive."
-    },
-    {
-      "id": "igdb-game-405152",
-      "title": "Maximum Thunderness",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities."
     }
   ],
   "undated": [
