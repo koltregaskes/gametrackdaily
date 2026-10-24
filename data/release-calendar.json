@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-23T17:30:03.198Z",
+  "updatedAt": "2026-10-24T17:30:03.761Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,76 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-403310",
-      "title": "Call of Duty: Modern Warfare 4",
-      "date": "2026-10-22",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Call of Duty: Modern Warfare 4 is a first-person shooter and the follow-up to Modern Warfare III (2023), continuing the rebooted Modern Warfare storyline. The campaign is set during a North Korean invasion of South Korea and features dual perspectives: a young South Korean soldie"
-    },
-    {
-      "id": "igdb-game-405435",
-      "title": "One Piece: Grand Gourmet",
-      "date": "2026-10-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hop aboard a delectable management sim in the world of ONE PIECE! Work alongside the Straw Hat Crew to build the greatest floating restaurant of the seas. Collect ingredients, dream up dishes, and decorate to have familiar faces lining up for more!"
-    },
-    {
-      "id": "igdb-game-346933",
-      "title": "Aspis",
-      "date": "2026-10-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "ASPIS is an atmospheric mystical thriller set in an alternative USSR of the late 80s. You play as a scientist who has lost his family and is involved in a dangerous experiment to create a reality simulation. Explore the cybernetics institute, travel between worlds and encounter a"
-    },
-    {
-      "id": "igdb-game-368905",
-      "title": "The Last Keeper",
-      "date": "2026-10-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Take on the role of a lighthouse keeper on a remote island. Maintain the machinery, use the radio and the map to guide ships into the harbor. Survive and uncover the mysteries of Farpoint Island in a horror experience inspired by Voices of the Void and No One Lives Under the Ligh"
-    },
-    {
-      "id": "igdb-game-412520",
-      "title": "Warrior Cats: Clans of the Forest",
-      "date": "2026-10-22",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Create your own Warrior Cat and journey through the Lake Territories in an immersive action-adventure inspired by the beloved Warrior Cats book series. Hunt, explore, battle rival Clans, uncover prophecies, and shape your legacy with every choice you make."
-    },
-    {
-      "id": "igdb-game-412248",
-      "title": "Snap & Print",
-      "date": "2026-10-22",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run the cutest little photo & print shop in town! Snap & Print is a cozy job simulator, where you take portraits, edit and restore pictures, and decorate shots with hats, flowers, stickers, and more. Upgrade your studio, unlock new props, and make every customer smile."
-    },
-    {
       "id": "igdb-game-378426",
       "title": "Night Plane",
       "date": "2026-10-26",
@@ -994,6 +924,21 @@
       "summary": "Relax with Bao Bao in this cozy 2D pressure washing sim. Clean pastel environments, chill lo-fi beats, and no stress, just peaceful vibes. Play solo or with up to 3 friends. A peaceful pressure washing game for quiet minds and cozy days."
     },
     {
+      "id": "igdb-game-417896",
+      "title": "Dog Man: Bark in Action",
+      "date": "2026-10-27",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Join Dog Man and his Supa Buddies for a supa-new adventure! Packed with boss fights, awesome gadgets and up to 10 playable characters, each with unique abilities."
+    },
+    {
       "id": "igdb-game-361755",
       "title": "Empty Box",
       "date": "2026-10-27",
@@ -1073,7 +1018,7 @@
     },
     {
       "id": "igdb-game-410704",
-      "title": "Channel13: Rest Stop",
+      "title": "CH13: Rest Stop",
       "date": "2026-10-28",
       "platforms": [
         "Windows PC"
@@ -1911,6 +1856,17 @@
       "summary": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike."
     },
     {
+      "id": "igdb-game-389458",
+      "title": "Underkeep",
+      "date": "2026-11-05",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear and descend into the depths of the Underkeep to uncover what lies hidden below."
+    },
+    {
       "id": "igdb-game-416123",
       "title": "Where the Seeds Fall",
       "date": "2026-11-05",
@@ -1954,17 +1910,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for anything around it. There is only one way."
-    },
-    {
-      "id": "igdb-game-389458",
-      "title": "Underkeep",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear and descend into the depths of the Underkeep to uncover what lies hidden below."
     },
     {
       "id": "igdb-game-399408",
@@ -2021,6 +1966,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dive into Neo Junk City, a cyberpunk adventure where you’re an android detective unraveling your own murky past. Navigate neon streets, engage with unique characters, and race through the rain-soaked city. Uncover secrets in this twist on point-and-click gameplay."
+    },
+    {
+      "id": "igdb-game-358377",
+      "title": "Cinema Theater Tycoon",
+      "date": "2026-11-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Tycoon game where you manage your movie theater through more than 100 years of history. Build and customize your cinematic empire without being overtaken by the evolution of the 7th art."
     },
     {
       "id": "igdb-game-411131",
@@ -2323,6 +2279,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
+      "id": "igdb-game-413109",
+      "title": "10 Million Pixels",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Mine through millions of pixels to find the one golden pixel. A mesmerizing incremental game about exploration and erosion."
     },
     {
       "id": "igdb-game-381198",
@@ -2665,6 +2632,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Three loves. One week. Zero chill. Merry Crisis is an intimate, character-driven romance visual novel about love, loss, and belonging—is home what you left behind, or where you’re headed?"
+    },
+    {
+      "id": "igdb-game-408915",
+      "title": "Anhedonia: Sanctuary of Ash",
+      "date": "2026-12-01",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dive into a world consumed by the biblical apocalypse. As a fallen priest seeking redemption, battle demonic horrors, cleanse the tormented, and gather what remains to rebuild the Sanctuary of Ash - the faint light in a dying world."
     },
     {
       "id": "igdb-game-283761",
@@ -5273,6 +5251,28 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lurking is a first-person survival horror game set in a building infested by giant spiders. Search for tools and weapons to fight back and survive. Find a way out before you're eaten alive."
+    },
+    {
+      "id": "igdb-game-405152",
+      "title": "Maximum Thunderness",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities."
+    },
+    {
+      "id": "igdb-game-336526",
+      "title": "Melted Time",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Candle, your path is full of puzzles. Can you handle it? Hurry, your time is already melting away."
     }
   ],
   "undated": [
