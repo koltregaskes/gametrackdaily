@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tools Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero__copy">
+          <p class="eyebrow">Internal launch deck</p>
+          <h1>Tools Hub</h1>
+          <p class="lede">
+            One local home for the internal tools you are actually using, with direct launch buttons,
+            visual cards, and clean grouping by workflow.
+          </p>
+        </div>
+
+        <div class="hero__meta">
+          <div class="meta-panel">
+            <span class="meta-label">Mode</span>
+            <strong>Local machine only</strong>
+          </div>
+          <div class="meta-panel">
+            <span class="meta-label">Launch path</span>
+            <strong>Agent Workspace 2</strong>
+          </div>
+          <div class="meta-panel meta-panel--status">
+            <span class="status-dot"></span>
+            <span id="hubStatus">Loading tool registry...</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls">
+        <div id="categoryFilters" class="filters" aria-label="Tool categories"></div>
+      </section>
+
+      <section id="toolGrid" class="tool-grid" aria-live="polite"></section>
+    </main>
+
+    <template id="toolCardTemplate">
+      <article class="tool-card">
+        <div class="tool-card__art"></div>
+        <div class="tool-card__body">
+          <div class="tool-card__head">
+            <div>
+              <p class="tool-card__eyebrow"></p>
+              <h2 class="tool-card__title"></h2>
+            </div>
+            <span class="tool-card__status"></span>
+          </div>
+          <p class="tool-card__tagline"></p>
+          <p class="tool-card__description"></p>
+          <div class="tool-card__footer">
+            <button class="launch-btn" type="button">Launch Tool</button>
+            <a class="link-btn open-link" target="_blank" rel="noreferrer">Open UI</a>
+            <a class="link-btn readme-link" target="_blank" rel="noreferrer">README</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>

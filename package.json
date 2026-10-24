@@ -1,0 +1,10 @@
+{
+  "name": "tools-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local launcher hub for internal tools",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  }
+}
