@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-24T17:46:56.989Z",
+  "generated": "2026-10-25T12:03:35.321Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-24T17:46:56.989Z",
+      "generatedAt": "2026-10-25T12:03:35.321Z",
       "items": [
         {
-          "title": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op",
+          "title": "The Sunday Papers",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
-          "summary": "Ah, come on, it was fine. Better than fine. We can argue for another fourteen years about whether BioWare should have redone the ending or not, but Mass Effect 3 was really a compendium of endings, a ",
-          "publishedAt": "2026-10-24T14:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+          "summary": "Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers post, I&rsquo;d have",
+          "publishedAt": "2026-10-25T10:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
+          "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/paul-atreides-best-dune-quote/",
+          "summary": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth.",
+          "publishedAt": "2026-10-25T08:00:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
+          "summary": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
+          "publishedAt": "2026-10-25T08:08:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
+          "summary": "These tense genre picks are well worth your time.",
+          "publishedAt": "2026-10-25T08:54:46.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-nerdy-kid-far-side-comics/",
+          "summary": "Gary Larson's The Far Side didn't really have recurring characters, though some faces did appear more than once, like the Nerdy Kid",
+          "publishedAt": "2026-10-25T11:00:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+          "summary": "Last night, I sat down with a greasy pizza and a few bottles of beer and braced myself for 10 episodes of heartbreak. Cyberpunk: Edgerunners' second season is out, and it follows in the footsteps of S",
+          "publishedAt": "2026-10-25T10:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
+          "summary": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security ",
+          "publishedAt": "2026-10-25T04:23:32.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-          "summary": "I'll be honest folks: I didn't know that Steam's Personal Calendar feature was still technically in testing. I've been using it here and there to keep track of what's come out recently or what's comin",
-          "publishedAt": "2026-10-24T15:57:33.000Z",
+          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+          "summary": "Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, don't it? Admittedly there's a chance you've not h",
+          "publishedAt": "2026-10-24T18:58:26.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best",
+          "title": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
+          "summary": "You know, I think at this point in my life there is a non-zero chance I will die before anyone is able to settle comfortably on what defines an immersive sim. I'm not going to even try to! The idea is",
+          "publishedAt": "2026-10-24T20:29:27.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
+          "summary": "I have no particular thoughts on what the afterlife may look like, namely because if there is one, and I'm allowed to hang out in it, I don't want to be disappointed. What if I have the expectation th",
+          "publishedAt": "2026-10-24T21:52:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The 5 least-scary scary games for people who are scared of scary games",
           "source": "Polygon",
-          "url": "https://www.polygon.com/metroid-dread-5-year-retrospective/",
-          "summary": "Five years after its release, Metroid Dread's haunting ending ranks among one of Nintendo's finest.",
-          "publishedAt": "2026-10-24T12:00:19.000Z",
+          "url": "https://www.polygon.com/best-not-scary-horror-games/",
+          "summary": "If you love Halloween, but could do without any nightmares, these non-scary scary games are for you.",
+          "publishedAt": "2026-10-24T20:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Is Still Being Wildly Underestimated",
+          "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
           "source": "Polygon",
-          "url": "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/",
-          "summary": "Once dismissed as 'for kids,' Nintendo now enjoys critical respect - except when it's making casual games like Nintendo Switch Sports Resort",
-          "publishedAt": "2026-10-24T13:00:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/xbox-loses-coo/",
-          "summary": "Less than four months after becoming the first-ever Xbox COO, Helen Chiang has left the company",
-          "publishedAt": "2026-10-24T14:34:52.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
-          "summary": "Mass Effect: Universe may be cancelled following BioWare's closure, but Zero Parades: For Died Spies is already Mass Effect meets James Bond",
-          "publishedAt": "2026-10-24T15:00:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Dead by Daylight Is Losing Another Horror Icon",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
-          "summary": "This is Dead by Daylight's last Halloween with Chucky, as the horror movie icon is being removed from the game for good.",
-          "publishedAt": "2026-10-24T15:17:05.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/steam-personal-calendar-wide-release/",
-          "summary": "Steam now features a Personal Calendar that will spotlight recently released and upcoming games that it thinks you'll like",
-          "publishedAt": "2026-10-24T15:20:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/5-hardest-platformers-ever-ranked/",
-          "summary": "When missing a jump means certain doom, you might wish for death",
-          "publishedAt": "2026-10-24T16:01:20.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Stephen King's 10 Best Villains of All Time, Ranked",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/",
-          "summary": "Stephen King has been creating scary villains since the '70s. Here's a list of our favorites, ranked.",
-          "publishedAt": "2026-10-24T16:01:20.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
-          "summary": "\"The [Mass Effect] and [Dragon Age] games were a literal inspiration.\"",
-          "publishedAt": "2026-10-24T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
-          "summary": "Refund offered for players who \"still feel betrayed\" over AI use in Future? No Thanks!",
-          "publishedAt": "2026-10-24T14:30:20.000Z",
+          "url": "https://www.polygon.com/best-books-cozy-horror-fall-season/",
+          "summary": "Spooky season is always better with horror stories that feel cozy.",
+          "publishedAt": "2026-10-24T21:00:19.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,14 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-24T17:46:56.989Z",
+      "generatedAt": "2026-10-25T12:03:35.321Z",
       "items": [
         {
-          "title": "LG UltraGear Evo 52G930B Evo gaming monitor review",
+          "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-          "summary": "LG's new 52-inch ultrawide 5K2K monster monitor is surprisingly old school.",
-          "publishedAt": "2026-10-23T14:31:50.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto V – The Legacy Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/grand-theft-auto-v-the-legacy-review",
-          "summary": "GTA V was a game so preposterously future-proof upon its 2013 launch that its subsequent ports to modern machines have remained the benchmark for open-world action-driving games.",
-          "publishedAt": "2026-10-23T14:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+          "summary": "Something ancient and horrible stirs in the farthest south: Are you bad enough penguin to… not really do much about it?",
+          "publishedAt": "2026-10-24T18:10:01.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,14 +135,32 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-24T17:46:56.989Z",
+      "generatedAt": "2026-10-25T12:03:35.321Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-24T17:46:56.989Z",
+      "generatedAt": "2026-10-25T12:03:35.321Z",
       "items": [
+        {
+          "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+          "summary": "Since launch back in May of this year, life sim Paralives appears to have been trucking along nicely, with the dev team offering up fairly regular updates with all sorts of tweaks big and small. Certa",
+          "publishedAt": "2026-10-24T17:03:55.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Stalker 2's next update has already leaked",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
+          "summary": "PlayStation Asia has reportedly leaked details of an unannounced update coming to Stalker 2: Heart of Chornobyl , 2.1, next week. Read more",
+          "publishedAt": "2026-10-24T18:08:22.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "After 14 years of development, Factorio's final major update is out now",
           "source": "PC Gamer",
@@ -185,33 +194,6 @@
           "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
           "summary": "After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and Deathloop - reported",
           "publishedAt": "2026-10-23T18:09:03.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-          "summary": "Hope. It's in short supply at the moment. Regardless, I hope that something a Canadian politician's proposed in a post scoring easy likeability points at the expense of EA's recently installed owners ",
-          "publishedAt": "2026-10-23T16:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Beloved Game Studio’s Fate Looks Grim after Xbox Abandons It",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft/",
-          "summary": "Arkane Studios, makers of Dishonored and Deathloop, is at risk of closure as part of Microsoft's wave of 3,000+ layoffs.",
-          "publishedAt": "2026-10-23T15:45:59.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Canadian Politician Wants the Government to Bail Out Mass Effect Developer BioWare",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/canadian-politician-wants-government-bail-out-bioware",
-          "summary": "Avi Lewis, leader of one of Canada's top opposition parties, wants the Canadian government to save Mass Effect developer BioWare.",
-          "publishedAt": "2026-10-23T13:45:26.000Z",
           "tag": "Industry",
           "_example": false
         }
