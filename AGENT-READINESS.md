@@ -1,7 +1,7 @@
 # Agent Readiness - GameTrackDaily
 
 Status: v1 policy for the Arcade redesign.
-Updated: 2026-05-17.
+Updated: 2026-10-25.
 
 ## Purpose
 
@@ -20,6 +20,7 @@ The site must be easy for AI agents and search systems to interpret without inve
 ## Truthfulness Rules
 
 - Do not call release, news, review, or event data live/current/fresh unless the public manifest or pipeline proves it.
+- Label the studio lineup stale, with the `games-manifest.json` `updatedAt` date, when that date is more than 30 days old. Do not describe that roster as current.
 - If sample rows from the design handoff are shown, they must be visibly labelled `PROVISIONAL` or `example`.
 - Official event/watch links must point to official event pages where available.
 - Keep E-lusion Studios owned game rows visually distinct from external tracked releases.
