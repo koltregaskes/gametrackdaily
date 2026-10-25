@@ -239,6 +239,24 @@
     return hours < 24 ? `${hours}h` : `${Math.round(hours / 24)}d`;
   }
 
+  function publicStamp(value) {
+    if (!value) return "";
+    const date = new Date(value);
+    if (!Number.isFinite(date.getTime())) return "";
+    return date.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
+  }
+
+  function sourceAnchor(url, label) {
+    const text = esc(label);
+    if (!url) return text;
+    return `<a class="source-link" href="${esc(url)}" target="_blank" rel="noreferrer">${text}</a>`;
+  }
+
+  function sourceButton(url, label) {
+    if (!url) return `<span class="tag dashed">Source link pending</span>`;
+    return `<a class="btn btn--ghost btn--small" href="${esc(url)}" target="_blank" rel="noreferrer">${esc(label)} <span class="arrow">-></span></a>`;
+  }
+
   function normaliseLiteracy(manifest) {
     return (manifest.sections || fallbackLiteracy).map((section) => ({
       id: section.id,
@@ -276,7 +294,7 @@
       meta: {
         gamesUpdated: gamesManifest.updatedAt,
         releaseUpdated: releaseCalendar.updatedAt,
-        newsUpdated: gamesNews.updatedAt,
+        newsUpdated: gamesNews.updatedAt || gamesNews.generated,
         reviewsUpdated: reviewsManifest.updatedAt,
         releaseNotice: releaseCalendar.notice,
         newsNotice: gamesNews.notice,
@@ -502,7 +520,7 @@
               <span class="tag brand-ghost">${esc(rail.title)}</span>
               <div style="margin-top:14px">${items.map((item, i) => `
                 <div style="padding:12px 0;border-top:${i ? "1px dashed var(--line)" : "0"}">
-                  <div style="font-weight:600;line-height:1.25">${esc(item.t)}</div>
+                  <div style="font-weight:600;line-height:1.25">${sourceAnchor(item.url, item.t)}</div>
                   <div class="eyebrow" style="margin-top:8px;font-size:9px">${esc(item.src)} · ${esc(item.h)}${item.score ? ` · <span class="acc">${scoreOutOfTen(item.score)}/10</span>` : ""}</div>
                 </div>`).join("")}</div>
             </article>`;
@@ -808,7 +826,9 @@
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 03</span> Curated wire · public rails</div>
         <h1 class="display hero-title">Four feeds, <br><span class="acc">one watch desk.</span></h1>
-        <p class="hero-lede">Game-dev craft, platform and industry stories, scored reviews, and unscored previews. The public pipeline is still being populated, so examples stay labelled.</p>
+        <p class="hero-lede">${data.meta.usingProvisionalNews
+          ? "Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Example rows stay labelled until a rail has a real public item."
+          : `Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Headlines open the outlet that published them${publicStamp(data.meta.newsUpdated) ? `. Public feed generated ${esc(publicStamp(data.meta.newsUpdated))}` : ""}.`}</p>
         <div class="tabs-row" style="margin-top:28px">
           <button class="tab-button" style="--filter:var(--ink)" data-rail-tab="all" aria-pressed="${forcedRail ? "false" : "true"}">All rails</button>
           ${RAILS.map((rail) => `<button class="tab-button" style="--filter:${rail.colour}" data-rail-tab="${rail.id}" aria-pressed="${forcedRail === rail.id ? "true" : "false"}">${esc(rail.title)}</button>`).join("")}
@@ -845,7 +865,7 @@
       <article class="news-row" style="--rail:${colour}">
         <div class="stripe-cell" style="background:${colour}"></div>
         <div class="cell"><span class="eyebrow" style="color:${colour}">${esc(item.h)}</span><span class="eyebrow" style="font-size:9px">${esc(item.tag)}</span></div>
-        <div class="cell"><h3 class="display glitch row-title" style="font-size:24px">${esc(item.t)}</h3><div class="eyebrow" style="margin-top:8px;font-size:10px">${esc(item.src)}${item.score ? ` · <span class="acc">${scoreOutOfTen(item.score)}/10</span>` : ""}${item._example ? " · example" : ""}</div></div>
+        <div class="cell"><h3 class="display glitch row-title" style="font-size:24px">${sourceAnchor(item.url, item.t)}</h3><div class="eyebrow" style="margin-top:8px;font-size:10px">${esc(item.src)}${item.score ? ` · <span class="acc">${scoreOutOfTen(item.score)}/10</span>` : ""}${item._example ? " · example" : ""}</div></div>
         <div class="cell">${item.platforms?.length ? platformPills(item.platforms) : "<span class='eyebrow'>Multi-platform</span>"}</div>
         <div class="row-arrow" style="color:${colour}">-></div>
       </article>
@@ -874,9 +894,9 @@
             </div>
             <div class="cell">
               <span class="eyebrow">${esc(featured.src)} · ${esc(featured.h)}</span>
-              <h2 class="display glitch" style="font-size:clamp(2rem,4vw,3rem);line-height:.96;margin:12px 0 0">${esc(featured.t)}</h2>
-              <p class="copy" style="margin:20px 0 0;border-left:3px solid var(--brand);padding-left:14px">Curated coverage only. Pull-quotes are omitted until a source article can be linked directly.</p>
-              <div style="display:flex;gap:10px;align-items:center;margin-top:22px;flex-wrap:wrap">${platformPills(featured.platforms)}<span class="tag dashed">Source link pending</span></div>
+              <h2 class="display glitch" style="font-size:clamp(2rem,4vw,3rem);line-height:.96;margin:12px 0 0">${sourceAnchor(featured.url, featured.t)}</h2>
+              <p class="copy" style="margin:20px 0 0;border-left:3px solid var(--brand);padding-left:14px">${featured.url ? "Curated coverage only. The verdict stays with the outlet; open their article for the full review." : "Curated coverage only. Pull-quotes are omitted until a source article can be linked directly."}</p>
+              <div style="display:flex;gap:10px;align-items:center;margin-top:22px;flex-wrap:wrap">${platformPills(featured.platforms)}${sourceButton(featured.url, featured.src ? `Read at ${featured.src}` : "Read source")}</div>
             </div>
           </article>
         </section>` : ""}
@@ -913,8 +933,8 @@
           <span class="eyebrow" style="color:var(--xbox)">${esc(item.src)} · ${esc(item.h)}</span>
           ${item.score ? scoreStamp(item.score, 50) : ""}
         </div>
-        <h3 class="display glitch row-title" style="font-size:22px;margin-top:14px">${esc(item.t)}</h3>
-        <div style="margin-top:22px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">${platformPills(item.platforms)}<span class="eyebrow" style="color:var(--xbox)">Read -></span></div>
+        <h3 class="display glitch row-title" style="font-size:22px;margin-top:14px">${sourceAnchor(item.url, item.t)}</h3>
+        <div style="margin-top:22px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">${platformPills(item.platforms)}${item.url ? sourceButton(item.url, "Read") : `<span class="eyebrow" style="color:var(--xbox)">Read -></span>`}</div>
       </article>
     `;
   }
@@ -923,7 +943,7 @@
     return `
       <article class="preview-row">
         <div class="stripe-cell" style="background:var(--ps)"></div>
-        <div class="cell"><span class="eyebrow" style="color:var(--ps)">Preview · unscored</span><h3 class="display glitch row-title">${esc(item.t)}</h3></div>
+        <div class="cell"><span class="eyebrow" style="color:var(--ps)">Preview · unscored</span><h3 class="display glitch row-title">${sourceAnchor(item.url, item.t)}</h3></div>
         <div class="cell"><span class="eyebrow">${esc(item.src)} · ${esc(item.h)}</span></div>
         <div class="cell">${platformPills(item.platforms)}</div>
         <div class="row-arrow" style="color:var(--ps)">-></div>

@@ -85,6 +85,11 @@ a {
   text-decoration: none;
 }
 
+.source-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
 button,
 a,
 summary,
