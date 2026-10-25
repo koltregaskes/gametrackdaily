@@ -9,6 +9,7 @@
   const BASE_URL = "https://koltregaskes.github.io/gametrackdaily/";
   const NOW = () => Date.now();
   const DAY = 24 * 60 * 60 * 1000;
+  const LINEUP_STALE_AFTER_DAYS = 30;
 
   const PLATFORMS = {
     pc: { id: "pc", label: "PC", long: "Windows PC", css: "var(--pc)", schema: "Windows PC" },
@@ -244,6 +245,16 @@
     const date = new Date(value);
     if (!Number.isFinite(date.getTime())) return "";
     return date.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
+  }
+
+  function lineupStaleNotice(updatedAt) {
+    const stamp = publicStamp(updatedAt);
+    if (!updatedAt || !stamp) return "";
+    const raw = String(updatedAt);
+    const parsed = new Date(raw.length === 10 ? `${raw}T00:00:00.000Z` : raw);
+    if (!Number.isFinite(parsed.getTime())) return "";
+    if ((NOW() - parsed.getTime()) / DAY <= LINEUP_STALE_AFTER_DAYS) return "";
+    return `<div class="notice" data-lineup-freshness="stale" data-lineup-dated="${esc(raw)}"><span class="acc">Stale lineup</span><span>Public studio slate dated ${esc(stamp)}.</span></div>`;
   }
 
   function sourceAnchor(url, label) {
@@ -628,6 +639,7 @@
     const count = data.games.length;
     return `
       <section class="game-index shell" id="games" tabindex="-1" aria-labelledby="games-title">
+        ${lineupStaleNotice(data.meta.gamesUpdated)}
         <header class="game-index__head">
           <div>
             <div class="eyebrow"><span class="acc">// Game index</span> Public studio slate</div>

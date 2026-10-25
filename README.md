@@ -90,6 +90,12 @@ Run the staging contract tests with:
 node --test test/public-data-stage.test.mjs
 ```
 
+## Public host and lineup freshness
+
+GitHub Pages publishes this site at `https://koltregaskes.github.io/gametrackdaily/`. Canonical, Open Graph, and JSON-LD URLs use that host. No custom domain is configured.
+
+The home page and Games page label the studio lineup stale, with the date from `data/games-manifest.json` `updatedAt`, when that date is more than 30 days old. The label uses the manifest date and does not invent a newer roster.
+
 ## Deployment
 
 The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
