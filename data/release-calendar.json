@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-24T17:30:03.761Z",
+  "updatedAt": "2026-10-26T17:30:25.581Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -767,17 +767,6 @@
       "summary": "Ecstatica II is a dark fantasy action-adventure built from a one-of-a-kind ellipsoid world. Return as a prince to a kingdom sacked by demons under a blood-red sky. Cast spells and trade blows to restore the shattered Elder Sign and free the sorceress Ecstatica."
     },
     {
-      "id": "igdb-game-412204",
-      "title": "Night Train Simulator: Blackout",
-      "date": "2026-10-26",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A slow-burn psychological horror train simulator. Drive the train. Follow the schedule. Ignore what's outside."
-    },
-    {
       "id": "igdb-game-411313",
       "title": "Possessed Kingdom",
       "date": "2026-10-26",
@@ -857,6 +846,17 @@
       "summary": "Just in time for the 20th anniversary, You Are Empty has been revitalized for modern systems, with fixes, new features, and QoL additions, including all the official localizations. Our team carefully went through the entire game whilst faithfully preserving the intent of the orig"
     },
     {
+      "id": "igdb-game-411924",
+      "title": "Anti-Anti",
+      "date": "2026-10-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A choice-driven psychological mystery visual novel, Anti-Anti. In a world once devastated by slime monsters, you are forced into a suspicious audition. A locked-room mystery, ensemble drama, adventure, thriller, and romance!"
+    },
+    {
       "id": "igdb-game-403093",
       "title": "Archivist: Tidy Up & Sort",
       "date": "2026-10-27",
@@ -899,17 +899,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Play 8 Hours Till Dawn solo, or with up to five other friends, a survival party game where you plan out your actions and movements ahead of time. Navigate your survivor to the center room to grab a weapon then make it to an outer room with a window and hopefully stop the infected"
-    },
-    {
-      "id": "igdb-game-411924",
-      "title": "Anti-Anti",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A choice-driven psychological mystery visual novel, Anti-Anti. In a world once devastated by slime monsters, you are forced into a suspicious audition. A locked-room mystery, ensemble drama, adventure, thriller, and romance!"
     },
     {
       "id": "igdb-game-375527",
@@ -1651,6 +1640,17 @@
       "summary": "Chase the chair before someone steals your seat! Chair Chase is a chaotic 2-8 player online party game set in a big house full of living chairs that do not want to be sat on. They run, hide and parkour away from you, and they panic more the closer you get. Catch one, then win a q"
     },
     {
+      "id": "igdb-game-416006",
+      "title": "Mafia Hotel",
+      "date": "2026-11-02",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Mafia Hotel is a multiplayer social deduction game for up to 16 players. Talk, lie, accuse, and vote by day, then return to your hotel room at night—where the Mafia may come knocking. Survive the night and uncover who you can trust."
+    },
+    {
       "id": "igdb-game-411743",
       "title": "Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops",
       "date": "2026-11-02",
@@ -1756,6 +1756,17 @@
       "summary": "A dice duel with someone on the other side of the table. Roll, hold what you like, and commit. Both players reach into the same pool of powers each turn, so every one you take is one your opponent can't have. Climb a ladder of ten rivals in a solo run, winning their dice as you g"
     },
     {
+      "id": "igdb-game-417650",
+      "title": "World of Warcraft: Forever",
+      "date": "2026-11-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "World of Warcraft: Forever is an invitation to take your first steps in a legendary world of untamed frontiers, warring factions, untold perils, and unseen mysteries. Experience an Azeroth that grows from the roots of WoW’s first age, continually evolving through regular content "
+    },
+    {
       "id": "igdb-game-378896",
       "title": "Lost Host",
       "date": "2026-11-04",
@@ -1766,17 +1777,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lost Host is a story-driven adventure puzzle game about a small toy car searching for its missing owner.\nWhen the boy mysteriously disappears, the toy car begins a journey through the house and beyond, exploring dark rooms, hallways, foggy streets, and abandoned places while foll"
-    },
-    {
-      "id": "igdb-game-417650",
-      "title": "World of Warcraft: Forever",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "World of Warcraft: Forever is an invitation to take your first steps in a legendary world of untamed frontiers, warring factions, untold perils, and unseen mysteries. Experience an Azeroth that grows from the roots of WoW’s first age, continually evolving through regular content "
     },
     {
       "id": "igdb-game-292419",
@@ -1832,6 +1832,30 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
+    },
+    {
+      "id": "igdb-game-257450",
+      "title": "Airframe Ultra",
+      "date": "2026-11-05",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to the violent underground world of Ultra Circuit racing.\n\nFrom the cracked asphalt of San Juaro and the Ysidro edgelands to the hulking megacities of the Texicali Zego zone, Airframe riders from all across the Southlands compete for fame, fortune, and a chance at glory… "
+    },
+    {
+      "id": "igdb-game-347671",
+      "title": "Escape Academy 2: Back 2 School",
+      "date": "2026-11-05",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings."
     },
     {
       "id": "igdb-game-378342",
@@ -1979,6 +2003,17 @@
       "summary": "Tycoon game where you manage your movie theater through more than 100 years of history. Build and customize your cinematic empire without being overtaken by the evolution of the 7th art."
     },
     {
+      "id": "igdb-game-385063",
+      "title": "Funeral for the Sun",
+      "date": "2026-11-09",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Search the ashes of an abandoned Latin American town and uncover 400 years of secrets. An epic non-linear mystery where you travel back in time and untangle the history of a community cursed by generations of supernatural forces."
+    },
+    {
       "id": "igdb-game-411131",
       "title": "Ho Ho Ho Sokoban",
       "date": "2026-11-09",
@@ -2072,6 +2107,17 @@
       "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
     },
     {
+      "id": "igdb-game-345164",
+      "title": "The Devil's Due",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You lost your soul in a poker game against the Devil. Now, trapped in the infernal depths, your only hope is to fight your way back to freedom. You’ll face a diverse gallery of monstrous foes in nearly impossible poker battles - but luckily, you’re a cheater."
+    },
+    {
       "id": "igdb-game-424010",
       "title": "Amusement Factory",
       "date": "2026-11-10",
@@ -2092,6 +2138,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Build and automate your settlement in this island survival game, play solo or with friends, but it’s better with friends! Start by tilling the soil and planting your first crops, delegate tasks to your settlers. Sail to new islands, loot dungeons, and prepare your defenses for th"
+    },
+    {
+      "id": "igdb-game-372849",
+      "title": "Elixir of Moonglow",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Ella & Umbra — Ella wakes in a strange world with no memory, just a wolf by her side. Uncover and explore a cozy story-rich adventure as an apprentice alchemist through hand-drawn biomes. Gather ingredients, solve thoughtful puzzles as Ella accepts a world of chaos, wonder, and f"
     },
     {
       "id": "igdb-game-411710",
@@ -2434,6 +2491,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Grab your bike and milk bottles, let's hit the road! Explore the countryside in this short cozy delivery adventure. Befriend folks and gently help them rebuild their community, one bottle at a time. Upgrade your bike, your dairy farm, and venture deeper into a once-lively region."
+    },
+    {
+      "id": "igdb-game-412204",
+      "title": "Night Train Simulator: Blackout",
+      "date": "2026-11-17",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A slow-burn psychological horror train simulator. Drive the train. Follow the schedule. Ignore what's outside."
     },
     {
       "id": "igdb-game-417172",
@@ -3825,18 +3893,6 @@
       "summary": "Are you ready to step into a dark and mysterious world with Aaron, who is afraid of his own shadow? A file that has been closed for years is opened again, the forgotten ones wake up from their sleep and the silence is broken by screams."
     },
     {
-      "id": "igdb-game-347671",
-      "title": "Escape Academy 2: Back 2 School",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings."
-    },
-    {
       "id": "igdb-game-306217",
       "title": "Five Laps at Freddy's",
       "date": "2026-12-31",
@@ -5142,6 +5198,18 @@
       "summary": "Ghost Sector is a survival horror game where you play as M-07, a prototype machine trapped in a cybernetic facility during lockdown. Outwit the automated defenses, search for answers to your origin uncovering secrets, solving puzzles, and upgrade your abilities while preserving y"
     },
     {
+      "id": "igdb-game-339144",
+      "title": "GrimKeep",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "GrimKeep is a roguelite dice-builder in a nightmare fairytale. Find items, roll your dice, and optimize your build to fire off massive damage. Cut through the horrors in the cursed city to get to the Princess. Then end her."
+    },
+    {
       "id": "igdb-game-251065",
       "title": "Haruka: Beyond the Stars",
       "date": "2026-12-31",
@@ -5207,72 +5275,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Fight your way through armies of Nazi occultists, religious zealots, and unspeakable cosmic horrors to unveil the Eldritch secrets behind the war theatre in this 2000s-era-inspired grimdark singleplayer FPS where WW2 meets Cthulhu Mythos."
-    },
-    {
-      "id": "igdb-game-240636",
-      "title": "Legends of Castile",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Legends of Castile is a comic fantasy point-and-click adventure set in the historic Castile region of Spain in the 19th century. It tells the story of a village girl who must investigate the myths and legends of Castile to fulfill her dream of becoming a nun. Advance the story by"
-    },
-    {
-      "id": "igdb-game-281253",
-      "title": "L.OD",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A 2D exploration adventure.\nThe main character, Yoi, receives a letter from his dead sister, Chitose, saying that she wants to tell him a secret.\nIn order to find out the truth, Yoyi heads to an abandoned laboratory."
-    },
-    {
-      "id": "igdb-game-259454",
-      "title": "Lunr.Rdio.Taxi",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "lunr.rdio.taxi blends drifting and rhythm into an exhilarating spacetime 'Drifthm' adventure! Slide and boost your way through the solar system to the beat of Brazil's best DJs and earn big as an interplanetary taxi pilot trying to pay an infinite debt in this hypercapitalistic B"
-    },
-    {
-      "id": "igdb-game-397408",
-      "title": "Lurking",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lurking is a first-person survival horror game set in a building infested by giant spiders. Search for tools and weapons to fight back and survive. Find a way out before you're eaten alive."
-    },
-    {
-      "id": "igdb-game-405152",
-      "title": "Maximum Thunderness",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike sidescrolling co-op action game where you fight a space alien criminal invasion with different skills and abilities."
-    },
-    {
-      "id": "igdb-game-336526",
-      "title": "Melted Time",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Candle, your path is full of puzzles. Can you handle it? Hurry, your time is already melting away."
     }
   ],
   "undated": [

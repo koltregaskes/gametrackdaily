@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-25T12:03:35.321Z",
+  "generated": "2026-10-26T05:35:23.954Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-25T12:03:35.321Z",
+      "generatedAt": "2026-10-26T05:35:23.954Z",
       "items": [
         {
-          "title": "The Sunday Papers",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
-          "summary": "Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers post, I&rsquo;d have",
-          "publishedAt": "2026-10-25T10:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+          "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
           "source": "Polygon",
-          "url": "https://www.polygon.com/paul-atreides-best-dune-quote/",
-          "summary": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth.",
-          "publishedAt": "2026-10-25T08:00:18.000Z",
+          "url": "https://www.polygon.com/calvin-hobbes-vocabulary/",
+          "summary": "Words and verbs and adjectives, painted up like a picture in these iconic Calvin and Hobbes comic strips",
+          "publishedAt": "2026-10-25T20:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+          "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
           "source": "Polygon",
-          "url": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
-          "summary": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
-          "publishedAt": "2026-10-25T08:08:18.000Z",
+          "url": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
+          "summary": "Batman: Arkham City set a new highwater mark for superhero games and has influenced their design and mechanics in the 15 years since its release.",
+          "publishedAt": "2026-10-25T20:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+          "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
-          "summary": "These tense genre picks are well worth your time.",
-          "publishedAt": "2026-10-25T08:54:46.000Z",
+          "url": "https://www.polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary/",
+          "summary": "Tomb Raider: Legacy of Atlantis' new 30th anniversary trailer reveals classic moments from 1996's Tomb Raider in dazzling remake footage.",
+          "publishedAt": "2026-10-25T20:58:54.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid",
+          "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-nerdy-kid-far-side-comics/",
-          "summary": "Gary Larson's The Far Side didn't really have recurring characters, though some faces did appear more than once, like the Nerdy Kid",
-          "publishedAt": "2026-10-25T11:00:18.000Z",
+          "url": "https://www.polygon.com/phantom-blade-zero-review/",
+          "summary": "Phantom Blade Zero, developed by S-Game, prioritizes the visual spectacle it brings from Wuxia movies to create a great action game.",
+          "publishedAt": "2026-10-26T00:00:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
-          "summary": "Last night, I sat down with a greasy pizza and a few bottles of beer and braced myself for 10 episodes of heartbreak. Cyberpunk: Edgerunners' second season is out, and it follows in the footsteps of S",
-          "publishedAt": "2026-10-25T10:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
-          "summary": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security ",
-          "publishedAt": "2026-10-25T04:23:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-          "summary": "Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, don't it? Admittedly there's a chance you've not h",
-          "publishedAt": "2026-10-24T18:58:26.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-          "summary": "You know, I think at this point in my life there is a non-zero chance I will die before anyone is able to settle comfortably on what defines an immersive sim. I'm not going to even try to! The idea is",
-          "publishedAt": "2026-10-24T20:29:27.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-          "summary": "I have no particular thoughts on what the afterlife may look like, namely because if there is one, and I'm allowed to hang out in it, I don't want to be disappointed. What if I have the expectation th",
-          "publishedAt": "2026-10-24T21:52:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The 5 least-scary scary games for people who are scared of scary games",
+          "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-not-scary-horror-games/",
-          "summary": "If you love Halloween, but could do without any nightmares, these non-scary scary games are for you.",
-          "publishedAt": "2026-10-24T20:00:18.000Z",
+          "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+          "summary": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+          "publishedAt": "2026-10-26T00:56:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
+          "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-books-cozy-horror-fall-season/",
-          "summary": "Spooky season is always better with horror stories that feel cozy.",
-          "publishedAt": "2026-10-24T21:00:19.000Z",
+          "url": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+          "summary": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
+          "publishedAt": "2026-10-26T02:44:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+          "summary": "The Apache helicopter meta was certainly something to be feared.",
+          "publishedAt": "2026-10-25T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+          "summary": "I think I could guess where the budget went, but I'm not complaining.",
+          "publishedAt": "2026-10-25T18:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+          "summary": "Don't cry because it's over.",
+          "publishedAt": "2026-10-25T18:23:41.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+          "summary": "The desperate plea to EA has fans sharing their memories of the spacefaring shooter.",
+          "publishedAt": "2026-10-25T18:24:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+          "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
+          "publishedAt": "2026-10-25T19:17:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+          "summary": "You can say that again.",
+          "publishedAt": "2026-10-25T20:49:51.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,8 +119,26 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-25T12:03:35.321Z",
+      "generatedAt": "2026-10-26T05:35:23.954Z",
       "items": [
+        {
+          "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+          "summary": "All the interesting Steam facts for the week ending October 25.",
+          "publishedAt": "2026-10-26T03:12:41.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Phantom Blade Zero Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-review",
+          "summary": "Memorable boss fights, compelling combat, and limitless swagger.",
+          "publishedAt": "2026-10-26T00:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
         {
           "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
           "source": "PC Gamer",
@@ -135,14 +153,51 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-25T12:03:35.321Z",
-      "items": []
+      "generatedAt": "2026-10-26T05:35:23.954Z",
+      "items": [
+        {
+          "title": "Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-legend-of-california-delay/",
+          "summary": "Jeff Kaplan's The Legend of California has shifted its early access launch from 2026 to 2027",
+          "publishedAt": "2026-10-25T15:08:49.000Z",
+          "tag": "Preview",
+          "_example": false
+        }
+      ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-25T12:03:35.321Z",
+      "generatedAt": "2026-10-26T05:35:23.954Z",
       "items": [
+        {
+          "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
+          "summary": "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
+          "publishedAt": "2026-10-26T03:28:52.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
+          "summary": "Ed Beach says that players \"had not been given full service by the game as the way it first shipped\".",
+          "publishedAt": "2026-10-25T13:20:37.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+          "summary": "Sweeney's assessment of the games industry in the 2000s hits close to home today, but I still hold out hope that the future can be better.",
+          "publishedAt": "2026-10-25T15:26:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
           "source": "Rock Paper Shotgun",
@@ -185,15 +240,6 @@
           "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
           "summary": "In one of the happier endings to occur in games this week, impossibly enormous resource management sim Factorio has just released its last-ever major update &ndash; version 2.1 &ndash; on its stable b",
           "publishedAt": "2026-10-23T17:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-          "summary": "After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and Deathloop - reported",
-          "publishedAt": "2026-10-23T18:09:03.000Z",
           "tag": "Industry",
           "_example": false
         }
