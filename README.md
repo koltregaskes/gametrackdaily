@@ -48,6 +48,10 @@ python -m http.server 8790
 
 Then open `http://127.0.0.1:8790`.
 
+## Routed news feed
+
+`.github/workflows/refresh-routed-feed.yml` fetches every entry in the shared `sources.json` at 05:15 UTC, applies the GameTrackDaily filter in `site-filters.json`, and commits `data/news-feed-latest.json` only when items come back. A source that cannot be fetched fails that run by name and leaves the file unchanged. The news rails read that file when it contains articles. `data/games-news.json` remains the staged rail file until then. This job does not add a second scraper. The 06:30 UTC freshness check does not fetch articles.
+
 ## Guarded public-data staging
 
 Current news and calendar generators must write to a staging directory outside
