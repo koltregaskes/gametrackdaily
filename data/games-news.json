@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-27T17:45:12.699Z",
+  "generated": "2026-10-28T17:46:38.655Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-27T17:45:12.699Z",
+      "generatedAt": "2026-10-28T17:46:38.655Z",
       "items": [
         {
-          "title": "Pokemon Unite Is Shutting Down After Nearly Six Years",
+          "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/pokemon-unite-is-shutting-down-after-nearly-six-years/",
-          "summary": "Nintendo has announced that Pokemon Unite , its Pokemon-themed MOBA for mobile devices and Switch consoles, will be shutting down on March 23, 2027. The game will go offline just days after the Aeos C",
-          "publishedAt": "2026-10-27T12:18:05.000Z",
+          "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
+          "summary": "Steam Next Fest has come and gone, and one of the big criticisms of the semi-regular showcase for game demos--aside from there being several thousand of them --was that there was simply too much AI sl",
+          "publishedAt": "2026-10-28T12:30:33.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Trek Enters Magic: The Gathering’s Secret Lair Next Month, Here Are The Cards",
+          "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/star-trek-enters-magic-the-gatherings-secret-lair-next-month-here-are-the-cards/",
-          "summary": "The final Magic: The Gathering expansion of 2026, Star Trek, is sending Wizards Of The Coast's card game to the final frontier. Along with the main set and pre-constructed Commander decks will be a fu",
-          "publishedAt": "2026-10-27T13:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/",
+          "summary": "Rockstar's GTA 6 is expected to be an enormous, unprecedented success when it releases on November 19, and new data only backs that up further. Circana has released new data that shows that GTA 6 hold",
+          "publishedAt": "2026-10-28T13:31:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "BioShock Movie Is Still Happening, But Director Says It’s A “Tough Nut To Crack”",
+          "title": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/",
-          "summary": "A BioShock movie at Netflix remains in development, its director has confirmed, but that doesn't necessarily mean it'll ever be made. Francis Lawrence confirmed to The Direct that he hopes to make the",
-          "publishedAt": "2026-10-27T13:38:57.000Z",
+          "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/",
+          "summary": "Nintendo's new Indie World Showcase was a rapid-fire look at upcoming Switch games from a variety of third-party partners--which included several raccoon-themed games amongst the various titles. If yo",
+          "publishedAt": "2026-10-28T13:45:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
+          "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
-          "summary": "The Wolf Among Us 2 is finally landing in 2027, and if you want to catch up on what many consider one of Telltale Games' best exports, you can grab The Wolf Among Us Remastered on October 29. It's the",
-          "publishedAt": "2026-10-27T13:40:00.000Z",
+          "url": "https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared/",
+          "summary": "GTA 6 launches on November 19, and one day later, the new Hunger Games movie, Sunrise on the Reaping, comes to theaters. GTA 6 is expected to be an unprecedented hit that captures people's time and at",
+          "publishedAt": "2026-10-28T14:36:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Announces Indie World Showcase For October 28",
+          "title": "Here’s Why State Of Decay 3 Has Taken 6 Years To Develop So Far",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
-          "summary": "Nintendo has announced a new Indie World Showcase for October 28 at 7 AM PT / 10 AM ET . The broadcast will run about 15 minutes and, like previous streams, will focus on a wide range of games from th",
-          "publishedAt": "2026-10-27T13:54:50.000Z",
+          "url": "https://www.gamespot.com/articles/heres-why-state-of-decay-3-has-taken-6-years-to-develop-so-far/",
+          "summary": "State of Decay 3 made an impact at the 2020 Xbox Games Showcase with a slick trailer that teased features that wouldn't make the final cut , like undead deer and frigid landscapes. Six years later, th",
+          "publishedAt": "2026-10-28T14:44:53.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft",
+          "title": "Sony Is Bringing The Best Trend Of ’90s Console Design To PS5",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-workers-are-eligible-for-buyouts-as-part-of-huge-shakeup-at-microsoft/",
-          "summary": "Microsoft has announced a new program called the Voluntary Exit Offer that it's extending to thousands of workers at the company, including people on the Xbox team. Microsoft is doing this to shed emp",
-          "publishedAt": "2026-10-27T14:20:36.000Z",
+          "url": "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
+          "summary": "Sony is embracing one of the best trends of the late '90s and early 2000s, revealing a new line of DualSense controllers and PlayStation 5 console covers with transparent materials. Dubbed the Prism C",
+          "publishedAt": "2026-10-28T15:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Steam Next Fest Was Flooded With Slop. These 50 Demos Cut Through The Noise",
+          "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/steam-next-fest-was-flooded-with-slop-these-50-demos-cut-through-the-noise/",
-          "summary": "The October Edition of Steam Next Fest was, unsurprisingly, a complete mess . What was once a fun week-long festival of early game demos has become a dumping ground for vibe-coded AI slop, making it i",
-          "publishedAt": "2026-10-27T14:29:19.000Z",
+          "url": "https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date/",
+          "summary": "Eight years after its reveal, magical cozy game Witchbrook finally has a release date. We’ve been waiting a painfully long time for this Kiki’s Delivery Service-inspired pixel-art experience to break ",
+          "publishedAt": "2026-10-28T15:17:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
+          "title": "Nintendo Indie World’s Weirdest Game Got Me To Relax",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo/",
-          "summary": "Final Fantasy 7 Revelation aims to be the biggest chapter in the remake trilogy, not only in the number of regions players can explore, but also in verticality. Square Enix had previously shown off ho",
-          "publishedAt": "2026-10-27T15:48:44.000Z",
+          "url": "https://www.gamespot.com/articles/nintendo-indie-worlds-weirdest-game-got-me-to-relax/",
+          "summary": "I often feel compelled to beeline my way through games--I'll do plenty of optional quests, but rarely do I find myself slowing down to take in the sights or just goof around. It's pedal to the metal a",
+          "publishedAt": "2026-10-28T15:24:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
-          "summary": "Le Syndicat des Travailleureuses du Jeu Vid&eacute;o, a French game workers union, have released a statement detailing the current status of Don't Nod, the studio behind Life is Strange and Lost Recor",
-          "publishedAt": "2026-10-27T12:21:37.000Z",
+          "title": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
+          "summary": "The latest Nintendo Indie World Showcase highlighted several independent games arriving on Switch and Switch 2 in the coming months, and you can try some of them starting today. Four demos and a full ",
+          "publishedAt": "2026-10-28T15:28:35.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
-          "summary": "First announced back in March , Dark Messiah of Might and Magic: Community Edition is a fan-made mod (for Dark Messiah of Might and Magic , obvs) that spruces up Arkane's 2006 RPG, including upgrading",
-          "publishedAt": "2026-10-27T15:38:47.000Z",
+          "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
+          "summary": "Rockstar's GTA 6 is expected to be a giant success commercially, but just how big does the game need to be to actually be successful following a decade of development and perhaps one of the biggest de",
+          "publishedAt": "2026-10-28T15:42:37.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
-          "summary": "Though Street Fighter 6 has been the most popular fighting game in the world for three years running, there are still dedicated soldiers playing Street Fighter V right now. Be that due to its much lar",
-          "publishedAt": "2026-10-27T16:30:29.000Z",
+          "title": "PlayStation Plus Free Games For November 2026 Revealed",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
+          "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting November 3: Dead Island 2 , Tomb Raide",
+          "publishedAt": "2026-10-28T15:38:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
-          "summary": "Kingdom Come Deliverance 2 developers Warhorse, who're also working on a Lord of the Rings RPG , have revealed that they've been targeted by a cyberattack aiming to access their systems and data. The ",
-          "publishedAt": "2026-10-27T17:00:00.000Z",
+          "title": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
+          "summary": "The latest Indie World Showcase only lasted for a bit longer than 15 minutes, but that small time window didn't stop Nintendo from featuring some truly cool-looking games. The Witchbrook release date ",
+          "publishedAt": "2026-10-28T16:12:05.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-27T17:45:12.699Z",
+      "generatedAt": "2026-10-28T17:46:38.655Z",
       "items": [
         {
-          "title": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
-          "summary": "It&rsquo;s been well over a week since my final swing of Virtue and a Sledgehammer &rsquo;s righteous whacking stick, and I&rsquo;m still finding it difficult to shift the game from my thoughtspace. H",
-          "publishedAt": "2026-10-27T16:00:00.000Z",
+          "title": "Call of Duty: Modern Warfare 4 review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+          "summary": "This is what it looks like when Call of Duty is in the pocket.",
+          "publishedAt": "2026-10-27T18:17:42.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "The Wolf Among Us Remastered Review",
+          "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/the-wolf-among-us-remastered-review",
-          "summary": "A brilliant way to either revisit or catch up on a neo-noir mystery that still deserves its flowers.",
-          "publishedAt": "2026-10-27T13:00:00.000Z",
+          "url": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
+          "summary": "VisionQuest reaches new heights in Episodes 5 and 6, as the fascinating dynamic between Ultron and Jocasta takes center stage.",
+          "publishedAt": "2026-10-28T01:00:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,23 +144,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-27T17:45:12.699Z",
+      "generatedAt": "2026-10-28T17:46:38.655Z",
       "items": [
         {
-          "title": "Blue N.O.V.A. Introduces its Own (Literal) Halo to the PvE Shooter Genre | IGN Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/blue-nova-introduces-its-own-literal-halo-to-the-pve-shooter-genre-ign-preview",
-          "summary": "Built around a potentially brilliant mechanic that feels tailor-made for a PvE shooter, Blue N.O.V.A. has a ton of potential. But I left my hands-on demo and interview session with a few questions. Le",
-          "publishedAt": "2026-10-27T16:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
-          "summary": "Originally set to enter early access on October 27, action-adventure RPG Emberville has been delayed by over two months to January 7, 2027. The last-minute delay gives the team time to make \"essential",
-          "publishedAt": "2026-10-27T10:05:58.000Z",
+          "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
+          "summary": "Subnautica 2 creative director Anthony Gallegos has spoken about what Unknown Worlds have learned over their many years working in Steam early access, exhorting other devs to add new features \"as soon",
+          "publishedAt": "2026-10-28T15:40:46.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -169,113 +160,113 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-27T17:45:12.699Z",
+      "generatedAt": "2026-10-28T17:46:38.655Z",
       "items": [
         {
-          "title": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirms/",
-          "summary": "The Call of Duty franchise has now exceeded $40 billion in lifetime franchise revenue, Xbox CEO Asha Sharma has confirmed. She shared this milestone following the launch of Call of Duty: Modern Warfar",
-          "publishedAt": "2026-10-27T12:58:03.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "STALKER 2's latest update expands its A-Life NPC simulation bubble, seemingly without a scary performance tax",
+          "title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/stalker-2s-latest-update-expands-its-a-life-npc-simulation-bubble-seemingly-without-a-scary-performance-tax",
-          "summary": "STALKER 2: Heart of Chornobyl has a new update out, 2.1, which builds on the excellent 2.0 patch by upgrading that most beloved and contentious of STALKER series features: the A-Life system that gover",
-          "publishedAt": "2026-10-27T13:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+          "summary": "Magnificent, depressing plague colony fable Pathologic 3 has received a sizeable game update that adds some new difficulty modes, a photo feature, and some new, worryingly folkloric methods of defeati",
+          "publishedAt": "2026-10-28T11:40:49.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Assassin’s Creed Black Flag Resynced Just Got a Final Huge Update",
+          "title": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
+          "summary": "Epic Games are, dunno if you've heard, on a bit of a genAI kick at the moment. It's been tough to notice unless you listen very hard. Tim Sweeney's lips have been sealed and no reports have spewed for",
+          "publishedAt": "2026-10-28T16:49:39.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Epic Officially Confirms It’s 'Vibe Coding' Unreal Engine 6 and Future 'Fortnite' Updates",
           "source": "Polygon",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-huge-update-new-game-plus-nightmare-mode/",
-          "summary": "Assassin's Creed Black Flag Resynced just got a final major update with New Game Plus, harder difficulty settings, and more.",
-          "publishedAt": "2026-10-27T15:09:57.000Z",
+          "url": "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
+          "summary": "Epic has revealed just how extensively AI is being used for Unreal Engine 6 and new 'Fortnite' updates.",
+          "publishedAt": "2026-10-28T16:27:58.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "'Kingdom Come: Deliverance' Studio Hit by Major Cyberattack",
+          "title": "Modern Warfare 4 Just Made 100% Completion Impossible With New Update",
           "source": "Polygon",
-          "url": "https://www.polygon.com/kingdom-come-deliverance-cyberattack/",
-          "summary": "'Kingdom Come: Deliverance' developer Warhorse Studios confirmed it was the victim of a major cyberattack.",
-          "publishedAt": "2026-10-27T16:42:18.000Z",
+          "url": "https://www.polygon.com/modern-warfare-4-free-for-all-update-nuke-score-limit/",
+          "summary": "Modern Warfare 4's latest update lowers Free-for-All's score limit, making it impossible to earn a nuke and potentially 100% the game.",
+          "publishedAt": "2026-10-28T16:40:03.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Half-Life: Alyx patch adds foveated rendering support a mere 6 years after the game's release",
+          "title": "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
-          "summary": "Just took launching a VR headset with eye tracking for Valve to add it.",
-          "publishedAt": "2026-10-27T11:13:22.000Z",
+          "url": "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/",
+          "summary": "'We are more concerned about the risks of moving too slowly than we are about AI skepticism.'",
+          "publishedAt": "2026-10-28T13:58:17.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
-          "summary": "\"This is a serious incident for Warhorse Studios and for everyone affected.\"",
-          "publishedAt": "2026-10-27T11:55:58.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most lucrative videogame franchises ever",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
-          "summary": "Never underestimate the unbridled love for yelling hoorah before gunning down the same generic bad guy every year.",
-          "publishedAt": "2026-10-27T13:55:38.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident",
+          "title": "Valve 'Thinking About How to Solve' Steam's AI Slop Problem, but Won't Limit Developer Access",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
-          "summary": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord of the Rings RPG — has been hit by a “serious” cyberattack.",
-          "publishedAt": "2026-10-27T11:35:33.000Z",
+          "url": "https://www.ign.com/articles/valve-ai-slop-on-steam-comments",
+          "summary": "Valve’s Steam Business Team took to the stage at the Steam Indie Connect event in Korea and took questions from an audience of game developers. During the chat, the issue of Steam being flooded with g",
+          "publishedAt": "2026-10-28T12:59:20.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-          "summary": "Kingdom Come: Deliverance developer Warhorse Studios has confirmed it's suffered a \"serious\" cyberattack, saying it is currently working to determine the \"full extent\" of its impact. Read more",
-          "publishedAt": "2026-10-27T16:53:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Ghost Of Yotei Was A Hit, But Its Developer Is Reportedly Cutting Jobs",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/",
-          "summary": "Sony-owned studio Sucker Punch Productions is losing 24 employees in another round of layoffs in the games industry. The studio is behind Ghost of Tsushima and Ghost of Yotei , two first-party PlaySta",
-          "publishedAt": "2026-10-27T10:00:15.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
+          "title": "No Man’s Sky Gets Fresh Horror-Themed Forsaken Update Just a Month After Cosmos",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
-          "summary": "Pokemon Unite will end service on March 23, 2027, following the game’s final competition, the Aeos Crown 2027, just two days prior in Tokyo.",
-          "publishedAt": "2026-10-27T09:12:38.000Z",
+          "url": "https://www.ign.com/articles/no-mans-sky-forsaken-update",
+          "summary": "Just as No Man’s Sky lands for iOS, the ever-expanding space sim is getting a spooky new update in time for Halloween.",
+          "publishedAt": "2026-10-28T15:23:19.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more",
+          "title": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
-          "summary": "After a period of quiet and a few small updates , Ubisoft has unveiled a massive update coming today to Assassin's Creed Black Flag Resynced. This is the game's last major patch and it includes some l",
-          "publishedAt": "2026-10-27T09:18:45.000Z",
+          "url": "https://www.eurogamer.net/mike-klubnika-buckshot-roulette-machine-party-interview",
+          "summary": "In Mike Klubnika's growing oeuvre of brilliantly deplorable games, the same elements tend to recur. First, smoking: deep, long drags to make the lungs burn and eyes water. Second, club music: hard and",
+          "publishedAt": "2026-10-28T11:45:33.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
+          "summary": "Arc Raiders recently ended its first-ever test for a dedicated PvE mode , following months of player requests. While feedback has generally been favourable, developer Embark has gone quiet about wheth",
+          "publishedAt": "2026-10-28T11:58:27.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
+          "summary": "Today's the day iPhone and iPad owners finally get to boldly go into No Man's Sky's procedurally generated universe , adding two more devices to the game's already long list of compatible platforms. B",
+          "publishedAt": "2026-10-28T14:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+          "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pok&eacute;mon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infrin",
+          "publishedAt": "2026-10-28T14:03:01.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
+          "summary": "The legal battle between Nintendo and Pocketpair is ongoing, but the Palworld developer hasn’t ruled out a Switch 2 version of its creature collecting survival game.",
+          "publishedAt": "2026-10-28T10:17:33.000Z",
           "tag": "Industry",
           "_example": false
         }

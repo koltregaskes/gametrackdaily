@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-27T17:30:03.812Z",
+  "updatedAt": "2026-10-28T17:30:08.004Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,178 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-394670",
-      "title": "Remothered: Red Nun's Legacy",
-      "date": "2026-10-27",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the trilogy reveals every secret behind the series most unsettling icon: the Red Nun."
-    },
-    {
-      "id": "igdb-game-381077",
-      "title": "Virtue and a Sledgehammer",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up."
-    },
-    {
-      "id": "igdb-game-334698",
-      "title": "Lacey's Flash Games",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "These are the REAL girls’ games. In the mid 2000s, Charlie (Charchar887), discovers the Laceys's Flash Games and their disturbing secrets. Step into the virtual world to uncover the whereabouts of the missing website creator, Rocio Yani, and explore all the games and activities w"
-    },
-    {
-      "id": "igdb-game-414126",
-      "title": "You Are Empty: Absolute Edition",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Just in time for the 20th anniversary, You Are Empty has been revitalized for modern systems, with fixes, new features, and QoL additions, including all the official localizations. Our team carefully went through the entire game whilst faithfully preserving the intent of the orig"
-    },
-    {
-      "id": "igdb-game-411924",
-      "title": "Anti-Anti",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A choice-driven psychological mystery visual novel, Anti-Anti. In a world once devastated by slime monsters, you are forced into a suspicious audition. A locked-room mystery, ensemble drama, adventure, thriller, and romance!"
-    },
-    {
-      "id": "igdb-game-403093",
-      "title": "Archivist: Tidy Up & Sort",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by"
-    },
-    {
-      "id": "igdb-game-405677",
-      "title": "Coal Duty",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Coal Duty is a 1-5 player co-op extraction horror-comedy. Meet the state coal quota in procedurally generated mines, coordinating over proximity voice chat while something in the dark listens in. Spend your tickets, plan your escape. Some miners get out. The state does not confir"
-    },
-    {
-      "id": "igdb-game-404491",
-      "title": "Tiny Capsule Collector",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Run a cozy capsule shop at the bottom of your screen. Attract cute animal customers, collect charming capsule toys, and build a relaxing, ambient world in this idle sim bringing you small moments of joy while you work. Make your desktop a place you’d rather be."
-    },
-    {
-      "id": "igdb-game-407153",
-      "title": "8 Hours Till Dawn",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play 8 Hours Till Dawn solo, or with up to five other friends, a survival party game where you plan out your actions and movements ahead of time. Navigate your survivor to the center room to grab a weapon then make it to an outer room with a window and hopefully stop the infected"
-    },
-    {
-      "id": "igdb-game-375527",
-      "title": "Bao Bao's Cozy Cleaning Services",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Relax with Bao Bao in this cozy 2D pressure washing sim. Clean pastel environments, chill lo-fi beats, and no stress, just peaceful vibes. Play solo or with up to 3 friends. A peaceful pressure washing game for quiet minds and cozy days."
-    },
-    {
-      "id": "igdb-game-417896",
-      "title": "Dog Man: Bark in Action",
-      "date": "2026-10-27",
-      "platforms": [
-        "Xbox Series X/S",
-        "PlayStation 4",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Join Dog Man and his Supa Buddies for a supa-new adventure! Packed with boss fights, awesome gadgets and up to 10 playable characters, each with unique abilities."
-    },
-    {
-      "id": "igdb-game-361755",
-      "title": "Empty Box",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Psychological horror dating sim for women. Navigate a seemingly perfect school life where every sweet moment hides a lie. Why is the rooftop locked? Why is *they* so obsessed? Why only ‘L’? Your choices shape the truth—and every move is watched. Discover chilling endings."
-    },
-    {
-      "id": "igdb-game-408685",
-      "title": "Keykruncher",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "KEYKRUNCHER is the fun and effective treatment for all your keyboard-eating needs! Look down, follow the monitor, press the correct KEY, and KRUNCH. EAT the whole keyboard before IT eats you."
-    },
-    {
-      "id": "igdb-game-409879",
-      "title": "Pidgeon Pocket",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Pidgeon Pocket is a chill incremental game about a rooftop pigeon-keeper who sends a flock of trained pigeons into a living city park to pickpocket small valuables from park-goers and bring the loot home. Each round the park transforms into a different live event, from a marathon"
-    },
-    {
-      "id": "igdb-game-381581",
-      "title": "When the Embers Wake",
-      "date": "2026-10-27",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "When the Embers Wake is a third person narrative adventure with a cause to create awareness about the very current and real threats on wildlife. You play as a red panda that needs to survive amidst environmental challenges, threats and also grief."
-    },
     {
       "id": "igdb-game-279615",
       "title": "Usual June",
@@ -1937,17 +1765,6 @@
       "summary": "A disappearance in a secluded mountain. A village hiding its secrets. A detective running out of time. Hillthorn's investigation system encourages you to use logic and imagination. Combine actions, clues and characters to uncover the mystery."
     },
     {
-      "id": "igdb-game-365278",
-      "title": "Australia Did It: End-of-the-World Railway Defense Business",
-      "date": "2026-11-10",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
-    },
-    {
       "id": "igdb-game-345164",
       "title": "The Devil's Due",
       "date": "2026-11-10",
@@ -1957,6 +1774,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "You lost your soul in a poker game against the Devil. Now, trapped in the infernal depths, your only hope is to fight your way back to freedom. You’ll face a diverse gallery of monstrous foes in nearly impossible poker battles - but luckily, you’re a cheater."
+    },
+    {
+      "id": "igdb-game-365278",
+      "title": "Australia Did It: End-of-the-World Railway Defense Business",
+      "date": "2026-11-10",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods."
     },
     {
       "id": "igdb-game-424010",
@@ -2188,6 +2016,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
+      "id": "igdb-game-306740",
+      "title": "Sloppy Forgeries",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Sloppy Forgeries is a fast-paced competitive painting game. Practice your skills by butchering iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel in real-time. Choose from 50 meticulously abstracted paintings from art history and get to work"
     },
     {
       "id": "igdb-game-413109",
@@ -2826,6 +2665,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, brutal hand-to-hand combat. Set in dystopian city of Bandung, Indonesia."
+    },
+    {
+      "id": "igdb-game-420890",
+      "title": "A Game About Digging A Hole Together",
+      "date": "2026-12-04",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A minimalist game about digging a hole at the beach, now with friends. Dig together, collect resources, sell them, upgrade your equipment and search for a promised treasure buried deep beneath the sand."
     },
     {
       "id": "igdb-game-380373",
@@ -4233,6 +4085,17 @@
       "summary": "You are a yucky long-armed thief. Snake through levels, retract like a vacuum cord, or put on a sock to seduce a lonely guard - whatever it takes to pull off the perfect heist!"
     },
     {
+      "id": "igdb-game-321176",
+      "title": "Nonolith",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Discover the countless secrets of the NONOLITH. Copy and paste blocks to reach new areas, and master hidden mechanics that let you do the seemingly impossible. You are very powerful, you just don't know it yet."
+    },
+    {
       "id": "igdb-game-339805",
       "title": "Rain98",
       "date": "2026-12-31",
@@ -4301,6 +4164,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Unravel a story-rich adventure blending a turn-based RPG with real-time mechanics. Use spells to grapple across gaps, uncover hidden routes, and combine abilities with powerful Dreamkin companions to overcome a world consumed by Gloam."
+    },
+    {
+      "id": "igdb-game-393250",
+      "title": "Takeover 2",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack."
     },
     {
       "id": "igdb-game-309915",
@@ -4573,17 +4447,6 @@
       "summary": "Venture deep into the Neverlooted Dungeon and face its treacherous, deadly traps. Armed with your creativity, trusty weapon and magical items, find your own ways to outsmart the dangers in a highly immersive world. Be careful, become paranoid, be the first to loot!"
     },
     {
-      "id": "igdb-game-321176",
-      "title": "Nonolith",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Discover the countless secrets of the NONOLITH. Copy and paste blocks to reach new areas, and master hidden mechanics that let you do the seemingly impossible. You are very powerful, you just don't know it yet."
-    },
-    {
       "id": "igdb-game-145755",
       "title": "Pocket Wheels",
       "date": "2026-12-31",
@@ -4707,17 +4570,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Sunkissed City is a life-sim set in an upbeat, sun-kissed seaside metropolis full of funky vibes and quirky characters. Stake out your new life in the city, tending to DIY gardens, learning new skills, and making life-long friends and help bring life back to its once-vibrant stre"
-    },
-    {
-      "id": "igdb-game-393250",
-      "title": "Takeover 2",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack."
     },
     {
       "id": "igdb-game-383844",
@@ -5274,6 +5126,151 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Set in an alternate reality World War II, Noblemen: 1941 mixes strategy, tactical decision-making, and 3rd person combat. Gameplay is a blend of realistic combat mechanics, historic influence, and fictional elements such as melee combat, heavy armor, mechs, battle suits, vampires"
+    },
+    {
+      "id": "igdb-game-347868",
+      "title": "No Straight Roads 2",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Metronomik and Shueisha Games are thrilled to announce NSR2 – the explosive sequel to the hit action-music adventure NO STRAIGHT ROADS – coming to Steam in 2026."
+    },
+    {
+      "id": "igdb-game-211234",
+      "title": "Paws and Leaves: A Last Tale",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Life flashes before your eyes when you die. Help Me Fox by finding his memories beyond life and experiencing a touching, cute, and scary tale."
+    },
+    {
+      "id": "igdb-game-342758",
+      "title": "Project; Virai: Doomer's Life Escape",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Help a doomer girl make her VTuber persona popular and escape her depressive routine. If you can."
+    },
+    {
+      "id": "igdb-game-261673",
+      "title": "Psychotic Bathtub",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Have a psychotic episode in your bathtub. Argue with a rubber duck, flood your bathroom and drown dad. Find your very own ending – or all of them."
+    },
+    {
+      "id": "igdb-game-399165",
+      "title": "Secret Files: Tunguska - Remastered",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The award-winning adventure classic returns as a remaster with modernized visuals and updated technology. Join Nina and Max on a globe-spanning investigation filled with puzzles, conspiracies, and danger - and uncover the secret of Tunguska that changes everything!"
+    },
+    {
+      "id": "igdb-game-301328",
+      "title": "Serial World",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "\"SerialWorld\" is a comedic yet serious RPG. Whether you've played deck-building games before or not, everyone can enjoy this adventurous tale. Embark on a journey into the mysterious world to solve the city's disturbances!"
+    },
+    {
+      "id": "igdb-game-315060",
+      "title": "Shadows of the Werewolf",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Shadows of the Werewolf is a cinematic, third-person action-adventure game that places players in a suspenseful, horror-filled world. The story unfolds across various locations, including a suburban home and a mysterious forest retreat, where an innocent couple faces a relentless"
+    },
+    {
+      "id": "igdb-game-306921",
+      "title": "Sigils of Nightfall",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Sigils of Nightfall is a roguelike deckbuilder that combines dungeon crawling with elements of the award-winning RPG, Mörk Borg. Embark on a dark journey, improve your character, and survive at all costs — or be consumed by the horrors lurking in the darkness."
+    },
+    {
+      "id": "igdb-game-348286",
+      "title": "SkyRig",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build floating automated rigs in a volatile gas giant. Extract elements, synthesize compounds, and descend through atmospheric layers in this sci-fi systems-builder focused on chemistry, engineering, and survival."
+    },
+    {
+      "id": "igdb-game-250031",
+      "title": "Tako no Himitsu: Ocean of Secrets",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Tako no Himitsu: Ocean of Secrets is an indie Action RPG made as a tribute to the Game Boy Advance era of gaming. A spiritual successor to Save me Mr Tako, play in a world where Octopuses were erased from history."
+    },
+    {
+      "id": "igdb-game-373092",
+      "title": "Teach My Little Sister How to Drive",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Teach My Little Sister How to Drive is a chaotic simulation game where you have to teach your sister who's driving on deadly roads. Trapped in the passenger seat, the only thing you can do is to give proper directions to your sister through your voice."
+    },
+    {
+      "id": "igdb-game-400471",
+      "title": "The House Always Wins",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The House Always Wins is a roguelike deckbuilder set in a bizarre multiverse casino where every run is built on clever choices, powerful synergies, and calculated chaos.\n\nBuild your deck, battle through strange worlds, and collect relics in the form of playing cards. Each relic h"
+    },
+    {
+      "id": "igdb-game-342265",
+      "title": "The Shadow Syndicate",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Shadow Syndicate is a stylized noir stealth-action game set in 1930s Brooklyn. Sneak, fight, and uncover a dark conspiracy using supernatural powers. Explore a vibrant city, play mini-games, and solve mysteries in this thrilling cinematic experience."
     }
   ],
   "undated": [
