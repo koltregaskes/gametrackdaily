@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-28T17:30:08.004Z",
+  "updatedAt": "2026-10-29T17:30:05.776Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,139 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-279615",
-      "title": "Usual June",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Hang out, fight monsters, and discover your town’s darkest secrets in Usual June, a third person action game about summer break and the end of the world."
-    },
-    {
-      "id": "igdb-game-123765",
-      "title": "Airport Contraband",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Take over the duties of a customs officer in this roguelike-simulation game where every suitcase could be a risk. Inspect documents, question passengers, scan luggage, and seize illegal goods as you try to maintain control at Caldora Airport. Will you uphold the law or profit fro"
-    },
-    {
-      "id": "igdb-game-402530",
-      "title": "Anomalith",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "“ANOMALITH” is a survival third-person shooter set in Japan, steeped in the atmosphere of liminal spaces and Showa-era retro aesthetics. To search for her missing friend, a girl steps into a world writhing with anomalies."
-    },
-    {
-      "id": "igdb-game-410704",
-      "title": "CH13: Rest Stop",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "CH13: Rest Stop is a psychological horror game set in early 2000s Poland. What begins as a calm drive through the woods turns into something you weren't prepared for... Will you find out what awaits at the end of the road?"
-    },
-    {
-      "id": "igdb-game-403322",
-      "title": "Deductopia",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore the scenes, find clues, and sort out people, pets, and belongings in this cozy slice-of-life detective puzzle game. Fans of Duck Detective, Little Problems, and The Case of the Worst Day Ever will enjoy this new deduction game for all ages."
-    },
-    {
-      "id": "igdb-game-375040",
-      "title": "Hypnosync",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "RHYTHM x HYPNOSIS. You are forced into being the manager of the brand new music game arcade, HYPNOSYNC! With your newfound hypnosis ability, hypnotize customers to the beat and turn them into your very own mindless employees!"
-    },
-    {
-      "id": "igdb-game-418751",
-      "title": "Ironwake",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A linear single-session psychological horror. Your mind is uploaded into an old Soviet robot sealed inside a dead bunker. Stealth in the dark, puzzles inside dying machines, and one voice on the radio guiding you. Find the clues and change how it ends."
-    },
-    {
-      "id": "igdb-game-326496",
-      "title": "Mega Met",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A Mega Man fan game which features Metalls (Mets) as the entire cast of characters, enemies and bosses."
-    },
-    {
-      "id": "igdb-game-385337",
-      "title": "Neuron Activation",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A frantic rhythm-puzzle game filled with micro-challenges. Push buttons, flip switches, shoot targets and more in search of high scores to appease your overlords."
-    },
-    {
-      "id": "igdb-game-412177",
-      "title": "Probably Stolen",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Probably Stolen is a cyberpunk shopkeeping simulator set in a dystopian space station. Craft, trade, and smuggle goods of questionable origin, navigate faction loyalties, and stop rampant AI by killing those it controls. Earn enough to buy out your shop before rising rent forces "
-    },
-    {
-      "id": "igdb-game-318880",
-      "title": "Sepulchron",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An atmospheric puzzle-horror game where you have 72 in-game hours to escape with your life. Solve challenging puzzles that require logical deduction during the day, survive assaults from hostile ghosts at night, and uncover the mystery behind Astor Manor."
-    },
-    {
-      "id": "igdb-game-392214",
-      "title": "Zombie Assault: Resurgence",
-      "date": "2026-10-28",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Zombie Assault: Resurgence is an intense, action packed top-down shooter, featuring deep RPG elements. Customise your loadout with unique upgradeable weapons as you gear up to take on hordes of enemies. Play solo or team up in co-op with up to 4 players."
-    },
     {
       "id": "igdb-game-250618",
       "title": "Phantom Blade Zero",
@@ -5271,6 +5138,138 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The Shadow Syndicate is a stylized noir stealth-action game set in 1930s Brooklyn. Sneak, fight, and uncover a dark conspiracy using supernatural powers. Explore a vibrant city, play mini-games, and solve mysteries in this thrilling cinematic experience."
+    },
+    {
+      "id": "igdb-game-117329",
+      "title": "The Way of Wrath",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The Way of Wrath is a story-driven turn-based tactical RPG set in an ancient world governed by shamanistic laws. You explore the beautifully handcrafted landscape, rebuild defences of an old fort, take on quests and unite war torn people against the imminent wrath of enemy forces"
+    },
+    {
+      "id": "igdb-game-365094",
+      "title": "Tiny Shop",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Leave the hustle and bustle behind and bring your dream of a cozy little shop to life! Create, decorate, and watch visitors fall in love. Let your imagination run wild and craft a beautiful, inviting space they'll want to return to again and again."
+    },
+    {
+      "id": "igdb-game-397820",
+      "title": "Too Deep To Quit",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Grab your gear and your friends for a hilarious, golden-age co-op adventure! Dive into cursed temples, hunt for the ultimate treasure, and work together to stay alive. Beware of everything and everyone... after all, only the survivors get to split the gold!"
+    },
+    {
+      "id": "igdb-game-388917",
+      "title": "Toymaker: Threads of Joy",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Toymaker is a toy-crafting and store management simulator set in the 1910s Spain. Meet unique customers and colorful locals in a bustling city, and discover a magical story based on a folk legend. Follow two different mythic paths, and change the future of your hometown!"
+    },
+    {
+      "id": "igdb-game-375586",
+      "title": "Under Heaven or Hell",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You wake up in Hell with no memory of how you got there, and no clear way out.\n\nTo return home, you will have to survive the brutal politics of this realm and forge alliances with two dangerous devils and an enigmatic angel, each with their own secrets, and temptations that may p"
+    },
+    {
+      "id": "igdb-game-375250",
+      "title": "UvsU: You vs. You",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Outsmart your past self in a battle of cause and effect. Explore an interconnected clay world, discover its hidden rules, and uncover the secrets it would rather keep buried."
+    },
+    {
+      "id": "igdb-game-343265",
+      "title": "Vikings Dynasty",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Embrace viking life and earn Valhalla’s blessing. Survive in the harsh norse environments and praise the Gods. Become a Jarl, control every aspect of your village and protect your community at all costs. Build and customize ships and explore the fjords in the unforgiving world of"
+    },
+    {
+      "id": "igdb-game-385020",
+      "title": "Whisk",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Whisk is a two-player platformer about shared movement and communication. Coordinate jumps, climbs and throws with a partner to get every Dreamcat home."
+    },
+    {
+      "id": "igdb-game-361645",
+      "title": "Wonderfall",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A third-person adventure game in a dystopian 1920s Paris consumed by Entropy. As buildings crumble into sand, Léon, a young orphan with the ability to manipulate this sand embark on a quest for truth and confront the remains of a city collapsing beneath his feet."
+    },
+    {
+      "id": "igdb-game-342991",
+      "title": "World of Dogs",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "WORLD OF DOGS is a high-velocity immersive sim where speed isn’t balanced—it’s weaponized. You are the first fully grafted human, stitched together from dead champions, dumped into a collapsing city where every faction is fighting for a future that hates you."
+    },
+    {
+      "id": "igdb-game-357415",
+      "title": "Abyss Rebel",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "ABYSS REBEL is a Turn-Based Tactical RPG combining grid strategy, intense combat, and loot progression. Set sail for a frozen archipelago at the universe’s edge, lead a four-member squad on a skiff, equipping skills, relics, tackling bosses and summoning mechs to shatter encroach"
+    },
+    {
+      "id": "igdb-game-387356",
+      "title": "After the Wane",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Retracing the footsteps of a mother she never knew, Lena's trying to make it as a dancer in the city. Caught in a quarrel between dance companies, dealing with love and heartbreak and the challenges of young adulthood, she must also cope with the voice in her head commenting on e"
     }
   ],
   "undated": [
