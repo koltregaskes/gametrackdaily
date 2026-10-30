@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-29T17:45:32.625Z",
+  "generated": "2026-10-30T17:45:17.709Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-29T17:45:32.625Z",
+      "generatedAt": "2026-10-30T17:45:17.709Z",
       "items": [
         {
-          "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+          "title": "Don’t Expect Destiny 3 At The Game Awards, Bungie Says",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
-          "summary": "Steam Next Fest has come and gone, and one of the big criticisms of the semi-regular showcase for game demos--aside from there being several thousand of them --was that there was simply too much AI sl",
-          "publishedAt": "2026-10-28T12:30:33.000Z",
+          "url": "https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/",
+          "summary": "Destiny's future lies in its past, as Bungie is working to bring content from the infamous Destiny vault back to the game. Big plans are in place to rework fan-favorite campaigns like the Red War and ",
+          "publishedAt": "2026-10-30T13:33:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
+          "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/",
-          "summary": "Rockstar's GTA 6 is expected to be an enormous, unprecedented success when it releases on November 19, and new data only backs that up further. Circana has released new data that shows that GTA 6 hold",
-          "publishedAt": "2026-10-28T13:31:21.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
+          "summary": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. Ther",
+          "publishedAt": "2026-10-30T14:18:36.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
+          "title": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/",
-          "summary": "Nintendo's new Indie World Showcase was a rapid-fire look at upcoming Switch games from a variety of third-party partners--which included several raccoon-themed games amongst the various titles. If yo",
-          "publishedAt": "2026-10-28T13:45:00.000Z",
+          "url": "https://www.gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect/",
+          "summary": "EA recently announced it was shutting down BioWare , ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven by economics, as it had to ch",
+          "publishedAt": "2026-10-30T15:29:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
+          "title": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared/",
-          "summary": "GTA 6 launches on November 19, and one day later, the new Hunger Games movie, Sunrise on the Reaping, comes to theaters. GTA 6 is expected to be an unprecedented hit that captures people's time and at",
-          "publishedAt": "2026-10-28T14:36:28.000Z",
+          "url": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
+          "summary": "If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style",
+          "publishedAt": "2026-10-30T15:54:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Here’s Why State Of Decay 3 Has Taken 6 Years To Develop So Far",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/heres-why-state-of-decay-3-has-taken-6-years-to-develop-so-far/",
-          "summary": "State of Decay 3 made an impact at the 2020 Xbox Games Showcase with a slick trailer that teased features that wouldn't make the final cut , like undead deer and frigid landscapes. Six years later, th",
-          "publishedAt": "2026-10-28T14:44:53.000Z",
+          "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
+          "summary": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The game in question would",
+          "publishedAt": "2026-10-30T12:58:41.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Sony Is Bringing The Best Trend Of ’90s Console Design To PS5",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
-          "summary": "Sony is embracing one of the best trends of the late '90s and early 2000s, revealing a new line of DualSense controllers and PlayStation 5 console covers with transparent materials. Dubbed the Prism C",
-          "publishedAt": "2026-10-28T15:00:00.000Z",
+          "title": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
+          "summary": "Thanks once again to everyone keeping our lights on, and our pantries full of Mini Cheddars, by being an RPS Supporter . The latest batch of subscription stats came in the other day and it&rsquo;s bee",
+          "publishedAt": "2026-10-30T14:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date/",
-          "summary": "Eight years after its reveal, magical cozy game Witchbrook finally has a release date. We’ve been waiting a painfully long time for this Kiki’s Delivery Service-inspired pixel-art experience to break ",
-          "publishedAt": "2026-10-28T15:17:07.000Z",
+          "title": "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report",
+          "summary": "The postmortem on BioWare, following their shuttering by EA this month , points to the publisher's preference to back Star Wars Battlefront 3 over Mass Effect 5 as the main factor in the demise of the",
+          "publishedAt": "2026-10-30T16:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Indie World’s Weirdest Game Got Me To Relax",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-indie-worlds-weirdest-game-got-me-to-relax/",
-          "summary": "I often feel compelled to beeline my way through games--I'll do plenty of optional quests, but rarely do I find myself slowing down to take in the sights or just goof around. It's pedal to the metal a",
-          "publishedAt": "2026-10-28T15:24:40.000Z",
+          "title": "'Star Trek Online' Players Hold Memorial Vigil for Patrick Stewart",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/star-trek-online-memorial-vigil-patrick-stewart-picard/",
+          "summary": "'Star Trek Online' players held a vigil to honor Patrick Stewart, who played the legendary Jean-Luc Picard in 'The Next Generation.'",
+          "publishedAt": "2026-10-30T14:38:34.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
-          "summary": "The latest Nintendo Indie World Showcase highlighted several independent games arriving on Switch and Switch 2 in the coming months, and you can try some of them starting today. Four demos and a full ",
-          "publishedAt": "2026-10-28T15:28:35.000Z",
+          "title": "Marvel, Star Trek Stars Post Heartbreaking Tributes to Patrick Stewart",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/",
+          "summary": "Patrick Stewart died at the age of 86 on Wednesday, and fellow actors from X-Men, Star Trek, and Dune are paying their respects in heartfelt tributes.",
+          "publishedAt": "2026-10-30T14:50:52.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
-          "summary": "Rockstar's GTA 6 is expected to be a giant success commercially, but just how big does the game need to be to actually be successful following a decade of development and perhaps one of the biggest de",
-          "publishedAt": "2026-10-28T15:42:37.000Z",
+          "title": "Best Visions to use in Final Fantasy Resonance",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
+          "summary": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
+          "publishedAt": "2026-10-30T14:58:21.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "PlayStation Plus Free Games For November 2026 Revealed",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
-          "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting November 3: Dead Island 2 , Tomb Raide",
-          "publishedAt": "2026-10-28T15:38:07.000Z",
+          "title": "James Gunn Officially Comments on Casting the DCU's New Batman",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/batman-dcu-casting-james-gunn-comment/",
+          "summary": "DC's new Batman hasn't been cast yet, but James Gunn says it 'won't be too long'",
+          "publishedAt": "2026-10-30T15:00:34.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
-          "summary": "The latest Indie World Showcase only lasted for a bit longer than 15 minutes, but that small time window didn't stop Nintendo from featuring some truly cool-looking games. The Witchbrook release date ",
-          "publishedAt": "2026-10-28T16:12:05.000Z",
+          "title": "Where to use the coin mining den key in DMZ in Modern Warfare 4",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-coin-mining-den-key-location/",
+          "summary": "Our guide shows the exact location to use the coin mining den key in DMZ in Modern Warfare 4.",
+          "publishedAt": "2026-10-30T15:12:34.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-29T17:45:32.625Z",
+      "generatedAt": "2026-10-30T17:45:17.709Z",
       "items": [
         {
-          "title": "Call of Duty: Modern Warfare 4 review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-          "summary": "This is what it looks like when Call of Duty is in the pocket.",
-          "publishedAt": "2026-10-27T18:17:42.000Z",
+          "title": "Ramayana: Rise of a Legend Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review",
+          "summary": "Review: With Ramayana: Rise of a Legend, a majestic epic falls victim to clunky action, eye-sore CGI, and awkward AI lip-syncing in what is, unfortunately, just a Part 1.",
+          "publishedAt": "2026-10-30T16:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
+          "title": "Nocturne Episodes 1 & 2 Recap and Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
-          "summary": "VisionQuest reaches new heights in Episodes 5 and 6, as the fascinating dynamic between Ultron and Jocasta takes center stage.",
-          "publishedAt": "2026-10-28T01:00:00.000Z",
+          "url": "https://www.ign.com/articles/nocturne-episodes-1-2-recap-and-review",
+          "summary": "Review: Nocturne Episodes 1 & 2 are threading a needle as it hopes to intrigue viewers with familiar tropes delivered in a remixed storyline.",
+          "publishedAt": "2026-10-30T07:01:00.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,14 +144,32 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-29T17:45:32.625Z",
+      "generatedAt": "2026-10-30T17:45:17.709Z",
       "items": [
         {
-          "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
-          "summary": "Subnautica 2 creative director Anthony Gallegos has spoken about what Unknown Worlds have learned over their many years working in Steam early access, exhorting other devs to add new features \"as soon",
-          "publishedAt": "2026-10-28T15:40:46.000Z",
+          "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
+          "summary": "Crimson Desert is one of 2026's most successful releases. The game managed to sell over 6 million copies in just three months , and ended up being so profitable that its publisher ended up giving each",
+          "publishedAt": "2026-10-30T14:58:30.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Attack on Titan 3: The Final Preview",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/attack-on-titan-3-the-final-preview",
+          "summary": "Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling. Based on my time with it, Attack on Titan 3 is juggling a lot of plate",
+          "publishedAt": "2026-10-30T01:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature/",
+          "summary": "Did you know that you can throw dog poop at NPCs in Grand Theft Auto 6 ? While we've known about this feature for a while, we finally got a chance to see it in disgusting action thanks to this week's ",
+          "publishedAt": "2026-10-29T12:24:17.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -160,113 +178,32 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-29T17:45:32.625Z",
+      "generatedAt": "2026-10-30T17:45:17.709Z",
       "items": [
         {
-          "title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
+          "title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
-          "summary": "Magnificent, depressing plague colony fable Pathologic 3 has received a sizeable game update that adds some new difficulty modes, a photo feature, and some new, worryingly folkloric methods of defeati",
-          "publishedAt": "2026-10-28T11:40:49.000Z",
+          "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
+          "summary": "As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th. The Independent Workers of G",
+          "publishedAt": "2026-10-30T13:30:00.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development",
+          "title": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
-          "summary": "Epic Games are, dunno if you've heard, on a bit of a genAI kick at the moment. It's been tough to notice unless you listen very hard. Tim Sweeney's lips have been sealed and no reports have spewed for",
-          "publishedAt": "2026-10-28T16:49:39.000Z",
+          "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+          "summary": "Excellent apocalypse RPG World of Horror has just received a sizeable free update, As Below So Above, adding no less than two Old Godly invasions for you to identify and thwart. One of these additiona",
+          "publishedAt": "2026-10-30T15:29:54.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Epic Officially Confirms It’s 'Vibe Coding' Unreal Engine 6 and Future 'Fortnite' Updates",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
-          "summary": "Epic has revealed just how extensively AI is being used for Unreal Engine 6 and new 'Fortnite' updates.",
-          "publishedAt": "2026-10-28T16:27:58.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Modern Warfare 4 Just Made 100% Completion Impossible With New Update",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/modern-warfare-4-free-for-all-update-nuke-score-limit/",
-          "summary": "Modern Warfare 4's latest update lowers Free-for-All's score limit, making it impossible to earn a nuke and potentially 100% the game.",
-          "publishedAt": "2026-10-28T16:40:03.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/",
-          "summary": "'We are more concerned about the risks of moving too slowly than we are about AI skepticism.'",
-          "publishedAt": "2026-10-28T13:58:17.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Valve 'Thinking About How to Solve' Steam's AI Slop Problem, but Won't Limit Developer Access",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/valve-ai-slop-on-steam-comments",
-          "summary": "Valve’s Steam Business Team took to the stage at the Steam Indie Connect event in Korea and took questions from an audience of game developers. During the chat, the issue of Steam being flooded with g",
-          "publishedAt": "2026-10-28T12:59:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "No Man’s Sky Gets Fresh Horror-Themed Forsaken Update Just a Month After Cosmos",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/no-mans-sky-forsaken-update",
-          "summary": "Just as No Man’s Sky lands for iOS, the ever-expanding space sim is getting a spooky new update in time for Halloween.",
-          "publishedAt": "2026-10-28T15:23:19.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mike-klubnika-buckshot-roulette-machine-party-interview",
-          "summary": "In Mike Klubnika's growing oeuvre of brilliantly deplorable games, the same elements tend to recur. First, smoking: deep, long drags to make the lungs burn and eyes water. Second, club music: hard and",
-          "publishedAt": "2026-10-28T11:45:33.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
-          "summary": "Arc Raiders recently ended its first-ever test for a dedicated PvE mode , following months of player requests. While feedback has generally been favourable, developer Embark has gone quiet about wheth",
-          "publishedAt": "2026-10-28T11:58:27.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
-          "summary": "Today's the day iPhone and iPad owners finally get to boldly go into No Man's Sky's procedurally generated universe , adding two more devices to the game's already long list of compatible platforms. B",
-          "publishedAt": "2026-10-28T14:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
-          "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pok&eacute;mon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infrin",
-          "publishedAt": "2026-10-28T14:03:01.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
-          "summary": "The legal battle between Nintendo and Pocketpair is ongoing, but the Palworld developer hasn’t ruled out a Switch 2 version of its creature collecting survival game.",
-          "publishedAt": "2026-10-28T10:17:33.000Z",
+          "title": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+          "summary": "If you've been hankering for some video gamey wuxia shenanigans, today seems like a good day for it, given that Phantom Blade Zero has now been released unto the world ( with a 145GB install size that",
+          "publishedAt": "2026-10-29T21:27:20.000Z",
           "tag": "Industry",
           "_example": false
         }
