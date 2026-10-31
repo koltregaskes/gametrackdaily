@@ -27,3 +27,6 @@ SESSION-NOTES.md
 # WIP handoff content (kept locally, never committed)
 design/
 design/handoff-*/
+
+# News config checked out by the refresh workflow
+.news-pipeline/

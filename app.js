@@ -206,6 +206,33 @@
     })).sort((a, b) => new Date(a.startAtUTC) - new Date(b.startAtUTC));
   }
 
+  function railForRoutedTags(tags) {
+    const names = new Set(tags || []);
+    if (names.has("game_review")) return "review";
+    if (names.has("game_preview")) return "preview";
+    if (names.has("developer_tool") || names.has("cli_tool")) return "dev";
+    return "gaming";
+  }
+
+  function normaliseRoutedFeed(feed) {
+    if (feed?.site !== "GameTrackDaily" || !Array.isArray(feed.articles) || feed.articles.length === 0) return [];
+    return feed.articles
+      .filter((article) => article?.title && /^https?:\/\//i.test(article.url || "") && article.date)
+      .map((article) => {
+        const tags = [...(article.matching_tags || []), ...(article.tags || [])];
+        const rail = railForRoutedTags(tags);
+        return {
+          feed: rail,
+          t: article.title,
+          src: article.source,
+          h: readableAge(article.date),
+          tag: tags.find((tag) => tag.startsWith("game_") || tag === "gaming_platform" || tag === "release_date") || rail,
+          url: article.url,
+          _example: false,
+        };
+      });
+  }
+
   function normaliseNews(newsManifest) {
     const fromManifest = [];
     (newsManifest.feeds || []).forEach((feed) => {
@@ -268,11 +295,12 @@
   }
 
   async function loadData() {
-    const [gamesManifest, releaseCalendar, gamesNews, reviewsManifest] = await Promise.all([
+    const [gamesManifest, releaseCalendar, gamesNews, reviewsManifest, routedFeed] = await Promise.all([
       readJson("data/games-manifest.json", { games: [] }),
       readJson("data/release-calendar.json", { releases: [], undated: [], events: [] }),
       readJson("data/games-news.json", { feeds: [] }),
       readJson("data/reviews-manifest.json", { sections: fallbackLiteracy }),
+      readJson("data/news-feed-latest.json", { articles: [] }),
     ]);
 
     const datedFutureReleases = (releaseCalendar.releases || [])
@@ -282,7 +310,8 @@
 
     const undated = (releaseCalendar.undated || []).map(normaliseRelease);
     const releases = (usingProvisionalReleases ? PROVISIONAL_RELEASES : datedFutureReleases).map(normaliseRelease);
-    const news = normaliseNews(gamesNews);
+    const routedNews = normaliseRoutedFeed(routedFeed);
+    const news = routedNews.length ? routedNews : normaliseNews(gamesNews);
 
     return {
       games: normaliseGames(gamesManifest),
@@ -294,7 +323,7 @@
       meta: {
         gamesUpdated: gamesManifest.updatedAt,
         releaseUpdated: releaseCalendar.updatedAt,
-        newsUpdated: gamesNews.updatedAt || gamesNews.generated,
+        newsUpdated: routedNews.length ? routedFeed.generated : (gamesNews.updatedAt || gamesNews.generated),
         reviewsUpdated: reviewsManifest.updatedAt,
         releaseNotice: releaseCalendar.notice,
         newsNotice: gamesNews.notice,
