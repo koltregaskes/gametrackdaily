@@ -1,116 +1,116 @@
 {
-  "generated": "2026-10-30T17:45:17.709Z",
+  "generated": "2026-10-31T17:45:23.322Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-10-30T17:45:17.709Z",
+      "generatedAt": "2026-10-31T17:45:23.322Z",
       "items": [
         {
-          "title": "Don’t Expect Destiny 3 At The Game Awards, Bungie Says",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/",
-          "summary": "Destiny's future lies in its past, as Bungie is working to bring content from the infamous Destiny vault back to the game. Big plans are in place to rework fan-favorite campaigns like the Red War and ",
-          "publishedAt": "2026-10-30T13:33:59.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
-          "summary": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. Ther",
-          "publishedAt": "2026-10-30T14:18:36.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect/",
-          "summary": "EA recently announced it was shutting down BioWare , ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven by economics, as it had to ch",
-          "publishedAt": "2026-10-30T15:29:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
-          "summary": "If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style",
-          "publishedAt": "2026-10-30T15:54:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
+          "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-          "summary": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The game in question would",
-          "publishedAt": "2026-10-30T12:58:41.000Z",
+          "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+          "summary": "Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down. A game can be well designed, but if it lacks a coherence between those mechanics and it",
+          "publishedAt": "2026-10-31T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
-          "summary": "Thanks once again to everyone keeping our lights on, and our pantries full of Mini Cheddars, by being an RPS Supporter . The latest batch of subscription stats came in the other day and it&rsquo;s bee",
-          "publishedAt": "2026-10-30T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report",
-          "summary": "The postmortem on BioWare, following their shuttering by EA this month , points to the publisher's preference to back Star Wars Battlefront 3 over Mass Effect 5 as the main factor in the demise of the",
-          "publishedAt": "2026-10-30T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'Star Trek Online' Players Hold Memorial Vigil for Patrick Stewart",
+          "title": "Nintendo Reveals Pikmin Day Surprise and New Project Hello! Pikmin",
           "source": "Polygon",
-          "url": "https://www.polygon.com/star-trek-online-memorial-vigil-patrick-stewart-picard/",
-          "summary": "'Star Trek Online' players held a vigil to honor Patrick Stewart, who played the legendary Jean-Luc Picard in 'The Next Generation.'",
-          "publishedAt": "2026-10-30T14:38:34.000Z",
+          "url": "https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/",
+          "summary": "A new Pikmin Day Direct is live, with series creator Shigeru Miyamoto announcing Hello! Pikmin and other Nintendo franchise news.",
+          "publishedAt": "2026-10-31T14:15:51.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Marvel, Star Trek Stars Post Heartbreaking Tributes to Patrick Stewart",
+          "title": "Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders",
           "source": "Polygon",
-          "url": "https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/",
-          "summary": "Patrick Stewart died at the age of 86 on Wednesday, and fellow actors from X-Men, Star Trek, and Dune are paying their respects in heartfelt tributes.",
-          "publishedAt": "2026-10-30T14:50:52.000Z",
+          "url": "https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/",
+          "summary": "Walmart was unable to fulfill every special Ocarina of Time Switch 2 order and is now trying to make up for it with $519 gift cards.",
+          "publishedAt": "2026-10-31T14:30:49.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Best Visions to use in Final Fantasy Resonance",
+          "title": "Warframe officially adds a whole new star system in December",
           "source": "Polygon",
-          "url": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
-          "summary": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
-          "publishedAt": "2026-10-30T14:58:21.000Z",
+          "url": "https://www.polygon.com/warframe-tau-release-window/",
+          "summary": "Warframe will leave the Origin System and head to Tau before the end of the year",
+          "publishedAt": "2026-10-31T14:58:43.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "James Gunn Officially Comments on Casting the DCU's New Batman",
+          "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
           "source": "Polygon",
-          "url": "https://www.polygon.com/batman-dcu-casting-james-gunn-comment/",
-          "summary": "DC's new Batman hasn't been cast yet, but James Gunn says it 'won't be too long'",
-          "publishedAt": "2026-10-30T15:00:34.000Z",
+          "url": "https://www.polygon.com/whalefall-bts-interview/",
+          "summary": "“Austin’s body is responding to real action in real time.”",
+          "publishedAt": "2026-10-31T15:01:18.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Where to use the coin mining den key in DMZ in Modern Warfare 4",
+          "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
           "source": "Polygon",
-          "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-coin-mining-den-key-location/",
-          "summary": "Our guide shows the exact location to use the coin mining den key in DMZ in Modern Warfare 4.",
-          "publishedAt": "2026-10-30T15:12:34.000Z",
+          "url": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
+          "summary": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
+          "publishedAt": "2026-10-31T16:00:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
+          "summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
+          "publishedAt": "2026-10-31T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/",
+          "summary": "You'd think someone else would've successfully taken gore to the next level.",
+          "publishedAt": "2026-10-31T14:11:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+          "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
+          "publishedAt": "2026-10-31T15:23:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+          "summary": "On my touch-type, touch-type telephone.",
+          "publishedAt": "2026-10-31T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
+          "summary": "Funcom will also \"continue expanding the game\" through 2027.",
+          "publishedAt": "2026-10-31T16:20:31.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Avatar: Seven Havens Showrunners Address Your Biggest Finale Burning Questions",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
+          "summary": "Avatar: Seven Havens: We talk with show co-creator Michael Dante DiMartino and showrunners Sehaj Sethi and Ethan Spaulding about the current season and beyond.",
+          "publishedAt": "2026-10-31T12:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,23 +119,32 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-10-30T17:45:17.709Z",
+      "generatedAt": "2026-10-31T17:45:23.322Z",
       "items": [
         {
-          "title": "Ramayana: Rise of a Legend Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review",
-          "summary": "Review: With Ramayana: Rise of a Legend, a majestic epic falls victim to clunky action, eye-sore CGI, and awkward AI lip-syncing in what is, unfortunately, just a Part 1.",
-          "publishedAt": "2026-10-30T16:00:00.000Z",
+          "title": "Edifier G5 Max wireless gaming headset review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
+          "summary": "Lightweight, long-lasting, but lacking.",
+          "publishedAt": "2026-10-30T17:06:25.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Nocturne Episodes 1 & 2 Recap and Review",
+          "title": "Crimson Desert: Charting the Unknown Review So Far",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/nocturne-episodes-1-2-recap-and-review",
-          "summary": "Review: Nocturne Episodes 1 & 2 are threading a needle as it hopes to intrigue viewers with familiar tropes delivered in a remixed storyline.",
-          "publishedAt": "2026-10-30T07:01:00.000Z",
+          "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
+          "summary": "After six hours with this beefy DLC, it seems to add even more to Crimson Desert’s buffet-style approach while doing little to improve existing systems.",
+          "publishedAt": "2026-10-30T20:08:11.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Monster Hunter Outlanders Review So Far",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/monster-hunter-outlanders-review",
+          "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
+          "publishedAt": "2026-10-31T00:45:06.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -144,42 +153,86 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-10-30T17:45:17.709Z",
-      "items": [
-        {
-          "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
-          "summary": "Crimson Desert is one of 2026's most successful releases. The game managed to sell over 6 million copies in just three months , and ended up being so profitable that its publisher ended up giving each",
-          "publishedAt": "2026-10-30T14:58:30.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Attack on Titan 3: The Final Preview",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/attack-on-titan-3-the-final-preview",
-          "summary": "Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling. Based on my time with it, Attack on Titan 3 is juggling a lot of plate",
-          "publishedAt": "2026-10-30T01:00:00.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature/",
-          "summary": "Did you know that you can throw dog poop at NPCs in Grand Theft Auto 6 ? While we've known about this feature for a while, we finally got a chance to see it in disgusting action thanks to this week's ",
-          "publishedAt": "2026-10-29T12:24:17.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-10-31T17:45:23.322Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-10-30T17:45:17.709Z",
+      "generatedAt": "2026-10-31T17:45:23.322Z",
       "items": [
+        {
+          "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
+          "summary": "As Skyblivion nears release, a former volunteer is trying to sue those working on the mod bringing The Elder Scrolls 4: Oblivion to Skyrim",
+          "publishedAt": "2026-10-31T15:57:49.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
+          "summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
+          "publishedAt": "2026-10-31T16:10:44.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
+          "summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more",
+          "publishedAt": "2026-10-31T13:21:03.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
+          "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more",
+          "publishedAt": "2026-10-31T13:53:19.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future",
+          "summary": "As Bungie plots a future for more Destiny, head of product Josh Deane has clarified that players don't need to \"buy Marathon as a donation\" just to support the studio's plans.",
+          "publishedAt": "2026-10-30T21:30:44.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
+          "summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval op",
+          "publishedAt": "2026-10-31T00:40:27.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
+          "summary": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+          "publishedAt": "2026-10-31T03:33:09.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
+          "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for t",
+          "publishedAt": "2026-10-30T19:55:21.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
           "source": "Rock Paper Shotgun",
@@ -195,15 +248,6 @@
           "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
           "summary": "Excellent apocalypse RPG World of Horror has just received a sizeable free update, As Below So Above, adding no less than two Old Godly invasions for you to identify and thwart. One of these additiona",
           "publishedAt": "2026-10-30T15:29:54.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
-          "summary": "If you've been hankering for some video gamey wuxia shenanigans, today seems like a good day for it, given that Phantom Blade Zero has now been released unto the world ( with a 145GB install size that",
-          "publishedAt": "2026-10-29T21:27:20.000Z",
           "tag": "Industry",
           "_example": false
         }

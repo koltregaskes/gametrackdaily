@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-30T17:30:02.847Z",
+  "updatedAt": "2026-10-31T17:30:08.524Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,85 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-258775",
-      "title": "Queen's Domain",
-      "date": "2026-10-30",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A retro-fantasy action RPG with brutal combat and traversal-focused exploration. Embark on a quest to find your father who disappeared on the mysterious Isle of Neasied, where sinister forces gather, secrets hide everywhere, and the sleeping Queen has begun to stir…"
-    },
-    {
-      "id": "igdb-game-332274",
-      "title": "Bobo and the Chest of Nightmares",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Jump, glide, and outsmart traps in this spooky 3D platformer! Smash obstacles, solve puzzles, and fend off evil spirits to defeat The Dream Master. Collect hidden treasures and restore joy to a world shrouded in darkness!"
-    },
-    {
-      "id": "igdb-game-307949",
-      "title": "Rogue Jungle",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Rogue Jungle is an Action-Roguelike, where you have to fight & explore your way through a procedurally generated jungle. Find new weapons on your journey and face a Boss Enemy at the end of each run!"
-    },
-    {
-      "id": "igdb-game-393787",
-      "title": "Silberheim Evolving Card Game",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Silberheim ECG (Evolving Card Game) is a fantasy trading card game. Cards—called Fragments—can evolve based on a player’s actions and playstyle, creating a personalized experience within the expanding world and lore of Silberheim."
-    },
-    {
-      "id": "igdb-game-310909",
-      "title": "Solar Voltage",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "After a huge solar storm destroyed their ship and left them stranded, help Volt and her crewmates escape the dangerous planet filled with deadly robots and a mysterious AI."
-    },
-    {
-      "id": "igdb-game-420863",
-      "title": "The Graves Vigil",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The Graves Vigil is an atmospheric psychological horror game with point-and-click elements. Alone in the Graves estate, you must survive until five in the morning: spot anomalies, guard your sanity, and keep the house from sinking into darkness."
-    },
-    {
-      "id": "igdb-game-417938",
-      "title": "Zenden",
-      "date": "2026-10-30",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Zenden is a relaxing garden-building game where you decorate a peaceful Zen garden and solve puzzles along the way. Place Trees, Rocks, Paths, and many more hand drawn pixel art items for a calming, meditative experience with instrumental music tracks."
-    },
     {
       "id": "igdb-game-332314",
       "title": "Baptiste",
@@ -2324,6 +2245,17 @@
       "summary": "Freestyle Football 2 is a fast-paced, 5v5 match-based online multiplayer soccer game. Each position has a unique role, and you'll utilize a variety of strategies and skills to achieve victory with your team. Stylish play and unique characters transform the pitch into a stage."
     },
     {
+      "id": "igdb-game-415288",
+      "title": "Quadrillion Carrots",
+      "date": "2026-12-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Harvest an absurd number of carrots! Start with your bare hands, unlock powerful tools and helper robots, explore six farming zones, catch living carrots, survive explosive ones, and turn manual labor into harvesting chaos."
+    },
+    {
       "id": "igdb-game-305550",
       "title": "Acts of Blood",
       "date": "2026-12-04",
@@ -2392,6 +2324,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A 2 player psychological horror game where not every player sees the same reality. Explore a carnival trapped in an endless transformation, detect anomalies, verify with your friend if they see the same thing and make the right decisions before the clown Bobby loses his temper..."
+    },
+    {
+      "id": "igdb-game-423082",
+      "title": "Cozy Island Cleaner",
+      "date": "2026-12-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cozy Island Cleaner is a relaxing game where you clean up a trash-covered island with the help of the cat who lives there. Collect the trash on the beach, upgrade your gear, and restore the island to its former beauty step by step."
     },
     {
       "id": "igdb-game-397078",
@@ -4262,6 +4205,17 @@
       "summary": "A cozy and quirky detective game where Madeline, a retired little mouse, watches her street and dives into thrilling investigations… until the Granny Detective Society contacts her and she discovers that the whole neighborhood is living a double life… especially the grannies."
     },
     {
+      "id": "igdb-game-397820",
+      "title": "Too Deep To Quit",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Grab your gear and your friends for a hilarious, golden-age co-op adventure! Dive into cursed temples, hunt for the ultimate treasure, and work together to stay alive. Beware of everything and everyone... after all, only the survivors get to split the gold!"
+    },
+    {
       "id": "igdb-game-264303",
       "title": "Undefeated: Genesis",
       "date": "2026-12-31",
@@ -4963,17 +4917,6 @@
       "summary": "Leave the hustle and bustle behind and bring your dream of a cozy little shop to life! Create, decorate, and watch visitors fall in love. Let your imagination run wild and craft a beautiful, inviting space they'll want to return to again and again."
     },
     {
-      "id": "igdb-game-397820",
-      "title": "Too Deep To Quit",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Grab your gear and your friends for a hilarious, golden-age co-op adventure! Dive into cursed temples, hunt for the ultimate treasure, and work together to stay alive. Beware of everything and everyone... after all, only the survivors get to split the gold!"
-    },
-    {
       "id": "igdb-game-388917",
       "title": "Toymaker: Threads of Joy",
       "date": "2026-12-31",
@@ -5250,6 +5193,62 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Lily is a magician and a homunculus who braves a perilous dungeon in search of the Philosopher's Stone. Control a character faithfully reproduced from cel animation and defeat countless monsters in pursuit of powerful blessings. Use blessings, skills, and gimmicks to forge a stre"
+    },
+    {
+      "id": "igdb-game-404843",
+      "title": "Book Nook",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build miniature diorama scenes, piece by piece. Complete beautiful book nooks as you place furniture, decorations, and small details. Relax and enjoy the peaceful satisfaction of every detail falling into place, as you discover more about each moment in time."
+    },
+    {
+      "id": "igdb-game-379793",
+      "title": "Boundless Evil: Awakening",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A first-person horror experience set in a desolate highlands village. Track your missing archaeologist sister, unravel her clues through exploration and puzzles, scavange for loot and face the dark force she accidentally unleashed."
+    },
+    {
+      "id": "igdb-game-342896",
+      "title": "Broken Relic",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "First day on the job. You broke a seal, unleashed a dark power, and may have doomed everyone. Now there’s only one thing to do: pretend you know what you’re doing!"
+    },
+    {
+      "id": "igdb-game-217503",
+      "title": "Bunker Builder Simulator",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Plan your work, dig a hole and build a bunker, that will survive anything! Manage safety, needs and moods of your clients, so you can become the best architect and earn a fortune. Will you be able to meet the expectations?"
+    },
+    {
+      "id": "igdb-game-399999",
+      "title": "Calame",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this turn-based tactical RPG, renown can change the course of a war. Lead Kenmare and the Panthers against the King of Light, shape the Chronicle through your choices, and wield the Legend to turn battles around."
     }
   ],
   "undated": [
