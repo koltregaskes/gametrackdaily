@@ -1,116 +1,116 @@
 {
-  "generated": "2026-11-02T11:37:27.347Z",
+  "generated": "2026-11-02T17:45:14.768Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-02T11:37:27.347Z",
+      "generatedAt": "2026-11-02T17:45:14.768Z",
       "items": [
         {
-          "title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+          "title": "Xbox Game Pass Is Losing 14 Games In November",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
+          "summary": "It's the start of a new month, which means new additions and departures on Xbox Game Pass. To kick off November, 14 games are being removed from the Game Pass library soon, including several simulator",
+          "publishedAt": "2026-11-02T13:15:46.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
+          "summary": "Resident Evil is a huge success at the box office, recently surpassing $400 million globally . It's also received fantastic review scores. But hardcore fans of the game series took issue with the film",
+          "publishedAt": "2026-11-02T14:06:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/",
+          "summary": "How much does a true console exclusive cost to make today? If recent reports are to be believed, Gears of War: E-Day had a production cost $500 million, but there's more to that figure than just a sin",
+          "publishedAt": "2026-11-02T14:21:24.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
+          "summary": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears t",
+          "publishedAt": "2026-11-02T15:24:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
+          "summary": "AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claude Code's \"rules\" has been pushed out. Listed under \"tengu_he",
+          "publishedAt": "2026-11-02T15:36:59.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
+          "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Here's a quick buying guide to help you un",
+          "publishedAt": "2026-11-02T16:10:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
+          "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service. November is frontloaded with new game releases",
+          "publishedAt": "2026-11-02T16:17:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
-          "summary": "Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down. A game can be well designed, but if it lacks a coherence between those mechanics and it",
-          "publishedAt": "2026-10-31T12:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project",
+          "summary": "After adding a whole new town to Fallout 4 last month, a group of modders have released another in their long string of extra quests for the RPG. This latest mission revolves around a dungeon delve in",
+          "publishedAt": "2026-11-02T12:36:42.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nintendo Reveals Pikmin Day Surprise and New Project Hello! Pikmin",
+          "title": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
+          "summary": "Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bod",
+          "publishedAt": "2026-11-02T13:34:28.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Fewer genAI clones of \"someone else's specific game\" should flood the net going forwards, as Anthropic tell Claude to stop messing with some stuff other people own",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fewer-genai-clones-of-someone-elses-specific-game-should-flood-the-net-going-forwards-as-anthropic-tell-claude-to-stop-messing-with-some-stuff-other-people-own",
+          "summary": "Anthropic have told their genAI tool Claude to start ducking requests from users to recreate or clone existing games, following a flood of folks using the tech to generate six-fingered remakes. Instea",
+          "publishedAt": "2026-11-02T16:51:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Zelda: Ocarina of Time Remake Team Confirms Fast Travel Was Added, Then Removed",
           "source": "Polygon",
-          "url": "https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/",
-          "summary": "A new Pikmin Day Direct is live, with series creator Shigeru Miyamoto announcing Hello! Pikmin and other Nintendo franchise news.",
-          "publishedAt": "2026-10-31T14:15:51.000Z",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-fast-travel/",
+          "summary": "Zelda series producer Eiji Aonuma asked the team to create \"warp points\" to streamline exploration in the Ocarina of Time Remake, but changed his mind",
+          "publishedAt": "2026-11-02T15:27:58.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders",
+          "title": "Target Officially Launches New Pokémon System and It's a Total Game Changer",
           "source": "Polygon",
-          "url": "https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/",
-          "summary": "Walmart was unable to fulfill every special Ocarina of Time Switch 2 order and is now trying to make up for it with $519 gift cards.",
-          "publishedAt": "2026-10-31T14:30:49.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Warframe officially adds a whole new star system in December",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/warframe-tau-release-window/",
-          "summary": "Warframe will leave the Origin System and head to Tau before the end of the year",
-          "publishedAt": "2026-10-31T14:58:43.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/whalefall-bts-interview/",
-          "summary": "“Austin’s body is responding to real action in real time.”",
-          "publishedAt": "2026-10-31T15:01:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
-          "summary": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
-          "publishedAt": "2026-10-31T16:00:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
-          "summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
-          "publishedAt": "2026-10-31T13:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/",
-          "summary": "You'd think someone else would've successfully taken gore to the next level.",
-          "publishedAt": "2026-10-31T14:11:55.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
-          "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
-          "publishedAt": "2026-10-31T15:23:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
-          "summary": "On my touch-type, touch-type telephone.",
-          "publishedAt": "2026-10-31T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
-          "summary": "Funcom will also \"continue expanding the game\" through 2027.",
-          "publishedAt": "2026-10-31T16:20:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Avatar: Seven Havens Showrunners Address Your Biggest Finale Burning Questions",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
-          "summary": "Avatar: Seven Havens: We talk with show co-creator Michael Dante DiMartino and showrunners Sehaj Sethi and Ethan Spaulding about the current season and beyond.",
-          "publishedAt": "2026-10-31T12:00:00.000Z",
+          "url": "https://www.polygon.com/target-pokemon-raffle-lottery-tcg-how-does-it-work-enter-rules-where/",
+          "summary": "Target's TCG system has some major differences from Walmart's Pokémon raffle, but overall it's good news for fans who want 30th Anniversary products",
+          "publishedAt": "2026-11-02T16:02:38.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,32 +119,14 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-02T11:37:27.347Z",
+      "generatedAt": "2026-11-02T17:45:14.768Z",
       "items": [
         {
-          "title": "Edifier G5 Max wireless gaming headset review",
+          "title": "Turtle Beach Command Series MC7 review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
-          "summary": "Lightweight, long-lasting, but lacking.",
-          "publishedAt": "2026-10-30T17:06:25.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Crimson Desert: Charting the Unknown Review So Far",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
-          "summary": "After six hours with this beefy DLC, it seems to add even more to Crimson Desert’s buffet-style approach while doing little to improve existing systems.",
-          "publishedAt": "2026-10-30T20:08:11.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Monster Hunter Outlanders Review So Far",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/monster-hunter-outlanders-review",
-          "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
-          "publishedAt": "2026-10-31T00:45:06.000Z",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
+          "summary": "How much is a touchscreen really worth to you?",
+          "publishedAt": "2026-11-02T16:56:48.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -153,101 +135,138 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-02T11:37:27.347Z",
-      "items": []
+      "generatedAt": "2026-11-02T17:45:14.768Z",
+      "items": [
+        {
+          "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
+          "summary": "But the studio says it is \"not going down without a fight\".",
+          "publishedAt": "2026-11-01T16:42:09.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
+        {
+          "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+          "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more",
+          "publishedAt": "2026-11-01T10:04:13.000Z",
+          "tag": "Preview",
+          "_example": false
+        }
+      ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-02T11:37:27.347Z",
+      "generatedAt": "2026-11-02T17:45:14.768Z",
       "items": [
         {
-          "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
+          "title": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all/",
+          "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game. According to Gematsu , shareholders officially dissolved the ",
+          "publishedAt": "2026-11-02T13:15:03.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off/",
+          "summary": "Doom developer id Software was among the numerous Microsoft-owned game studios that cut staff recently as part of the big Xbox \"reset.\" What's the vibe like internally at the studio in the wake of tha",
+          "publishedAt": "2026-11-02T15:31:04.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
+          "summary": "Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start across PC and PS5. The game sold more than 4 million copies over its first 72 hours. That works out to 9",
+          "publishedAt": "2026-11-02T16:41:44.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Henry Cavill’s Warhammer 40K Series Just Got a Cryptic Update From Mike Flanagan",
           "source": "Polygon",
-          "url": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
-          "summary": "As Skyblivion nears release, a former volunteer is trying to sue those working on the mod bringing The Elder Scrolls 4: Oblivion to Skyrim",
-          "publishedAt": "2026-10-31T15:57:49.000Z",
+          "url": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan-update/",
+          "summary": "Henry Cavill's Warhammer 40K series has found an 'unexpected on-ramp' teases horror legend Mike Flanagan",
+          "publishedAt": "2026-11-02T16:11:18.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
+          "title": "Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
-          "summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
-          "publishedAt": "2026-10-31T16:10:44.000Z",
+          "url": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/",
+          "summary": "Potentially getting much more out of existing hardware is nothing to sniff at.",
+          "publishedAt": "2026-11-02T13:38:24.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
+          "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-          "summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more",
-          "publishedAt": "2026-10-31T13:21:03.000Z",
+          "url": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
+          "summary": "Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business \"reset\" earlier this year, with around 136 em",
+          "publishedAt": "2026-11-02T12:12:11.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
-          "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more",
-          "publishedAt": "2026-10-31T13:53:19.000Z",
+          "title": "Yakuza Creator's Studio Officially Shuts Down After Backers Desert It",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/",
+          "summary": "Nagoshi Studio, founded by Like a Dragon/Ryu Ga Gotoku creator Toshihiro Nagoshi, and its game Gang of Dragon are no more",
+          "publishedAt": "2026-11-02T11:25:24.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future",
+          "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+          "summary": "The volunteer team is seeking pro bono legal aid.",
+          "publishedAt": "2026-10-31T20:29:22.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+          "summary": "I tire of seasons.",
+          "publishedAt": "2026-11-01T16:00:00.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+          "summary": "Selaco: The Machines of War arrives later this month.",
+          "publishedAt": "2026-11-01T16:46:26.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future",
-          "summary": "As Bungie plots a future for more Destiny, head of product Josh Deane has clarified that players don't need to \"buy Marathon as a donation\" just to support the studio's plans.",
-          "publishedAt": "2026-10-30T21:30:44.000Z",
+          "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+          "summary": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+          "publishedAt": "2026-10-31T21:46:36.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+          "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
-          "summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval op",
-          "publishedAt": "2026-10-31T00:40:27.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
-          "summary": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
-          "publishedAt": "2026-10-31T03:33:09.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-          "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for t",
-          "publishedAt": "2026-10-30T19:55:21.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
-          "summary": "As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th. The Independent Workers of G",
-          "publishedAt": "2026-10-30T13:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
-          "summary": "Excellent apocalypse RPG World of Horror has just received a sizeable free update, As Below So Above, adding no less than two Old Godly invasions for you to identify and thwart. One of these additiona",
-          "publishedAt": "2026-10-30T15:29:54.000Z",
+          "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+          "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does.",
+          "publishedAt": "2026-11-02T08:18:12.000Z",
           "tag": "Industry",
           "_example": false
         }
