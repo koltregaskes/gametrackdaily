@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-10-31T17:30:08.524Z",
+  "updatedAt": "2026-11-02T11:37:49.392Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -10,7 +10,7 @@
     "url": null
   },
   "defaultView": "month",
-  "defaultFocusMonth": "2026-10",
+  "defaultFocusMonth": "2026-11",
   "weekStartsOn": "monday",
   "densityRules": {
     "busy": 2,
@@ -641,119 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-332314",
-      "title": "Baptiste",
-      "date": "2026-10-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Submerge yourself in a first-hand experience that will make you feel each chill as if it were real. The line between the game and reality blurs further with each step you take.\n\nExplore a mansion where horror awaits in every shadow. The masterful dubbing and sound track will drag"
-    },
-    {
-      "id": "igdb-game-341980",
-      "title": "Demon Bluff",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?"
-    },
-    {
-      "id": "igdb-game-253915",
-      "title": "Light of Atlantis",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this 2D-Puzzle-Metroidvania you dive into the ruins of Atlantis. As a small robot you control the water level in various rooms to solve puzzles and discover the mysteries of an ancient society."
-    },
-    {
-      "id": "igdb-game-404091",
-      "title": "Come To My Party!",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Jimin dreams of finally having her first birthday party, but what begins as a childhood wish unravels into social pressure, fragile friendships, family expectations, and consequences that hit closer than you’d like. Join Jimin in this coming-of-age story where every choice carrie"
-    },
-    {
-      "id": "igdb-game-388779",
-      "title": "Alchemortis",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Alchemortis is a roguelike inventory-management auto-battler about alchemy. Transmute and combine items to merge their stats, properties, and forms, then organize your inventory to unlock powerful synergies. Experiment, optimize, and craft the perfect build through the power of a"
-    },
-    {
-      "id": "igdb-game-419955",
-      "title": "Ezalm: Magic's Memory",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A narrative-driven action RPG where each spell you use will punish you, requiring you to be strategic in the combat styles you will build. Lost in the land of your ancestors, unravel the secrets of magic to return home and defend the people you swore to protect."
-    },
-    {
-      "id": "igdb-game-417258",
-      "title": "FFFF: Fatal Five Finger Fillet",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Bet your fingers. A physically immersive horror roguelite.\nPlace your real fingers on the keyboard. Stab the knife between them.\nUse rings and stab items to rack up a high score.\nCan you keep your cool as the spinning blade closes in?"
-    },
-    {
-      "id": "igdb-game-407465",
-      "title": "Locked in Love: The Office",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "An interactive escape room game where your choices determine your fate. Right before a \"long holiday,\" you find yourself trapped in the office with beautiful women for unknown reasons. Collect clues, cooperate with them, and escape this place!"
-    },
-    {
-      "id": "igdb-game-310148",
-      "title": "Pozionista",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Travel through a world surrounded by nature, collect plants and use them to create potions, invent new recipes, sell potions in stores and explore the world."
-    },
-    {
-      "id": "igdb-game-345793",
-      "title": "Trifolium: The Adventures of Gary Pretzelneck",
-      "date": "2026-11-01",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Discover hidden truths about the world in this 3D adventure about a giraffe with an unreasonably long neck. Figure out the rules, solve strange mysteries, and stumble upon unexpected twists. Choose your own path."
-    },
-    {
       "id": "igdb-game-368923",
       "title": "Boost Vector EX",
       "date": "2026-11-02",
@@ -1009,6 +896,17 @@
       "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
     },
     {
+      "id": "igdb-game-419579",
+      "title": "Rip It! Card Collector",
+      "date": "2026-11-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A single-player incremental game where you hunt down 1,809 collectible trading cards. Sell dupes and upgrade your retro-futuristic gear to pull more cards, quicker! Enjoy the satisfaction of ripping packs, filling your binder, and completing the ultimate card collection. It’s tim"
+    },
+    {
       "id": "igdb-game-257450",
       "title": "Airframe Ultra",
       "date": "2026-11-05",
@@ -1165,6 +1063,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Tiny Knight and the Corrupted Crystal is a single-player action roguelite built around an incremental power curve. The knight's corrupted sword drains his own health for as long as he stays in a level, so the health bar doubles as the level timer and there is no separate countdow"
+    },
+    {
+      "id": "igdb-game-421631",
+      "title": "Trap Testers",
+      "date": "2026-11-06",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Traps Testers is a co-op physics-based deathrun game where you're the one placing the traps! Compete against your friends to reach the finish line first, and try to kill them along the way."
     },
     {
       "id": "igdb-game-360263",
@@ -1584,17 +1493,6 @@
       "summary": "Sloppy Forgeries is a fast-paced competitive painting game. Practice your skills by butchering iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel in real-time. Choose from 50 meticulously abstracted paintings from art history and get to work"
     },
     {
-      "id": "igdb-game-413109",
-      "title": "10 Million Pixels",
-      "date": "2026-11-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Mine through millions of pixels to find the one golden pixel. A mesmerizing incremental game about exploration and erosion."
-    },
-    {
       "id": "igdb-game-381198",
       "title": "Cannon Keep",
       "date": "2026-11-13",
@@ -1615,17 +1513,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job."
-    },
-    {
-      "id": "igdb-game-384245",
-      "title": "Rasen",
-      "date": "2026-11-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters."
     },
     {
       "id": "igdb-game-410782",
@@ -1856,6 +1743,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "This overhauled console version of the Cult Classic RPG integrates the community patch 1.75 and further gameplay improvements, features tailor-made gamepad UI & controls and delivers advanced optimization to offer the smoothest Gothic 3 experience yet."
+    },
+    {
+      "id": "igdb-game-253915",
+      "title": "Light of Atlantis",
+      "date": "2026-11-24",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this 2D-Puzzle-Metroidvania you dive into the ruins of Atlantis. As a small robot you control the water level in various rooms to solve puzzles and discover the mysteries of an ancient society."
     },
     {
       "id": "igdb-game-335232",
@@ -2183,6 +2081,19 @@
       "summary": "Aeterna Lucis is the highly anticipated sequel to Aeterna Noctis. Following the gameplay steps of the first entry in the series, Aeterna Lucis is a Metroidvania that combines fast-paced combat, a large interconnected map, secret hunting, optional challenges, and a rich and deep s"
     },
     {
+      "id": "igdb-game-404917",
+      "title": "Cronos: Lazarus",
+      "date": "2026-12-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Wield the Warden’s power in this combat‑heavy expansion to Cronos: The New Dawn, pushing the series toward faster, more aggressive action. Teleport, strike, and outrun a relentless hunter using enhanced traversal, decoys, and temporary invisibility as you race to revive a lost Es"
+    },
+    {
       "id": "igdb-game-288479",
       "title": "Waltz and Jam",
       "date": "2026-12-03",
@@ -2193,19 +2104,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Waltz is a pure and innocent soul who awoke in Downtown, and Jam is the lovable dog who was there waiting. Join them on this amazing and heartwarming journey."
-    },
-    {
-      "id": "igdb-game-415120",
-      "title": "Dumpster Gang",
-      "date": "2026-12-03",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
     },
     {
       "id": "igdb-game-406115",
@@ -2219,6 +2117,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "‘Sombras: Negative Frames’ is a first person narrative game with a focus on photography and light horror elements. Follow Shiomi, a Japanese-Spanish photography student, as she is spirited away in a dark mirror of her 2000s Japanese town and must confront fragments of her own psy"
+    },
+    {
+      "id": "igdb-game-415120",
+      "title": "Dumpster Gang",
+      "date": "2026-12-03",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Complete ridiculous missions, steal everything you can carry, and outsmart a relentless Exterminator determined to throw your gang behind bars."
     },
     {
       "id": "igdb-game-359867",
@@ -2269,6 +2180,17 @@
       "summary": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, brutal hand-to-hand combat. Set in dystopian city of Bandung, Indonesia."
     },
     {
+      "id": "igdb-game-370095",
+      "title": "Petit Planet",
+      "date": "2026-12-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Petit Planet is HoYoverse's brand-new cosmic life sim that's free-to-play and cross-platform. Here, you can build your home, live alongside fuzzy neighbors, and discover the infinite possibilities of life on this planet!"
+    },
+    {
       "id": "igdb-game-420890",
       "title": "A Game About Digging A Hole Together",
       "date": "2026-12-04",
@@ -2291,6 +2213,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Build your deck, expand your kingdom, and defend your Haven! Recruit citizens, construct landmarks, and build powerful combos in this roguelike deckbuilder where each card is a citizen and each season brings new rewards, new threats, and new choices."
+    },
+    {
+      "id": "igdb-game-345793",
+      "title": "Trifolium: The Adventures of Gary Pretzelneck",
+      "date": "2026-12-04",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Discover hidden truths about the world in this 3D adventure about a giraffe with an unreasonably long neck. Figure out the rules, solve strange mysteries, and stumble upon unexpected twists. Choose your own path."
     },
     {
       "id": "igdb-game-324950",
@@ -2489,6 +2422,17 @@
       "summary": "Ninja Baseball League-Man: Bases Loaded is an arcade-style beat ’em up that combines baseball and martial arts, this action game has players battling through side-scrolling stages with pitches, swings, grabs, throws, combos, and special attacks. Up to four players can team up in "
     },
     {
+      "id": "igdb-game-417258",
+      "title": "FFFF: Fatal Five Finger Fillet",
+      "date": "2026-12-14",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Bet your fingers. A physically immersive horror roguelite.\nPlace your real fingers on the keyboard. Stab the knife between them.\nUse rings and stab items to rack up a high score.\nCan you keep your cool as the spinning blade closes in?"
+    },
+    {
       "id": "igdb-game-383456",
       "title": "Hunter From Hell",
       "date": "2026-12-16",
@@ -2656,17 +2600,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dark Mass is a fully underwater horror game. Explore the ruins of a sunken manor and flee from a curse trapped within for centuries. Your choices will decide if you escape or join the lost souls of the abyss."
-    },
-    {
-      "id": "igdb-game-370095",
-      "title": "Petit Planet",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Petit Planet is HoYoverse's brand-new cosmic life sim that's free-to-play and cross-platform. Here, you can build your home, live alongside fuzzy neighbors, and discover the infinite possibilities of life on this planet!"
     },
     {
       "id": "igdb-game-330566",
@@ -3221,19 +3154,6 @@
       "summary": "A third-person survival horror game that you play as a girl with psychic power who tries to escape from a secret lab and is pursued by deadly stalkers."
     },
     {
-      "id": "igdb-game-313588",
-      "title": "Barkour",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step into the paws of a brave, four-legged special agent! In BARKOUR, you work for a secret organization where all agents are exceptionally skilled animals brought together by one goal: to save the world from the forces of evil (and mischievous cats)!"
-    },
-    {
       "id": "igdb-game-291190",
       "title": "Deperson",
       "date": "2026-12-31",
@@ -3339,6 +3259,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "UN:Me is an adventure game where you guide a girl harboring multiple souls within her body through an unsettling mental labyrinth, engaging in dialogue with each soul while making the harrowing choice of which to keep and which to erase in your escape attempt."
+    },
+    {
+      "id": "igdb-game-313588",
+      "title": "Barkour",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Step into the paws of a brave, four-legged special agent! In BARKOUR, you work for a secret organization where all agents are exceptionally skilled animals brought together by one goal: to save the world from the forces of evil (and mischievous cats)!"
     },
     {
       "id": "igdb-game-390172",
@@ -3572,17 +3505,15 @@
       "summary": "DDoD is a single-player and co-op tactical roguelite shooter set in the near future, deep inside an abandoned industrial zone. Explore, fight, and mutate your way to the source of a semi-sentient biological AI anomaly."
     },
     {
-      "id": "igdb-game-403822",
-      "title": "Deadzone Rogue 2",
+      "id": "igdb-game-410121",
+      "title": "Dear Passengers",
       "date": "2026-12-31",
       "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
+        "Windows PC"
       ],
       "source": "IGDB",
       "trackingState": "live-api",
-      "summary": "Fight as Talon 13-10 in this FPS roguelite adventure set on a fallen Earth. Combine weapons, augments, and elements to forge devastating builds, and blast through Monarch’s endless machines. Grow stronger each run, solo or with friends."
+      "summary": "Play in co-op as the crew of the worlds worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list."
     },
     {
       "id": "igdb-game-322690",
@@ -3882,19 +3813,6 @@
       "summary": "Dig into the next exciting evolution of the Construction Simulator series and experience the biggest construction playground ever. Control numerous licensed machines, take on manual labor, and master both construction and demolition."
     },
     {
-      "id": "igdb-game-404917",
-      "title": "Cronos: Lazarus",
-      "date": "2026-12-31",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Wield the Warden’s power in this combat‑heavy expansion to Cronos: The New Dawn, pushing the series toward faster, more aggressive action. Teleport, strike, and outrun a relentless hunter using enhanced traversal, decoys, and temporary invisibility as you race to revive a lost Es"
-    },
-    {
       "id": "igdb-game-400795",
       "title": "Curse of the Crimson Stag",
       "date": "2026-12-31",
@@ -3906,6 +3824,19 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Curse of the Crimson Stag is a story-driven mystery thriller in which you explore a blurred line between supernatural occurrences and past tragedy. Uncover what led to the abandoning of the once luxurious Whiteroot Hotel. Local myth tells of a wrathful spirit known as the Crimson"
+    },
+    {
+      "id": "igdb-game-403822",
+      "title": "Deadzone Rogue 2",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Fight as Talon 13-10 in this FPS roguelite adventure set on a fallen Earth. Combine weapons, augments, and elements to forge devastating builds, and blast through Monarch’s endless machines. Grow stronger each run, solo or with friends."
     },
     {
       "id": "igdb-game-275560",
@@ -4772,6 +4703,18 @@
       "summary": "Metronomik and Shueisha Games are thrilled to announce NSR2 – the explosive sequel to the hit action-music adventure NO STRAIGHT ROADS – coming to Steam in 2026."
     },
     {
+      "id": "igdb-game-410126",
+      "title": "Paper Shredder",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Paper Shredder is an incremental game where a sheet-after-sheet grind scales into mass document destruction. Shred, sweep, upgrade, and cut down tower-high piles of confidential records to uncover what’s buried beneath."
+    },
+    {
       "id": "igdb-game-211234",
       "title": "Paws and Leaves: A Last Tale",
       "date": "2026-12-31",
@@ -5249,6 +5192,65 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In this turn-based tactical RPG, renown can change the course of a war. Lead Kenmare and the Panthers against the King of Light, shape the Chronicle through your choices, and wield the Legend to turn battles around."
+    },
+    {
+      "id": "igdb-game-329383",
+      "title": "CitaDrill",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Captain a giant drill-city in this roguelite citybuilder. Dig deep into an infested planet, collect resources, expand your city under the dome, upgrade your drill, and protect yourself against waves of fearsome creatures together with your mettle and paw-some cat crew."
+    },
+    {
+      "id": "igdb-game-244602",
+      "title": "Cosmic Holidays",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Help Cibo find his way in an unknown world. Through gorgeous flora and fauna, Cibo can glide in the wind, bounce, propel or block, absorb impacts or roll, using his power to inflate his head. Learn from hostile nature to make it your ally. Earn Cibo's trust until he reaches his v"
+    },
+    {
+      "id": "igdb-game-341408",
+      "title": "Cozy Beach",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "️Cozy Beach is a wholesome game set on an enchanting tropical beach where you can fish and explore, solo or with friends. Catch and collect fish, search for treasure, craft tropical drinks, or just hang out and chill!"
+    },
+    {
+      "id": "igdb-game-304307",
+      "title": "Cozy Dungeons",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Explore deadly dungeons, clear them out of enemies and renovate them in Cozy Dungeons, a one-of-a-kind adventure/interior design game!"
+    },
+    {
+      "id": "igdb-game-258574",
+      "title": "Cyber Paradise",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Revive Mini the Dog digitally through 2D roguelite actions; craft her cyber paradise with beloved moments, like sniffing dog butts XD. Uncover a deeper dystopian narrative and strengthen friendships in cafe chats—a frenetic yet cozy journey."
     }
   ],
   "undated": [
