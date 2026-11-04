@@ -1,116 +1,116 @@
 {
-  "generated": "2026-11-02T17:45:14.768Z",
+  "generated": "2026-11-04T17:49:24.165Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-02T17:45:14.768Z",
+      "generatedAt": "2026-11-04T17:49:24.165Z",
       "items": [
         {
-          "title": "Xbox Game Pass Is Losing 14 Games In November",
+          "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
-          "summary": "It's the start of a new month, which means new additions and departures on Xbox Game Pass. To kick off November, 14 games are being removed from the Game Pass library soon, including several simulator",
-          "publishedAt": "2026-11-02T13:15:46.000Z",
+          "url": "https://www.gamespot.com/articles/steam-is-tightening-its-game-submission-rules-as-ai-slop-floods-the-store/",
+          "summary": "Valve currently has a review backlog on Steam, as the mandatory QA check every game must pass before launch on the platform has reportedly seen wait times balloon from a few days to over two weeks. Th",
+          "publishedAt": "2026-11-04T13:19:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
+          "title": "Ubisoft Could Be The Company That Keeps Marvel’s Blade Alive",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
-          "summary": "Resident Evil is a huge success at the box office, recently surpassing $400 million globally . It's also received fantastic review scores. But hardcore fans of the game series took issue with the film",
-          "publishedAt": "2026-11-02T14:06:33.000Z",
+          "url": "https://www.gamespot.com/articles/ubisoft-could-be-the-company-that-keeps-marvels-blade-alive/",
+          "summary": "Time is running out for Arkane Lyon to find a buyer , but Ubisoft could acquire the Marvel's Blade developer, according to a new report. Arkane was one of several studios that Xbox divested itself of ",
+          "publishedAt": "2026-11-04T13:21:14.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
+          "title": "GTA 6 Has Sold Almost 8 Million Copies So Far, And PS5 Is Dominating The Split (Of Course)",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/",
-          "summary": "How much does a true console exclusive cost to make today? If recent reports are to be believed, Gears of War: E-Day had a production cost $500 million, but there's more to that figure than just a sin",
-          "publishedAt": "2026-11-02T14:21:24.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+          "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has",
+          "publishedAt": "2026-11-04T14:15:31.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
+          "title": "Nintendo Could Have A New Cartridge Problem On Its Hands",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
-          "summary": "Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears t",
-          "publishedAt": "2026-11-02T15:24:50.000Z",
+          "url": "https://www.gamespot.com/articles/nintendo-could-have-a-new-cartridge-problem-on-its-hands/",
+          "summary": "As PlayStation prepares to embrace an all-digital future starting in 2028, Nintendo is seen as one of the last bastions of physical games with its Switch cartridges. A new challenge has emerged: one o",
+          "publishedAt": "2026-11-04T15:04:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
+          "title": "The Elder Scrolls 6: Sentinel Is Still 2+ Years Away From Release – Report",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
-          "summary": "AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claude Code's \"rules\" has been pushed out. Listed under \"tengu_he",
-          "publishedAt": "2026-11-02T15:36:59.000Z",
+          "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-sentinel-is-still-2-years-away-from-release-report/",
+          "summary": "Bethesda just recently lifted the lid on the next Elder Scrolls game, revealing its title to be \"Sentinel\" and telling fans it will be \"some time\" before more is shared. But just when could Sentinel b",
+          "publishedAt": "2026-11-04T15:36:05.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
-          "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Here's a quick buying guide to help you un",
-          "publishedAt": "2026-11-02T16:10:15.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
-          "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service. November is frontloaded with new game releases",
-          "publishedAt": "2026-11-02T16:17:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
+          "title": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project",
-          "summary": "After adding a whole new town to Fallout 4 last month, a group of modders have released another in their long string of extra quests for the RPG. This latest mission revolves around a dungeon delve in",
-          "publishedAt": "2026-11-02T12:36:42.000Z",
+          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
+          "summary": "Aha. Here it is . Freshly poked live and right on time . Now, we wait for the inevitable flood of mods, like the ceaseless current of add-ons which still flows into Skyrim . Read more",
+          "publishedAt": "2026-11-04T12:08:24.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
+          "title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
-          "summary": "Recently, I managed to dupe that preposterous hack Julian into signing a form committing him to alternate weeks of Maw-feeding duty. How he whined last Monday, as we strapped him into his neoprene bod",
-          "publishedAt": "2026-11-02T13:34:28.000Z",
+          "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+          "summary": "Raw Power Games, an independent studio comprising veteran developers of The Witcher 3 , Total War: Three Kingdoms , and Crusader Kings III (among others), have called on players for support after losi",
+          "publishedAt": "2026-11-04T12:43:24.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Fewer genAI clones of \"someone else's specific game\" should flood the net going forwards, as Anthropic tell Claude to stop messing with some stuff other people own",
+          "title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fewer-genai-clones-of-someone-elses-specific-game-should-flood-the-net-going-forwards-as-anthropic-tell-claude-to-stop-messing-with-some-stuff-other-people-own",
-          "summary": "Anthropic have told their genAI tool Claude to start ducking requests from users to recreate or clone existing games, following a flood of folks using the tech to generate six-fingered remakes. Instea",
-          "publishedAt": "2026-11-02T16:51:17.000Z",
+          "url": "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
+          "summary": "Star Wars has been back in the news recently because, to cut a long story short, the US alt-right have decided that Darth Vader was actually the good guy . We are not here to indulge such buffoonery. ",
+          "publishedAt": "2026-11-04T13:15:44.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Zelda: Ocarina of Time Remake Team Confirms Fast Travel Was Added, Then Removed",
+          "title": "'Pokémon Pokopia’s Next Big DLC Officially Gets Release Date",
           "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-fast-travel/",
-          "summary": "Zelda series producer Eiji Aonuma asked the team to create \"warp points\" to streamline exploration in the Ocarina of Time Remake, but changed his mind",
-          "publishedAt": "2026-11-02T15:27:58.000Z",
+          "url": "https://www.polygon.com/pokemon-pokopia-expansion-2-dlc-dazzling-decorations-release-date/",
+          "summary": "Pokémon Pokopia's next DLC, titled Dazzling Decorations, just got a release date on Nintendo Switch 2, TPC and Game Freak announced.",
+          "publishedAt": "2026-11-04T15:10:15.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Target Officially Launches New Pokémon System and It's a Total Game Changer",
+          "title": "Bethesda’s Big Elder Scrolls Tease Quietly Reveals New Xbox Strategy",
           "source": "Polygon",
-          "url": "https://www.polygon.com/target-pokemon-raffle-lottery-tcg-how-does-it-work-enter-rules-where/",
-          "summary": "Target's TCG system has some major differences from Walmart's Pokémon raffle, but overall it's good news for fans who want 30th Anniversary products",
-          "publishedAt": "2026-11-02T16:02:38.000Z",
+          "url": "https://www.polygon.com/elder-scrolls-6-sentinel-reveal-xbox-bethesda-blizzard/",
+          "summary": "The title reveal for The Elder Scrolls 6: Sentinel fits a pattern with Blizzard's Diablo 5 and StarCraft unveilings",
+          "publishedAt": "2026-11-04T15:30:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Charlie Brown Is Getting a Brand-New Christmas Special, 60 Years After the Original",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/snoopy-charlie-brown-apple-tv-new-christmas-special-2026/",
+          "summary": "Apple TV has officially announced a new Snoopy and Charlie Brown Christmas special coming this month",
+          "publishedAt": "2026-11-04T16:09:39.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Walmart Is Having A 'Pokémon' TCG Blow-Out, And It's A Must-See",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/pokemon-tcg-walmart-collectibles-drawing-upc-price-stock-time-delta-reign/",
+          "summary": "Walmart's collectibles drawing has some of the best deals on the Pokémon 30th Anniversary's UPC, and the new Delta Reign ETB",
+          "publishedAt": "2026-11-04T16:59:44.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,14 +119,77 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-02T17:45:14.768Z",
+      "generatedAt": "2026-11-04T17:49:24.165Z",
       "items": [
         {
-          "title": "Turtle Beach Command Series MC7 review",
+          "title": "The Ocarina Of Time Remake Has Claimed 2026’s Review Crown, But GTA 6 Could Have Something To Say About It",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-ocarina-of-time-remake-has-claimed-2026-review-crown-but-gta-6-could-have-something-to-say-about-it/",
+          "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake , and they're pretty good so far. On GameSpot's sister site Metacritic , Ocarina of Time has a review aggregate score of 96 from 81 revie",
+          "publishedAt": "2026-11-04T13:26:05.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+          "source": "The Guardian (Culture)",
+          "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+          "summary": "Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Y",
+          "publishedAt": "2026-11-04T11:03:18.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Formula V Line Air Power G10 review",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
-          "summary": "How much is a touchscreen really worth to you?",
-          "publishedAt": "2026-11-02T16:56:48.000Z",
+          "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
+          "summary": "A sleek case with some less-than-sleek issues.",
+          "publishedAt": "2026-11-04T15:53:08.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Club Kid Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/club-kid-review",
+          "summary": "Club Kid review: Jordan Firstman’s moving indie comedy follows a gay New York club promoter and his surprise British son.",
+          "publishedAt": "2026-11-04T13:49:34.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Is Still Perfect on Switch 2 | Review",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/",
+          "summary": "Nintendo's lovingly-crafted The Legend of Zelda: Ocarina of Time remake beautifully recaptures the magic of an all-time classic.",
+          "publishedAt": "2026-11-04T11:00:17.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
+          "summary": "A beautiful retelling of a legend and a rich adventure that stands on its own.",
+          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time (2026) review",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-review",
+          "summary": "I have a friend who first played The Legend of Zelda: Ocarina of Time back in the day, when the game was only just released and he was home from university for Christmas. This is objectively the best ",
+          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+          "summary": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only probl",
+          "publishedAt": "2026-11-03T21:41:08.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -135,23 +198,14 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-02T17:45:14.768Z",
+      "generatedAt": "2026-11-04T17:49:24.165Z",
       "items": [
         {
-          "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
-          "summary": "But the studio says it is \"not going down without a fight\".",
-          "publishedAt": "2026-11-01T16:42:09.000Z",
-          "tag": "Preview",
-          "_example": false
-        },
-        {
-          "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-          "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more",
-          "publishedAt": "2026-11-01T10:04:13.000Z",
+          "title": "Silica, an FPS and RTS hybrid that mixes a smidge of Dune and Helldivers together, has left early access and entered 1.0",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
+          "summary": "The concept of fusing an RTS and an FPS always sounds like a fun one, and since 2023 Martin Melich&aacute;rek has been trying to make a new take on the combination under the watchful eye of DayZ devs ",
+          "publishedAt": "2026-11-03T19:00:00.000Z",
           "tag": "Preview",
           "_example": false
         }
@@ -160,113 +214,95 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-02T17:45:14.768Z",
+      "generatedAt": "2026-11-04T17:49:24.165Z",
       "items": [
         {
-          "title": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all/",
-          "summary": "Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game. According to Gematsu , shareholders officially dissolved the ",
-          "publishedAt": "2026-11-02T13:15:03.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off/",
-          "summary": "Doom developer id Software was among the numerous Microsoft-owned game studios that cut staff recently as part of the big Xbox \"reset.\" What's the vibe like internally at the studio in the wake of tha",
-          "publishedAt": "2026-11-02T15:31:04.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
-          "summary": "Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start across PC and PS5. The game sold more than 4 million copies over its first 72 hours. That works out to 9",
-          "publishedAt": "2026-11-02T16:41:44.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Henry Cavill’s Warhammer 40K Series Just Got a Cryptic Update From Mike Flanagan",
+          "title": "Phantom Blade Zero’s Toughest Early Boss Gets Big Nerf in New Update",
           "source": "Polygon",
-          "url": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan-update/",
-          "summary": "Henry Cavill's Warhammer 40K series has found an 'unexpected on-ramp' teases horror legend Mike Flanagan",
-          "publishedAt": "2026-11-02T16:11:18.000Z",
+          "url": "https://www.polygon.com/phantom-blade-zero-early-game-boss-nerf-hua/",
+          "summary": "'Phantom Blade Zero's first major patch brings bug fixes and a nerf to one of the game's hardest early bosses.",
+          "publishedAt": "2026-11-04T16:42:01.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update",
+          "title": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/",
-          "summary": "Potentially getting much more out of existing hardware is nothing to sniff at.",
-          "publishedAt": "2026-11-02T13:38:24.000Z",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/",
+          "summary": "\"Those reductions left some iconic abilities feeling lackluster, and closed the door to other potentially exciting design options.\"",
+          "publishedAt": "2026-11-04T11:45:45.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
+          "title": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
+          "summary": "Intel's expecting to hit $15 - $16 billion for Q4 2026, while AMD is looking at an impressive $17 billion.",
+          "publishedAt": "2026-11-04T12:40:51.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
-          "summary": "Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business \"reset\" earlier this year, with around 136 em",
-          "publishedAt": "2026-11-02T12:12:11.000Z",
+          "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
+          "summary": "Macronix, longtime Nintendo hardware partner and one of the main producers of ROM memory, has announced it's leaving the business. ROM chips are key components in Switch and Switch 2 cartridges. Read ",
+          "publishedAt": "2026-11-04T13:34:57.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Yakuza Creator's Studio Officially Shuts Down After Backers Desert It",
+          "title": "Guild Wars gets its first major gameplay update in almost 20 years",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+          "summary": "ArenaNet and co-dev studio 2Weeks have announced Guild Wars Afterlife - the first major update for the game in nearly 20 years. Read more",
+          "publishedAt": "2026-11-04T09:59:17.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
+          "summary": "Things are potentially looking up for Arkane, depending on how you feel about Ubisoft (and depending on who actually ends up acquiring them). I mention the Assassin's Creed developer because, reported",
+          "publishedAt": "2026-11-03T22:51:31.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Ubisoft Makes Bid to Purchase Xbox Studio on the Brink of Closure",
           "source": "Polygon",
-          "url": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/",
-          "summary": "Nagoshi Studio, founded by Like a Dragon/Ryu Ga Gotoku creator Toshihiro Nagoshi, and its game Gang of Dragon are no more",
-          "publishedAt": "2026-11-02T11:25:24.000Z",
+          "url": "https://www.polygon.com/ubisoft-xbox-arkane-studios-dishonored-blade/",
+          "summary": "Ubisoft and other companies have reportedly made offers to buy Arkane from Xbox, which is looking to divest from the Marvel's Blade studio.",
+          "publishedAt": "2026-11-03T22:26:18.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+          "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-          "summary": "The volunteer team is seeking pro bono legal aid.",
-          "publishedAt": "2026-10-31T20:29:22.000Z",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+          "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
+          "publishedAt": "2026-11-03T21:54:41.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
-          "summary": "I tire of seasons.",
-          "publishedAt": "2026-11-01T16:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
-          "summary": "Selaco: The Machines of War arrives later this month.",
-          "publishedAt": "2026-11-01T16:46:26.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+          "title": "Ubisoft Among Suitors Trying to Buy Marvel's Blade, Dishonored Studio Arkane Lyon from Xbox",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-          "summary": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
-          "publishedAt": "2026-10-31T21:46:36.000Z",
+          "url": "https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
+          "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the wak",
+          "publishedAt": "2026-11-03T20:54:14.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
-          "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does.",
-          "publishedAt": "2026-11-02T08:18:12.000Z",
+          "title": "Borderlands Franchise Hits 100 Million Sales As Gearbox Hints At What’s Next",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/borderlands-2-is-still-the-best-selling-game-in-the-series-despite-borderlands-4-milestone/",
+          "summary": "The Borderlands franchise has reached a new sales milestone, as developer Gearbox Software announced that Borderlands 4 had pushed the series over the 100 million units sold mark. Celebrating the achi",
+          "publishedAt": "2026-11-03T13:17:37.000Z",
           "tag": "Industry",
           "_example": false
         }
