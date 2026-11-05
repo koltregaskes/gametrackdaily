@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-11-04T17:30:17.432Z",
+  "updatedAt": "2026-11-05T17:30:09.903Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -640,97 +640,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "igdb-game-417650",
-      "title": "World of Warcraft: Forever",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "World of Warcraft: Forever is an invitation to take your first steps in a legendary world of untamed frontiers, warring factions, untold perils, and unseen mysteries. Experience an Azeroth that grows from the roots of WoW’s first age, continually evolving through regular content "
-    },
-    {
-      "id": "igdb-game-378896",
-      "title": "Lost Host",
-      "date": "2026-11-04",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5",
-        "Xbox One"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lost Host is a story-driven adventure puzzle game about a small toy car searching for its missing owner.\nWhen the boy mysteriously disappears, the toy car begins a journey through the house and beyond, exploring dark rooms, hallways, foggy streets, and abandoned places while foll"
-    },
-    {
-      "id": "igdb-game-292419",
-      "title": "Cat Secretary",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Keep your job by day. At night, sneak around the office and solve your colleagues' problems. Who's a good Cat Secretary? You are!"
-    },
-    {
-      "id": "igdb-game-394023",
-      "title": "Cozy Game Restoration",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cozy Game Restoration is a soothing simulator where you gently bring forgotten video game cartridges back to life. Tear wrapping paper, peel old stickers, lift away grime, and transform dusty relics into cherished collectibles. No pressure or failure, just the quiet joy of restor"
-    },
-    {
-      "id": "igdb-game-403819",
-      "title": "Theos: Cities of Myth",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A modern take on classic city-builders, Theos: Cities of Myth lets you develop a thriving metropolis dedicated to one of 7 Greek Deities. Raise an imposing sanctuary, meet your citizens needs, and found a city worthy of the Gods."
-    },
-    {
-      "id": "igdb-game-399255",
-      "title": "Hull Rupture",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "If the ship stops, humanity ends. Manage a spaceship, treat puny humans as resources, and repel relentless alien assaults in a base-management tower-defense roguelite where every choice seemed reasonable at the time."
-    },
-    {
-      "id": "igdb-game-414428",
-      "title": "Cleanup On Aisle 3",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Cleanup on Aisle 3 is an arcade management game about running failing grocery stores. Each day, the player stocks shelves from incoming pallets, rings up customers before their patience runs out, wrangles shopping carts back from the parking lot, and mops up whatever got spilled "
-    },
-    {
-      "id": "igdb-game-419579",
-      "title": "Rip It! Card Collector",
-      "date": "2026-11-04",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A single-player incremental game where you hunt down 1,809 collectible trading cards. Sell dupes and upgrade your retro-futuristic gear to pull more cards, quicker! Enjoy the satisfaction of ripping packs, filling your binder, and completing the ultimate card collection. It’s tim"
-    },
     {
       "id": "igdb-game-257450",
       "title": "Airframe Ultra",
@@ -1471,6 +1380,17 @@
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe..."
     },
     {
+      "id": "igdb-game-422022",
+      "title": "Dungeonbound",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again."
+    },
+    {
       "id": "igdb-game-370891",
       "title": "Scopecreep",
       "date": "2026-11-16",
@@ -1504,17 +1424,6 @@
       "summary": "Clicky Islands is a unique blend of incremental gameplay, clicker mechanics, city-builder elements, and resource management. You play as a governor appointed by the king to discover and develop a new island for his future kingdom."
     },
     {
-      "id": "igdb-game-422022",
-      "title": "Dungeonbound",
-      "date": "2026-11-16",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dungeonbound is a retro first-person auto-battler dungeon crawler. Send your Warrior, Mage or Rogue into monster-packed depths, watch battles play out turn by turn, and grow stronger every run. Death just sends you home with the loot. Merge gear, buy upgrades, descend again."
-    },
-    {
       "id": "igdb-game-389217",
       "title": "Tekken 8: Roger Jr.",
       "date": "2026-11-16",
@@ -1536,6 +1445,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Grab your bike and milk bottles, let's hit the road! Explore the countryside in this short cozy delivery adventure. Befriend folks and gently help them rebuild their community, one bottle at a time. Upgrade your bike, your dairy farm, and venture deeper into a once-lively region."
+    },
+    {
+      "id": "igdb-game-310733",
+      "title": "Dawn of Defense",
+      "date": "2026-11-17",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dawn of Defense blends RTS, Tower Defense, and Roguelite progression. In a last defense, lead your tribe against the Empire: Command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland."
     },
     {
       "id": "igdb-game-416114",
@@ -3139,6 +3059,17 @@
       "summary": "A third-person survival horror game that you play as a girl with psychic power who tries to escape from a secret lab and is pursued by deadly stalkers."
     },
     {
+      "id": "igdb-game-268212",
+      "title": "Tower of Tears",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 3D Survival-Horror Metroidvania in a vast, interconnected tower ruled by cryptic systems, strange residents and esoteric mysteries..."
+    },
+    {
       "id": "igdb-game-346199",
       "title": "Compress(Space)",
       "date": "2026-12-31",
@@ -3232,17 +3163,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Step into the space between subconscious and reality. Explore strange liminal worlds, solve sound-driven puzzles, and unravel the secrets behind the enigmatic device left by a vanished scientist."
-    },
-    {
-      "id": "igdb-game-268212",
-      "title": "Tower of Tears",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A 3D Survival-Horror Metroidvania in a vast, interconnected tower ruled by cryptic systems, strange residents and esoteric mysteries..."
     },
     {
       "id": "igdb-game-381080",
@@ -3488,17 +3408,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Immerse yourself into a realistic open world experience and find your way out in the ruins of a dying world. Survive the threats from the Infected, the living and most importantly, the wilderness. Fight or cooperate with others, and build your own territory. Build your own new po"
-    },
-    {
-      "id": "igdb-game-310733",
-      "title": "Dawn of Defense",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Dawn of Defense blends RTS, Tower Defense, and Roguelite progression. In a last defense, lead your tribe against the Empire: Command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland."
     },
     {
       "id": "igdb-game-361039",
@@ -5246,6 +5155,96 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Can you survive your teacher in this psychological horror game? With only candles for light and trapped in her home, you have to uncover her family's dark secrets. Solve puzzles, connect the dots and escape. But beware: There is someone else playing games with you, and someone wh"
+    },
+    {
+      "id": "igdb-game-270984",
+      "title": "Design & Conjure",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Join Dalia, a young witch, in her cozy adventure to fix her hometown. Reconnect with nature and bring beauty back as you clean, decorate, solve light puzzles, and help magical creatures affected by the mysterious corruption."
+    },
+    {
+      "id": "igdb-game-367192",
+      "title": "Devoid",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Devoid is an immersive journey into the medieval world of vampires who feed on human souls. You will have to put an end to their power with the help of sword and magic. Use an arsenal of tools and magical abilities on your way to defeat the most ancient evil."
+    },
+    {
+      "id": "igdb-game-278255",
+      "title": "Digested",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Digested is an open-world horror survival game in which you must evade a giant snake intent on eating you alive. Utilize various tools and abilities to formulate an escape strategy, and use the map to navigate through unfamiliar terrain. Locate your extraction pod and don't get d"
+    },
+    {
+      "id": "igdb-game-339989",
+      "title": "Do Not Play",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "\"DO NOT PLAY\" \" is a point-and-click horror adventure. Even if you reach the \"truth\" that lies beyond playing, we take no responsibility for any phenomena that occurs there. Please handle with extreme caution."
+    },
+    {
+      "id": "igdb-game-365025",
+      "title": "Dosmic",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In a world consumed by darkness, a boy embarks on a perilous journey to rescue a lost girl. Navigate through cosmic horrors and unravel ancient mysteries in this cinematic puzzle-adventure. Experience a hauntingly beautiful tale of despair and hope.​"
+    },
+    {
+      "id": "igdb-game-317112",
+      "title": "Dragon's Brew",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dragon's Brew is a board game cafe simulator! Serve customers while fulfilling takeaway orders and delivery requests and build up your reputation in the vibrant seaside town of Pebblebrook. Source and grow your own ingredients, craft a variety of seasonal recipes, and expand your"
+    },
+    {
+      "id": "igdb-game-258306",
+      "title": "Dreadwinter",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dreadwinter is a single-player, fantasy coffee shop RPG, where the game's story and experience is centered around how you play. Whether you want to run a thriving business, explore the world, or just make good coffee, how you run Dreadwinter is up to you!"
+    },
+    {
+      "id": "igdb-game-283903",
+      "title": "Dungeon Automata",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Dungeon Automata「Algolemeth」is an \"autologic\": a JRPG dungeon crawler meets auto battler where you control your party with visual node-based programming. Program your party and conquer dungeons automatically. Master the dungeon through trial and error!"
     }
   ],
   "undated": [
