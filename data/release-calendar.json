@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-11-05T17:30:09.903Z",
+  "updatedAt": "2026-11-07T17:30:02.880Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,186 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-257450",
-      "title": "Airframe Ultra",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Welcome to the violent underground world of Ultra Circuit racing.\n\nFrom the cracked asphalt of San Juaro and the Ysidro edgelands to the hulking megacities of the Texicali Zego zone, Airframe riders from all across the Southlands compete for fame, fortune, and a chance at glory… "
-    },
-    {
-      "id": "igdb-game-347671",
-      "title": "Escape Academy 2: Back 2 School",
-      "date": "2026-11-05",
-      "platforms": [
-        "Xbox Series X/S",
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings."
-    },
-    {
-      "id": "igdb-game-378342",
-      "title": "Wielders of the Essence",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Single-player horde survival with a touch of incremental base building. Eight-minute runs. Eight hours to complete."
-    },
-    {
-      "id": "igdb-game-403821",
-      "title": "Chivalware",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike."
-    },
-    {
-      "id": "igdb-game-389458",
-      "title": "Underkeep",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear and descend into the depths of the Underkeep to uncover what lies hidden below."
-    },
-    {
-      "id": "igdb-game-416123",
-      "title": "Where the Seeds Fall",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Blight has infected the land, forcing humanity to live upon the branches of the World Tree. After a chance encounter with a strange child, your world begins to fall apart. Navigate ruins, read the wind, and take a leap of faith into this thrilling action-adventure game."
-    },
-    {
-      "id": "igdb-game-286226",
-      "title": "Emery Hearts",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Immerse yourself in this thrilling action JRPG and uncover the secrets of Emery crystals as you face challenging enemies that will demand all your skill and ingenuity to defeat them."
-    },
-    {
-      "id": "igdb-game-342002",
-      "title": "Eternal Palace Sakura",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "\"Eternal Palace Sakura\" is a rogue-lite 3D action game where you power up your character and take on thrilling dungeon challenges packed with flashy combat. Step into the shoes of Retla, a brown-skinned, cat-eared dual-wielder, and explore the ever-shifting dream labyrinth!"
-    },
-    {
-      "id": "igdb-game-349756",
-      "title": "In Full Bloom",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for anything around it. There is only one way."
-    },
-    {
-      "id": "igdb-game-419257",
-      "title": "Blue Check",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Blue Check is an experimental psychological horror.\n\nExperience the life of a young woman who has just moved into a new apartment. Explore her everyday life through her computer. Play minigames, read the latest news, shop for new items to decorate your home, and, most importantly"
-    },
-    {
-      "id": "igdb-game-425233",
-      "title": "Afterpub",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Grandpas in wheelchairs, a pub full of games and a mountain to race over. Bet on the chaos, throw everything you grab, and play with friends online in Mountain Run, 1v1 Duels and many party games."
-    },
-    {
-      "id": "igdb-game-399408",
-      "title": "Crymelight",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC",
-        "PlayStation 5"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "CRYMELIGHT is a roguelike action game set in the world of the afterlife, where girls confront their sins as they fight to gain their freedom."
-    },
-    {
-      "id": "igdb-game-336126",
-      "title": "Glory On Pluto",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Bring prestige back to Earth by building your engines and finding Glory on Pluto in this offbeat and unique deckbuilding rougelike."
-    },
-    {
-      "id": "igdb-game-425968",
-      "title": "Wretched",
-      "date": "2026-11-05",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Wretched is a turn-based tactical game focused on strategic positioning, skill combinations and devastating attacks. Play as an ancient being of immense power. Move into range, kick enemies away and slip behind others. Chain your skills and make every turn count."
-    },
-    {
-      "id": "igdb-game-425187",
-      "title": "Tiny Knight and the Corrupted Crystal",
-      "date": "2026-11-06",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Tiny Knight and the Corrupted Crystal is a single-player action roguelite built around an incremental power curve. The knight's corrupted sword drains his own health for as long as he stays in a level, so the health bar doubles as the level timer and there is no separate countdow"
-    },
-    {
-      "id": "igdb-game-421631",
-      "title": "Trap Testers",
-      "date": "2026-11-06",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Trap Testers is a co-op physics-based deathrun game where you're the one placing the traps! Compete against your friends to reach the finish line first, and try to kill them along the way."
-    },
-    {
       "id": "igdb-game-340334",
       "title": "Dreadmoor",
       "date": "2026-11-09",
@@ -1279,6 +1099,17 @@
       "summary": "Defend your throne against undead hordes in a pixel-art siege roguelite. Aim your attacks without leaving your seat, hunt legendary gear, and combine seven schools of power. Turn your spoils into permanent kingdom upgrades. The king will not survive the siege. His gold will."
     },
     {
+      "id": "igdb-game-425365",
+      "title": "Spin Tactics",
+      "date": "2026-11-12",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Spin Tactics is a roguelike engine-builder set inside a slot machine. Each spin fills the board with coloured symbols, and connecting three or more of the same colour makes a combo. Gems change a symbol's colour, timing or effect for the rest of the run. More than 90 Companions c"
+    },
+    {
       "id": "igdb-game-374055",
       "title": "Drawquarium",
       "date": "2026-11-13",
@@ -1301,6 +1132,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
+      "id": "igdb-game-413109",
+      "title": "10 Million Pixels",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Mine through millions of pixels to find the one golden pixel. A mesmerizing incremental game about exploration and erosion."
     },
     {
       "id": "igdb-game-306740",
@@ -1468,6 +1310,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "A port of Ratchet & Clank, originally released on PS2, enhanced with up-rendering, rewind, quick save, and custom video filters."
+    },
+    {
+      "id": "igdb-game-412590",
+      "title": "Ball Picker: Clean Up the Golf Yard",
+      "date": "2026-11-17",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Collect +1,000,000 golf balls, earn money, buy new vehicles, and clean up the golf yard. Ball Picker - Clean up the Golf Yard is an active incremental game centered on an organizing and relaxing experience."
     },
     {
       "id": "igdb-game-412204",
@@ -2174,6 +2027,17 @@
       "summary": "A 2 player psychological horror game where not every player sees the same reality. Explore a carnival trapped in an endless transformation, detect anomalies, verify with your friend if they see the same thing and make the right decisions before the clown Bobby loses his temper..."
     },
     {
+      "id": "igdb-game-386292",
+      "title": "Sushi on Wheels",
+      "date": "2026-12-07",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Run your dream sushi truck in Sushi on Wheels! Prep ingredients, customize your truck, and serve handmade sushi to hungry locals. Upgrade your gear, discover new recipes, and build your reputation in this cozy management game set in a charming Japanese town."
+    },
+    {
       "id": "igdb-game-420600",
       "title": "Unharvest",
       "date": "2026-12-07",
@@ -2369,6 +2233,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "With your friends, form a team of paranormal experts to unravel the mysteries of the most terrifying places. Armed with sophisticated gadgets like EMF detectors, infrared cameras, and incantation books, your mission is simple: gather evidence of the beyond and survive chilling en"
+    },
+    {
+      "id": "igdb-game-403093",
+      "title": "Archivist: Tidy Up & Sort",
+      "date": "2026-12-17",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by"
     },
     {
       "id": "igdb-game-404476",
@@ -3639,6 +3514,17 @@
       "summary": "V.E.D.A is a Soulslike training game with weighty combat and exploration. The protagonist, awakened with no memory, undergoes combat training in a training simulator and uncovers hidden secrets. You too can enter the Soulslike genre. Don't hesitate."
     },
     {
+      "id": "igdb-game-403847",
+      "title": "Where Dolls Hang",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Where Dolls Hang is a survival psychological horror game where you investigate a place plagued by strange and unsettling events filled with hanging dolls. Explore dangerous locations, gather evidence, uncover hidden secrets, and use your boat to confront the unknown as you search"
+    },
+    {
       "id": "igdb-game-268103",
       "title": "500 Caliber Contractz",
       "date": "2026-12-31",
@@ -3964,6 +3850,20 @@
       "summary": "Explore Nanoha Town, in the Japanese countryside, during the cherry blossom season as a cat. Use unique cat actions like Wall Jump, Dig, Paw Swat and Wiggle Butt Dash to make your way to Sakurana Shrine, a place of memories with your late Grandpa."
     },
     {
+      "id": "igdb-game-414849",
+      "title": "Sanitarium Enhanced",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "The timeless psychological horror point-and-click adventure Sanitarium returns with new enhancements. Originally released in 1998 and named Adventure Game of the Year, Sanitarium Enhanced adds full controller support, quality of life improvements, and never-before-seen bonus mate"
+    },
+    {
       "id": "igdb-game-399165",
       "title": "Secret Files: Tunguska - Remastered",
       "date": "2026-12-31",
@@ -4051,17 +3951,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "The ultimate superhero experience. Fly freely and unleash your awesome powers as you battle violent mutants to save an alien planet."
-    },
-    {
-      "id": "igdb-game-403847",
-      "title": "Where Dolls Hang",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Where Dolls Hang is a survival psychological horror game where you investigate a place plagued by strange and unsettling events filled with hanging dolls. Explore dangerous locations, gather evidence, uncover hidden secrets, and use your boat to confront the unknown as you search"
     },
     {
       "id": "igdb-game-381243",
@@ -5245,6 +5134,116 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dungeon Automata「Algolemeth」is an \"autologic\": a JRPG dungeon crawler meets auto battler where you control your party with visual node-based programming. Program your party and conquer dungeons automatically. Master the dungeon through trial and error!"
+    },
+    {
+      "id": "igdb-game-235937",
+      "title": "Edenfall: Legacy of the First Wardens",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Unveil a mystical action-adventure where you shift between human, wolf, raccoon, and raven. Weave fluid combos across forms, purge corruption, and awaken the land’s lost beauty. Together with your spirit fox companion, embark on a soulbound journey of transformation, memory, and "
+    },
+    {
+      "id": "igdb-game-367331",
+      "title": "Eggspedition",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Enter the Eggspedition - a terrifying survival horror with dinosaurs! Play solo or team up with up to 4 players to explore unknown planets, abandoned facilities, complete missions, and make daring extractions. It’s inhabited by… dinosaurs. Furious, massive, and very much alive."
+    },
+    {
+      "id": "igdb-game-276836",
+      "title": "England in London",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "England in London is a surrealist satirical dark comedy adventure game with an emphasis on atmosphere, characters and mini-games. Featuring weird looking art, hand drawn animation and an ambient score for when you truly want to be left alone."
+    },
+    {
+      "id": "igdb-game-318349",
+      "title": "Entwine",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "ENTWINE is a terrifying first-person narrative psychological horror game. Explore horrifically detailed environments in a hand-crafted story-driven campaign as you uncover the story of Lucas Hale. Run. Hide. But try not to scream, it might hear you."
+    },
+    {
+      "id": "igdb-game-342824",
+      "title": "Exovia",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Free your mind as you mine an asteroid in zero gravity, creating floaters that drift through the oddly satisfying physics-driven supply chains you design to pave humanity's road to the stars."
+    },
+    {
+      "id": "igdb-game-334310",
+      "title": "Fate's Masquerade",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this animated manhwa-inspired romance fantasy, toy with princes behind their perfect masks. Fall in love? Maybe. Make them fall for you? Absolutely. You are unpredictable, audacious, and just unhinged enough to make history. Heroine or villainess? Why not both?"
+    },
+    {
+      "id": "igdb-game-325282",
+      "title": "Feltopia",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this hand-felted, stop-motion \"cute-em-up,\" the realms of Feltopia have been infected by a mysterious Smog Spirit. Skyrider flies on their pegasus through wondrous landscapes to save their magical sheep, transform creatures, and battle bosses on their quest to uncover Feltopia"
+    },
+    {
+      "id": "igdb-game-401286",
+      "title": "ForMind",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Formind is a hardcore third-person survival horror with RPG elements, set within the collapsing underwater complex Zirotech. Waking from cryosleep with amnesia, you find yourself trapped on a station swarming with monsters that don't just kill—they learn. Every mistake you make m"
+    },
+    {
+      "id": "igdb-game-326759",
+      "title": "Froggo's Adventure: Drifting Sky",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 2D side-scrolling platformer with cute and dreamlike aesthetics. The ever growing colossal tree known as \"the witch's hand\" is growing out of control. Froggo sets foot on a journey to investigate the tree in hopes of finding a solution to save his home."
+    },
+    {
+      "id": "igdb-game-236528",
+      "title": "Gilded Destiny",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Gilded Destiny is a grand strategy game depicting the transformative era of the Industrial Revolution. You will take the helm of the country of your choice and transform it from a backward agrarian society to an industrial powerhouse."
     }
   ],
   "undated": [

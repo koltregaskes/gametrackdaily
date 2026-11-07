@@ -1,116 +1,116 @@
 {
-  "generated": "2026-11-05T17:48:32.227Z",
+  "generated": "2026-11-07T17:45:07.397Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-05T17:48:32.227Z",
+      "generatedAt": "2026-11-07T17:45:07.397Z",
       "items": [
         {
-          "title": "This Handheld Gaming Hub Has A Lot More Going On Than You’d Expect",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/this-handheld-gaming-hub-has-a-lot-more-going-on-than-youd-expect/",
-          "summary": "There's no shortage of dedicated video capture devices on the market, but if you're looking for something that cuts down on cable clutter and adds some cyberpunk vibes to your setup, you'll want to ch",
-          "publishedAt": "2026-11-05T13:20:23.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Legend of Zelda: Ocarina Of Time’s 2026 Remake Looks Stunning Next To The Original N64 Game",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-2026-remake-looks-stunning-next-to-the-original-n64-game/",
-          "summary": "Since its launch last year, the Switch 2 has proven itself to be a portable powerhouse, and The Legend of Zelda: Ocarina of Time remake may just be the best game to show off its capabilities. The upgr",
-          "publishedAt": "2026-11-05T13:21:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Boss Talks The Game’s Budget And Calls Out A “High-Profile” Game For Releasing In A Rough State",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
-          "summary": "Grand Theft Auto 6 is the biggest game that Rockstar Games has ever made, and it was no doubt very expensive to produce. But just how much did it cost? We know it's not $1.5 billion , but Take-Two CEO",
-          "publishedAt": "2026-11-05T14:13:02.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Marvel’s Wolverine Has Lost Its Momentum, And Sony’s Numbers Show It",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/marvels-wolverine-has-lost-its-momentum-and-sonys-numbers-show-it/",
-          "summary": "Marvel's Wolverine got off to a strong start when it launched in September, but since then, it looks like things have cooled off massively for the game. In its new earnings report , Sony finally dropp",
-          "publishedAt": "2026-11-05T14:36:41.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/",
-          "summary": "As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio offered strong words toward Arkane's parent company, Microsoft. In short, the union blames Microsof",
-          "publishedAt": "2026-11-05T15:45:56.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6: Lots Of New Images Have Been Released",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
-          "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in a ",
-          "publishedAt": "2026-11-05T15:55:32.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check",
+          "title": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
-          "summary": "Goddess of Victory: Nikke, a gacha shooter/RPG developed by Stellar Blade makers Shift Up, has suffered a \"security incident\" which has seen its PC launcher potentially be infected with third-party ma",
-          "publishedAt": "2026-11-05T15:43:10.000Z",
+          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+          "summary": "Early last month, Star Wars Zero Company developer Bit Reactor brought back a number of developers who had been furloughed before the game launched in August. At the time they did not specify how many",
+          "publishedAt": "2026-11-07T16:57:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim",
+          "title": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim",
-          "summary": "In what feels a fairly cheeky move during a time when memory shortages have infamously made it pretty much impossible to buy a decently powerful new graphics card without spending approximately a gazi",
-          "publishedAt": "2026-11-05T16:55:40.000Z",
+          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+          "summary": "It appears I was premature in suggesting that the closure of BioWare might quickly spell an end for Mass Effect 3 's strangely good , preposterously enduring co-op mode. I reinstalled and logged on ju",
+          "publishedAt": "2026-11-07T17:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Andy Weir's New Sci-Fi Epic is ‘The Martian’ Meets ‘The Twilight Zone’",
+          "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
           "source": "Polygon",
-          "url": "https://www.polygon.com/exoplanet-andy-weir-exclusive-excerpt/",
-          "summary": "The time travel story Exoplanet launches on Audible on Nov. 5. Here's n exclusive preview",
-          "publishedAt": "2026-11-05T15:00:18.000Z",
+          "url": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+          "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
+          "publishedAt": "2026-11-07T12:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Where to find the Tokyo House in Forza Horizon 6",
+          "title": "10 Funniest 'Far Side' Comics About Cows",
           "source": "Polygon",
-          "url": "https://www.polygon.com/forza-horizon-6-fh6-tokyo-house-location/",
-          "summary": "The Tokyo House is the most expensive player home in Forza Horizon 6. Here's where to find it and what perks it comes with.",
-          "publishedAt": "2026-11-05T15:13:14.000Z",
+          "url": "https://www.polygon.com/funniest-far-side-comics-cows/",
+          "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
+          "publishedAt": "2026-11-07T12:14:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "5 Gripping Detective Books That Are Page-Turners From Start to Finish",
+          "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
           "source": "Polygon",
-          "url": "https://www.polygon.com/best-detective-mystery-books-page-turners/",
-          "summary": "A fast-paced detective story is often the antidote to a tiring day",
-          "publishedAt": "2026-11-05T15:31:18.000Z",
+          "url": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+          "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together",
+          "publishedAt": "2026-11-07T15:25:08.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "'Zelda: Ocarina of Time' Fans Devastated by Weeklong Shipping Delays",
+          "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
           "source": "Polygon",
-          "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-switch-2-shipping-delays-amazon/",
-          "summary": "'The Legend of Zelda: Ocarina of Time' is being hit with lengthy shipping delays on the most popular online retailer.",
-          "publishedAt": "2026-11-05T15:55:10.000Z",
+          "url": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
+          "summary": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
+          "publishedAt": "2026-11-07T15:31:59.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Commander Shepard’s Actors Are ‘Wildly Hopeful’ for Mass Effect, Despite Everything",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026/",
+          "summary": "Polygon spoke to Mass Effect's Jennifer Hale and Mark Meer about their optimism for Mass Effect after EA shut down BioWare and canceled Mass Effect 5.",
+          "publishedAt": "2026-11-07T17:00:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
+          "summary": "Howard is \"very good at putting himself in the seat of your typical player\" says Bruce Nesmith.",
+          "publishedAt": "2026-11-07T14:16:28.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+          "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure.",
+          "publishedAt": "2026-11-07T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+          "summary": "I recommend openSUSE Tumbleweed, personally.",
+          "publishedAt": "2026-11-07T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+          "summary": "Where is the rest of Godzilla’s rogues' gallery? We take a look at Monster Island's most wanted.",
+          "publishedAt": "2026-11-07T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+          "summary": "Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more",
+          "publishedAt": "2026-11-07T12:30:10.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,32 +119,14 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-05T17:48:32.227Z",
+      "generatedAt": "2026-11-07T17:45:07.397Z",
       "items": [
         {
-          "title": "Gentle Monster Review",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gentle-monster-review",
-          "summary": "Gentle Monster review: Léa Seydoux delivers a harrowing performance in a drama of domestic doubt.",
-          "publishedAt": "2026-11-05T13:00:00.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Valve Is Tightening Steam’s Game Submission Rules After AI-Generated Games Flood the Review Queue",
-          "source": "Flipboard AI",
-          "url": "https://hypebeast.com/2026/11/valve-updates-steam-rules-amid-ai-game-surge?utm_source=flipboard&utm_content=topic%2Fartificialintelligence",
-          "summary": "Developers must now run their games through Steam for at least five minutes before submitting for review. Valve updated its Steam game release rules …",
-          "publishedAt": "2026-11-05T08:35:39.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "World of Warcraft: Forever Review So Far - Beta Impressions",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/world-of-warcraft-forever-review",
-          "summary": "30 hours with Forever's beta provides an optimistic start to a long journey.",
-          "publishedAt": "2026-11-04T23:20:20.000Z",
+          "title": "Epomaker HE75 V2 TMR review",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+          "summary": "Mid-range, mighty, and mini.",
+          "publishedAt": "2026-11-06T15:58:29.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -153,119 +135,57 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-05T17:48:32.227Z",
-      "items": []
+      "generatedAt": "2026-11-07T17:45:07.397Z",
+      "items": [
+        {
+          "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+          "summary": "Get a closer look at the Gundam Assemble Starter Set.",
+          "publishedAt": "2026-11-07T13:00:00.000Z",
+          "tag": "Preview",
+          "_example": false
+        }
+      ]
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-05T17:48:32.227Z",
+      "generatedAt": "2026-11-07T17:45:07.397Z",
       "items": [
         {
-          "title": "PS5 Is Closing In On 100 Million Sales, Despite Getting More Expensive",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-despite-getting-more-expensive/",
-          "summary": "During a briefing on its latest financial results, Sony revealed it sold 2.6 million PS5 consoles in its last quarter, which ended on September 30. This brings lifetime PS5 sales to 97.9 million, just",
-          "publishedAt": "2026-11-05T13:18:07.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "AI memory boom claims another victim as major Nintendo Switch cartridge chip supplier exits ROM business",
-          "source": "Flipboard AI",
-          "url": "https://www.techspot.com/news/114452-ai-memory-boom-claims-another-victim-major-nintendo.html?utm_source=flipboard&utm_content=TechSpot/magazine/TechSpot",
-          "summary": "The big picture: Memory makers have spent most of this year steering their factories toward AI data centers, a shift that is reportedly impacting the …",
-          "publishedAt": "2026-11-05T11:15:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "You can now play Pillars of Eternity and Pillars of Eternity 2: Deadfire with a controller on PC from start to finish, thanks to a new update open for testing",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing",
-          "summary": "After gifting Pillars of Eternity a turn-based mode for its tenth anniversary , Obsidian have now rolled out full PC controller support for both the RPG and its younger sibling Pillars of Eternity 2: ",
-          "publishedAt": "2026-11-05T12:27:20.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Hyper Light Drifter Creator Says Studio’s Fate Is Still Uncertain",
+          "title": "Path of Exile 2 Sets The Stage For Massive Update Alongside December Launch",
           "source": "Polygon",
-          "url": "https://www.polygon.com/hyper-light-drifter-studio-heart-machine-still-at-risk-after-layoffs/",
-          "summary": "Hyper Light Drifter studio Heart Machine is staring down an uncertain future after a publisher pulled its funding and the studio laid off staff.",
-          "publishedAt": "2026-11-05T15:31:38.000Z",
+          "url": "https://www.polygon.com/path-of-exile-2-launch-update/",
+          "summary": "The campaign will wrap up and the Shadow class will be introduced next month",
+          "publishedAt": "2026-11-07T16:13:09.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
+          "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-          "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
-          "publishedAt": "2026-11-05T11:53:38.000Z",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "summary": "Square Enix is 'working to resolve the issue'.",
+          "publishedAt": "2026-11-07T11:15:54.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
-          "summary": "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel’s Wolverine for the first time.",
-          "publishedAt": "2026-11-05T11:17:06.000Z",
+          "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "summary": "\"While it stings, I'm really proud of what we built together.\"",
+          "publishedAt": "2026-11-07T12:18:55.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-          "summary": "Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life : Living the Dream. Sales of Switch 2 hardware, however, are down.",
-          "publishedAt": "2026-11-05T11:56:40.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
-          "summary": "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit.",
-          "publishedAt": "2026-11-05T10:21:34.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-          "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September.",
-          "publishedAt": "2026-11-05T10:24:40.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
+          "title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
-          "summary": "\"Stardeus is in an early stage in terms of bulk and complexity, but it's already a pleasant blend of interesting ideas that generate a mostly relaxing vibe,\" wrote gallant star captain.exe Sin Vega in",
-          "publishedAt": "2026-11-04T17:03:10.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
-          "summary": "\"I want us to have a happy ending. I want us to go out on our terms.\"",
-          "publishedAt": "2026-11-04T17:28:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
-          "summary": "Xbox would probably spend more money shutting down Arkane Lyon than it would trying to finish and release Marvel's Blade, according to a union representing workers from the beloved imsim studio. Read ",
-          "publishedAt": "2026-11-04T20:33:10.000Z",
+          "url": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
+          "summary": "Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide &ndash; has received its first proper patch, addi",
+          "publishedAt": "2026-11-06T14:58:30.000Z",
           "tag": "Industry",
           "_example": false
         }
