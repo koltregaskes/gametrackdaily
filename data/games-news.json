@@ -1,116 +1,116 @@
 {
-  "generated": "2026-11-07T17:45:07.397Z",
+  "generated": "2026-11-08T17:45:16.180Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-07T17:45:07.397Z",
+      "generatedAt": "2026-11-08T17:45:16.180Z",
       "items": [
         {
-          "title": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
-          "summary": "Early last month, Star Wars Zero Company developer Bit Reactor brought back a number of developers who had been furloughed before the game launched in August. At the time they did not specify how many",
-          "publishedAt": "2026-11-07T16:57:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-          "summary": "It appears I was premature in suggesting that the closure of BioWare might quickly spell an end for Mass Effect 3 's strangely good , preposterously enduring co-op mode. I reinstalled and logged on ju",
-          "publishedAt": "2026-11-07T17:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+          "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
           "source": "Polygon",
-          "url": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
-          "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
-          "publishedAt": "2026-11-07T12:00:17.000Z",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
+          "summary": "Ocarina of Time and The Elder Scrolls 5: Skyrim are two of the industry's biggest games, but their publishers have deployed them very differently.",
+          "publishedAt": "2026-11-08T12:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "10 Funniest 'Far Side' Comics About Cows",
+          "title": "Cairn 'Belongs' Next to Death Stranding in ‘History of Grand Adventure Games'",
           "source": "Polygon",
-          "url": "https://www.polygon.com/funniest-far-side-comics-cows/",
-          "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
-          "publishedAt": "2026-11-07T12:14:17.000Z",
+          "url": "https://www.polygon.com/cairn-game-bakers-interview/",
+          "summary": "Cairn is the latest game from The Game Bakers, and though it looks like a sports game, it really has the spirit of an action-adventure game.",
+          "publishedAt": "2026-11-08T14:05:44.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
+          "title": "Magic’s Star Trek Set Doubles as a Must-Watch Guide to the Sci-Fi Franchise",
           "source": "Polygon",
-          "url": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
-          "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together",
-          "publishedAt": "2026-11-07T15:25:08.000Z",
+          "url": "https://www.polygon.com/star-trek-magic-the-gathering-saga-cards-episodes/",
+          "summary": "From The Wrath of Khan to The Best of Both Worlds, discover the 14 Star Trek stories inspiring Magic: The Gathering's new Saga cards.",
+          "publishedAt": "2026-11-08T15:00:17.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
+          "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
           "source": "Polygon",
-          "url": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
-          "summary": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
-          "publishedAt": "2026-11-07T15:31:59.000Z",
+          "url": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
+          "summary": "Some new insider reporting has shed new light on the future of Assassin's Creed",
+          "publishedAt": "2026-11-08T15:07:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Commander Shepard’s Actors Are ‘Wildly Hopeful’ for Mass Effect, Despite Everything",
+          "title": "The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode",
           "source": "Polygon",
-          "url": "https://www.polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026/",
-          "summary": "Polygon spoke to Mass Effect's Jennifer Hale and Mark Meer about their optimism for Mass Effect after EA shut down BioWare and canceled Mass Effect 5.",
-          "publishedAt": "2026-11-07T17:00:19.000Z",
+          "url": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2/",
+          "summary": "Master Quest might come to The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake as DLC",
+          "publishedAt": "2026-11-08T15:38:32.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+          "title": "Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/",
+          "summary": "Nintendo's Switch 2 remake of The Legend of Zelda: OoT will do well at The Game Awards 2026, but it can't win",
+          "publishedAt": "2026-11-08T16:00:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/",
+          "summary": "The Legend of Zelda: Ocarina of Time makes a lot of modernizations to the original game, but there's one thing it doesn't add: parrying.",
+          "publishedAt": "2026-11-08T17:00:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
-          "summary": "Howard is \"very good at putting himself in the seat of your typical player\" says Bruce Nesmith.",
-          "publishedAt": "2026-11-07T14:16:28.000Z",
+          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+          "summary": "Season 3 also brings a new map and multi-path unlocks.",
+          "publishedAt": "2026-11-08T12:16:51.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+          "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-          "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure.",
-          "publishedAt": "2026-11-07T15:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+          "summary": "Aurbis converts Bethesda's fantasy adventure into a shared multiplayer world, with all the systems that entails.",
+          "publishedAt": "2026-11-08T13:19:55.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+          "title": "WoW: Forever is more than just a millennial retirement home",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-          "summary": "I recommend openSUSE Tumbleweed, personally.",
-          "publishedAt": "2026-11-07T15:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
+          "summary": "Though bingo night IS poppin'.",
+          "publishedAt": "2026-11-08T15:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
-          "summary": "Where is the rest of Godzilla’s rogues' gallery? We take a look at Monster Island's most wanted.",
-          "publishedAt": "2026-11-07T13:00:00.000Z",
+          "title": "Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/",
+          "summary": "The Citadel Project will be released next week.",
+          "publishedAt": "2026-11-08T15:08:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+          "title": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
-          "summary": "Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more",
-          "publishedAt": "2026-11-07T12:30:10.000Z",
+          "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+          "summary": "World of Warcraft: Forever is the biggest launch in the MMO's history, pulling in more concurrent players than any previous WoW launch. Read more",
+          "publishedAt": "2026-11-08T13:09:10.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,24 +119,23 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-07T17:45:07.397Z",
-      "items": [
-        {
-          "title": "Epomaker HE75 V2 TMR review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-          "summary": "Mid-range, mighty, and mini.",
-          "publishedAt": "2026-11-06T15:58:29.000Z",
-          "tag": "Review",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-11-08T17:45:16.180Z",
+      "items": []
     },
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-07T17:45:07.397Z",
+      "generatedAt": "2026-11-08T17:45:16.180Z",
       "items": [
+        {
+          "title": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
+          "summary": "I know what you want. The humble city builder isn't enough for you any more, is it? You need a cities builder, you can't just stop at one, but you don't want to build up an entirely different city on ",
+          "publishedAt": "2026-11-07T21:30:50.000Z",
+          "tag": "Preview",
+          "_example": false
+        },
         {
           "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
           "source": "IGN",
@@ -151,8 +150,35 @@
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-07T17:45:07.397Z",
+      "generatedAt": "2026-11-08T17:45:16.180Z",
       "items": [
+        {
+          "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
+          "summary": "\"The best stories never really end.\"",
+          "publishedAt": "2026-11-08T01:31:13.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "LEGO Black Friday 2026 Sales: What to Expect",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/lego-black-friday-2026-sales-what-to-expect",
+          "summary": "You can expect to see plenty of deals on LEGO sets during Black Friday 2026. I've covered LEGO deals for years, and here's what I expect to see this year.",
+          "publishedAt": "2026-11-08T00:10:28.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
+        {
+          "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+          "summary": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Read more",
+          "publishedAt": "2026-11-07T20:06:10.000Z",
+          "tag": "Industry",
+          "_example": false
+        },
         {
           "title": "Path of Exile 2 Sets The Stage For Massive Update Alongside December Launch",
           "source": "Polygon",
@@ -177,15 +203,6 @@
           "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
           "summary": "\"While it stings, I'm really proud of what we built together.\"",
           "publishedAt": "2026-11-07T12:18:55.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
-          "summary": "Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide &ndash; has received its first proper patch, addi",
-          "publishedAt": "2026-11-06T14:58:30.000Z",
           "tag": "Industry",
           "_example": false
         }

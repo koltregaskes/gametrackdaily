@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-11-07T17:30:02.880Z",
+  "updatedAt": "2026-11-08T17:30:03.366Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -1110,6 +1110,17 @@
       "summary": "Spin Tactics is a roguelike engine-builder set inside a slot machine. Each spin fills the board with coloured symbols, and connecting three or more of the same colour makes a combo. Gems change a symbol's colour, timing or effect for the rest of the run. More than 90 Companions c"
     },
     {
+      "id": "igdb-game-426782",
+      "title": "Toll Idle",
+      "date": "2026-11-12",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Build the busiest toll plaza on the road. Start with one cash booth and collect every fare by hand, then grow to ten lanes of automated Tollpass traffic. A relaxing idle game you can finish in about four hours, from quiet mornings to a glowing plaza at night."
+    },
+    {
       "id": "igdb-game-374055",
       "title": "Drawquarium",
       "date": "2026-11-13",
@@ -1176,6 +1187,29 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job."
+    },
+    {
+      "id": "igdb-game-410584",
+      "title": "Grandma Left Me A Building",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A cozy apartment management sim where you restore the ruined building your grandma left you. Find tenants, collect rent, upgrade the place. But don't make the mistake of having a midnight guitar-shredding elf and a philosophy-lecturing yeti as neighbors. Endless requests, sweet c"
+    },
+    {
+      "id": "igdb-game-253599",
+      "title": "Overhours",
+      "date": "2026-11-13",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "From building makeshift traps, to defending her new friends from danger and taking back precious time. Overhours is a single-player action tower defense game set in a dystopian media agency that steals time. One employee, together with an unexpected ghostly partner, is trying to "
     },
     {
       "id": "igdb-game-410782",
@@ -1264,6 +1298,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Clicky Islands is a unique blend of incremental gameplay, clicker mechanics, city-builder elements, and resource management. You play as a governor appointed by the king to discover and develop a new island for his future kingdom."
+    },
+    {
+      "id": "igdb-game-414145",
+      "title": "Dice Looter",
+      "date": "2026-11-16",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Roll the dice to collect loot, combine your gear, and discover powerful builds. Dice Looter is a roguelike autobattler where your hero enters battle to become the greatest warrior among mortals."
     },
     {
       "id": "igdb-game-389217",
@@ -2222,6 +2267,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Bet your fingers. A physically immersive horror roguelite.\nPlace your real fingers on the keyboard. Stab the knife between them.\nUse rings and stab items to rack up a high score.\nCan you keep your cool as the spinning blade closes in?"
+    },
+    {
+      "id": "igdb-game-327451",
+      "title": "Net Raiders",
+      "date": "2026-12-15",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Net Raiders is a single-player game that combines RPG, deck-building, and roguelike elements. In order to survive the dangers of the ruined virtual world, you must synthesize the cards in your hand to find the best move and defeat the enemies you encounter!"
     },
     {
       "id": "igdb-game-383456",
@@ -4519,6 +4575,17 @@
       "summary": "Have a psychotic episode in your bathtub. Argue with a rubber duck, flood your bathroom and drown dad. Find your very own ending – or all of them."
     },
     {
+      "id": "igdb-game-349941",
+      "title": "Red Rust Pioneers",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Your story begins stranded in the unforgiving wilderness of the Wild West.\n\nYour one goal: to survive.\n\nEndure scorching days and freezing nights as you battle hunger, thirst, and the elements. Forage for food, hunt wildlife, and fish to stay alive. Scavenge the land to gather vi"
+    },
+    {
       "id": "igdb-game-301328",
       "title": "Serial World",
       "date": "2026-12-31",
@@ -5178,72 +5245,6 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "ENTWINE is a terrifying first-person narrative psychological horror game. Explore horrifically detailed environments in a hand-crafted story-driven campaign as you uncover the story of Lucas Hale. Run. Hide. But try not to scream, it might hear you."
-    },
-    {
-      "id": "igdb-game-342824",
-      "title": "Exovia",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Free your mind as you mine an asteroid in zero gravity, creating floaters that drift through the oddly satisfying physics-driven supply chains you design to pave humanity's road to the stars."
-    },
-    {
-      "id": "igdb-game-334310",
-      "title": "Fate's Masquerade",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this animated manhwa-inspired romance fantasy, toy with princes behind their perfect masks. Fall in love? Maybe. Make them fall for you? Absolutely. You are unpredictable, audacious, and just unhinged enough to make history. Heroine or villainess? Why not both?"
-    },
-    {
-      "id": "igdb-game-325282",
-      "title": "Feltopia",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In this hand-felted, stop-motion \"cute-em-up,\" the realms of Feltopia have been infected by a mysterious Smog Spirit. Skyrider flies on their pegasus through wondrous landscapes to save their magical sheep, transform creatures, and battle bosses on their quest to uncover Feltopia"
-    },
-    {
-      "id": "igdb-game-401286",
-      "title": "ForMind",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Formind is a hardcore third-person survival horror with RPG elements, set within the collapsing underwater complex Zirotech. Waking from cryosleep with amnesia, you find yourself trapped on a station swarming with monsters that don't just kill—they learn. Every mistake you make m"
-    },
-    {
-      "id": "igdb-game-326759",
-      "title": "Froggo's Adventure: Drifting Sky",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "A 2D side-scrolling platformer with cute and dreamlike aesthetics. The ever growing colossal tree known as \"the witch's hand\" is growing out of control. Froggo sets foot on a journey to investigate the tree in hopes of finding a solution to save his home."
-    },
-    {
-      "id": "igdb-game-236528",
-      "title": "Gilded Destiny",
-      "date": "2026-12-31",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Gilded Destiny is a grand strategy game depicting the transformative era of the Industrial Revolution. You will take the helm of the country of your choice and transform it from a backward agrarian society to an industrial powerhouse."
     }
   ],
   "undated": [
