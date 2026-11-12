@@ -1,116 +1,116 @@
 {
-  "generated": "2026-11-11T17:45:07.968Z",
+  "generated": "2026-11-12T17:45:42.246Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-11T17:45:07.968Z",
+      "generatedAt": "2026-11-12T17:45:42.246Z",
       "items": [
         {
-          "title": "The Outer Worlds 2's first story expansion could well be the opening to the series' last hurrah and will have you hunting for a cure to \"explosive cell death\" in December",
+          "title": "Marvel 1943: Rise Of Hydra Isn’t Canceled, But Don’t Get Too Excited",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited/",
+          "summary": "Amid multiple delays and radio silence, a rumor that Marvel 1943: Rise of Hydra had been canceled began circulating this week. Developer Skydance quickly said the game is on track and nearly done—but ",
+          "publishedAt": "2026-11-12T11:35:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Intergalactic: The Heretic Prophet Is Entering Its Final Stage Of Development, With More To Come In 2027",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-is-entering-its-final-stage-of-development-with-more-to-come-in-2027/",
+          "summary": "Intergalactic: The Heretic Prophet developer Naughty Dog has been largely radio silent about its upcoming sci-fi game since it was first revealed in 2024, but it looks like 2027 will bring a lot more ",
+          "publishedAt": "2026-11-12T13:21:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences/",
+          "summary": "After years of post-apocalyptic survival stories and archaeological adventures, Intergalactic: The Heretic Prophet looks like a fresh opportunity for Naughty Dog to showcase a new sci-fi universe. Vis",
+          "publishedAt": "2026-11-12T13:55:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6’s Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6s-jason-can-live-his-best-life-by-drinking-a-beer-and-eating-a-donut-simultaneously/",
+          "summary": "Rockstar's Grand Theft Auto 6 looks like it will have an impressive attention to detail, and that includes how one of the main characters, Jason, can drink a beer and eat a donut at the same time. Now",
+          "publishedAt": "2026-11-12T14:20:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Mario Kart World Switch 2 Bundle Black Friday Deal Brings The Price Back To 2025 Levels",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/mario-kart-world-switch-2-bundle-black-friday-deal-brings-the-price-back-to-2025-levels/",
+          "summary": "Nintendo has announced its 2026 Black Friday deals, with a Mario Kart World Switch 2 hardware bundle as the centerpiece for $500. The Switch 2 launched in 2025 with a similar bundle for the same price",
+          "publishedAt": "2026-11-12T14:55:06.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Amid soaring PC hardware prices, gaming monitors are getting cheaper and cheaper. Here's why, and what to buy",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december",
-          "summary": "Since they released The Outer Worlds 2 around this time last year, the world has rather turned upside down for Obsidian. The studio lost a chunk of staff to Microsoft's mass layoffs and have pivoted t",
-          "publishedAt": "2026-11-11T12:29:50.000Z",
+          "url": "https://www.rockpapershotgun.com/amid-soaring-pc-hardware-prices-gaming-monitors-are-getting-cheaper-and-cheaper-heres-why-and-what-to-buy",
+          "summary": "Hello, good local-time-zone-adjusted afternoon, and let's just say it's been a while . But I come back to you now at the turn of the technological tide. Well, sort of. Sadly I'm not here to predict an",
+          "publishedAt": "2026-11-12T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Lootboxes, pay-to-win, virtual currencies and other blights unto gaming face heavy regulation as the EU tables new Digital Fairness Act",
+          "title": "Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
-          "summary": "Loot boxes, dark patterns, virtual currencies, subscription services, pay-to-win systems, and many other trappings of diabolical digital serfdom all face extensive regulation under the European Commis",
-          "publishedAt": "2026-11-11T13:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
+          "summary": "Update: Annnnnnnddd he's gone . Original story follows: The situation at the highest levels of AI and also some graphics cards if you insist company Nvidia continues to look, well, less than ideal. CE",
+          "publishedAt": "2026-11-12T12:38:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "There were 47 graphics chip makers in 1998. Where did they all go?",
+          "title": "Nvidia boss Jensen Huang resigns amid scandal surrounding two alleged affairs, interim CEO appointed as search for sexy leather jacket man's successor begins",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/there-were-47-graphics-chip-makers-in-1998-where-did-they-all-go",
-          "summary": "Some may find this hard to believe, given the absolute state of the market today , but if you were building a gaming PC in 1998, the hard part wasn&rsquo;t finding somewhere that had 3D cards in stock",
-          "publishedAt": "2026-11-11T16:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins",
+          "summary": "Nvidia have ripped off the wax strip and are looking for a new CEO. Jensen Huang, he of the reported extramarital affairs with both a suspected Chinese spy and one of his executive underlings at Nvidi",
+          "publishedAt": "2026-11-12T14:49:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "All 8 Zelda: Ocarina of Time Dungeons, Ranked From Worst to Best",
+          "title": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+          "summary": "My firstest-ever Golden Joystick Awards, which took place last night in London , was marred somewhat by 1) a gin & tonic costing eleven quid and 2) my view of the stage being directly obscured by its ",
+          "publishedAt": "2026-11-12T15:31:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "James Gunn’s DC Exit Has ‘Renewed Hope’ for a Cult-Favorite Superhero Sequel",
           "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-dungeons-ranked/",
-          "summary": "The Legend of Zelda: Ocarina of Time's Switch 2 remake is a great reminder of Nintendo's excellent dungeon design.",
-          "publishedAt": "2026-11-11T13:00:17.000Z",
+          "url": "https://www.polygon.com/dc-james-gunn-exit-constantine-2-more-likely-keanu-reeves/",
+          "summary": "The Hunger Games director Francis Lawrence thinks a sequel to Keanu Reeve’s Constantine is more likely with James Gunn out at DC",
+          "publishedAt": "2026-11-12T15:38:56.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Lanterns Producer Officially Responds to Show Cancellation Rumors",
+          "title": "Pokémon Legends: Z-A Is Giving Away 2 Free Shiny Legendaries",
           "source": "Polygon",
-          "url": "https://www.polygon.com/lanterns-season-2-canceled-james-gunn-hbo-max/",
-          "summary": "Rumors have bubbled up that Lanterns has been canceled. A writer and producer on it has denied them, though Lanterns has still yet to be renewed.",
-          "publishedAt": "2026-11-11T14:33:48.000Z",
+          "url": "https://www.polygon.com/pokemon-legends-z-a-free-shiny-xerneas-yveltal-mystery-gift/",
+          "summary": "Shiny Xerneas and Yveltal are being given away for free Pokémon Legends: Z-A for Nintendo Switch and Nintendo Switch 2 players.",
+          "publishedAt": "2026-11-12T15:46:27.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "My Grandma Got Me Through the Water Temple. She Would’ve Loved the Ocarina of Time Remake",
+          "title": "Shibuya Crossing location in Forza Horizon 6",
           "source": "Polygon",
-          "url": "https://www.polygon.com/ocarina-of-time-remake-remembering-grandma/",
-          "summary": "The Legend of Zelda: Ocarina of Time remake brings back memories of playing the Nintendo 64 original with my grandma.",
-          "publishedAt": "2026-11-11T15:00:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How to get the Zora Tunic in Ocarina of Time",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-zora-tunic-how-to-get/",
-          "summary": "Here's how to get the Zora Tunic in The Legend of Zelda: Ocarina of Time remake so you can stay underwater.",
-          "publishedAt": "2026-11-11T16:17:37.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Forgotten Elder Scrolls Game Gets Surprise Re-Release",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/the-elder-scrolls-shadowkey-ngage-fan-remaster/",
-          "summary": "The Elder Scrolls: Shadowkey from the N-Gage just got a fan remaster on Skyrim's 15th anniversary.",
-          "publishedAt": "2026-11-11T16:33:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Bethesda Officially Shuts Down Elder Scrolls 6 Fan Theory on Skyrim Anniversary",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/elder-scrolls-6-sentinel-bethesda-skyrim-anniversary-announcement/",
-          "summary": "Bethesda reveals it won’t be sharing more Elder Scrolls 6: Sentinel news for a while following the official logo announcement",
-          "publishedAt": "2026-11-11T16:57:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'GTA 6' Meets 'Heat' in the Most Disappointing Heist Thriller of 2026",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/how-to-rob-a-bank-review/",
-          "summary": "How To Rob a Bank feels like two different movies smashed into one, where the comedy of it all is fighting with the serious themes at its core.",
-          "publishedAt": "2026-11-11T17:00:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/",
-          "summary": "\"It means that our kind of genre that we play in is popular.\"",
-          "publishedAt": "2026-11-11T11:22:49.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/",
-          "summary": "Money, money, money.",
-          "publishedAt": "2026-11-11T11:41:45.000Z",
+          "url": "https://www.polygon.com/forza-horizon-6-fh6-shibuya-crossing-location/",
+          "summary": "Shibuya Crossing is a huge crosswalk in Tokyo, Japan and in Forza Horizon 6. Here's where you can find it in Tokyo City.",
+          "publishedAt": "2026-11-12T15:49:32.000Z",
           "tag": "News",
           "_example": false
         }
@@ -119,68 +119,68 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-11T17:45:07.968Z",
+      "generatedAt": "2026-11-12T17:45:42.246Z",
       "items": [
         {
-          "title": "Glorious GMMK Eternal review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
-          "summary": "A solid, fuss-free step-up mechanical keyboard.",
-          "publishedAt": "2026-11-11T14:43:47.000Z",
+          "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
+          "source": "The Guardian (Culture)",
+          "url": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
+          "summary": "Nintendo Switch/2, PlayStation 4/5, Xbox One/series X/S, PC; Denkiworks/Inpleron Limited This gentle game of fixing and fetching, in which you play as a furry post office worker on a BMX, has a slow, ",
+          "publishedAt": "2026-11-12T10:00:15.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Sudokoo SK700V review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/cooling/sudokoo-sk700v-review/",
-          "summary": "If all air towers were built like this, I'd probably never use an AIO.",
-          "publishedAt": "2026-11-11T15:41:38.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "Antec C6 Curve Air review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/",
-          "summary": "A chassis that ticks all the right boxes at just the right price.",
-          "publishedAt": "2026-11-11T16:50:44.000Z",
-          "tag": "Review",
-          "_example": false
-        },
-        {
-          "title": "The Good Daughter Review",
+          "title": "Being Heumann Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/the-good-daughter-review",
-          "summary": "Review: Meghann Fahy and Rose Byrne provide the good stuff for The Good Daughter.",
-          "publishedAt": "2026-11-11T16:00:00.000Z",
+          "url": "https://www.ign.com/articles/being-heumann-review",
+          "summary": "Being Heumann review: A hilarious, mawkish crowd-pleaser about disability advocates, cast with authenticity.",
+          "publishedAt": "2026-11-12T13:00:00.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
+          "title": "Paper Tiger Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/paper-tiger-review",
+          "summary": "Director James Gray returns to his crime drama roots with Paper Tiger, which features some of the strongest performances of Adam Driver, Miles Teller and Scarlett Johansson’s careers.",
+          "publishedAt": "2026-11-12T15:00:00.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
-          "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. N",
-          "publishedAt": "2026-11-10T20:55:32.000Z",
+          "url": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+          "summary": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio's game is stuck in the purgatory of the platform's review program. Australia Did It: End-of-the-Wor",
+          "publishedAt": "2026-11-11T17:09:14.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Acer Predator Atlas 8 (G3 Extreme) review",
+          "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/queens-domain-review/",
+          "summary": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls.",
+          "publishedAt": "2026-11-12T01:00:17.000Z",
+          "tag": "Review",
+          "_example": false
+        },
+        {
+          "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
-          "summary": "The cheapest way to get the best handheld chip right now.",
-          "publishedAt": "2026-11-10T17:01:48.000Z",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
+          "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
+          "publishedAt": "2026-11-11T23:29:59.000Z",
           "tag": "Review",
           "_example": false
         },
         {
-          "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
+          "title": "Tanuki: Pon's Summer Review",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
-          "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.",
-          "publishedAt": "2026-11-11T02:00:00.000Z",
+          "url": "https://www.ign.com/articles/tanuki-pons-summer-review",
+          "summary": "While some parts of Tanuki: Pon's Summer don't live up to what makes it special, it still captures the vibe of summer wrapped in a fun BMX delivery service.",
+          "publishedAt": "2026-11-11T20:36:35.000Z",
           "tag": "Review",
           "_example": false
         }
@@ -189,129 +189,47 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-11T17:45:07.968Z",
-      "items": [
-        {
-          "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-          "summary": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game e",
-          "publishedAt": "2026-11-11T15:41:50.000Z",
-          "tag": "Preview",
-          "_example": false
-        }
-      ]
+      "generatedAt": "2026-11-12T17:45:42.246Z",
+      "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-11T17:45:07.968Z",
+      "generatedAt": "2026-11-12T17:45:42.246Z",
       "items": [
         {
-          "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
-          "summary": "Black Forest Games, developers of the Destroy All Humans! remakes, have spun out of Embracer Group-owned publishers THQ Nordic via a management buyout and announced plans to form a new \"developer-driv",
-          "publishedAt": "2026-11-11T15:19:30.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Mass Effect Could Still Be Saved, Ex-BioWare Developer Suggests, With Clair Obscur: Expedition 33 Holding the Key",
+          "title": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
-          "summary": "The future of Mass Effect could be secured with a key learning from the beloved Clair Obscur: Expedition 33, a former BioWare veteran has suggested.",
-          "publishedAt": "2026-11-11T13:00:21.000Z",
+          "url": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+          "summary": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6.",
+          "publishedAt": "2026-11-12T15:44:34.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "Keeping hold of Company of Heroes was essential for Relic to leave Sega, Relic CEO says – \"Without it we would have been a dead studio\"",
+          "title": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/keeping-hold-of-company-of-heroes-was-essential-for-relic-to-leave-sega-relic-ceo-says-without-it-we-would-have-been-a-dead-studio",
-          "summary": "In the nearly 30 years since they opened their doors, Relic have been an enormously influential studio. Responsible for lauded RTS series Homeworld, Dawn of War, and Company of Heroes , they also dabb",
-          "publishedAt": "2026-11-11T09:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
+          "summary": "Back in July, Doom developers id Software laid off around a hundred people as part of wider Microsoft blood-letting . Now, a few of those devs have founded a new employee-owned studio, Hidden Horses. ",
+          "publishedAt": "2026-11-11T18:08:40.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "As The Elder Scrolls 5 turns 15, massive mod Beyond Skyrim: Bruma gets a 2.0 update delivering a new quest, extra dungeons and an \"expanded worldspace\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace",
-          "summary": "Warning: I'm probably about to make you feel old. Today, November 11th 2026, is the 15th anniversary of Skyrim 's release. The first one, before it was re-released on every other platform under the su",
-          "publishedAt": "2026-11-11T11:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "The Legend of Zelda: Ocarina of Time Is a Huge Success for Nintendo — And Just Broke a Switch 2 Sales Record",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record",
-          "summary": "The Legend of Zelda: Ocarina of Time has broken a sale records for Nintendo, becoming the fastest-selling Switch 2 game over its first four days of availability.",
-          "publishedAt": "2026-11-11T09:45:16.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
-          "summary": "The Company of Heroes 3 's 3.0 update is huge. Touching virtually every part of the three-year-old RTS, the patch notes are longer than, well, my arm isn't a great measure of patch note length. Let's ",
-          "publishedAt": "2026-11-10T17:30:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
-          "summary": "If I wasn't so sick of hearing about AI every day of my life at the moment I might have found it funny to hear that one of the biggest peddlers of the poison around Nvidia CEO Jensen Huang was caught ",
-          "publishedAt": "2026-11-10T18:00:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
-          "summary": "It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a ver",
-          "publishedAt": "2026-11-10T19:59:40.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
+          "title": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
-          "summary": "What a shambles.",
-          "publishedAt": "2026-11-10T17:14:03.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/former-id-software-developers-form-their-own-employee-owned-shooter-studio-in-the-wake-of-microsofts-mass-layoffs/",
+          "summary": "Hidden Horses, co-founded by \"approximately 20\" former id devs, is planning a Kickstarter campaign to help fund its first project.",
+          "publishedAt": "2026-11-11T20:09:58.000Z",
           "tag": "Industry",
           "_example": false
         },
         {
-          "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
+          "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
-          "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
-          "publishedAt": "2026-11-10T19:55:36.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods",
-          "summary": "A little over a month following the huge, vile, culture-defining (negative) merger between Paramount and Warner Bros. into Skydance, the corporation has confirmed that games division Skydance Games wi",
-          "publishedAt": "2026-11-10T11:54:00.000Z",
-          "tag": "Industry",
-          "_example": false
-        },
-        {
-          "title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bandai-namco-is-liquidating-unknown-9-awakening-studio-reflector-entertainment-following-multiple-previous-layoffs-since-the-games-launch",
-          "summary": "As another addition to the slew of smaller studios being dissolved by their parent companies, Bandai Namco announced in a press release that they are shutting down their subsidiary studio Reflector En",
-          "publishedAt": "2026-11-10T16:58:10.000Z",
+          "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+          "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
+          "publishedAt": "2026-11-11T22:57:44.000Z",
           "tag": "Industry",
           "_example": false
         }

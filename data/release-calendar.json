@@ -1,6 +1,6 @@
 {
   "title": "GameTrackDaily // Release Calendar",
-  "updatedAt": "2026-11-11T17:30:02.482Z",
+  "updatedAt": "2026-11-12T17:30:03.778Z",
   "status": "live-shared-calendar",
   "summary": "Live Windows PC, Xbox, and PlayStation release data from IGDB plus curated official game-industry events.",
   "notice": "Releases are refreshed daily from IGDB. Events are reconciled weekly against official event pages and checked more frequently inside 14 days.",
@@ -641,105 +641,6 @@
   ],
   "releases": [
     {
-      "id": "igdb-game-405328",
-      "title": "Bottled by Bears",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
-    },
-    {
-      "id": "igdb-game-159717",
-      "title": "Imperial Grace",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Imperial Grace is a unique mix of romance, medieval intrigue, and strategy. Play as the new Empress of Calidya through a visual novel rife with ambition and deceit. Make choices that will change your fate and that of your nation, rule wisely to make your Empire prosper, and find "
-    },
-    {
-      "id": "igdb-game-360260",
-      "title": "Monomoon",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "In MONOMOON, the way forward is reserved for the knowing and the daring. Guided by moonlight, you’ll uncover hidden truths and wander through a tiny and mysterious open world."
-    },
-    {
-      "id": "igdb-game-398525",
-      "title": "Wall World Strategy",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Build and lead a colony on the surface of an endless Wall. Manage resources and your people, develop new technologies, defend against relentless zyrex attacks, and send robo-spiders on risky expeditions. Keep the colony from collapsing – in Wall World, it's easy to fall."
-    },
-    {
-      "id": "igdb-game-335841",
-      "title": "Castlebound",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Lead a band of heroes in a walking castle to battle endless hordes of enemies in this unique action-packed roguelike!"
-    },
-    {
-      "id": "igdb-game-418247",
-      "title": "Headshot Holdout",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Headshot Holdout is a retro styled co-op shooter where squads of 1-4 players slaughter their way across a hand-authored, zombie infested stronghold on a quest to rescue DEATH itself."
-    },
-    {
-      "id": "igdb-game-421863",
-      "title": "Potions Galore",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Potions Galore is a cozy sorting game where you organize 2500+ potion bottles in their respective shelves. Read about every unique set in the Potion Encyclopedia, deduce the correct placement and tidy up the mess you made when your sorting ritual failed!"
-    },
-    {
-      "id": "igdb-game-389832",
-      "title": "Watch Eye",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Victoria just wanted to take a shortcut through the usual parking garage in order to get home... she just didn’t expect to find an untold danger there."
-    },
-    {
-      "id": "igdb-game-371477",
-      "title": "Wetter",
-      "date": "2026-11-11",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Step into the paws of Luna and explore a rain-soaked archipelago. Uncover pieces of your forgotten past and decide which memories will shape who you become."
-    },
-    {
       "id": "igdb-game-124209",
       "title": "Shadow of the Road",
       "date": "2026-11-12",
@@ -869,17 +770,6 @@
       "summary": "Build the busiest toll plaza on the road. Start with one cash booth and collect every fare by hand, then grow to ten lanes of automated Tollpass traffic. A relaxing idle game you can finish in about four hours, from quiet mornings to a glowing plaza at night."
     },
     {
-      "id": "igdb-game-374055",
-      "title": "Drawquarium",
-      "date": "2026-11-13",
-      "platforms": [
-        "Windows PC"
-      ],
-      "source": "IGDB",
-      "trackingState": "live-api",
-      "summary": "Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as they age. Will you be the one to raise a golden fish in this relaxing sandbox experience?"
-    },
-    {
       "id": "igdb-game-206842",
       "title": "Derelikt",
       "date": "2026-11-13",
@@ -891,6 +781,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Survive the dark corridors of a space station in Saturns orbit in this narrative retro FPS with faithful PS1 aesthetics. Meet over a dozen unique NPCs, manage your inventory, solve puzzles and fight against the eldritch abominations!"
+    },
+    {
+      "id": "igdb-game-374055",
+      "title": "Drawquarium",
+      "date": "2026-11-13",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as they age. Will you be the one to raise a golden fish in this relaxing sandbox experience?"
     },
     {
       "id": "igdb-game-413109",
@@ -1221,6 +1122,21 @@
       "summary": "Restore a vibrant island paradise atop a giant sea turtle! As the Leshen Iona, wield ancient spells to heal the land and befriend islanders and help them with their quests. Create your own enchanting sandbox style sanctuary. Uncover secrets and reshape a world with accompanied by"
     },
     {
+      "id": "igdb-game-420793",
+      "title": "Goat Simulator 3: Ticket to Dizzyworld",
+      "date": "2026-11-19",
+      "platforms": [
+        "Xbox Series X/S",
+        "PlayStation 4",
+        "Windows PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to Dizzyworld. An immersive goat-themed baa-musement park, letting you reach higher ups and downs than your mood swings.\n\nDid you manage to save the Multiverse AND survive the apocalypse?\nTake a well-deserved break and feel the g(oat)-force on the many thrilling rides the"
+    },
+    {
       "id": "igdb-game-389330",
       "title": "Lord of Undead",
       "date": "2026-11-19",
@@ -1314,6 +1230,28 @@
       "summary": "Gently restore old objects by cleaning away layers of dust, rust, and time. Reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. No management, no pressure - just you and the satisfaction of bringing vintage trea"
     },
     {
+      "id": "igdb-game-429149",
+      "title": "Fishing Nooks: Beaver's Pond",
+      "date": "2026-11-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "A 2D painterly fishing game for gamers who just want to fish.\n\nRelax on the water. No crops to water. No mines to crawl. No monsters to fight. No town to manage. No energy meter telling you when to stop. Just you, your boat, a tackle box full of lures, and a lake full of nooks, c"
+    },
+    {
+      "id": "igdb-game-354750",
+      "title": "The Retrospection of Tomorrow",
+      "date": "2026-11-26",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "In this non-linear, time-travel romance visual novel, you'll date four captivating love interests just like in any ordinary otome game… until they die before your eyes(!). Trapped between memories and delusions, fighting fate itself—can you rewrite their endings? Dear time travel"
+    },
+    {
       "id": "igdb-game-329692",
       "title": "Am I Nima",
       "date": "2026-11-27",
@@ -1323,6 +1261,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Am I Nima is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you."
+    },
+    {
+      "id": "igdb-game-429001",
+      "title": "6guY2",
+      "date": "2026-11-27",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "\"Make your excitement go fly-by! We are 6guY2!!!\"\n\nAfter the mysterious departure of a former member, the rookie idol group 6guY2 has one more chance to make things right... There's drama, betrayal, love and most of all MULTICULTURALISM! oh joy!"
     },
     {
       "id": "igdb-game-339144",
@@ -1737,6 +1686,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Harvest an absurd number of carrots! Start with your bare hands, unlock powerful tools and helper robots, explore six farming zones, catch living carrots, survive explosive ones, and turn manual labor into harvesting chaos."
+    },
+    {
+      "id": "igdb-game-395007",
+      "title": "Step Theater",
+      "date": "2026-12-03",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Welcome to the \"step theater\". \"Step theater\" is a vibrant rhythm game where the story unfolds and the screen comes closer to success with every step you take. Dive in and enjoy this charming, vibrant drama!"
     },
     {
       "id": "igdb-game-305550",
@@ -3531,6 +3491,19 @@
       "summary": "Become the immortal hunter and stand against the archdemon Asmodeus. Cut through bullet-hell swarms, clash with Souls-like bosses, and harness celestial blessings that\nreshape your powers each run. The demons are rising—raise your sword."
     },
     {
+      "id": "igdb-game-135987",
+      "title": "ExoMecha",
+      "date": "2026-12-31",
+      "platforms": [
+        "Xbox Series X/S",
+        "Windows PC",
+        "Xbox One"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "ExoMecha is a brand new free-to-play online competitive first-person shooter that takes place in Omecha, a new and untouched planet with exotic environments. ExoMecha offers you breathtaking gaming experience with its flexible playing style, mechs, unique gadgets and abilities, a"
+    },
+    {
       "id": "igdb-game-324300",
       "title": "Expedition: Into Darkness",
       "date": "2026-12-31",
@@ -4459,6 +4432,17 @@
       "summary": "Teach My Little Sister How to Drive is a chaotic simulation game where you have to teach your sister who's driving on deadly roads. Trapped in the passenger seat, the only thing you can do is to give proper directions to your sister through your voice."
     },
     {
+      "id": "igdb-game-419039",
+      "title": "The Hollowing",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "You’ve taken a maintenance job, flying between the inter-settlement comms towers in the megastructure. Land, fix, on to the next job. What could go wrong? The Hollowing is a narrative first-person horror flight sim from the creator of Lorn's Lure."
+    },
+    {
       "id": "igdb-game-400471",
       "title": "The House Always Wins",
       "date": "2026-12-31",
@@ -4826,6 +4810,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "In this turn-based tactical RPG, renown can change the course of a war. Lead Kenmare and the Panthers against the King of Light, shape the Chronicle through your choices, and wield the Legend to turn battles around."
+    },
+    {
+      "id": "igdb-game-395886",
+      "title": "Chew Your Food",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "It didn't chew you properly. Escape its stomach by crawling, solving puzzles, listening carefully, and avoiding monsters in this horror dungeon-crawler."
     },
     {
       "id": "igdb-game-329383",
@@ -5246,6 +5241,17 @@
       "source": "IGDB",
       "trackingState": "live-api",
       "summary": "Live the anxieties and horrors of what it is to be a renter in a world run by landlords. …and your landlord is a witch."
+    },
+    {
+      "id": "igdb-game-383401",
+      "title": "Jigrift",
+      "date": "2026-12-31",
+      "platforms": [
+        "Windows PC"
+      ],
+      "source": "IGDB",
+      "trackingState": "live-api",
+      "summary": "Leap and swing around the lost tropical paradise of Jigrift as you assemble the island like a massive jigsaw puzzle."
     }
   ],
   "undated": [
