@@ -474,7 +474,7 @@
       <div class="page-shell">
         ${marquee(topItems)}
         ${nav(activePage)}
-        <main id="main-content" class="rise">${content}</main>
+        <main id="main-content" class="rise" tabindex="-1">${content}</main>
         ${footer()}
         ${bottom}
       </div>
@@ -605,7 +605,7 @@
     ].filter(Boolean).join(" ").toLowerCase();
     const art = gameArt(game.art, game.status, 216, platformColour(game.platforms[0]));
     const linkedArt = destination
-      ? `<a class="game-plate__art" href="${esc(destination)}" target="_blank" rel="noreferrer" aria-label="Open ${esc(game.title)}">${art}</a>`
+      ? `<a class="game-plate__art" href="${esc(destination)}" target="_blank" rel="noreferrer" aria-label="Open ${esc(game.title)}${game.status ? `, ${esc(game.status)}` : ""}">${art}</a>`
       : `<div class="game-plate__art">${art}</div>`;
     return `
       <article
@@ -683,8 +683,8 @@
           ${filterButton("ps", "PS5", "var(--ps)")}
           ${filterButton("ours", "Ours", "var(--brand)")}
           <div class="segmented" style="margin-left:auto">
-            <button type="button" data-release-view="list" class="is-active">List</button>
-            <button type="button" data-release-view="grid">Grid</button>
+            <button type="button" data-release-view="list" class="is-active" aria-pressed="true">List</button>
+            <button type="button" data-release-view="grid" aria-pressed="false">Grid</button>
           </div>
         </div>
       </section>
@@ -1160,7 +1160,11 @@
       if (empty) empty.classList.toggle("is-hidden", visible !== 0);
       $$("[data-view-list]").forEach((el) => el.classList.toggle("is-hidden", view !== "list"));
       $$("[data-view-grid]").forEach((el) => el.classList.toggle("is-hidden", view !== "grid"));
-      $$("[data-release-view]").forEach((button) => button.classList.toggle("is-active", button.dataset.releaseView === view));
+      $$("[data-release-view]").forEach((button) => {
+        const isView = button.dataset.releaseView === view;
+        button.classList.toggle("is-active", isView);
+        button.setAttribute("aria-pressed", String(isView));
+      });
     };
     $$("[data-release-filter]").forEach((button) => {
       button.addEventListener("click", () => {
@@ -1286,8 +1290,19 @@
     wireNewsTabs();
     wireGameControls();
     wireHashFocus();
+    wireNavFocus();
     wireScanlines();
     bootTimers();
+  }
+
+  // On narrow screens the primary nav scrolls sideways; keep a keyboard-focused link fully in view.
+  function wireNavFocus() {
+    const links = $(".nav__links");
+    if (!links) return;
+    links.addEventListener("focusin", (event) => {
+      if (links.scrollWidth <= links.clientWidth) return;
+      event.target.scrollIntoView({ block: "nearest", inline: "nearest" });
+    });
   }
 
   document.addEventListener("DOMContentLoaded", async () => {

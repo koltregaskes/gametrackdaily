@@ -141,6 +141,11 @@ svg {
   transform: translateY(0);
 }
 
+/* Skip-link target: focusable by script only, so no ring round the whole page. */
+main[tabindex="-1"]:focus {
+  outline: none;
+}
+
 .scanline-layer {
   display: none;
   position: fixed;
