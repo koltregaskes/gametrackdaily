@@ -13,5 +13,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - run: npm ci --ignore-scripts
       - run: node scripts/seo.mjs --rss-only
       - run: node scripts/seo.mjs --check
+
+      - run: npm run build
+      - run: node scripts/check-built-seo.mjs
