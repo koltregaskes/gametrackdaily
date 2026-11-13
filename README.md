@@ -151,4 +151,6 @@ node scripts/check-live.mjs <extracted-directory> <https-site-base-url/>
 
 Record the run URL and its head SHA alongside the result. This compares every public artifact file with the live HTTPS response, including downloads and discovery files. Mismatches, missing files, blocked responses, network errors and the four-minute crawl deadline prevent a passing result. It prints paths and counts, never response bodies. A passing crawl proves those deployed bytes at the time checked, not freshness, source truth or launch acceptance.
 
-The empty June data/news-feed-latest.json is retained in source history as a legacy archive, excluded from the allowlisted build, and never used by the app or RSS generator. The active news input is data/games-news.json. This does not remove the historical URL from the current legacy branch Pages source, and no historical data is deleted.
+The empty June data/news-feed-latest.json and dated news-feed-* files are retained legacy archive artifacts, not the active news input or a fallback refresh source. The app, RSS generator and Actions news job use data/games-news.json. An empty legacy file is not freshness evidence.
+
+External destination checks validate every redirect hop before requesting it: HTTPS only, no URL credentials, a finite hop limit, and no loops. Confirmed 404/410 and unsafe redirects fail; access blocks and network failures remain explicitly unverified. This supplements the existing link-reporting PR and does not claim blocked outlets were read.
