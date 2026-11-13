@@ -19,7 +19,8 @@ for(const p of pages){
  const jsonld=[...html.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)];
  for(const m of jsonld) JSON.parse(m[1]);
  const schema=jsonld.length?'':`<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@type':'WebPage',name:html.match(/<title>(.*?)<\/title>/s)?.[1]||cfg.title,url,isPartOf:{'@type':'WebSite',name:cfg.title,url:cfg.base}}).replaceAll('<','\\u003c')}</script>`;
- const tags=`\n<link rel="canonical" href="${url}">\n<meta property="og:url" content="${url}">\n<meta property="og:image" content="${new URL(cfg.image,cfg.base).href}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(cfg.imageAlt)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${new URL(cfg.image,cfg.base).href}">\n<link rel="alternate" type="application/rss+xml" title="${esc(cfg.title)}" href="${cfg.base}rss.xml">\n${schema}\n`;
+ const tags=`\n<link rel="canonical" href="${url}">\n<meta property="og:url" content="${url}">\n<meta property="og:image" content="${new URL(cfg.image,cfg.base).href}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(cfg.imageAlt)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${new URL(cfg.image,cfg.base).href}">
+<meta name="twitter:image:alt" content="${esc(cfg.imageAlt)}">\n<link rel="alternate" type="application/rss+xml" title="${esc(cfg.title)}" href="${cfg.base}rss.xml">\n${schema}\n`;
  html=html.replace(/\s*<\/head>/,tags+'</head>');
  save(p,html);
  if(!/name="viewport"/.test(html)||!/<html[^>]*lang=/.test(html)||!/<meta\s[^>]*name="description"/.test(html))throw Error(`Missing basic metadata: ${p}`);

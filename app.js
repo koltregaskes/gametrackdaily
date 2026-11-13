@@ -453,7 +453,7 @@
             <a href="https://github.com/koltregaskes/gametrackdaily">GitHub</a>
             <a href="https://github.com/koltregaskes">Kol on GitHub</a>
             <a href="https://x.com/koltregaskes">X / Twitter</a>
-            ${CONTACT_EMAIL ? `<a href="mailto:${encodeURIComponent(CONTACT_EMAIL)}">Contact GameTrackDaily</a>` : `<span>Contact address pending domain choice</span>`}
+            ${CONTACT_EMAIL ? `<a href="mailto:${encodeURIComponent(CONTACT_EMAIL)}">Contact GameTrackDaily</a>` : `<a href="https://koltregaskes.com/contact/">Contact Kol</a>`}
           </nav>
         </div>
         <p class="footer__copyright">GameTrackDaily &copy; 2026 Kol Tregaskes. Public build only; private launch controls stay out of this site.</p>
