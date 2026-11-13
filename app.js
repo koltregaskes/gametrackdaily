@@ -6,6 +6,7 @@
 (() => {
   "use strict";
 
+  const CONTACT_EMAIL = null; // Set only after domain and mail approval.
   const BASE_URL = "https://koltregaskes.github.io/gametrackdaily/";
   const NOW = () => Date.now();
   const DAY = 24 * 60 * 60 * 1000;
@@ -452,7 +453,7 @@
             <a href="https://github.com/koltregaskes/gametrackdaily">GitHub</a>
             <a href="https://github.com/koltregaskes">Kol on GitHub</a>
             <a href="https://x.com/koltregaskes">X / Twitter</a>
-            <a href="https://koltregaskes.com/contact/">Contact Kol</a>
+            ${CONTACT_EMAIL ? `<a href="mailto:${encodeURIComponent(CONTACT_EMAIL)}">Contact GameTrackDaily</a>` : `<a href="https://koltregaskes.com/contact/">Contact Kol</a>`}
           </nav>
         </div>
         <p class="footer__copyright">GameTrackDaily &copy; 2026 Kol Tregaskes. Public build only; private launch controls stay out of this site.</p>

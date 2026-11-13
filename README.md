@@ -111,3 +111,8 @@ Once GitHub Pages is enabled for the repository, pushes to `main` will publish t
 ## SEO contract
 
 Run `node scripts/seo.mjs` after public content changes and `node scripts/seo.mjs --check` before committing. CI checks page canonical URLs, PNG sharing cards, JSON-LD, RSS, sitemap routes, robots and llms.txt. RSS uses source publication dates, never the build clock. Search Console and Bing verification and sitemap submission require the site owner.
+
+## Launch checks
+
+Run npm ci, npx playwright install chromium, npm test, node scripts/seo.mjs --check, npm run build, then npm run test:launch in a fresh checkout. The build copies public assets only. Tests cover all root HTML routes, including the calendar alias, at 320px and 1280px without a server. CONTACT_EMAIL in app.js is the single unset contact value pending domain and mail approval.
+
