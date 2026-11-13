@@ -1,3 +1,4 @@
+import {assertPhoneCoverage} from './phone-coverage.mjs';
 import {assertFetchedData} from './check-fetched-data.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -10,7 +11,7 @@ const routes=fs.readdirSync(root).filter(p=>p.endsWith('.html')&&p!=='404.html')
 const sitemap=read('sitemap.xml');
 const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json','.svg':'image/svg+xml','.png':'image/png','.xml':'application/xml'};
 const browser=await chromium.launch((process.env.PLAYWRIGHT_CHANNEL||process.env.PW_CHANNEL)?{channel:process.env.PLAYWRIGHT_CHANNEL||process.env.PW_CHANNEL}:{});
-const external=new Set();
+const external=new Set(),coverage=[];
 try {
  for(const route of routes.filter(r=>!process.env.ROUTES||process.env.ROUTES.split(',').includes(r))) {
   const html=read(route), url=new URL(route==='index.html'?'':route,base).href;
@@ -61,9 +62,11 @@ try {
     } else if(/^https?:$/.test(link.protocol))external.add(link.href);
    }
    console.log(`PASS ${route} ${width}px: axe, overflow, runtime, internal links`);
+   coverage.push({route,width});
    await context.close();
   }
  }
+ assertPhoneCoverage(coverage,routes.filter(r=>!process.env.ROUTES||process.env.ROUTES.split(',').includes(r)));
  const png=fs.readFileSync(path.join(root,'assets/social/gametrackdaily-og.png'));
  assert.equal(png.subarray(0,8).toString('hex'),'89504e470d0a1a0a');assert.equal(png.readUInt32BE(16),1200);assert.equal(png.readUInt32BE(20),630);
  assert.ok(read('rss.xml').includes('<pubDate>'));assert.ok(read('robots.txt').includes(`${base}sitemap.xml`));assert.ok(read('llms.txt').includes('GameTrackDaily'));
