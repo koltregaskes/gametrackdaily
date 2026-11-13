@@ -34,12 +34,13 @@ That news layer is filtered to `Windows PC`, `Xbox`, and `PlayStation`. Xbox and
 
 ## Deployment and rollback rehearsal
 
-The existing successful main deployment [run 43395747733](https://github.com/koltregaskes/gametrackdaily/actions/runs/43395747733) at a3fbf5a is the baseline. Its github-pages artifact was restored into a new isolated candidate directory. A deliberate homepage-byte change was detected, then re-extracting the retained artifact restored all 145 file hashes. This is an offline artifact-restoration rehearsal, not a production rollback or a data-recovery claim. Live parity found RSS missing from this baseline (site PR #19); it must not be selected as a known-good production rollback target. Establish a new good baseline after that fix is deployed and read back.
+Record the current known-good commit, successful branch Pages build and rehearsal evidence on the [launch issue](https://github.com/koltregaskes/rooms-os-hub/issues/1506), rather than keeping a dated baseline in this README.
 
-For a live rehearsal, record a known-good successful main deployment run and immutable commit before deploying the reviewed release. If rollback is needed, rerun that known-good Pages deployment through the existing pipeline, then verify every public artifact file over HTTPS. Restore the latest reviewed release through its deployment run and repeat the byte readback. Do not force-push main, alter hosting/DNS, restart a legacy writer, or treat a green job as destination proof. If the historical run cannot be rerun, prepare a narrowly scoped revert PR, obtain review and green checks, then use the normal pipeline.
+This site publishes directly from main through the legacy branch Pages builder. The primary rollback path is a narrowly scoped revert PR on main: obtain Claude approval and green checks, merge it, wait for the branch Pages build, then verify the public HTTPS bytes against the intended revision. Restore the desired reviewed release through a further reviewed PR and repeat the build and destination checks.
 
-Keep dynamic news/calendar data and source timestamps under the existing writer: reverting the site is not permission to roll back fresh data blindly. Record the run URLs, exact commits, observed public hashes, failures and recovery on the owning launch issue. The source maintainer retains post-launch follow-through; a named operational owner and actual live rollback/failure-alert acceptance remain required.
+Rerunning the Actions deployment workflow is not a rollback of this branch-published site. That method is not applicable unless the Pages source is explicitly changed to workflow publishing, which requires Kol's approval. Do not switch Pages sources, force-push main, alter DNS or restart a legacy writer as part of a rollback.
 
+Keep fresh news/calendar data and source timestamps under the existing writer; revert only the faulty change rather than blindly restoring old data. Record build URLs, exact commits, public hashes, failures and recovery on the launch issue. Confirm the named operational owner and distinguish offline artifact restoration from a production rollback or data-recovery test.
 
 ## Public vs Private
 
@@ -125,11 +126,9 @@ Run `node scripts/seo.mjs` after public content changes and `node scripts/seo.mj
 
 Run npm ci, npx playwright install chromium, npm test, node scripts/seo.mjs --check, npm run build, then npm run test:launch in a fresh checkout. The build copies public assets only. Tests cover all root HTML routes, including the calendar alias, at 320px and 1280px without a server. CONTACT_EMAIL in app.js is the single unset contact value pending domain and mail approval.
 
-
 ## Scheduled games news
 
 The daily Actions refresh reads data/news-sources.json, writes real gaming sources into games-news.json, preserves unaffected rails, and records failed sources. All-source failure retains the prior file. Partial failures publish successful data and make the run red with a deduplicated issue alert. Only article/source-state changes create a commit; run timestamps stay in the uncommitted report. The workflow dispatches deploy.yml rather than copying Pages deployment steps.
-
 
 ## GitHub Pages security
 
