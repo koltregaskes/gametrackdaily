@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-const root=process.cwd(), out=path.join(root,'dist');
+const root=process.cwd(), out=path.resolve(process.env.BUILD_DIR||'dist');
 if(fs.existsSync(out)) throw Error('Build requires an absent dist directory; use a fresh checkout');
 fs.mkdirSync(out);
 const files=fs.readdirSync(root).filter(p=>/\.(html|css|js|svg|png|xml|txt|webmanifest)$/.test(p));
