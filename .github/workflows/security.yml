@@ -38,5 +38,6 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - run: node scripts/seo.mjs --rss-only
       - run: npm run build
+      - run: node scripts/host-security.mjs
       - run: npm run test:launch
       - run: node scripts/check-external-links.mjs
