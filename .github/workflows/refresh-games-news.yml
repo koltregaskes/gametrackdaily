@@ -36,7 +36,7 @@ jobs:
           node scripts/seo.mjs --check
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- data/games-news.json
+          git add -- data/games-news.json rss.xml
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh games news from gaming sources'
             if ! git push origin HEAD:main; then
