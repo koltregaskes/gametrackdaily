@@ -1,0 +1,42 @@
+name: Security
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  security:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm audit --audit-level=low
+      - name: Redacted secret scan
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd "$RUNNER_TEMP"
+          gh release download v8.30.1 --repo gitleaks/gitleaks --pattern '*linux_x64.tar.gz' --pattern '*checksums.txt'
+          grep 'gitleaks_8.30.1_linux_x64.tar.gz$' gitleaks_8.30.1_checksums.txt | sha256sum --check
+          tar -xzf gitleaks_8.30.1_linux_x64.tar.gz gitleaks
+          cd "$GITHUB_WORKSPACE"
+          result=0
+          "$RUNNER_TEMP/gitleaks" git --redact=100 --report-format json --report-path "$RUNNER_TEMP/secret-summary.json" > "$RUNNER_TEMP/secret-scan.log" 2>&1 || result=$?
+          SCAN_EXIT="$result" node --input-type=module -e 'import fs from "node:fs";const p=process.env.RUNNER_TEMP+"/secret-summary.json";const findings=fs.existsSync(p)?JSON.parse(fs.readFileSync(p)):null;console.log(`Redacted secret scan: ${findings?findings.length:"unknown"} findings; exit ${process.env.SCAN_EXIT}. No values or excerpts emitted.`);'
+          exit "$result"
+      - run: npx playwright install --with-deps chromium
+      - run: node scripts/seo.mjs --rss-only
+      - run: npm run build
+      - run: npm run test:launch
+      - run: node scripts/check-external-links.mjs
