@@ -217,7 +217,7 @@
           feed: rail.id,
           t: item.title || item.t,
           src: item.source || item.src || feed.title,
-          h: item.age || item.h || readableAge(item.publishedAt || feed.generatedAt),
+          h: readableAge(item.publishedAt),
           tag: item.tag || item.category || rail.title,
           platforms: normalisePlatforms(item.platforms || item.platformFocus),
           score: item.score,
@@ -237,8 +237,15 @@
     if (!value) return "undated";
     const then = new Date(value).getTime();
     if (!Number.isFinite(then)) return "undated";
+    if (then > NOW()) return "future date (unverified)";
     const hours = Math.max(1, Math.round((NOW() - then) / (60 * 60 * 1000)));
     return hours < 24 ? `${hours}h` : `${Math.round(hours / 24)}d`;
+  }
+
+  function newsFreshnessNotice(value) {
+    const time = Date.parse(value);
+    const reason = !Number.isFinite(time) ? "Feed date unavailable" : time > NOW() ? "Feed date is in the future" : NOW() - time > 72 * 60 * 60 * 1000 ? "News feed is over 72 hours old" : "";
+    return reason ? `<div class="notice" role="status" data-news-freshness="unverified"><span class="acc">Update not verified</span><span>${esc(reason)}. Headlines retain their original source dates; a page load is not a refresh.</span></div>` : "";
   }
 
   function publicStamp(value) {
@@ -842,6 +849,7 @@
         <p class="hero-lede">${data.meta.usingProvisionalNews
           ? "Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Example rows stay labelled until a rail has a real public item."
           : `Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Headlines open the outlet that published them${publicStamp(data.meta.newsUpdated) ? `. Public feed generated ${esc(publicStamp(data.meta.newsUpdated))}` : ""}.`}</p>
+        ${newsFreshnessNotice(data.meta.newsUpdated)}
         <div class="tabs-row" style="margin-top:28px">
           <button class="tab-button" style="--filter:var(--ink)" data-rail-tab="all" aria-pressed="${forcedRail ? "false" : "true"}">All rails</button>
           ${RAILS.map((rail) => `<button class="tab-button" style="--filter:${rail.colour}" data-rail-tab="${rail.id}" aria-pressed="${forcedRail === rail.id ? "true" : "false"}">${esc(rail.title)}</button>`).join("")}
