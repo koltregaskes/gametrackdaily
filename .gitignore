@@ -27,3 +27,8 @@ SESSION-NOTES.md
 # WIP handoff content (kept locally, never committed)
 design/
 design/handoff-*/
+
+node_modules/
+dist/
+rss.xml
+assets/legacy/

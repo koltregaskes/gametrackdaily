@@ -25,6 +25,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Generate current RSS and validate SEO
+        run: |
+          node scripts/seo.mjs --rss-only
+          node scripts/seo.mjs --check
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
