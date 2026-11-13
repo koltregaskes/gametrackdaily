@@ -122,5 +122,13 @@ Run npm ci, npx playwright install chromium, npm test, node scripts/seo.mjs --ch
 The daily Actions refresh reads data/news-sources.json, writes real gaming sources into games-news.json, preserves unaffected rails, and records failed sources. All-source failure retains the prior file. Partial failures publish successful data and make the run red with a deduplicated issue alert. Only article/source-state changes create a commit; run timestamps stay in the uncommitted report. The workflow dispatches deploy.yml rather than copying Pages deployment steps.
 
 
+## GitHub Pages security
+
+GitHub Pages serves the existing project URL and supplies HSTS. It does not support repository-defined response headers: _headers files would have no effect. Each page therefore uses a CSP meta policy and strict-origin-when-cross-origin referrer metadata. CSP allows only local scripts, local data requests, required Google Fonts, HTTPS images and existing inline styles; objects and forms are disabled. GitHub Pages cannot enforce frame-ancestors, X-Frame-Options or X-Content-Type-Options from repository code. Those remain host limitations for owner acceptance, not claimed response headers. No host, DNS or account change is included. This static site has no form receiver, payment handler or API endpoint.
+
+Security CI audits all pinned dependencies, runs Gitleaks with fully redacted output and a count-only summary, and crawls the rendered external links. Confirmed 404/410 and unsafe redirects fail; provider blocks and network failures are explicitly unverified. Local/private source directories and legacy assets are excluded from the public build.
 GitHub Actions is the selected single writer for games-news.json. Cutover is pending retirement of the legacy Mini PC news publisher by its director; until then, two writers still exist. The Action handles one rejected push by fetching main, rebasing, and retrying exactly once. A data conflict or second rejection fails visibly and follows the existing issue-alert route. The Mini PC calendar export is a separate duty and must be preserved during news-publisher retirement.
+
+
+The retired Summer Game Fest destinations are normalised by the calendar generator before both source-event import and calendar export. The reviewable pure policy is scripts/event-link-policy.mjs; it changes only the 11 verified retired paths, preserves historical source checks and original event facts, and is idempotent. Regeneration from an older event list therefore retains the corrected official festival destination and honest label.
 

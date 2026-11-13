@@ -25,10 +25,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --ignore-scripts
+
       - name: Generate current RSS and validate SEO
         run: |
           node scripts/seo.mjs --rss-only
           node scripts/seo.mjs --check
+
+      - run: npm run build
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -36,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist
 
   deploy:
     environment:
