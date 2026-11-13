@@ -1,3 +1,4 @@
+import {assertFetchedData} from './check-fetched-data.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
@@ -34,8 +35,12 @@ try {
     await request.fulfill({status:200,contentType:mime[path.extname(file)]||'application/octet-stream',body:fs.readFileSync(file)});
    });
    const page=await context.newPage();
+   const fetched=[];
+   page.on('response',r=>fetched.push({url:r.url(),status:r.status()}));
+   page.on('requestfailed',r=>fetched.push({url:r.url(),failed:true}));
    const errors=[];page.on('pageerror',e=>errors.push(e.message));
-   await page.goto(url);await page.waitForSelector('main');
+   await page.goto(url);await page.waitForSelector('main');await page.waitForLoadState('networkidle');
+   assertFetchedData(fetched,base);
    await page.evaluate(async()=>{await document.fonts.ready;await Promise.all(document.getAnimations().filter(a=>a.effect.getTiming().iterations!==Infinity).map(a=>a.finished.catch(()=>{})));});
    assert.deepEqual(errors,[],`${route}: runtime errors`);
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${route} ${width}: horizontal overflow`);
