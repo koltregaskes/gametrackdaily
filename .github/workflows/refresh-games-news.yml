@@ -38,7 +38,12 @@ jobs:
           git add -- data/games-news.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh games news from gaming sources'
+            if ! git push origin HEAD:main; then
+            echo 'Push rejected; rebasing once onto current main.'
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
+          fi
             gh workflow run deploy.yml --ref main
           fi
       - name: Report source failures

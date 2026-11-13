@@ -121,3 +121,6 @@ Run npm ci, npx playwright install chromium, npm test, node scripts/seo.mjs --ch
 
 The daily Actions refresh reads data/news-sources.json, writes real gaming sources into games-news.json, preserves unaffected rails, and records failed sources. All-source failure retains the prior file. Partial failures publish successful data and make the run red with a deduplicated issue alert. Only article/source-state changes create a commit; run timestamps stay in the uncommitted report. The workflow dispatches deploy.yml rather than copying Pages deployment steps.
 
+
+GitHub Actions is the selected single writer for games-news.json. Cutover is pending retirement of the legacy Mini PC news publisher by its director; until then, two writers still exist. The Action handles one rejected push by fetching main, rebasing, and retrying exactly once. A data conflict or second rejection fails visibly and follows the existing issue-alert route. The Mini PC calendar export is a separate duty and must be preserved during news-publisher retirement.
+
