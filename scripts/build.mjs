@@ -5,6 +5,6 @@ if(fs.existsSync(out)) throw Error('Build requires an absent dist directory; use
 fs.mkdirSync(out);
 const files=fs.readdirSync(root).filter(p=>/\.(html|css|js|svg|png|xml|txt|webmanifest)$/.test(p));
 for(const p of [...files,'assets','data','shared']) {
- if(fs.existsSync(p))fs.cpSync(p,path.join(out,p),{recursive:true,filter:s=>!path.basename(s).startsWith('.')&&!s.split(path.sep).includes('legacy')});
+ if(fs.existsSync(p))fs.cpSync(p,path.join(out,p),{recursive:true,filter:s=>path.relative(root,s)!==path.join('data','news-feed-latest.json')&&!path.basename(s).startsWith('.')&&!s.split(path.sep).includes('legacy')});
 }
 console.log(`Built ${files.length} root public assets; private tooling excluded.`);
