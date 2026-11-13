@@ -39,5 +39,13 @@ jobs:
       - run: node scripts/seo.mjs --rss-only
       - run: npm run build
       - run: node scripts/host-security.mjs
+      - name: Redacted public-build secret scan
+        shell: bash
+        run: |
+          set -euo pipefail
+          result=0
+          "$RUNNER_TEMP/gitleaks" dir dist --redact=100 --report-format json --report-path "$RUNNER_TEMP/build-secret-summary.json" > "$RUNNER_TEMP/build-secret-scan.log" 2>&1 || result=$?
+          SCAN_EXIT="$result" node --input-type=module -e 'import fs from "node:fs";const p=process.env.RUNNER_TEMP+"/build-secret-summary.json";const findings=fs.existsSync(p)?JSON.parse(fs.readFileSync(p)):null;console.log("Redacted public-build scan: "+(findings?findings.length:"unknown")+" findings; exit "+process.env.SCAN_EXIT+". No values or excerpts emitted.");'
+          exit "$result"
       - run: npm run test:launch
       - run: node scripts/check-external-links.mjs
