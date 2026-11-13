@@ -9,7 +9,7 @@ const read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const routes=fs.readdirSync(root).filter(p=>p.endsWith('.html')&&p!=='404.html').sort();
 const sitemap=read('sitemap.xml');
 const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json','.svg':'image/svg+xml','.png':'image/png','.xml':'application/xml'};
-const browser=await chromium.launch(process.env.PW_CHANNEL?{channel:process.env.PW_CHANNEL}:{});
+const browser=await chromium.launch((process.env.PLAYWRIGHT_CHANNEL||process.env.PW_CHANNEL)?{channel:process.env.PLAYWRIGHT_CHANNEL||process.env.PW_CHANNEL}:{});
 const external=new Set();
 try {
  for(const route of routes.filter(r=>!process.env.ROUTES||process.env.ROUTES.split(',').includes(r))) {
@@ -24,7 +24,7 @@ try {
   const graphs=[...html.matchAll(/type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1]));
   assert.ok(graphs.length,`${route}: JSON-LD`);
   assert.ok(graphs.some(g=>JSON.stringify(g).includes(JSON.stringify(canonical))),`${route}: JSON-LD canonical`);
-  for(const width of [320,1280]) {
+  for(const width of [320,390,1280]) {
    const context=await browser.newContext({viewport:{width,height:900}});
    await context.route('**/*',async request=>{
     const u=new URL(request.request().url());
@@ -40,6 +40,12 @@ try {
    page.on('requestfailed',r=>fetched.push({url:r.url(),failed:true}));
    const errors=[];page.on('pageerror',e=>errors.push(e.message));
    await page.goto(url);await page.waitForSelector('main');await page.waitForLoadState('networkidle');
+   await page.keyboard.press('Tab');
+   assert.equal(await page.locator(':focus').getAttribute('href'),'#main-content',route+': skip link first');
+   await page.keyboard.press('Enter');
+   assert.equal(await page.locator('main#main-content:focus').count(),1,route+': skip link focuses main');
+   assert.equal(await page.locator('main').count(),1,route+': one main landmark');
+   assert.equal(await page.locator('h1').count(),1,route+': one page heading');
    assertFetchedData(fetched,base);
    await page.evaluate(async()=>{await document.fonts.ready;await Promise.all(document.getAnimations().filter(a=>a.effect.getTiming().iterations!==Infinity).map(a=>a.finished.catch(()=>{})));});
    assert.deepEqual(errors,[],`${route}: runtime errors`);

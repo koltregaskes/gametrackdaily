@@ -150,3 +150,5 @@ node scripts/check-live.mjs <extracted-directory> <https-site-base-url/>
 ```
 
 Record the run URL and its head SHA alongside the result. This compares every public artifact file with the live HTTPS response, including downloads and discovery files. Mismatches, missing files, blocked responses, network errors and the four-minute crawl deadline prevent a passing result. It prints paths and counts, never response bodies. A passing crawl proves those deployed bytes at the time checked, not freshness, source truth or launch acceptance.
+
+Launch acceptance covers every route at 320, 390 and 1280 pixels, axe serious/critical issues, overflow, and keyboard activation of the skip link into the main landmark. Installed browser channels can be selected with PLAYWRIGHT_CHANNEL. This automated smoke check does not replace a manual screen-reader review.
