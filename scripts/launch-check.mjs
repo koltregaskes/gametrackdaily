@@ -11,7 +11,7 @@ const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json
 const browser=await chromium.launch(process.env.PW_CHANNEL?{channel:process.env.PW_CHANNEL}:{});
 const external=new Set();
 try {
- for(const route of routes) {
+ for(const route of routes.filter(r=>!process.env.ROUTES||process.env.ROUTES.split(',').includes(r))) {
   const html=read(route), url=new URL(route==='index.html'?'':route,base).href;
   const canonical=new URL(route==='calendar.html'?'releases.html':route==='index.html'?'':route,base).href;
   assert.equal([...html.matchAll(/rel="canonical"/g)].length,1,`${route}: unique canonical`);
@@ -19,7 +19,7 @@ try {
   assert.ok(html.includes(`property="og:url" content="${canonical}"`),`${route}: OG URL`);
   assert.equal(sitemap.includes(`<loc>${url}</loc>`),route!=='calendar.html',`${route}: sitemap coverage`);
   assert.ok(html.includes('type="application/rss+xml"'),`${route}: RSS discovery`);
-  assert.ok(html.includes(`${base}social-preview.png`),`${route}: social image`);
+  assert.ok(html.includes(`${base}assets/social/gametrackdaily-og.png`),`${route}: social image`);
   const graphs=[...html.matchAll(/type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1]));
   assert.ok(graphs.length,`${route}: JSON-LD`);
   assert.ok(graphs.some(g=>JSON.stringify(g).includes(JSON.stringify(canonical))),`${route}: JSON-LD canonical`);
@@ -53,7 +53,7 @@ try {
    await context.close();
   }
  }
- const png=fs.readFileSync(path.join(root,'social-preview.png'));
+ const png=fs.readFileSync(path.join(root,'assets/social/gametrackdaily-og.png'));
  assert.equal(png.subarray(0,8).toString('hex'),'89504e470d0a1a0a');assert.equal(png.readUInt32BE(16),1200);assert.equal(png.readUInt32BE(20),630);
  assert.ok(read('rss.xml').includes('<pubDate>'));assert.ok(read('robots.txt').includes(`${base}sitemap.xml`));assert.ok(read('llms.txt').includes('GameTrackDaily'));
  fs.mkdirSync('.local',{recursive:true});fs.writeFileSync('.local/external-links.json',JSON.stringify([...external].sort(),null,2));
