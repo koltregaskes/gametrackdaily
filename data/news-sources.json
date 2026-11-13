@@ -1,0 +1,6 @@
+[
+  {"id":"gamespot","name":"GameSpot","url":"https://www.gamespot.com/feeds/mashup/","rail":"gaming"},
+  {"id":"rps","name":"Rock Paper Shotgun","url":"https://www.rockpapershotgun.com/feed","rail":"gaming"},
+  {"id":"pcgamer","name":"PC Gamer","url":"https://www.pcgamer.com/rss/","rail":"gaming"},
+  {"id":"gamedeveloper","name":"Game Developer","url":"https://www.gamedeveloper.com/rss.xml","rail":"dev"}
+]

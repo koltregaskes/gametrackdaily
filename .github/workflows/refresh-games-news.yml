@@ -1,0 +1,60 @@
+name: Refresh games news
+on:
+  schedule:
+    - cron: '15 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+  issues: write
+concurrency:
+  group: games-news-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: Fetch real gaming sources
+        id: fetch
+        run: node scripts/refresh-games-news.mjs
+      - name: Validate and commit successful source data
+        if: always() && steps.fetch.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node scripts/seo.mjs --rss-only
+          node scripts/seo.mjs --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/games-news.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh games news from gaming sources'
+            git push origin HEAD:main
+            gh workflow run deploy.yml --ref main
+          fi
+      - name: Report source failures
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const p = '.local/news-refresh-report.json';
+            const report = fs.existsSync(p) ? JSON.parse(fs.readFileSync(p)) : {failures:[{id:'workflow',error:'Refresh did not produce a report'}]};
+            const failed = report.failures.length || '${{ job.status }}' === 'failure';
+            if (!failed) return;
+            const title = 'Games news refresh needs attention';
+            const body = `Scheduled gaming feed refresh failed or degraded. Successful sources were retained/published when possible.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\n` + report.failures.map(f=>`${f.id}: ${f.error}`).join('\n');
+            const {data:issues} = await github.rest.issues.listForRepo({...context.repo,state:'open',creator:'github-actions[bot]',per_page:100});
+            const existing = issues.find(i=>i.title===title);
+            if (existing) await github.rest.issues.createComment({...context.repo,issue_number:existing.number,body});
+            else await github.rest.issues.create({...context.repo,title,body});
+            core.setFailed('Games news refresh failed or degraded; see the alert issue.');
