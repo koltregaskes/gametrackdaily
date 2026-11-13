@@ -150,3 +150,5 @@ node scripts/check-live.mjs <extracted-directory> <https-site-base-url/>
 ```
 
 Record the run URL and its head SHA alongside the result. This compares every public artifact file with the live HTTPS response, including downloads and discovery files. Mismatches, missing files, blocked responses, network errors and the four-minute crawl deadline prevent a passing result. It prints paths and counts, never response bodies. A passing crawl proves those deployed bytes at the time checked, not freshness, source truth or launch acceptance.
+
+SEO CI validates the built public artifact, not just source HTML: exact sitemap coverage, unique canonicals, sharing metadata, JSON-LD URLs, a real 1200x630 PNG, robots/llms and RSS item/source-date parity with the built news feed. The calendar alias remains canonical to releases. Final-domain and live readback acceptance remain separate after any approved domain change.
