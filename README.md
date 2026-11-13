@@ -132,3 +132,13 @@ GitHub Actions is the selected single writer for games-news.json. Cutover is pen
 
 The retired Summer Game Fest destinations are normalised by the calendar generator before both source-event import and calendar export. The reviewable pure policy is scripts/event-link-policy.mjs; it changes only the 11 verified retired paths, preserves historical source checks and original event facts, and is idempotent. Regeneration from an older event list therefore retains the corrected official festival destination and honest label.
 
+
+## Verify public deployment bytes
+
+Download the github-pages artifact from the successful deployment run for the expected main commit, extract artifact.tar into an ignored local directory, then run:
+
+```text
+node scripts/check-live.mjs <extracted-directory> <https-site-base-url/>
+```
+
+Record the run URL and its head SHA alongside the result. This compares every public artifact file with the live HTTPS response, including downloads and discovery files. Mismatches, missing files, blocked responses, network errors and the four-minute crawl deadline prevent a passing result. It prints paths and counts, never response bodies. A passing crawl proves those deployed bytes at the time checked, not freshness, source truth or launch acceptance.
