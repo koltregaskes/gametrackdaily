@@ -3,7 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import {chromium} from 'playwright';
 import AxeBuilder from '@axe-core/playwright';
-const root=path.resolve('dist'), base='https://koltregaskes.github.io/gametrackdaily/';
+const root=path.resolve(process.env.BUILD_DIR||'dist'), base='https://koltregaskes.github.io/gametrackdaily/';
 const read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const routes=fs.readdirSync(root).filter(p=>p.endsWith('.html')&&p!=='404.html').sort();
 const sitemap=read('sitemap.xml');
@@ -36,7 +36,7 @@ try {
    const page=await context.newPage();
    const errors=[];page.on('pageerror',e=>errors.push(e.message));
    await page.goto(url);await page.waitForSelector('main');
-   await page.evaluate(()=>document.fonts.ready);
+   await page.evaluate(async()=>{await document.fonts.ready;await Promise.all(document.getAnimations().filter(a=>a.effect.getTiming().iterations!==Infinity).map(a=>a.finished.catch(()=>{})));});
    assert.deepEqual(errors,[],`${route}: runtime errors`);
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${route} ${width}: horizontal overflow`);
    const result=await new AxeBuilder({page}).analyze();
