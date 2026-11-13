@@ -129,3 +129,6 @@ GitHub Pages serves the existing project URL and supplies HSTS. It does not supp
 Security CI audits all pinned dependencies, runs Gitleaks with fully redacted output and a count-only summary, and crawls the rendered external links. Confirmed 404/410 and unsafe redirects fail; provider blocks and network failures are explicitly unverified. Local/private source directories and legacy assets are excluded from the public build.
 GitHub Actions is the selected single writer for games-news.json. Cutover is pending retirement of the legacy Mini PC news publisher by its director; until then, two writers still exist. The Action handles one rejected push by fetching main, rebasing, and retrying exactly once. A data conflict or second rejection fails visibly and follows the existing issue-alert route. The Mini PC calendar export is a separate duty and must be preserved during news-publisher retirement.
 
+
+The retired Summer Game Fest destinations are normalised by the calendar generator before both source-event import and calendar export. The reviewable pure policy is scripts/event-link-policy.mjs; it changes only the 11 verified retired paths, preserves historical source checks and original event facts, and is idempotent. Regeneration from an older event list therefore retains the corrected official festival destination and honest label.
+
