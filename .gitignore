@@ -32,3 +32,8 @@ node_modules/
 dist/
 rss.xml
 assets/legacy/
+# News config checked out by the refresh workflow
+.news-pipeline/
+
+node_modules/
+dist/

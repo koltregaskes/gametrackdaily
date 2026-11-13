@@ -1,0 +1,1 @@
+{"name":"gametrackdaily","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test test/*.test.mjs tests/*.test.mjs","test:launch":"node scripts/launch-check.mjs"},"devDependencies":{"@axe-core/playwright":"4.11.1","playwright":"1.56.1"}}
