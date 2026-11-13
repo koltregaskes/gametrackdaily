@@ -151,6 +151,8 @@ node scripts/check-live.mjs <extracted-directory> <https-site-base-url/>
 
 Record the run URL and its head SHA alongside the result. This compares every public artifact file with the live HTTPS response, including downloads and discovery files. Mismatches, missing files, blocked responses, network errors and the four-minute crawl deadline prevent a passing result. It prints paths and counts, never response bodies. A passing crawl proves those deployed bytes at the time checked, not freshness, source truth or launch acceptance.
 
+Launch acceptance covers every route at 320, 390 and 1280 pixels, axe serious/critical issues, overflow, and keyboard activation of the skip link into the main landmark. Installed browser channels can be selected with PLAYWRIGHT_CHANNEL. This automated smoke check does not replace a manual screen-reader review.
+
 SEO CI validates the built public artifact, not just source HTML: exact sitemap coverage, unique canonicals, sharing metadata, JSON-LD URLs, a real 1200x630 PNG, robots/llms and RSS item/source-date parity with the built news feed. The calendar alias remains canonical to releases. Final-domain and live readback acceptance remain separate after any approved domain change.
 
 News ages are calculated from each original publishedAt at page load; saved relative ages and feed-refresh timestamps do not make undated stories recent. Unknown/future source dates and unavailable, future or over-72-hour feed editions are disclosed. This does not prove seven consecutive days of independent delivery, which remains launch acceptance work.
