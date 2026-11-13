@@ -31,6 +31,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          node scripts/validate-news.mjs
           node scripts/seo.mjs --rss-only
           node scripts/seo.mjs --check
           git config user.name 'github-actions[bot]'
@@ -42,6 +43,7 @@ jobs:
             echo 'Push rejected; rebasing once onto current main.'
             git fetch origin main
             git rebase origin/main
+            node scripts/validate-news.mjs
             git push origin HEAD:main
           fi
             gh workflow run deploy.yml --ref main

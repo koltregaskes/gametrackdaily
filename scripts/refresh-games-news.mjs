@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import {pathToFileURL} from 'node:url';
 import {XMLParser,XMLValidator} from 'fast-xml-parser';
+import {validateNewsData,DEFAULT_MAX_SOURCE_AGE_HOURS} from './public-data-contract.mjs';
 const text=x=>String(typeof x==='object'?x?.['#text']||'':x||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
 export function parseFeed(xml,source,now=Date.now()) {
  if(xml.length>5_000_000||/<!DOCTYPE|<!ENTITY/i.test(xml))throw Error('Unsafe or oversized XML');
@@ -12,7 +13,7 @@ export function parseFeed(xml,source,now=Date.now()) {
   const date=Date.parse(i.pubDate||i.published||i.updated||i['dc:date']);
   return {title:text(i.title),source:source.name,url,summary:text(i.description||i.summary||i['content:encoded']).slice(0,600),publishedAt:Number.isFinite(date)?new Date(date).toISOString():null,tag:'News',_example:false};
  }).filter(i=>i.title&&/^https:\/\//.test(i.url)&&i.publishedAt&&Date.parse(i.publishedAt)<=now&&now-Date.parse(i.publishedAt)<7*86400000)
- .filter(i=>!/(nintendo|switch|mobile|ios|android)/i.test(i.title+' '+i.summary)||/(\bpc\b|windows|xbox|playstation|steam)/i.test(i.title+' '+i.summary));
+ .filter(i=>!/\b(nintendo|switch|mobile|ios|android)\b/i.test(i.title+' '+i.summary)||/\b(pc|windows|xbox|playstation|steam)\b/i.test(i.title+' '+i.summary));
 }
 export async function refresh(sources,previous,{fetcher=fetch,now=Date.now()}={}) {
  const results=await Promise.all(sources.map(async source=>{
@@ -29,7 +30,9 @@ export async function refresh(sources,previous,{fetcher=fetch,now=Date.now()}={}
   return {...old,items,generatedAt:new Date(Math.max(...items.map(i=>Date.parse(i.publishedAt)))).toISOString()};
  });
  const generated=new Date(Math.max(...feeds.flatMap(f=>f.items).map(i=>Date.parse(i.publishedAt)))).toISOString();
- return {data:{...previous,generated,feeds,failedSources:failures},failures};
+ const data={...previous,generated,feeds:feeds.map(feed=>({...feed,generatedAt:generated})),failedSources:failures};
+ validateNewsData(data,{now:new Date(now),maxSourceAgeHours:DEFAULT_MAX_SOURCE_AGE_HOURS});
+ return {data,failures};
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href){
  const previous=JSON.parse(fs.readFileSync('data/games-news.json','utf8'));

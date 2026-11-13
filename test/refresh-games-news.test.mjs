@@ -8,3 +8,27 @@ test('partial failures still produce successful gaming data and source report',a
 test('all failures retain existing feed',async()=>{const r=await refresh([source],old,{now,fetcher:async()=>{throw Error('offline')}});assert.equal(r.data,null);assert.equal(r.failures.length,1)});
 test('unchanged source editions do not churn generated timestamps',async()=>{const fetcher=async url=>({ok:true,url,text:async()=>xml});const a=await refresh([source],old,{now,fetcher});const b=await refresh([source],a.data,{now:now+1000,fetcher});assert.deepEqual(a.data,b.data)});
 test('DTD, future dates and Nintendo-only articles do not enter the feed',()=>{assert.throws(()=>parseFeed('<!DOCTYPE rss>'+xml,source,now));assert.equal(parseFeed(xml,source,now-86400000).length,0);assert.equal(parseFeed(xml.replace('PC game launch','Nintendo Switch launch').replace('Windows PC release','Nintendo only'),source,now).length,0)});
+
+test('platform filters use whole words, preserving Studios, BioShock and Switching headlines',()=>{
+ for(const title of ['Larian Studios announces its next game','BioShock sequel announced','Switching to a new engine']){
+  const item=xml.replace('PC game launch',title).replace('Windows PC release','A new game announcement');
+  assert.equal(parseFeed(item,source,now).length,1,title);
+ }
+ for(const title of ['Nintendo Switch game announced','New iOS game','Android mobile release']){
+  const item=xml.replace('PC game launch',title).replace('Windows PC release','A new game announcement');
+  assert.equal(parseFeed(item,source,now).length,0,title);
+ }
+ assert.equal(parseFeed(xml.replace('PC game launch','Nintendo and Xbox cross-platform release'),source,now).length,1);
+});
+
+test('all refreshed rails, including preserved ones, satisfy the canonical news contract',async()=>{
+ const previous=structuredClone(old);previous.feeds[1].generatedAt='2026-11-11T12:00:00.000Z';
+ const r=await refresh([source],previous,{now,fetcher:async url=>({ok:true,url,text:async()=>xml})});
+ const {validateNewsData,DEFAULT_MAX_SOURCE_AGE_HOURS}=await import('../scripts/public-data-contract.mjs');
+ assert.equal(r.data.feeds[1].generatedAt,r.data.generated);
+ assert.ok(r.data.feeds.every(f=>f.generatedAt===r.data.generated));
+ assert.equal(validateNewsData(r.data,{now:new Date(now),maxSourceAgeHours:DEFAULT_MAX_SOURCE_AGE_HOURS}).feedCount,4);
+ assert.equal(previous.feeds[1].generatedAt,'2026-11-11T12:00:00.000Z');
+ const invalid=structuredClone(r.data);invalid.feeds[1].generatedAt='2026-11-11T12:00:00.000Z';
+ assert.throws(()=>validateNewsData(invalid,{now:new Date(now),maxSourceAgeHours:DEFAULT_MAX_SOURCE_AGE_HOURS}),/news.feeds\[1\].generatedAt must match news.generated/);
+});
