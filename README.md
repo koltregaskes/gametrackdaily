@@ -107,3 +107,7 @@ Once GitHub Pages is enabled for the repository, pushes to `main` will publish t
 - Keep visible naming aligned with `GameTrackDaily`.
 - Treat this as a public showcase and reference surface, not an operations dashboard.
 - If a change only helps local management, it belongs in the private console, not this repo.
+
+## SEO contract
+
+Run `node scripts/seo.mjs` after public content changes and `node scripts/seo.mjs --check` before committing. CI checks page canonical URLs, PNG sharing cards, JSON-LD, RSS, sitemap routes, robots and llms.txt. RSS uses source publication dates, never the build clock. Search Console and Bing verification and sitemap submission require the site owner.
