@@ -32,6 +32,16 @@ The current launch shell is designed as an editorial watch desk rather than a re
 
 That news layer is filtered to `Windows PC`, `Xbox`, and `PlayStation`. Xbox and PlayStation coverage should use specific model or service tags such as `Xbox Series X`, `Xbox Series S`, `PlayStation 5`, `Xbox Game Pass`, or `PlayStation Plus` where the source supports that detail.
 
+## Deployment and rollback rehearsal
+
+Record the current known-good commit, successful branch Pages build and rehearsal evidence on the [launch issue](https://github.com/koltregaskes/rooms-os-hub/issues/1506), rather than keeping a dated baseline in this README.
+
+This site publishes directly from main through the legacy branch Pages builder. The primary rollback path is a narrowly scoped revert PR on main: obtain Claude approval and green checks, merge it, wait for the branch Pages build, then verify the public HTTPS bytes against the intended revision. Restore the desired reviewed release through a further reviewed PR and repeat the build and destination checks.
+
+Rerunning the Actions deployment workflow is not a rollback of this branch-published site. That method is not applicable unless the Pages source is explicitly changed to workflow publishing, which requires Kol's approval. Do not switch Pages sources, force-push main, alter DNS or restart a legacy writer as part of a rollback.
+
+Keep fresh news/calendar data and source timestamps under the existing writer; revert only the faulty change rather than blindly restoring old data. Record build URLs, exact commits, public hashes, failures and recovery on the launch issue. Confirm the named operational owner and distinguish offline artifact restoration from a production rollback or data-recovery test.
+
 ## Public vs Private
 
 - This repo is public-facing only.
@@ -116,11 +126,9 @@ Run `node scripts/seo.mjs` after public content changes and `node scripts/seo.mj
 
 Run npm ci, npx playwright install chromium, npm test, node scripts/seo.mjs --check, npm run build, then npm run test:launch in a fresh checkout. The build copies public assets only. Tests cover all root HTML routes, including the calendar alias, at 320px and 1280px without a server. CONTACT_EMAIL in app.js is the single unset contact value pending domain and mail approval.
 
-
 ## Scheduled games news
 
 The daily Actions refresh reads data/news-sources.json, writes real gaming sources into games-news.json, preserves unaffected rails, and records failed sources. All-source failure retains the prior file. Partial failures publish successful data and make the run red with a deduplicated issue alert. Only article/source-state changes create a commit; run timestamps stay in the uncommitted report. The workflow dispatches deploy.yml rather than copying Pages deployment steps.
-
 
 ## GitHub Pages security
 
