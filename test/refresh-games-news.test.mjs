@@ -32,3 +32,14 @@ test('all refreshed rails, including preserved ones, satisfy the canonical news 
  const invalid=structuredClone(r.data);invalid.feeds[1].generatedAt='2026-11-11T12:00:00.000Z';
  assert.throws(()=>validateNewsData(invalid,{now:new Date(now),maxSourceAgeHours:DEFAULT_MAX_SOURCE_AGE_HOURS}),/news.feeds\[1\].generatedAt must match news.generated/);
 });
+
+test('duplicate URLs retain newest content and newest-first order regardless of source order',async()=>{
+ const earlier=xml.replace('PC game launch','PC earlier headline').replace('12 Nov 2026 12:00:00','11 Nov 2026 12:00:00');
+ for(const urls of [['new','old'],['old','new']]){
+  const sources=urls.map(id=>({...source,id,url:`https://example.org/${id}`}));
+  const r=await refresh(sources,old,{now,fetcher:async url=>({ok:true,url,text:async()=>url.endsWith('/old')?earlier:xml})});
+  assert.equal(r.data.feeds[0].items.length,1);
+  assert.equal(r.data.feeds[0].items[0].title,'PC game launch');
+  assert.equal(r.data.generated,'2026-11-12T12:00:00.000Z');
+ }
+});

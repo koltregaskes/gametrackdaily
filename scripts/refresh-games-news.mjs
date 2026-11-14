@@ -26,7 +26,7 @@ export async function refresh(sources,previous,{fetcher=fetch,now=Date.now()}={}
   const old=previous.feeds.find(f=>f.id===id)||{id,title:id,items:[]};
   const successful=results.filter(r=>!r.error&&r.source.rail===id);
   if(!successful.length)return old;
-  const items=[...new Map(successful.flatMap(r=>r.items).sort((a,b)=>b.publishedAt.localeCompare(a.publishedAt)).map(i=>[i.url,i])).values()].slice(0,30);
+  const items=[...new Map(successful.flatMap(r=>r.items).sort((a,b)=>a.publishedAt.localeCompare(b.publishedAt)).map(i=>[i.url,i])).values()].sort((a,b)=>b.publishedAt.localeCompare(a.publishedAt)).slice(0,30);
   return {...old,items,generatedAt:new Date(Math.max(...items.map(i=>Date.parse(i.publishedAt)))).toISOString()};
  });
  const generated=new Date(Math.max(...feeds.flatMap(f=>f.items).map(i=>Date.parse(i.publishedAt)))).toISOString();

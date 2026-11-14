@@ -160,3 +160,6 @@ News ages are calculated from each original publishedAt at page load; saved rela
 The empty June data/news-feed-latest.json and dated news-feed-* files are retained legacy archive artifacts, not the active news input or a fallback refresh source. The app, RSS generator and Actions news job use data/games-news.json. An empty legacy file is not freshness evidence.
 
 External destination checks validate every redirect hop before requesting it: HTTPS only, no URL credentials, a finite hop limit, and no loops. Confirmed 404/410 and unsafe redirects fail; access blocks and network failures remain explicitly unverified. This supplements the existing link-reporting PR and does not claim blocked outlets were read.
+
+## Refresh deduplication
+The RSS refresh keeps the newest dated item when multiple feeds return the same URL, then sorts newest first before applying the 30-item rail limit. Offline regression coverage runs with `npm test`; no publisher or scheduled task is required.
