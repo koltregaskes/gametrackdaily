@@ -176,6 +176,10 @@
       ours: Boolean(item.ours),
       source: item.source || "Public manifest",
       officialUrl: item.officialUrl || item.url,
+      sourceUrl: item.sourceUrl,
+      igdbUrl: item.igdbUrl,
+      trackingState: item.trackingState,
+      releaseWindow: item.releaseWindow,
       _example: Boolean(item._example),
     };
   }
@@ -308,6 +312,24 @@
   function sourceButton(url, label) {
     if (!url) return `<span class="tag dashed">Source link pending</span>`;
     return `<a class="btn btn--ghost btn--small" href="${esc(url)}" target="_blank" rel="noreferrer">${esc(label)} <span class="arrow">-></span></a>`;
+  }
+
+  function igdbCredit() {
+    return `<p class="copy" data-igdb-credit>Release data provided by <a href="https://www.igdb.com/" target="_blank" rel="noreferrer">IGDB</a>.</p>`;
+  }
+
+  function releaseAttribution(release) {
+    const safeURL = value => {
+      try {
+        const url = new URL(value);
+        return url.protocol === "https:" && !url.username && !url.password ? url.href : undefined;
+      } catch { return undefined; }
+    };
+    const igdb = safeURL(release.igdbUrl);
+    const source = release.source || "Public manifest";
+    const sourceURL = safeURL(release.sourceUrl) || (source === "IGDB" ? igdb || "https://www.igdb.com/" : undefined);
+    const official = safeURL(release.officialUrl);
+    return `<p class="copy" data-release-source>Source: ${sourceAnchor(sourceURL, source)}${release.trackingState ? `; provenance: ${esc(release.trackingState)}` : ""}${release.releaseWindow ? `; recorded window: ${esc(release.releaseWindow)}` : ""}${igdb && igdb !== sourceURL ? `; ${sourceAnchor(igdb, "IGDB record")}` : ""}${official && official !== sourceURL && official !== igdb ? `; ${sourceAnchor(official, "Official source")}` : ""}.</p>`;
   }
 
   function normaliseLiteracy(manifest) {
@@ -463,6 +485,7 @@
         <div class="footer__brand">
           <a class="footer__mark" href="index.html">GAME<span>/</span>TRACK<span>/</span>DAILY</a>
           <p>A curated games watch desk for Windows PC, Xbox, PlayStation, and Kol's public browser demos.</p>
+          ${igdbCredit()}
         </div>
         <section class="footer__estate" aria-label="Elusion Works umbrella">
           <span class="footer__label">Umbrella home</span>
@@ -598,6 +621,7 @@
         <div class="cell">
           <h3 class="display glitch row-title">${esc(release.title)}${release.ours ? " <span class='acc'>★</span>" : ""}</h3>
           <div class="eyebrow" style="margin-top:6px;font-size:10px">${esc(release.genre)}${release.hype === "high" ? " · <span class='acc'>High signal</span>" : ""}${release._example ? " · example" : ""}</div>
+          ${releaseAttribution(release)}
         </div>
         <div class="cell">${launcherList(release.launcher)}</div>
         <div class="cell">${platformPills(release.platforms)}</div>
@@ -618,6 +642,7 @@
         <h3 class="display glitch row-title" style="margin-top:14px">${esc(release.title)}${release.ours ? " <span class='acc'>★</span>" : ""}</h3>
         <div class="eyebrow" style="margin-top:8px;font-size:10px">${esc(release.genre)}${release._example ? " · example" : ""}</div>
         <div style="margin-top:14px">${launcherList(release.launcher)}</div>
+        ${releaseAttribution(release)}
       </article>
     `;
   }
@@ -628,6 +653,7 @@
       <article style="padding:22px 26px;background:${release.ours ? "color-mix(in oklab, var(--brand) 14%, transparent)" : "transparent"};text-align:${textAlign}">
         <div class="eyebrow">${release.date ? `${fmtDate(release.date).dow} ${fmtDate(release.date).day} ${fmtDate(release.date).month}` : "Date pending"}</div>
         <h3 class="display glitch" style="font-size:36px;line-height:.95;margin:6px 0 0">${esc(release.title)}${release.ours ? " <span class='acc'>★</span>" : ""}</h3>
+        ${releaseAttribution(release)}
         <div style="margin-top:12px;display:flex;gap:10px;align-items:center;justify-content:${side === "L" ? "flex-start" : "flex-end"};flex-wrap:wrap">
           ${platformPills(release.platforms)}
           ${launcherList(release.launcher)}
@@ -722,6 +748,7 @@
         <p class="hero-lede">Every tracked release on the three platforms we cover. Filter by platform to scan one slate at a time. Brand-red rows are E-lusion Studios drops or provisional studio slots.</p>
         ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
         ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
+        ${igdbCredit()}
         ${alias ? `<div class="notice"><span class="acc">Route note</span><span><code>calendar.html</code> is kept as a public-safe alias. The arcade design's canonical release surface is <a href="releases.html">releases.html</a>.</span></div>` : ""}
         ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>The public release manifest is currently seeded and has no future dated release rows. The visible dated slate uses handoff examples until the release tracker is refreshed.</span></div>` : ""}
         <div class="filter-row" style="margin-top:26px">

@@ -40,7 +40,7 @@ Only files named in `launch/publish-allowlist.json` enter the artifact. The four
 
 Before launch, the existing owner must read back the Pages source setting and a successful run, artifact and live byte receipt on the [launch issue](https://github.com/koltregaskes/rooms-os-hub/issues/1506). While branch-root Pages remains selected, repository-root data remains publicly reachable, including the historical archive. A clean dist does not protect that route. The owner must obtain Kol's approval to use the artifact route or prepare an equivalent reviewed branch publication boundary before claiming the archive is private.
 
-For a verified Actions publishing route, prepare a narrowly scoped revert PR against the known-good revision, merge after review and passing checks, then verify the deployed public bytes and timestamps. Rerunning a workflow deploys its selected revision; it is not proof of a rollback. Do not switch Pages sources, force-push main or alter DNS as part of this procedure.
+**Rollback on the current branch route (legacy `main:/`):** prepare a narrowly scoped revert PR against the known-good revision, merge it after review and passing checks, wait for the `pages-build-deployment` run to succeed, then verify the deployed public bytes and timestamps. For a verified Actions publishing route, prepare a narrowly scoped revert PR against the known-good revision, merge after review and passing checks, then verify the deployed public bytes and timestamps. Rerunning a workflow deploys its selected revision; it is not proof of a rollback. Do not switch Pages sources, force-push main or alter DNS as part of this procedure.
 
 Keep fresh news/calendar data and source timestamps under the existing writer; revert only the faulty change rather than blindly restoring old data. Record build URLs, exact commits, public hashes, failures and recovery on the launch issue. Confirm the named operational owner and distinguish offline artifact restoration from a production rollback or data-recovery test.
 
@@ -110,9 +110,9 @@ The home page and Games page label the studio lineup stale, with the date from `
 
 ## Deployment
 
-The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
+Current GitHub Pages settings are `build_type=legacy`, source `main:/`, as read from the GitHub Pages API on 15 November 2026. The live site is therefore served from the branch root. The included `.github/workflows/deploy.yml` uploads and deploys `dist`, but that artifact is not the current live publication route.
 
-The workflow attempts publication after main pushes; successful delivery depends on the actual Pages configuration. See the publishing boundary and verification requirements above.
+Files retained under the branch root, including historical `data/` files and `launch/` documentation, can remain publicly reachable. A clean or restricted `dist` artifact does not exclude them from this route. Any Pages-source change needs Kol's approval; no hosting change is made here. Use the branch-route rollback procedure in "Deployment and rollback rehearsal" above and verify public bytes after a reviewed main change.
 
 ## Contributor Notes
 
