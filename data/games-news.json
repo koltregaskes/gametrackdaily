@@ -1,13 +1,193 @@
 {
-  "generated": "2026-11-14T11:26:04.000Z",
+  "generated": "2026-11-15T12:33:46.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-14T11:26:04.000Z",
+      "generatedAt": "2026-11-15T12:33:46.000Z",
       "items": [
         {
-          "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+          "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+          "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
+          "publishedAt": "2026-11-15T12:33:46.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+          "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy.",
+          "publishedAt": "2026-11-15T11:27:41.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The most annoying questgivers in PC games",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+          "summary": "The XP isn't worth it.",
+          "publishedAt": "2026-11-15T07:21:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+          "summary": "What, no Sideways Hank O'Mally?",
+          "publishedAt": "2026-11-15T04:52:26.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Is Like The Olympics &#8211; &#8220;A Rare Cultural Moment&#8221; With Massive Ripple Effects",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+          "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companies are shifting dates for their own games to stay out of the blast radius.&nbsp; Francis Lawrence, the director of the new Hunger Games movie Sunrise on the Reaping, which comes out a day after GTA 6, has said he hopes people can find the time to play the game and watch his movie . In short, GTA 6 is",
+          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+          "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
+          "publishedAt": "2026-11-14T23:50:31.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
+          "summary": "If a game is about cooking, at minimum I'll have to give it a quick testspin. Outside of this whole writing about video games thing, my other lot in life is soul bound to food, so I'm always curious to see how the two can be mixed together. And earlier this week, The Snackbar at the End of the World was revealed, a wonderfully cartoonish action-adventure game set in a magical, slightly post-apocalyptic version of 1960s Italy where you go out and forage for ingredients while fending off monstrous crops before turning them into tasty meals back in your struggling restaurant. Read more",
+          "publishedAt": "2026-11-14T22:53:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+          "summary": "No more calling on your high-level buddy for a boost.",
+          "publishedAt": "2026-11-14T22:17:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+          "summary": "The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring , I've typically just been a coward when it comes to the idea of fighting another, real person. They're probably going to be better than me! I don't use tactics in Souls games, I use brute force until I get my way! That being said, I do have to admit I quite like the look of Rasen, a game that is essentially just the PvP component of Dark Souls (or PvE if you just want to take on some computer-controlled enemies) that just launched into early access. Read more",
+          "publishedAt": "2026-11-14T21:31:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+          "summary": "Testing comedy games comes with a unique challenge.",
+          "publishedAt": "2026-11-14T20:45:44.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+          "summary": "When you think about GTA as a series, the first thing that probably comes to mind is driving through crowds of people, gunning down whoever you like, just generally doing crime without any care in the world. I wouldn't exactly call it an empathy game, not to say that other games are any better at such a thing anyway. But with GTA 6 out, crikey, next bloody week, a new interview has gone up with co-studio head Rob Nelson where he shared that you have a bit more space to be empathetic compared to previous entries. Read more",
+          "publishedAt": "2026-11-14T19:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+          "summary": "Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Meat Boy entered into a new dimension in the aptly named Super Meat Boy 3D. I've not played it but it seems like a good take on the format. Clearly, though, sometimes you just need to play the hits, as a new release of the original game is on the way in the form of Super Meat Boy Again+, a remaster with updated graphics, levels and plenty more. Read more",
+          "publishedAt": "2026-11-14T17:59:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+          "summary": "Tag, you're it.",
+          "publishedAt": "2026-11-14T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+          "summary": "A big part of the point of The Blood of Dawnwalker is that you're on a fixed time limit. You've got 30 in-game days and nights to try and save your family, and if you don't manage to see everything the game has to offer, well, the game's director is fine with that . But that doesn't matter as much now, as The Blood of Dawnwalker is getting its 1.2 update next week that adds in a new game plus mode. Read more",
+          "publishedAt": "2026-11-14T16:53:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Casualties: Unknown Is A Brutal 97%-Rated Survival Game That Will Make You Realize Your Mortality, And At A Cheap Price, Too",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/casualties-unknown-is-a-brutal-97-rated-survival-game-that-will-make-you-realize-your-mortality-and-at-a-cheap-price-too/",
+          "summary": "There’s no light. The shuttle that brought me into the depths is fitted with just a shower, and the darkness swallows everything around me. Each step is as painful as the last, like walking barefoot on LEGO bricks, as I narrowly miss traps. Corpses are frozen as I head further down, a reminder of who came before and likely what I’ll end up as. I crack the glass of a small base, crawling through to gain access, shrapnel filling my foot as I sneak through. Infection rises, but with no medicine, it spreads. It gets worse. It gets worse. I die. That was my first run of Casualties: Unknown . I’ve p",
+          "publishedAt": "2026-11-14T16:05:24.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
+          "summary": "World's Best Grandpa Cup be praised.",
+          "publishedAt": "2026-11-14T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
+          "summary": "\"On one hand, I want to pay off those expectations. On the other hand, I want to exceed them.\"",
+          "publishedAt": "2026-11-14T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+          "summary": "More info to be announced at Halo Fest in December.",
+          "publishedAt": "2026-11-14T14:49:43.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+          "summary": "I'm here for it, though.",
+          "publishedAt": "2026-11-14T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+          "summary": "The latest report from GDC shows a slight uptick in AI use, but negative sentiment towards the tech still dominates.",
+          "publishedAt": "2026-11-14T12:53:03.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
           "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
@@ -95,193 +275,13 @@
           "publishedAt": "2026-11-13T19:54:20.000Z",
           "tag": "News",
           "_example": false
-        },
-        {
-          "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
-          "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to be a juggernaut. In terms of sales, Brian Pitz of BMO Capital Markets said GTA 6 could sell 55 million copies during Take-Two's fiscal 2027, which ends on March 31, 2027. He said the game could sell 45 million units alone during the game's launch quarter, which is well ahead of the estimates of 34.2",
-          "publishedAt": "2026-11-13T19:36:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-          "summary": "Macca and Friends is coming to Weazel TV on November 19.",
-          "publishedAt": "2026-11-13T19:30:31.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "You Can Probably Guess WoW: Forever&#8217;s Most Popular Race, Class, And Faction",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
-          "summary": "World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest version of developer Blizzard's MMORPG. Forever launched November 4, becoming the biggest launch in WoW history by concurrent and returning players. Aside from that fact, Blizzard hasn't shared additional information on exactly how many characters have been made or what classes are most popular. For that, we turn to Raider.IO , a WoW stat-tracking website more commonly used in the modern version of t",
-          "publishedAt": "2026-11-13T19:15:27.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Magic: The Gathering Planeswalker Hits Netflix In 2027, Watch The Trailer Now",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/magic-the-gathering-planeswalker-hits-netflix-in-2027/",
-          "summary": "MagicCon: Atlanta has kicked off with The Preview Panel, which usually shows off cards from future sets. While Nauctis: The Sunken Realm did feature during the panel, Wizards of the Coast then gave the Atlanta crowd more information on Planeswalker, the upcoming animated series set in the Magic multiverse, which is coming to Netflix in 2027. The two-minute teaser highlighted the animation team at Hungary-based Digic Pictures, along with showrunner Terry Matalas, Magic head of story Roy Graham, and more. A few brief moments of Chandra and Ajani were mixed in with the behind-the-scenes footage, ",
-          "publishedAt": "2026-11-13T19:08:07.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Super Mario 3D Land Dared To Embrace 2D Mario In A 3D World",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/super-mario-3d-land-dared-to-embrace-2d-mario-in-a-3d-world/",
-          "summary": "Super Mario 3D Land is celebrating its 15-year anniversary today, November 13, 2026. Below, we examine how 3D Land was a true iteration of the classic 2D Mario formula. I remember when the first preview images of Super Mario 64 began circulating in gaming magazines. The thought of playing a Mario game in THREE DEEEEEE blew my tiny 8-year-old mind. While the final game was absolutely wonderful, it wasn’t quite what I had in my head when I thought about Mario gameplay translated into three dimensions. The worlds were vast and open-ended. Instead of running and jumping toward the goal, players ha",
-          "publishedAt": "2026-11-13T19:07:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Think you know videogame cats? Then name 17 of them",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
-          "summary": "Talking cats, magic cats, scientific cats, and even cats that think they're people.",
-          "publishedAt": "2026-11-13T18:43:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I cannot stop everyone staring at me in GTA 5",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5/",
-          "summary": "They're looking right at me, aren't they?",
-          "publishedAt": "2026-11-13T18:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "After A Week With WoW: Forever, Classic WoW Feels New Again",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/after-a-week-with-wow-forever-classic-wow-feels-new-again/",
-          "summary": "It's been just over a week since the record-breaking launch of World of Warcraft: Forever . In that time a handful of players have raced to level 60, but the overwhelming majority are still weeks away from reaching max level, as they quest through Azeroth and see all the new sights and sounds Blizzard has cooked up. So far, it's been (mostly) an absolute joy. I've spent every spare moment I can find in developer Blizzard's millennial retirement home, and after one week, it's safe to say I'm more than a little consumed by it. I was already a lover of original WoW, having grown up playing it, an",
-          "publishedAt": "2026-11-13T17:50:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
-          "summary": "Mucky and disreputable kiosk game Probably Stolen &ndash; Cyberpunk Shopkeeper Sim is getting three big updates over the next few months that add extra starting scenarios, building on the existing wealth of goods, materials, vocations and techs. Those starting scenarios range from peddling human meat to running the finest cyber-frappucino stall this side of Tannh&auml;user Gate. There are no hard release dates, and the contents of each update may alter, but developers Questing Goose Studio have shared some rough timeframes. Read more",
-          "publishedAt": "2026-11-13T17:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "8BitDo Ultimate 3E wireless controller review",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
-          "summary": "Is Xbox wireless connectivity and modularity really worth that price?",
-          "publishedAt": "2026-11-13T17:20:13.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
-          "summary": "Well that certainly clears things up.",
-          "publishedAt": "2026-11-13T17:15:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
-          "summary": "My, how times have changed.",
-          "publishedAt": "2026-11-13T17:12:56.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/have-you-played-deaths-door",
-          "summary": "Declaring a Best Way of Doing Things is a fool&rsquo;s game, though in recent years my favourite entries in the Tricky Hitting genre &ndash; inclusive of soulslikes and their hybridised disciples &ndash; have been the big, bulging ones. Elden Rings and Silksongs , with vast kingdoms and deep, rattling toolkits for surviving them. The reason it&rsquo;s a fool&rsquo;s game is because you can also have something like Death&rsquo;s Door, a taut, compact, lighthearted little actioner that fills eight hours instead of 80 and yet never feels underwhelming or compromised for it. Read more",
-          "publishedAt": "2026-11-13T17:05:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
-          "summary": "What's the best prank you ever pulled on a teacher in school, assuming you went to school? By which I mean, a genuinely funny prank that didn't cause any injuries, break any of the more important laws (legal or ethical), or leave anybody with years of mental distress. I'll start: I once had to write a four-page punishment essay with the topic \"silence is golden\", after being caught talking in class. I took the essay very seriously for the first three pages, only to end it with the phrase \"...but not as golden as my arse.\" The teacher who set me the essay smugly tore it up without reading it - ",
-          "publishedAt": "2026-11-13T16:34:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Friday The 13th Is Finally Returning To Movies, But Are Games Next?",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/friday-the-13th-is-finally-returning-to-movies-but-are-games-next/",
-          "summary": "Everyone's favorite hockey-mask-wearing killer is finally set to return to the big screen for the first time in almost two decades, with a new film starring him set for release in 2027. Per Deadline , veteran Friday the 13th director Steve Miner--who directed Friday the 13th: Part 2, Part 3, and the Halloween H20: 20 Years Later film that featured Jason's mask-wearing rival, Michael Myers--will helm this project. The Friday the 13th franchise has been largely absent from cinema, as a grueling battle over the franchise rights played out for years between screenwriter Victor Miller and productio",
-          "publishedAt": "2026-11-13T16:32:41.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
-          "summary": "Storm's reworked legendary skin will be here for Christmas.",
-          "publishedAt": "2026-11-13T16:28:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/",
-          "summary": "The data is said to have been \"made available on an external website without authorization.\"",
-          "publishedAt": "2026-11-13T15:48:14.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Intel takes massive chunk out of AMD's desktop CPU market share in unexpected turnaround - may be due to the red team's dominance in gaming chips, weirdly",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/",
-          "summary": "Ain't nobody buying gaming CPUs right now.",
-          "publishedAt": "2026-11-13T15:23:48.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
-          "summary": "\"Reddit does not receive a cut of any purchases made through the buy it now button on product pages.\"",
-          "publishedAt": "2026-11-13T15:05:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How Origame Digital are channelling and defacing Lovecraft over a trilogy of \"inherently indigenous\" anti-fascist games",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games",
-          "summary": "Much like the H.P. Lovecraft novella it alternately riffs on and skewers, Penguin Colony takes you to an ancient alien city of crabby cuboid geometry and helical designs &ndash; comparable at a glance to Lovecraft's \"terraces of every sort of provocative disproportion\", but here given strangely everyday, anachronistic-seeming labels, such as \"Downtown\". Later, you're shown flashes of footage of the streets of Melbourne in Australia - developer Origame Digital's base of operations, and a city built on stolen Wurundjeri Woi-wurrung and Bunurong Boon Wurrung land. When I first set foot in Downtow",
-          "publishedAt": "2026-11-13T14:30:00.000Z",
-          "tag": "News",
-          "_example": false
         }
       ]
     },
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-14T11:26:04.000Z",
+      "generatedAt": "2026-11-15T12:33:46.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,13 +351,13 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-14T11:26:04.000Z",
+      "generatedAt": "2026-11-15T12:33:46.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-14T11:26:04.000Z",
+      "generatedAt": "2026-11-15T12:33:46.000Z",
       "items": [
         {
           "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
