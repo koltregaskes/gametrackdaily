@@ -502,6 +502,7 @@
             <a href="reviews.html">Reviews</a>
             <a href="games.html">Games</a>
             <a href="game-development.html">Craft</a>
+            <a href="privacy.html">Privacy and storage</a>
           </nav>
           <nav class="footer__links" aria-label="Kol projects">
             <p>Projects</p>
@@ -544,6 +545,10 @@
         ${bottom}
       </div>
     `;
+  }
+
+  function renderPrivacy() {
+    return pageFrame("privacy", document.querySelector("#privacy-notice").innerHTML);
   }
 
   function renderHome(data) {
@@ -1363,6 +1368,7 @@
       reviews: () => renderReviews(data),
       games: () => renderGames(data),
       development: () => renderDevelopment(data),
+      privacy: () => renderPrivacy(),
       rail: () => renderNews(data, rail || "dev"),
     }[page]?.() || renderHome(data);
     frame.innerHTML = html;
