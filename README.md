@@ -34,11 +34,13 @@ That news layer is filtered to `Windows PC`, `Xbox`, and `PlayStation`. Xbox and
 
 ## Deployment and rollback rehearsal
 
-Record the current known-good commit, successful branch Pages build and rehearsal evidence on the [launch issue](https://github.com/koltregaskes/rooms-os-hub/issues/1506), rather than keeping a dated baseline in this README.
+The repository's configured Actions route is `.github/workflows/deploy.yml`: on a push to main or manual dispatch, it generates RSS, checks SEO, builds `dist`, uploads only that directory with `actions/upload-pages-artifact`, then deploys it with `actions/deploy-pages`. **However, the live Pages source is currently the legacy branch route** (`build_type: legacy`, source `main` at `/`, read from the GitHub Pages API on 15 November 2026). So the public site is served from the repository root, not from this `dist` artifact, and the allowlist below is not yet enforced live.
 
-This site publishes directly from main through the legacy branch Pages builder. The primary rollback path is a narrowly scoped revert PR on main: obtain Claude approval and green checks, merge it, wait for the branch Pages build, then verify the public HTTPS bytes against the intended revision. Restore the desired reviewed release through a further reviewed PR and repeat the build and destination checks.
+Only files named in `launch/publish-allowlist.json` enter the artifact. The four fetched manifests, page assets and linked notes are included explicitly. The 40 dated news JSON files, 40 digest Markdown files, unused latest feed and feed configuration remain preserved in the repository as an unpublished historical archive. Nothing is deleted. This boundary is enforced during the build and by `node --test test/publish-allowlist.test.mjs`.
 
-Rerunning the Actions deployment workflow is not a rollback of this branch-published site. That method is not applicable unless the Pages source is explicitly changed to workflow publishing, which requires Kol's approval. Do not switch Pages sources, force-push main, alter DNS or restart a legacy writer as part of a rollback.
+Before launch, the existing owner must read back the Pages source setting and a successful run, artifact and live byte receipt on the [launch issue](https://github.com/koltregaskes/rooms-os-hub/issues/1506). While branch-root Pages remains selected, repository-root data remains publicly reachable, including the historical archive. A clean dist does not protect that route. The owner must obtain Kol's approval to use the artifact route or prepare an equivalent reviewed branch publication boundary before claiming the archive is private.
+
+For a verified Actions publishing route, prepare a narrowly scoped revert PR against the known-good revision, merge after review and passing checks, then verify the deployed public bytes and timestamps. Rerunning a workflow deploys its selected revision; it is not proof of a rollback. Do not switch Pages sources, force-push main or alter DNS as part of this procedure.
 
 Keep fresh news/calendar data and source timestamps under the existing writer; revert only the faulty change rather than blindly restoring old data. Record build URLs, exact commits, public hashes, failures and recovery on the launch issue. Confirm the named operational owner and distinguish offline artifact restoration from a production rollback or data-recovery test.
 
@@ -110,7 +112,7 @@ The home page and Games page label the studio lineup stale, with the date from `
 
 The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
 
-Once GitHub Pages is enabled for the repository, pushes to `main` will publish the site automatically.
+The workflow attempts publication after main pushes; successful delivery depends on the actual Pages configuration. See the publishing boundary and verification requirements above.
 
 ## Contributor Notes
 
