@@ -108,9 +108,9 @@ The home page and Games page label the studio lineup stale, with the date from `
 
 ## Deployment
 
-The repo includes a GitHub Pages workflow in `.github/workflows/deploy.yml`.
+Current GitHub Pages settings are `build_type=legacy`, source `main:/`, as read from the GitHub Pages API on 15 November 2026. The live site is therefore served from the branch root. The included `.github/workflows/deploy.yml` uploads and deploys `dist`, but that artifact is not the current live publication route.
 
-Once GitHub Pages is enabled for the repository, pushes to `main` will publish the site automatically.
+Files retained under the branch root, including historical `data/` files and `launch/` documentation, can remain publicly reachable. A clean or restricted `dist` artifact does not exclude them from this route. Any Pages-source change needs Kol's approval; no hosting change is made here. Use the branch Pages rollback procedure above and verify public bytes after a reviewed main change.
 
 ## Contributor Notes
 
