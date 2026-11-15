@@ -44,7 +44,7 @@
       title: "Reviews",
       colour: "var(--xbox)",
       route: "news-reviews.html",
-      desc: "Final verdicts and scored criticism from major games outlets.",
+      desc: "Review coverage from major games outlets, with scores only where verified against the original scale.",
       sources: ["IGN", "GameSpot", "Eurogamer", "PC Gamer", "GamesRadar+", "Rock Paper Shotgun"],
     },
     {
@@ -196,7 +196,8 @@
       title: event.title,
       date: event.date,
       endDate: event.endDate,
-      startAtUTC: event.startAt || event.startAtUTC || `${event.date}T18:00:00Z`,
+      startAtUTC: eventInstant(event.startAt) || eventInstant(event.startAtUTC),
+      endAtUTC: eventInstant(event.endAt) || eventInstant(event.endAtUTC),
       kind: event.kind || "event",
       platforms: normalisePlatforms(event.platformFocus || event.platforms),
       where: [event.venue, event.city].filter(Boolean).join(" · ") || event.where || "Online",
@@ -205,7 +206,28 @@
       watchLabel: event.watchLabel || "Watch event",
       source: event.source || "Official event page",
       status: event.status || "tracked",
-    })).sort((a, b) => new Date(a.startAtUTC) - new Date(b.startAtUTC));
+    })).sort((a, b) => (Date.parse(a.startAtUTC || a.date) || Infinity) - (Date.parse(b.startAtUTC || b.date) || Infinity));
+  }
+
+  function eventInstant(value) {
+    return typeof value === "string" && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?(?:Z|[+-]\d{2}:\d{2})$/.test(value) && Number.isFinite(Date.parse(value)) ? value : null;
+  }
+
+  function isUpcomingEvent(event) {
+    return event.startAtUTC ? Date.parse(event.startAtUTC) >= NOW() : Boolean(event.date && event.date >= new Date(NOW()).toISOString().slice(0, 10));
+  }
+
+  function eventLiveUntil(event) {
+    const start = Date.parse(event.startAtUTC);
+    const end = Date.parse(event.endAtUTC);
+    // Without a sourced end, live status is limited to 30 minutes after the start.
+    return Number.isFinite(end) && end > start ? end : start + 30 * 60 * 1000;
+  }
+
+  function eventTiming(event) {
+    if (!event.startAtUTC) return `<span class="tag">Time pending</span>`;
+    if (NOW() >= eventLiveUntil(event)) return `<span class="tag">Concluded</span>`;
+    return `<span class="countdown countdown--compact bignum" data-countdown="${esc(event.startAtUTC)}" data-countdown-end="${esc(new Date(eventLiveUntil(event)).toISOString())}" data-countdown-style="compact"></span>`;
   }
 
   function normaliseNews(newsManifest) {
@@ -221,6 +243,8 @@
           tag: item.tag || item.category || rail.title,
           platforms: normalisePlatforms(item.platforms || item.platformFocus),
           score: item.score,
+          scoreScale: item.scoreScale,
+          scoreVerified: item.scoreVerified === true,
           url: item.url,
           _example: Boolean(item._example),
         });
@@ -243,9 +267,19 @@
   }
 
   function newsFreshnessNotice(value) {
+    return dataFreshnessNotice(value, "News feed", "news");
+  }
+
+  function dataFreshnessNotice(value, label, kind) {
     const time = Date.parse(value);
-    const reason = !Number.isFinite(time) ? "Feed date unavailable" : time > NOW() ? "Feed date is in the future" : NOW() - time > 72 * 60 * 60 * 1000 ? "News feed is over 72 hours old" : "";
-    return reason ? `<div class="notice" role="status" data-news-freshness="unverified"><span class="acc">Update not verified</span><span>${esc(reason)}. Headlines retain their original source dates; a page load is not a refresh.</span></div>` : "";
+    // Keep the existing news and public-data contract's 72-hour limit.
+    const reason = !Number.isFinite(time) ? `${label} date unavailable` : time > NOW() ? `${label} date is in the future` : NOW() - time > 72 * 60 * 60 * 1000 ? `${label} is over 72 hours old` : "";
+    return reason ? `<div class="notice" role="status" data-${kind}-freshness="unverified"><span class="acc">Update not verified</span><span>${esc(reason)}; this data may be out of date. A page load is not a refresh.</span></div>` : "";
+  }
+
+  function sourceTimestamp(value, label) {
+    const time = Date.parse(value);
+    return `<p class="copy">${esc(label)} source timestamp: ${Number.isFinite(time) ? `<time datetime="${esc(value)}">${esc(new Date(time).toISOString().replace("T", " ").replace("Z", " UTC"))}</time>` : "unavailable"}.</p>`;
   }
 
   function publicStamp(value) {
@@ -313,7 +347,7 @@
       meta: {
         gamesUpdated: gamesManifest.updatedAt,
         releaseUpdated: releaseCalendar.updatedAt,
-        newsUpdated: gamesNews.updatedAt || gamesNews.generated,
+        newsUpdated: gamesNews.generated || gamesNews.generatedAt || gamesNews.updatedAt,
         reviewsUpdated: reviewsManifest.updatedAt,
         releaseNotice: releaseCalendar.notice,
         newsNotice: gamesNews.notice,
@@ -502,7 +536,7 @@
     const metrics = [
       ["Tracked titles", String(data.releases.length + data.undated.length).padStart(2, "0"), "var(--ink)"],
       ["This week", String(thisWeek.length).padStart(2, "0"), "var(--brand)"],
-      ["Events queued", String(data.events.filter((e) => new Date(e.startAtUTC).getTime() >= NOW() - DAY).length).padStart(2, "0"), "var(--pc)"],
+      ["Events queued", String(data.events.filter(isUpcomingEvent).length).padStart(2, "0"), "var(--pc)"],
       ["Our slate", String(data.games.length).padStart(2, "0"), "var(--xbox)"],
     ];
 
@@ -511,6 +545,8 @@
 
       <section class="shell">
         ${sectionHead("TRACKING", "Release and event watch", `<a class="btn btn--ghost btn--small" href="releases.html">Open schedule <span class="arrow">-></span></a>`)}
+        ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
+        ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
         <div class="cols-4 rise-stagger">
           ${metrics.map(([k, v, c]) => `<div class="metric"><div class="eyebrow">${esc(k)}</div><div class="bignum metric__value" style="color:${c}">${esc(v)}</div></div>`).join("")}
         </div>
@@ -532,6 +568,8 @@
 
       <section class="shell" style="margin-top:44px">
         ${sectionHead("WIRE", "Tonight's signal", `<span class="tag">${data.news.length} items</span><a class="btn btn--ghost btn--small" href="news.html">Open wire <span class="arrow">-></span></a>`)}
+        ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
+        ${newsFreshnessNotice(data.meta.newsUpdated)}
         <div class="cols-4">
           ${RAILS.map((rail) => {
             const items = data.news.filter((item) => item.feed === rail.id).slice(0, 2);
@@ -540,7 +578,7 @@
               <div style="margin-top:14px">${items.map((item, i) => `
                 <div style="padding:12px 0;border-top:${i ? "1px dashed var(--line)" : "0"}">
                   <div style="font-weight:600;line-height:1.25">${sourceAnchor(item.url, item.t)}</div>
-                  <div class="eyebrow" style="margin-top:8px;font-size:9px">${esc(item.src)} · ${esc(item.h)}${item.score ? ` · <span class="acc">${scoreOutOfTen(item.score)}/10</span>` : ""}</div>
+                  <div class="eyebrow" style="margin-top:8px;font-size:9px">${esc(item.src)} · ${esc(item.h)}${item.feed === "review" ? ` · <span class="acc">${reviewScoreLabel(item)}</span>` : ""}</div>
                 </div>`).join("")}</div>
             </article>`;
           }).join("")}
@@ -682,6 +720,8 @@
         <div class="eyebrow"><span class="acc">// 01</span> Release radar · Windows PC · Xbox · PlayStation</div>
         <h1 class="display hero-title">The card, <br><span class="acc">ninety days</span> out.</h1>
         <p class="hero-lede">Every tracked release on the three platforms we cover. Filter by platform to scan one slate at a time. Brand-red rows are E-lusion Studios drops or provisional studio slots.</p>
+        ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
+        ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
         ${alias ? `<div class="notice"><span class="acc">Route note</span><span><code>calendar.html</code> is kept as a public-safe alias. The arcade design's canonical release surface is <a href="releases.html">releases.html</a>.</span></div>` : ""}
         ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>The public release manifest is currently seeded and has no future dated release rows. The visible dated slate uses handoff examples until the release tracker is refreshed.</span></div>` : ""}
         <div class="filter-row" style="margin-top:26px">
@@ -755,17 +795,17 @@
   }
 
   function renderEvents(data) {
-    const future = data.events.filter((event) => new Date(event.startAtUTC).getTime() >= NOW() - DAY);
-    const next = future[0] || data.events[0];
-    const sgf = data.events.filter((event) => event.date >= "2026-06-03" && event.date <= "2026-06-09");
-    const july = data.events.filter((event) => event.date >= "2026-07-01" && event.date <= "2026-07-31");
-    const late = data.events.filter((event) => event.date >= "2026-08-01" && event.date <= "2026-09-30");
-    const winter = data.events.filter((event) => event.date >= "2026-10-01");
+    const future = data.events.filter(isUpcomingEvent);
+    const next = future[0];
+    const current = data.events.filter((event) => isUpcomingEvent(event) || isEventLive(event));
+    const archive = data.events.filter((event) => !current.includes(event));
 
     return pageFrame("events", `
       <section class="hero shell">
-        <div class="eyebrow"><span class="acc">// 02</span> Events watch desk · 2026</div>
+        <div class="eyebrow"><span class="acc">// 02</span> Events watch desk</div>
         <h1 class="display hero-title">Showcases, <br>conferences, <br><span class="acc">awards.</span></h1>
+        ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
+        ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
         ${next ? `
           <article class="card" style="margin-top:32px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;padding:0">
             <div style="padding:26px 28px;background:var(--brand);color:#0a0a0c;display:flex;flex-direction:column;align-items:center;min-width:140px">
@@ -773,20 +813,18 @@
               <span style="font-family:var(--mono);font-weight:800;font-size:12px;letter-spacing:.22em;margin-top:6px">${fmtDate(next.date).month}</span>
             </div>
             <div class="cell">
-              <div class="eyebrow"><span class="acc">●</span> Next event · T-minus</div>
+              <div class="eyebrow"><span class="acc">●</span> Next event</div>
               <h2 class="display glitch" style="font-size:38px;margin:6px 0 0">${esc(next.title)}</h2>
               <div style="display:flex;gap:16px;align-items:center;margin-top:10px;flex-wrap:wrap">
-                <span class="countdown countdown--compact bignum" data-countdown="${esc(next.startAtUTC)}" data-countdown-style="compact"></span>
+                ${eventTiming(next)}
                 ${platformPills(next.platforms)}
               </div>
             </div>
             <div class="cell"><a class="btn btn--brand" href="${esc(next.watch)}" target="_blank" rel="noreferrer">${esc(next.watchLabel)} <span class="arrow">-></span></a></div>
-          </article>` : ""}
+          </article>` : `<div class="notice"><span class="acc">No upcoming events listed</span><span>Check the official sources for new dates.</span></div>`}
       </section>
-      ${eventSection("03", "Summer Game Fest · 03-09 Jun", sgf, "grid")}
-      ${eventSection("04", "July · Develop season", july, "rows")}
-      ${eventSection("05", "Gamescom · Cologne", late, "grid2")}
-      ${eventSection("06", "Awards season", winter, "rows")}
+      ${eventSection("03", "Upcoming and current events", current, "grid")}
+      ${eventSection("04", "Event archive", archive, "rows")}
     `);
   }
 
@@ -802,15 +840,15 @@
 
   function eventCard(event) {
     const colour = platformColour(event.platforms[0] || "pc");
-    const isLive = isEventLive(event);
     return `
-      <article class="event-card" style="--platform:${colour};background:${isLive ? "color-mix(in oklab, var(--brand) 14%, transparent)" : "transparent"}">
+      <article class="event-card" style="--platform:${colour}">
         <div style="display:flex;justify-content:space-between;align-items:baseline;margin-top:8px">
           <div style="display:flex;align-items:baseline;gap:12px"><span class="bignum" style="font-size:44px;color:${colour}">${fmtDate(event.date).day}</span><span class="eyebrow">${fmtDate(event.date).month}</span></div>
-          <span class="tag ${isLive ? "live" : ""}">${isLive ? "LIVE" : esc(event.kind)}</span>
+          <span class="tag">${esc(event.kind)}</span>
         </div>
         <h3 class="display glitch" style="font-size:30px;line-height:.95;margin:14px 0 0">${esc(event.title)}</h3>
         <div class="eyebrow" style="margin-top:8px">${esc(event.where)}</div>
+        <div style="margin-top:12px">${eventTiming(event)}</div>
         <p class="copy" style="margin:12px 0 0;font-size:13px;flex:1">${esc(event.note)}</p>
         <div style="display:flex;align-items:center;justify-content:space-between;margin-top:14px;gap:12px;flex-wrap:wrap">
           ${platformPills(event.platforms)}
@@ -822,13 +860,12 @@
 
   function eventRow(event) {
     const colour = platformColour(event.platforms[0] || "pc");
-    const past = new Date(event.startAtUTC).getTime() < NOW() - DAY;
     return `
       <article class="event-row" style="--platform:${colour}">
         <div class="stripe-cell" style="background:${colour}"></div>
         <div class="cell" style="align-items:center;text-align:center"><span class="bignum" style="font-size:26px">${fmtDate(event.date).day}</span><span class="eyebrow" style="font-size:9px;color:${colour}">${fmtDate(event.date).month}</span></div>
         <div class="cell"><h3 class="display glitch row-title">${esc(event.title)}</h3><span class="eyebrow" style="margin-top:6px;font-size:9px">${esc(event.kind)} · ${esc(event.where)}</span></div>
-        <div class="cell">${past ? `<span class="tag">Concluded</span>` : `<span class="countdown countdown--compact bignum" data-countdown="${esc(event.startAtUTC)}" data-countdown-style="compact"></span>`}</div>
+        <div class="cell">${eventTiming(event)}</div>
         <div class="cell">${platformPills(event.platforms)}</div>
         <div class="cell"><a class="btn btn--ghost btn--small" href="${esc(event.watch)}" target="_blank" rel="noreferrer">Watch <span class="arrow">-></span></a></div>
       </article>
@@ -836,8 +873,8 @@
   }
 
   function isEventLive(event) {
-    const start = new Date(event.startAtUTC).getTime();
-    return start <= NOW() && start > NOW() - 30 * 60 * 1000;
+    const start = Date.parse(event.startAtUTC);
+    return Number.isFinite(start) && start <= NOW() && NOW() < eventLiveUntil(event);
   }
 
   function renderNews(data, forcedRail = null) {
@@ -847,8 +884,9 @@
         <div class="eyebrow"><span class="acc">// 03</span> Curated wire · public rails</div>
         <h1 class="display hero-title">Four feeds, <br><span class="acc">one watch desk.</span></h1>
         <p class="hero-lede">${data.meta.usingProvisionalNews
-          ? "Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Example rows stay labelled until a rail has a real public item."
-          : `Game-dev craft, platform and industry stories, scored reviews, and unscored previews. Headlines open the outlet that published them${publicStamp(data.meta.newsUpdated) ? `. Public feed generated ${esc(publicStamp(data.meta.newsUpdated))}` : ""}.`}</p>
+          ? "Game-dev craft, platform and industry stories, review coverage, and previews. Example rows stay labelled until a rail has a real public item."
+          : "Game-dev craft, platform and industry stories, review coverage, and previews. Headlines open the outlet that published them."}</p>
+        ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
         ${newsFreshnessNotice(data.meta.newsUpdated)}
         <div class="tabs-row" style="margin-top:28px">
           <button class="tab-button" style="--filter:var(--ink)" data-rail-tab="all" aria-pressed="${forcedRail ? "false" : "true"}">All rails</button>
@@ -886,7 +924,7 @@
       <article class="news-row" style="--rail:${colour}">
         <div class="stripe-cell" style="background:${colour}"></div>
         <div class="cell"><span class="eyebrow" style="color:${colour}">${esc(item.h)}</span><span class="eyebrow" style="font-size:9px">${esc(item.tag)}</span></div>
-        <div class="cell"><h3 class="display glitch row-title" style="font-size:24px">${sourceAnchor(item.url, item.t)}</h3><div class="eyebrow" style="margin-top:8px;font-size:10px">${esc(item.src)}${item.score ? ` · <span class="acc">${scoreOutOfTen(item.score)}/10</span>` : ""}${item._example ? " · example" : ""}</div></div>
+        <div class="cell"><h3 class="display glitch row-title" style="font-size:24px">${sourceAnchor(item.url, item.t)}</h3><div class="eyebrow" style="margin-top:8px;font-size:10px">${esc(item.src)}${item.feed === "review" ? ` · <span class="acc">${reviewScoreLabel(item)}</span>` : ""}${item._example ? " · example" : ""}</div></div>
         <div class="cell">${item.platforms?.length ? platformPills(item.platforms) : "<span class='eyebrow'>Multi-platform</span>"}</div>
         <div class="row-arrow" style="color:${colour}">-></div>
       </article>
@@ -896,33 +934,34 @@
   function renderReviews(data) {
     const reviews = data.news.filter((item) => item.feed === "review");
     const previews = data.news.filter((item) => item.feed === "preview");
-    const featured = [...reviews].sort((a, b) => scoreOutOfTen(b.score || 0) - scoreOutOfTen(a.score || 0))[0];
-    const heroArtSrc = data.games.find((game) => game.id === "starfall-protocol")?.art || data.games[0]?.art;
+    const featured = reviews[0];
     return pageFrame("reviews", `
       <section class="hero shell">
         <div class="eyebrow"><span class="acc">// 04</span> Critical coverage · curated, not house-review led</div>
-        <h1 class="display hero-title">Verdicts <br><span class="acc">worth your time.</span></h1>
+        <h1 class="display hero-title">Coverage <br><span class="acc">worth your time.</span></h1>
         <p class="hero-lede">Reviews and previews from the wider games press. GameTrackDaily curates the coverage and explains the scoring language; it does not pretend to be the critic.</p>
-        ${data.meta.usingProvisionalNews ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>Review rows are example coverage until the public news pipeline publishes real scored items.</span></div>` : ""}
+        ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
+        ${newsFreshnessNotice(data.meta.newsUpdated)}
+        ${data.meta.usingProvisionalNews ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>Review rows are example coverage until the public news pipeline publishes real coverage.</span></div>` : ""}
       </section>
       ${featured ? `
         <section class="shell" style="margin-top:36px">
           <article style="display:grid;grid-template-columns:1.1fr 1fr;border:2px solid var(--ink)">
             <div style="position:relative;overflow:hidden">
-              ${gameArt(heroArtSrc, "", 460)}
-              <div style="position:absolute;top:22px;left:22px;z-index:3"><span class="tag brand">Featured verdict</span></div>
-              <div style="position:absolute;bottom:22px;right:22px;z-index:3;transform:rotate(-6deg)">${scoreStamp(featured.score, 120)}</div>
+              ${gameArt(null, "Curated review coverage", 460)}
+              <div style="position:absolute;top:22px;left:22px;z-index:3"><span class="tag brand">Featured coverage</span></div>
+              <div style="position:absolute;bottom:22px;right:22px;z-index:3">${scoreStamp(featured, 120)}</div>
             </div>
             <div class="cell">
               <span class="eyebrow">${esc(featured.src)} · ${esc(featured.h)}</span>
               <h2 class="display glitch" style="font-size:clamp(2rem,4vw,3rem);line-height:.96;margin:12px 0 0">${sourceAnchor(featured.url, featured.t)}</h2>
-              <p class="copy" style="margin:20px 0 0;border-left:3px solid var(--brand);padding-left:14px">${featured.url ? "Curated coverage only. The verdict stays with the outlet; open their article for the full review." : "Curated coverage only. Pull-quotes are omitted until a source article can be linked directly."}</p>
+              <p class="copy" style="margin:20px 0 0;border-left:3px solid var(--brand);padding-left:14px">${featured.url ? "Curated coverage only. Open the original outlet's article for the full coverage." : "Curated coverage only. Pull-quotes are omitted until a source article can be linked directly."}</p>
               <div style="display:flex;gap:10px;align-items:center;margin-top:22px;flex-wrap:wrap">${platformPills(featured.platforms)}${sourceButton(featured.url, featured.src ? `Read at ${featured.src}` : "Read source")}</div>
             </div>
           </article>
         </section>` : ""}
       <section class="shell" style="margin-top:50px">
-        ${sectionHead("// 05", "More reviews", `<span class="tag">${reviews.length} verdicts</span>`)}
+        ${sectionHead("// 05", "More reviews", `<span class="tag">${reviews.length} articles</span>`)}
         <div class="cols-3 rise-stagger">${reviews.filter((r) => r !== featured).map(reviewCard).join("")}</div>
       </section>
       <section class="shell" style="margin-top:50px">
@@ -937,14 +976,17 @@
     `);
   }
 
-  function scoreOutOfTen(score) {
-    const n = Number(score || 0);
-    if (!n) return "";
-    return n > 10 ? Math.round(n / 10) : n;
+  function hasVerifiedScore(item) {
+    return item.scoreVerified === true && !item._example && Boolean(item.url) && Number.isFinite(item.score) && Number.isFinite(item.scoreScale) && item.scoreScale > 0 && item.score >= 0 && item.score <= item.scoreScale;
   }
 
-  function scoreStamp(score, size = 60) {
-    return `<div class="score-stamp" style="--stamp-size:${size}px"><span class="bignum score-stamp__score">${esc(scoreOutOfTen(score))}</span><span class="score-stamp__suffix">/10</span></div>`;
+  function reviewScoreLabel(item) {
+    return hasVerifiedScore(item) ? `${esc(item.score)}/${esc(item.scoreScale)}` : "Unscored coverage";
+  }
+
+  function scoreStamp(item, size = 60) {
+    if (!hasVerifiedScore(item)) return `<span class="tag">Unscored coverage</span>`;
+    return `<div class="score-stamp" style="--stamp-size:${size}px"><span class="bignum score-stamp__score">${esc(item.score)}</span><span class="score-stamp__suffix">/${esc(item.scoreScale)}</span></div>`;
   }
 
   function reviewCard(item) {
@@ -952,7 +994,7 @@
       <article class="review-card" style="--platform:var(--xbox)">
         <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-top:10px;gap:16px">
           <span class="eyebrow" style="color:var(--xbox)">${esc(item.src)} · ${esc(item.h)}</span>
-          ${item.score ? scoreStamp(item.score, 50) : ""}
+          ${scoreStamp(item, 50)}
         </div>
         <h3 class="display glitch row-title" style="font-size:22px;margin-top:14px">${sourceAnchor(item.url, item.t)}</h3>
         <div style="margin-top:22px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">${platformPills(item.platforms)}${item.url ? sourceButton(item.url, "Read") : `<span class="eyebrow" style="color:var(--xbox)">Read -></span>`}</div>
@@ -1242,8 +1284,11 @@
         return;
       }
       if (ms <= 0) {
-        el.textContent = "LIVE NOW";
-        el.style.color = "var(--brand)";
+        const end = Date.parse(el.dataset.countdownEnd);
+        const liveUntil = Number.isFinite(end) && end > target ? end : target + 30 * 60 * 1000;
+        const live = NOW() < liveUntil;
+        el.textContent = live ? "LIVE NOW" : "Concluded";
+        el.style.color = live ? "var(--brand)" : "";
         return;
       }
       const totalSeconds = Math.floor(ms / 1000);
