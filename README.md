@@ -157,6 +157,12 @@ SEO CI validates the built public artifact, not just source HTML: exact sitemap 
 
 News ages are calculated from each original publishedAt at page load; saved relative ages and feed-refresh timestamps do not make undated stories recent. Unknown/future source dates and unavailable, future or over-72-hour feed editions are disclosed. This does not prove seven consecutive days of independent delivery, which remains launch acceptance work.
 
+The release calendar, events, news and review coverage show the source's timestamp, including its UTC time. Calendar and news data older than 72 hours display a visible "may be out of date" notice, matching the existing news and public-data contract limit. Missing and future source dates are also disclosed. These labels use the manifest's timestamp, never the build time.
+
+Events without a sourced start instant show "Time pending", without a countdown or live status. Date-only events remain upcoming through their stated UTC calendar day. Past events stay in the archive and cannot become the next event. A timed event's live status ends at its sourced end instant, or 30 minutes after its start when no end is supplied. The site does not generate timed Event JSON-LD from date-only records.
+
+Review coverage shows "Unscored coverage" unless an item supplies a numeric `score`, a positive numeric `scoreScale` (the original denominator), `scoreVerified: true` and its source article URL, and is not an example. Original scales and numeric precision are retained, including zero scores; percentages are not guessed or converted to /10. Adding verified scores to the generator is separate work. Unrelated studio artwork is not used to illustrate third-party reviews. Provisional coverage remains labelled.
+
 The empty June data/news-feed-latest.json and dated news-feed-* files are retained legacy archive artifacts, not the active news input or a fallback refresh source. The app, RSS generator and Actions news job use data/games-news.json. An empty legacy file is not freshness evidence.
 
 External destination checks validate every redirect hop before requesting it: HTTPS only, no URL credentials, a finite hop limit, and no loops. Confirmed 404/410 and unsafe redirects fail; access blocks and network failures remain explicitly unverified. This supplements the existing link-reporting PR and does not claim blocked outlets were read.
