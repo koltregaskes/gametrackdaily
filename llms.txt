@@ -13,6 +13,8 @@ GameTrackDaily is the public games watch desk for tracked releases, events, cura
 - [Games](https://koltregaskes.github.io/gametrackdaily/games.html): E-lusion Studios projects and their public state.
 - [Game Development](https://koltregaskes.github.io/gametrackdaily/game-development.html): current in-development slate.
 
+- [Privacy and storage](https://koltregaskes.github.io/gametrackdaily/privacy.html): hosting requests, fonts, browser preferences, outbound links and rights.
+
 ## Agent Notes
 - V1 includes static public manifests and some clearly marked provisional/example rows.
 - Do not describe releases, events, or news as live unless the row has an official source and current timestamp.
