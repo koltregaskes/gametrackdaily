@@ -637,6 +637,362 @@
         "Xbox Series S",
         "PlayStation 5"
       ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "taipei-game-show-2027",
+      "title": "Taipei Game Show 2027",
+      "date": "2027-01-21",
+      "endDate": "2027-01-24",
+      "kind": "conference",
+      "venue": "Taipei Nangang Exhibition Center Hall 1",
+      "city": "Taipei",
+      "timezone": "Asia/Taipei",
+      "notes": "The organiser lists the B2B zone on 21-22 January and the public zone on 21-24 January 2027. No stream times are published yet.",
+      "source": "Taipei Game Show official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://tgs.tca.org.tw/index_e.php",
+      "sourceUrl": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://tgs.tca.org.tw/news.php?a=1&b=e&n=b8b12f949378552c21f28deff8ba8eb6",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "dice-summit-2027",
+      "title": "D.I.C.E. Summit 2027",
+      "date": "2027-02-16",
+      "endDate": "2027-02-18",
+      "kind": "conference",
+      "venue": "The Cosmopolitan of Las Vegas",
+      "city": "Las Vegas",
+      "timezone": "America/Los_Angeles",
+      "notes": "The official site lists 16-18 February 2027 at the Cosmopolitan of Las Vegas, together with the 30th Annual D.I.C.E. Awards. The awards ceremony time is not yet published.",
+      "source": "D.I.C.E. Summit official site",
+      "status": "confirmed",
+      "watchLabel": "Summit details",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://www.dicesummit.org/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://www.dicesummit.org/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "gdc-2027",
+      "title": "GDC Festival of Gaming 2027",
+      "date": "2027-03-01",
+      "endDate": "2027-03-04",
+      "kind": "conference",
+      "venue": "Moscone Center",
+      "city": "San Francisco",
+      "timezone": "America/Los_Angeles",
+      "notes": "The official site lists 1-4 March 2027, with the Festival Hall open Tuesday to Thursday. Treat as an industry-signals anchor rather than a guaranteed public livestream.",
+      "source": "GDC official site",
+      "status": "confirmed",
+      "watchLabel": "Conference details",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://gdconf.com/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://gdconf.com/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "bafta-games-awards-2027",
+      "title": "BAFTA Games Awards 2027",
+      "date": "2027-04-14",
+      "kind": "awards",
+      "city": "London",
+      "timezone": "Europe/London",
+      "notes": "BAFTA's official press release lists the ceremony in London on Wednesday 14 April 2027, with nominations on Thursday 11 March 2027. The broadcast time is not yet announced.",
+      "source": "BAFTA official press release",
+      "status": "confirmed-date-time-pending",
+      "watchLabel": "Awards page",
+      "watchStatus": "official-event-page",
+      "watchUrl": "https://www.bafta.org/awards/games/",
+      "officialUrl": "https://www.bafta.org/awards/games/",
+      "sourceUrl": "https://www.bafta.org/media-centre/press-releases/2027-bafta-games-awards-entries-open/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://www.bafta.org/media-centre/press-releases/2027-bafta-games-awards-entries-open/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "pax-east-2027",
+      "title": "PAX East 2027",
+      "date": "2027-04-22",
+      "endDate": "2027-04-25",
+      "kind": "conference",
+      "venue": "Thomas M. Menino Convention & Exhibition Center",
+      "city": "Boston",
+      "timezone": "America/New_York",
+      "notes": "The official site lists 22-25 April 2027. Show-floor and panel times are not yet published.",
+      "source": "PAX East official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://east.paxsite.com/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://east.paxsite.com/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "gamescom-latam-2027",
+      "title": "gamescom latam 2027",
+      "date": "2027-04-22",
+      "endDate": "2027-04-25",
+      "kind": "conference",
+      "venue": "Anhembi District",
+      "city": "São Paulo",
+      "timezone": "America/Sao_Paulo",
+      "notes": "The official site lists 22-25 April 2027 at the Anhembi District, São Paulo.",
+      "source": "gamescom latam official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://latam.gamescom.global/en/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://latam.gamescom.global/en/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "bitsummit-2027",
+      "title": "BitSummit HIGH 2027",
+      "date": "2027-05-21",
+      "endDate": "2027-05-23",
+      "kind": "conference",
+      "city": "Kyoto",
+      "timezone": "Asia/Tokyo",
+      "notes": "The organiser's homepage announces BitSummit 15 (BitSummit HIGH) for 21-23 May 2027. The venue is not yet stated in the site's text.",
+      "source": "BitSummit official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://bitsummit.org/en/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://bitsummit.org/en/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "develop-brighton-2027",
+      "title": "Develop:Brighton 2027",
+      "date": "2027-07-13",
+      "endDate": "2027-07-15",
+      "kind": "conference",
+      "venue": "DoubleTree by Hilton Brighton Metropole",
+      "city": "Brighton",
+      "timezone": "Europe/London",
+      "notes": "The official site lists 13-15 July 2027. Developer conference rather than a consumer showcase.",
+      "source": "Develop:Brighton official site",
+      "status": "confirmed",
+      "watchLabel": "Conference details",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://www.developconference.com/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://www.developconference.com/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "gamescom-2027",
+      "title": "gamescom 2027",
+      "date": "2027-08-23",
+      "endDate": "2027-08-29",
+      "kind": "conference",
+      "city": "Cologne",
+      "timezone": "Europe/Berlin",
+      "notes": "The official site lists 23-29 August 2027: gamescom dev on 23-24 August, Opening Night Live on the evening of 24 August, the business and media day on 25 August, and public days from 26 August.",
+      "source": "gamescom official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "official-pages-only",
+      "officialUrl": "https://www.gamescom.global/en/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://www.gamescom.global/en",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "gamescom-opening-night-live-2027",
+      "title": "gamescom Opening Night Live 2027",
+      "date": "2027-08-24",
+      "kind": "showcase",
+      "city": "Cologne",
+      "timezone": "Europe/Berlin",
+      "notes": "The official gamescom site says Opening Night Live takes place on the evening of 24 August 2027. The start time is not yet published.",
+      "source": "gamescom official site",
+      "status": "confirmed-date-time-pending",
+      "watchLabel": "Event homepage",
+      "watchStatus": "official-event-page",
+      "watchUrl": "https://www.gamescom.global/en/",
+      "officialUrl": "https://www.gamescom.global/en/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://www.gamescom.global/en",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "pax-west-2027",
+      "title": "PAX West 2027",
+      "date": "2027-09-03",
+      "endDate": "2027-09-06",
+      "kind": "conference",
+      "city": "Seattle",
+      "timezone": "America/Los_Angeles",
+      "notes": "The official site lists 3-6 September 2027 in Seattle.",
+      "source": "PAX West official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://west.paxsite.com/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://west.paxsite.com/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
+    },
+    {
+      "domain": "gaming",
+      "source_key": "gametrackdaily_official_events",
+      "id": "tokyo-game-show-2027",
+      "title": "Tokyo Game Show 2027",
+      "date": "2027-09-16",
+      "endDate": "2027-09-20",
+      "kind": "conference",
+      "where": "Venue to be confirmed",
+      "timezone": "Asia/Tokyo",
+      "notes": "The organiser states that Tokyo Game Show 2027 is scheduled for 16-20 September 2027. The 2027 venue is not yet stated on the official site.",
+      "source": "Tokyo Game Show official site",
+      "status": "confirmed",
+      "watchLabel": "Event homepage",
+      "watchStatus": "onsite-first",
+      "officialUrl": "https://tgs.cesa.or.jp/2026/en/",
+      "sourceCheck": {
+        "status": "ok",
+        "finalUrl": "https://tgs.cesa.or.jp/2026/en/",
+        "httpCode": 200,
+        "checkedAt": "2026-11-16T06:53:31Z"
+      },
+      "platformFocus": [
+        "Windows PC",
+        "Xbox Series X",
+        "Xbox Series S",
+        "PlayStation 5"
+      ]
     }
   ],
   "releases": [

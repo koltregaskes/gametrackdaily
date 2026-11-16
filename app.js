@@ -210,7 +210,11 @@
       watchLabel: event.watchLabel || "Watch event",
       source: event.source || "Official event page",
       status: event.status || "tracked",
-    })).sort((a, b) => (Date.parse(a.startAtUTC || a.date) || Infinity) - (Date.parse(b.startAtUTC || b.date) || Infinity));
+    })).sort(byEventStart);
+  }
+
+  function byEventStart(a, b) {
+    return (Date.parse(a.startAtUTC || a.date) || Infinity) - (Date.parse(b.startAtUTC || b.date) || Infinity);
   }
 
   function eventInstant(value) {
@@ -219,6 +223,12 @@
 
   function isUpcomingEvent(event) {
     return event.startAtUTC ? Date.parse(event.startAtUTC) >= NOW() : Boolean(event.date && event.date >= new Date(NOW()).toISOString().slice(0, 10));
+  }
+
+  // A date-only multi-day event that has started but not passed its stated end date is current, not archived.
+  function isOngoingDateOnlyEvent(event) {
+    const today = new Date(NOW()).toISOString().slice(0, 10);
+    return !event.startAtUTC && Boolean(event.date && event.endDate) && event.date < today && today <= event.endDate;
   }
 
   function eventLiveUntil(event) {
@@ -827,9 +837,9 @@
   }
 
   function renderEvents(data) {
-    const future = data.events.filter(isUpcomingEvent);
-    const next = future[0];
-    const current = data.events.filter((event) => isUpcomingEvent(event) || isEventLive(event));
+    // Only an event that has not yet started can be next; with none confirmed the page says so rather than reusing a past event.
+    const next = data.events.filter(isUpcomingEvent).sort(byEventStart)[0];
+    const current = data.events.filter((event) => isUpcomingEvent(event) || isEventLive(event) || isOngoingDateOnlyEvent(event));
     const archive = data.events.filter((event) => !current.includes(event));
 
     return pageFrame("events", `
@@ -853,7 +863,7 @@
               </div>
             </div>
             <div class="cell"><a class="btn btn--brand" href="${esc(next.watch)}" target="_blank" rel="noreferrer">${esc(next.watchLabel)} <span class="arrow">-></span></a></div>
-          </article>` : `<div class="notice"><span class="acc">No upcoming events listed</span><span>Check the official sources for new dates.</span></div>`}
+          </article>` : `<div class="notice"><span class="acc">No upcoming events confirmed yet</span><span>Dates are added only once an organiser announces them. Check the official sources for new dates.</span></div>`}
       </section>
       ${eventSection("03", "Upcoming and current events", current, "grid")}
       ${eventSection("04", "Event archive", archive, "rows")}
