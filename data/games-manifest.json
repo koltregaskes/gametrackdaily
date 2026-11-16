@@ -89,7 +89,7 @@
       "platforms": [
         "Browser"
       ],
-      "status": "Environment-first demo",
+      "status": "Six-contract campaign prototype",
       "summary": "An environment-first district slice with walkable space, layered buildings, and optional combat activation.",
       "art": "assets/neon-district.svg",
       "playUrl": "https://koltregaskes.github.io/neon-district/",
@@ -110,7 +110,7 @@
       "platforms": [
         "Browser"
       ],
-      "status": "Concept proof slice",
+      "status": "Preproduction mission slice",
       "summary": "An orbital dock environment demo focused on mood, navigation, and hotspot-based world reads before the deeper production path.",
       "art": "assets/starfall-protocol.svg",
       "playUrl": "https://koltregaskes.github.io/starfall-protocol/",
@@ -131,7 +131,7 @@
       "platforms": [
         "Browser"
       ],
-      "status": "Championship demo track",
+      "status": "Seven-round career-season build",
       "summary": "A marina-circuit racer growing from a single proof track into a championship loop with garage decisions, money, and upgrades.",
       "art": "assets/turbo-vector.svg",
       "playUrl": "https://koltregaskes.github.io/turbo-vector/",
