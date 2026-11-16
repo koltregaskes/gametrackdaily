@@ -1,11 +1,209 @@
 {
-  "generated": "2026-11-15T12:33:46.000Z",
+  "generated": "2026-11-16T13:35:19.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-15T12:33:46.000Z",
+      "generatedAt": "2026-11-16T13:35:19.000Z",
       "items": [
+        {
+          "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
+          "summary": "We don't need any more supports right now.",
+          "publishedAt": "2026-11-16T13:35:19.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
+          "summary": "The company saw a large stock price decline just last week.",
+          "publishedAt": "2026-11-16T13:28:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
+          "summary": "The new memory training counter shows your PC hasn't just hung on boot.",
+          "publishedAt": "2026-11-16T13:16:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+          "summary": "This one might have to wait until after Huang's meetings in Congress.",
+          "publishedAt": "2026-11-16T13:14:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
+          "summary": "Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh. In just a few short days, every gaming vertical under the sun will be publishing features about the exact depth of Jason Duval's ripped abs and what this Says About America Today, or how many bottle caps you must gather to unlock Lucia Caminos' Gundam mode. Fortunately for my sanity, Rockstar's crime colossus isn't yet nigh on PC, though the word is that modders driven nuts by Claude will soon be along with an unofficial \"port\" . As such, wh",
+          "publishedAt": "2026-11-16T12:54:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Twitch Drops Are Coming Soon, Here&#8217;s How To Get Your Free Rewards",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-twitch-drops/",
+          "summary": "While you might be tempted to take a spin through Grand Theft Auto 6 right now, you might want to hold your horses and watch some gameplay instead. Over on Twitch, the streaming platform is hosting a GTA 6 promotion that can earn you some cool Twitch cosmetics and goodies ahead of your trip to Vice City. Here's a closer look at what you can get, and which streamers you'll have to watch to unlock them. How to&nbsp;access GTA 6 Twitch drops Once you're all set up, tune in to any Twitch Drop-enabled livestream during a live Twitch Drops period-- November 18-30 --and watch for a minimum of 60 minu",
+          "publishedAt": "2026-11-16T12:14:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+          "summary": "\"Nobody was hurt\" in a shooting last week near the California office of Clockwork Revolution developers InXile, both the studio and local police have confirmed. The incident, which took place on November 11th, is currently being investigated and police have reportedly taken a suspect into custody. Read more",
+          "publishedAt": "2026-11-16T12:10:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
+          "summary": "Out on the level range.",
+          "publishedAt": "2026-11-16T11:51:12.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+          "summary": "And a custom rig will be better priced than the Steam Machine.",
+          "publishedAt": "2026-11-16T11:47:03.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
+          "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary Magazine , VP of next-gen Jason Ronald said the Xbox Series X|S successor is designed to build on the successes — and hard lessons — of previous Xbox generations, with fewer barriers to play. \"When we think about Project Helix, it's really designed to be the ultimate gaming machine--one that removes all the barriers of play that have historically existed,\" Ronald said. \"My entire library is accessible to ",
+          "publishedAt": "2026-11-16T10:48:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
+          "summary": "After a couple of years of regular testing behind closed doors, Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta, giving anyone who fancies a bit of multi-merc action a chance to give it a go. Though, if you do, be prepared for bugs and crashes, as work on the mod is far from over with the release of this \"true beta\". Read more",
+          "publishedAt": "2026-11-16T10:28:20.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Influential Warhammer miniature designer Aly Morrison has died",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
+          "summary": "Morrison retired just six months ago.",
+          "publishedAt": "2026-11-16T05:30:39.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "All Hail Blood Gulch, Halo&#8217;s Greatest Multiplayer Map",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/all-hail-blood-gulch-halos-greatest-multiplayer-map/",
+          "summary": "After 25 years, Halo can be remembered for many things. It's among the best launch games of all time, which was pivotal in making Xbox a serious console contender. Its campaign was so brilliantly designed, from set pieces like The Silent Cartographer to the distinct and believable AI behaviors, that it was one of the few games at the time that compelled me to replay on its hardest difficulty. But perhaps what has made it so meaningful and memorable over the years--which is sadly absent from the recent Halo: Campaign Evolved--is its competitive multiplayer. And I can't really think about Halo m",
+          "publishedAt": "2026-11-15T20:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+          "summary": "Quiet and unassuming, or loud and proud?",
+          "publishedAt": "2026-11-15T18:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+          "summary": "\"We want League to stand the test of time.\"",
+          "publishedAt": "2026-11-15T17:45:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+          "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
+          "publishedAt": "2026-11-15T17:30:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+          "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
+          "publishedAt": "2026-11-15T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+          "summary": "I won't miss.",
+          "publishedAt": "2026-11-15T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+          "summary": "King's Field of dreams.",
+          "publishedAt": "2026-11-15T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+          "summary": "Horu is expected to launch at the end of next year.",
+          "publishedAt": "2026-11-15T14:30:16.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I Loved My Xbox 360s&#8211;All Four Of Them",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them/",
+          "summary": "Xbox is celebrating its 25-year anniversary today, November 15, 2026. Below, we take a look back at Microsoft's great, and infamously buggy, second console. In the mid to late aughts, the Xbox 360 reigned supreme. It felt like the center of the gaming universe , as the best place to play multiplatform hits like Modern Warfare and Grand Theft Auto, and the only way to play exclusive blockbusters like Halo 3. All of my high school friends were on Xbox Live every night, and online gaming became a ritual to me. My clearest, purest memories of gaming come from this era, and the Xbox 360 remains one",
+          "publishedAt": "2026-11-15T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Sunday Papers",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+          "summary": "While following a peculiar trail of silver and saffron leaves around the largest roots of the Treehouse, you come across a hexagonal wooden door lying half-hidden among ivy and moss. Scraping away the dirt, you discover a faint, absurd engraving of a newspaper. What mystery is here? You turn the brass knob &ndash; strange, it is warm! &ndash; and the engraving of the newspaper flutters. The pages turn faster and faster, emitting a howling gale that bowls you head over foot. When you pick yourself up, you are inside a vast attic full of books and bricabrac, lit from one side by windows that off",
+          "publishedAt": "2026-11-15T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
           "source": "PC Gamer",
@@ -77,211 +275,13 @@
           "publishedAt": "2026-11-14T22:17:19.000Z",
           "tag": "News",
           "_example": false
-        },
-        {
-          "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-          "summary": "The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring , I've typically just been a coward when it comes to the idea of fighting another, real person. They're probably going to be better than me! I don't use tactics in Souls games, I use brute force until I get my way! That being said, I do have to admit I quite like the look of Rasen, a game that is essentially just the PvP component of Dark Souls (or PvE if you just want to take on some computer-controlled enemies) that just launched into early access. Read more",
-          "publishedAt": "2026-11-14T21:31:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
-          "summary": "Testing comedy games comes with a unique challenge.",
-          "publishedAt": "2026-11-14T20:45:44.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-          "summary": "When you think about GTA as a series, the first thing that probably comes to mind is driving through crowds of people, gunning down whoever you like, just generally doing crime without any care in the world. I wouldn't exactly call it an empathy game, not to say that other games are any better at such a thing anyway. But with GTA 6 out, crikey, next bloody week, a new interview has gone up with co-studio head Rob Nelson where he shared that you have a bit more space to be empathetic compared to previous entries. Read more",
-          "publishedAt": "2026-11-14T19:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-          "summary": "Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Meat Boy entered into a new dimension in the aptly named Super Meat Boy 3D. I've not played it but it seems like a good take on the format. Clearly, though, sometimes you just need to play the hits, as a new release of the original game is on the way in the form of Super Meat Boy Again+, a remaster with updated graphics, levels and plenty more. Read more",
-          "publishedAt": "2026-11-14T17:59:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
-          "summary": "Tag, you're it.",
-          "publishedAt": "2026-11-14T17:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-          "summary": "A big part of the point of The Blood of Dawnwalker is that you're on a fixed time limit. You've got 30 in-game days and nights to try and save your family, and if you don't manage to see everything the game has to offer, well, the game's director is fine with that . But that doesn't matter as much now, as The Blood of Dawnwalker is getting its 1.2 update next week that adds in a new game plus mode. Read more",
-          "publishedAt": "2026-11-14T16:53:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Casualties: Unknown Is A Brutal 97%-Rated Survival Game That Will Make You Realize Your Mortality, And At A Cheap Price, Too",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/casualties-unknown-is-a-brutal-97-rated-survival-game-that-will-make-you-realize-your-mortality-and-at-a-cheap-price-too/",
-          "summary": "There’s no light. The shuttle that brought me into the depths is fitted with just a shower, and the darkness swallows everything around me. Each step is as painful as the last, like walking barefoot on LEGO bricks, as I narrowly miss traps. Corpses are frozen as I head further down, a reminder of who came before and likely what I’ll end up as. I crack the glass of a small base, crawling through to gain access, shrapnel filling my foot as I sneak through. Infection rises, but with no medicine, it spreads. It gets worse. It gets worse. I die. That was my first run of Casualties: Unknown . I’ve p",
-          "publishedAt": "2026-11-14T16:05:24.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
-          "summary": "World's Best Grandpa Cup be praised.",
-          "publishedAt": "2026-11-14T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-          "summary": "\"On one hand, I want to pay off those expectations. On the other hand, I want to exceed them.\"",
-          "publishedAt": "2026-11-14T15:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-          "summary": "More info to be announced at Halo Fest in December.",
-          "publishedAt": "2026-11-14T14:49:43.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-          "summary": "I'm here for it, though.",
-          "publishedAt": "2026-11-14T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
-          "summary": "The latest report from GDC shows a slight uptick in AI use, but negative sentiment towards the tech still dominates.",
-          "publishedAt": "2026-11-14T12:53:03.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-          "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
-          "publishedAt": "2026-11-14T11:26:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "What are we all playing this weekend?",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
-          "summary": "Ah, yes, Saturday. Traditionally a day for relaxing. Why is it then I'm packing, doing last-minute shopping, and going to a wedding all in the space of eight hours? Because, Julian, you are a fool who, as ever, has left everything far too late. What about the team, though. I imagine they've managed their time much better. Read more",
-          "publishedAt": "2026-11-14T08:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
-          "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
-          "publishedAt": "2026-11-13T22:28:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-          "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
-          "publishedAt": "2026-11-13T22:17:06.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I Love How Music Makes Soulframe Feel Like A Folktale",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/i-love-how-music-transforms-soulframe-into-a-folktale/",
-          "summary": "Soulframe still isn't out yet, but its Preludes were finally publicly opened on November 6, giving me my first chance to try it out. I was expecting \" Warframe but fantasy,\" and to be fair, a lot of Soulframe is like that, but so much of Digital Extremes' new action-role-playing game feels very different. I'm floored--I've tried to get into Warframe several times and just kept bouncing off of it for one reason or another, but here I am really enjoying Soulframe and trying to figure out which live-service game I'm going to have to retire from to put Soulframe into my regular rotation. And it's ",
-          "publishedAt": "2026-11-13T21:35:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "&#8220;Physical&#8221; GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
-          "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight. As shared on the forum ResetEra , users who received a physical version of Grand Theft Auto 6, at least in PEGI regions, report that the game's download code is printed directly on the inside of the cover rather than on a card or separate insert. When a flashlight is focused on the cover from the outside ",
-          "publishedAt": "2026-11-13T21:03:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
-          "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. Speaking to David Rubenstein , Zelnick said Take-Two's business results have proven that it \"can do very well as an independent company.\" He said Take-Two's business is already \"at scale\" and healthy enough financially with a \"terrific balance sheet,\" as he put it. \"We are not in a place where we need to be part of a bigger organ",
-          "publishedAt": "2026-11-13T21:02:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "23 MORE Things You STILL Didn’t Know In Ocarina Of Time Remake",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/23-more-things-you-still-didnt-know-in-ocarina-of-time-remake/",
-          "summary": "In the Ocarina Of Time Remake, there are a vast amount of both old and new secrets, and we uncover many of them including hidden sound features right in the palm of your hand, some absolutely wild glitches, and some references that call back to some really cool sources.",
-          "publishedAt": "2026-11-13T21:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
-          "summary": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
-          "publishedAt": "2026-11-13T20:37:35.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
-          "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
-          "publishedAt": "2026-11-13T19:54:20.000Z",
-          "tag": "News",
-          "_example": false
         }
       ]
     },
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-15T12:33:46.000Z",
+      "generatedAt": "2026-11-16T13:35:19.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,14 +351,23 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-15T12:33:46.000Z",
+      "generatedAt": "2026-11-16T13:35:19.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-15T12:33:46.000Z",
+      "generatedAt": "2026-11-16T13:35:19.000Z",
       "items": [
+        {
+          "title": "Unity's new fellowship program offers cash and dedicated support for indie devs",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+          "summary": "Ten selected developers will receive $50,000 as well as 'resources, support, and networks' for the final leg of their development journey.",
+          "publishedAt": "2026-11-16T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
           "source": "Game Developer",
