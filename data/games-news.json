@@ -1,278 +1,278 @@
 {
-  "generated": "2026-11-16T13:35:19.000Z",
+  "generated": "2026-11-17T14:08:01.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-16T13:35:19.000Z",
+      "generatedAt": "2026-11-17T14:08:01.000Z",
       "items": [
         {
-          "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
-          "summary": "We don't need any more supports right now.",
-          "publishedAt": "2026-11-16T13:35:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
-          "summary": "The company saw a large stock price decline just last week.",
-          "publishedAt": "2026-11-16T13:28:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
-          "summary": "The new memory training counter shows your PC hasn't just hung on boot.",
-          "publishedAt": "2026-11-16T13:16:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
-          "summary": "This one might have to wait until after Huang's meetings in Congress.",
-          "publishedAt": "2026-11-16T13:14:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
-          "summary": "Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh. In just a few short days, every gaming vertical under the sun will be publishing features about the exact depth of Jason Duval's ripped abs and what this Says About America Today, or how many bottle caps you must gather to unlock Lucia Caminos' Gundam mode. Fortunately for my sanity, Rockstar's crime colossus isn't yet nigh on PC, though the word is that modders driven nuts by Claude will soon be along with an unofficial \"port\" . As such, wh",
-          "publishedAt": "2026-11-16T12:54:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Twitch Drops Are Coming Soon, Here&#8217;s How To Get Your Free Rewards",
+          "title": "Deadlock Has Convinced Me We Should All Be Role-Playing In Competitive Games",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-twitch-drops/",
-          "summary": "While you might be tempted to take a spin through Grand Theft Auto 6 right now, you might want to hold your horses and watch some gameplay instead. Over on Twitch, the streaming platform is hosting a GTA 6 promotion that can earn you some cool Twitch cosmetics and goodies ahead of your trip to Vice City. Here's a closer look at what you can get, and which streamers you'll have to watch to unlock them. How to&nbsp;access GTA 6 Twitch drops Once you're all set up, tune in to any Twitch Drop-enabled livestream during a live Twitch Drops period-- November 18-30 --and watch for a minimum of 60 minu",
-          "publishedAt": "2026-11-16T12:14:18.000Z",
+          "url": "https://www.gamespot.com/articles/deadlock-has-convinced-me-we-should-all-be-role-playing-in-competitive-games/",
+          "summary": "Every time I enter the team lobby in Deadlock , I start a match by sending one message: “HI IM REM.” Rem is a rat/crow/cat-looking fantasy critter in Valve's online team-based shooter Deadlock. The game blends genre elements from both team-based hero shooters and multiplayer online battle arena games. The developers still describe it as being in “early development,” but it’s already widely popular. Deadlock had more than 300,000 concurrent players on Steam in October, according to SteamDB, and the game has already inspired a vibrant fandom on social media platforms like TikTok and Instagram. I",
+          "publishedAt": "2026-11-17T14:08:01.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
-          "summary": "\"Nobody was hurt\" in a shooting last week near the California office of Clockwork Revolution developers InXile, both the studio and local police have confirmed. The incident, which took place on November 11th, is currently being investigated and police have reportedly taken a suspect into custody. Read more",
-          "publishedAt": "2026-11-16T12:10:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
-          "summary": "Out on the level range.",
-          "publishedAt": "2026-11-16T11:51:12.000Z",
+          "url": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/",
+          "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
+          "publishedAt": "2026-11-17T13:12:39.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
-          "summary": "And a custom rig will be better priced than the Steam Machine.",
-          "publishedAt": "2026-11-16T11:47:03.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+          "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
-          "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary Magazine , VP of next-gen Jason Ronald said the Xbox Series X|S successor is designed to build on the successes — and hard lessons — of previous Xbox generations, with fewer barriers to play. \"When we think about Project Helix, it's really designed to be the ultimate gaming machine--one that removes all the barriers of play that have historically existed,\" Ronald said. \"My entire library is accessible to ",
-          "publishedAt": "2026-11-16T10:48:53.000Z",
+          "url": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
+          "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes. \"We've made some security fixes to the system software,\" the very short update notes read . Notably, this is the fourth PS5 firmware update since October 1 , and typically there's a buffer period of several months between downloads. While Sony hasn't confirmed it, the current thinking is that the company is shoring up its defenses for the release of GTA 6 to prevent the game from being pirated. The new firmware will be mandatory for new game releases",
+          "publishedAt": "2026-11-17T13:01:53.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+          "summary": "Another committee for the committee pile.",
+          "publishedAt": "2026-11-17T12:55:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
-          "summary": "After a couple of years of regular testing behind closed doors, Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta, giving anyone who fancies a bit of multi-merc action a chance to give it a go. Though, if you do, be prepared for bugs and crashes, as work on the mod is far from over with the release of this \"true beta\". Read more",
-          "publishedAt": "2026-11-16T10:28:20.000Z",
+          "url": "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
+          "summary": "As part of a summit meeting in Manchester yesterday, the IWGB Game Workers union have joined up with other unions spanning the Republic of Ireland's GWUI, Germany's GDRT, Italy's FIOM-CGIL, France's STJV, and Spain's CSVI to publish a manifesto that aims to \"bring to light the risks and dangers genAI poses to the workforce\" for consumers, workers and publishers alike. The manifesto states that \"GenAI is currently harming the games industry, its workers and the games they produce,\" and suggests actions that can be taken by all to reduce harm done to the industry. The manifesto specifies the \"se",
+          "publishedAt": "2026-11-17T12:30:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Influential Warhammer miniature designer Aly Morrison has died",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
-          "summary": "Morrison retired just six months ago.",
-          "publishedAt": "2026-11-16T05:30:39.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All Hail Blood Gulch, Halo&#8217;s Greatest Multiplayer Map",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-hail-blood-gulch-halos-greatest-multiplayer-map/",
-          "summary": "After 25 years, Halo can be remembered for many things. It's among the best launch games of all time, which was pivotal in making Xbox a serious console contender. Its campaign was so brilliantly designed, from set pieces like The Silent Cartographer to the distinct and believable AI behaviors, that it was one of the few games at the time that compelled me to replay on its hardest difficulty. But perhaps what has made it so meaningful and memorable over the years--which is sadly absent from the recent Halo: Campaign Evolved--is its competitive multiplayer. And I can't really think about Halo m",
-          "publishedAt": "2026-11-15T20:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
-          "summary": "Quiet and unassuming, or loud and proud?",
-          "publishedAt": "2026-11-15T18:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
-          "summary": "\"We want League to stand the test of time.\"",
-          "publishedAt": "2026-11-15T17:45:48.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
-          "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
-          "publishedAt": "2026-11-15T17:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
-          "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
-          "publishedAt": "2026-11-15T17:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
-          "summary": "I won't miss.",
-          "publishedAt": "2026-11-15T16:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
-          "summary": "King's Field of dreams.",
-          "publishedAt": "2026-11-15T15:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-          "summary": "Horu is expected to launch at the end of next year.",
-          "publishedAt": "2026-11-15T14:30:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I Loved My Xbox 360s&#8211;All Four Of Them",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them/",
-          "summary": "Xbox is celebrating its 25-year anniversary today, November 15, 2026. Below, we take a look back at Microsoft's great, and infamously buggy, second console. In the mid to late aughts, the Xbox 360 reigned supreme. It felt like the center of the gaming universe , as the best place to play multiplatform hits like Modern Warfare and Grand Theft Auto, and the only way to play exclusive blockbusters like Halo 3. All of my high school friends were on Xbox Live every night, and online gaming became a ritual to me. My clearest, purest memories of gaming come from this era, and the Xbox 360 remains one",
-          "publishedAt": "2026-11-15T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Sunday Papers",
+          "title": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
-          "summary": "While following a peculiar trail of silver and saffron leaves around the largest roots of the Treehouse, you come across a hexagonal wooden door lying half-hidden among ivy and moss. Scraping away the dirt, you discover a faint, absurd engraving of a newspaper. What mystery is here? You turn the brass knob &ndash; strange, it is warm! &ndash; and the engraving of the newspaper flutters. The pages turn faster and faster, emitting a howling gale that bowls you head over foot. When you pick yourself up, you are inside a vast attic full of books and bricabrac, lit from one side by windows that off",
-          "publishedAt": "2026-11-15T13:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
+          "summary": "Unity 's next venture, amidst rumours of it being bought out by the Saudi Arabian Public Investment Fund, is the Unity Fellowship , a grant program that offers $50k in cash to Unity-using indie devs that plan release a game within a year - without asking for recoup, revenue share, creative control or IP ownership in exchange. I don't need to tell you that all sounds too good to be true, even with the Unity engine requirement, but in fairness, the company has form for handing out cash. The Unity for Humanity grant, just earlier this year, spread $600K across ten different indie projects focused",
+          "publishedAt": "2026-11-17T12:00:10.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+          "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
-          "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
-          "publishedAt": "2026-11-15T12:33:46.000Z",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+          "summary": "Something's gotta give, something's gotta give, something's gotta give.",
+          "publishedAt": "2026-11-17T11:56:46.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+          "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
-          "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy.",
-          "publishedAt": "2026-11-15T11:27:41.000Z",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
+          "summary": "Investigation into Megaspeed first started in 2024.",
+          "publishedAt": "2026-11-17T11:50:33.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The most annoying questgivers in PC games",
+          "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-          "summary": "The XP isn't worth it.",
-          "publishedAt": "2026-11-15T07:21:40.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+          "summary": "There's always room for a bit more polish.",
+          "publishedAt": "2026-11-17T11:47:29.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-          "summary": "What, no Sideways Hank O'Mally?",
-          "publishedAt": "2026-11-15T04:52:26.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Is Like The Olympics &#8211; &#8220;A Rare Cultural Moment&#8221; With Massive Ripple Effects",
+          "title": "Xbox Game Pass Is Losing 8 More Games In November",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
-          "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companies are shifting dates for their own games to stay out of the blast radius.&nbsp; Francis Lawrence, the director of the new Hunger Games movie Sunrise on the Reaping, which comes out a day after GTA 6, has said he hopes people can find the time to play the game and watch his movie . In short, GTA 6 is",
-          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/",
+          "summary": "Don't get too comfortable with your Xbox Game Pass library, because you never know which game will be removed from it next. This month, several more games are on their way out on November 30, so say goodbye to deadly xenomorphs, even deadlier house spiders, and a Cold War battleground infested with killer robots. One of the biggest departures this month is Aliens: Dark Descent . It's a solid entry in the Aliens franchise if you don't mind some base-management chores, as it nails the atmosphere of the classic sequel while giving you plenty of acid-blooded bugs to mow down. This month will also ",
+          "publishedAt": "2026-11-17T11:40:28.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+          "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-          "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
-          "publishedAt": "2026-11-14T23:50:31.000Z",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
+          "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
+          "publishedAt": "2026-11-17T11:30:45.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
+          "title": "Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-          "summary": "If a game is about cooking, at minimum I'll have to give it a quick testspin. Outside of this whole writing about video games thing, my other lot in life is soul bound to food, so I'm always curious to see how the two can be mixed together. And earlier this week, The Snackbar at the End of the World was revealed, a wonderfully cartoonish action-adventure game set in a magical, slightly post-apocalyptic version of 1960s Italy where you go out and forage for ingredients while fending off monstrous crops before turning them into tasty meals back in your struggling restaurant. Read more",
-          "publishedAt": "2026-11-14T22:53:00.000Z",
+          "url": "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
+          "summary": "It's amazing what a difference a few lines of preamble can make to your understanding of a game. Out now on PC, Steel Gullet is a factory engineering puzzler that, while notable for its meticulous interest in thermodynamics, broadly compares to the foundational work of Zachtronics , together with more recent and focussed conveyor belt wranglers such as Modulus . Resources come in, and you arrange machines on a grid to transform them into something else, before sliding them into an output hopper. The difference is that you're doing this inside a huge walking fortress city, which stamps across t",
+          "publishedAt": "2026-11-17T11:30:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+          "title": "Star Wars Galactic Racer will get local split-screen multiplayer in early 2027 with new 'Free Play' mode, finally letting racers yell at one another in a tangible space",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+          "summary": "Split-screen multiplayer is often treated by developers as a forgotten vestige of a bygone age, something to be left behind as the standardisation of online play makes it redundant, especially following the pandemic. It's considered unlikely that you'll have another human being in your home to pick up a controller with you, and since you've inevitably got an internet connection, why not just use that to connect to anyone in the world? I find there's a unique beauty in playing something shoulder to shoulder on a couch with another person, and it seems Fuse Games sees that light too, with Star W",
+          "publishedAt": "2026-11-17T11:00:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-          "summary": "No more calling on your high-level buddy for a boost.",
-          "publishedAt": "2026-11-14T22:17:19.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
+          "summary": "Grand Theft Auto 6 is on a rolling launch, which means everyone's getting access at different times.",
+          "publishedAt": "2026-11-17T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How HoYoverse Is Keeping Petit Planet&#8217;s AI NPCs From Harassing Players",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+          "summary": "As generative AI enters live-service games, conversational NPCs present exciting creative possibilities for those who choose to use them. However, it also presents a serious moderation challenge. In HoYoverse's upcoming cozy life sim Petit Planet , players can visit a local cafe run by an AI-driven NPC called Nalo. Nalo will remember past conversations and use them to deliver dynamic, personalized responses. However, during closed beta testing, some unsettling interactions involving heavy or self-destructive topics of conversation were noticed. Speaking to GameSpot at HoYoverse's recent media ",
+          "publishedAt": "2026-11-17T10:36:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+          "summary": "A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis . Read more",
+          "publishedAt": "2026-11-17T10:27:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/",
+          "summary": "Rockstar Games has found an unexpected partner to show off one of GTA 6' s most impressive features: The Weather Channel. The US broadcaster has shared an exclusive look at Leonida's weather system via six new screenshots and forecasts that make the fictional destination sound like somewhere you'd need to check the weather before visiting. It's an unusual collaboration, but a very fitting one. GTA 6 takes place in Leonida, a fictional state inspired by Florida, where sunshine, torrential rain, thunderstorms and tropical storms are all part of the ecosystem. Who better to show off the unpredict",
+          "publishedAt": "2026-11-17T10:15:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
+          "summary": "This has ignited some fears within the community of the COD-ification of Battlefield.",
+          "publishedAt": "2026-11-17T09:57:28.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+          "summary": "PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games . One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse. Peripheral makers have, usually with the addition of more buttons, made many minor variations to this time-honored arrangement, but there's only ever been one real attempt to rethink it entirely for the PC: the Microsoft SideWinder Strategic Commander. Read more",
+          "publishedAt": "2026-11-17T09:31:20.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How To Play GTA 6 Early On Xbox Using This Trick",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/",
+          "summary": "Due to GTA 6's non-simultaneous release , people in New Zealand will be the first in the world to play the highly anticipated open-world crime game when it releases at midnight local time there. If you want to become a Kiwi for a day and you plan to play on Xbox, you can trick your console into thinking it's in New Zealand to play early. The following trick has worked before, but there is no guarantee that it will work for you this time with GTA 6, or you might not want to do it at all. After all, Microsoft's own policy says people should only change their region if they have moved to a differ",
+          "publishedAt": "2026-11-17T09:19:03.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
+          "summary": "Well, there's no accounting for taste.",
+          "publishedAt": "2026-11-16T22:34:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/",
+          "summary": "The crew retention on Newell's boats is six times the average on other superyachts.",
+          "publishedAt": "2026-11-16T22:05:57.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
+          "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
+          "publishedAt": "2026-11-16T21:13:07.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+          "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
+          "publishedAt": "2026-11-16T20:57:03.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Delete GTA 6 For A Chance To Win Another Game",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
+          "summary": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other companies are using it to market their own games, including Devolver Digital. The publisher has announced that people can enter for a chance to win their upcoming game, Volvy's Adventure: Reslimed, by reposting the message below with a video of themselves deleting their GTA 6 pre-load. Of course, anyone who deletes their pre-load can install it again, though it might take some time given the game is 212GB . https://twitter.com/devolverdigital/status/2122404424983146756 The lucky winners will get a Stea",
+          "publishedAt": "2026-11-16T20:27:02.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+          "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
+          "publishedAt": "2026-11-16T19:40:15.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Head Of GTA 6&#8217;s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
+          "summary": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't happen, and the head of GTA 6 's parent company played a role in bringing the movie to market. Strauss Zelnick, the current CEO of Rockstar Games owner Take-Two, was the president and COO of 20th Century Fox at the time--he was among the youngest-ever Hollywood CEOs at the age of 32. Warner Bros. was originally backing Home Alone and had actually begun production on the movie until budget concerns prompted the studio to pull the plug. \"Four days into production, they shut down the picture and canc",
+          "publishedAt": "2026-11-16T19:35:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This Noir Detective Game&#8217;s Vibrance Makes For An Eye-Catching Sequel",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/this-noir-detective-games-vibrance-makes-for-an-eye-catching-sequel/",
+          "summary": "How do you craft a sequel to Genesis Noir , a game that seems so unlike any other? In Feral Cat Den's abstract point-and-click adventure, the entire cosmos has been encapsulated in sleek, monochromatic illustrations, with characters, objects and shapes that swirl and pirouette in the endless, shimmering depth of a midnight sky. The game tells a tale about an ill-fated time traveler who, in typical noir fashion, has witnessed the femme fatale get shot by a mysterious other. And as he painstakingly follows the trail of her shooter across every dimension, every scene becomes a puzzle to solve. Pl",
+          "publishedAt": "2026-11-16T19:25:45.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "WoW: Forever&#8217;s Dungeons Have Gotten Yet Another Big Change",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/wow-forevers-dungeons-have-gotten-yet-another-big-change/",
+          "summary": "World of Warcraft: Forever's dungeons have changed once again, with developer Blizzard's most recent adjustment requiring an emergency hotfix to address players' outcry. Dungeons, specifically how much experience points players earn from them, have been one of Forever's most debated topics going back to the game's beta. Make them too lucrative, and players will just stay inside dungeons instead of questing out in the world. At the same time, Blizzard doesn't want dungeons to be one-time affairs, with players completing all their quests in a single run and never going back. Blizzard opened a ne",
+          "publishedAt": "2026-11-16T18:56:57.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
+          "summary": "We've all been there.",
+          "publishedAt": "2026-11-16T18:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -281,7 +281,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-16T13:35:19.000Z",
+      "generatedAt": "2026-11-17T14:08:01.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,14 +351,50 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-16T13:35:19.000Z",
+      "generatedAt": "2026-11-17T14:08:01.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-16T13:35:19.000Z",
+      "generatedAt": "2026-11-17T14:08:01.000Z",
       "items": [
+        {
+          "title": "Riot unveils New Dawn, a major overhaul for League of Legends",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+          "summary": "At the League of Legends 2026 championship, Riot revealed a new era for League of Legends with a cinematic that's a bit brief on details.",
+          "publishedAt": "2026-11-16T19:15:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+          "summary": "Unity senior vice president of product Adam Smith says speculation over M&amp;A tends to follow strong quarterly results.",
+          "publishedAt": "2026-11-16T18:14:49.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Paradox Interactive names new CEO",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+          "summary": "Paradox Interactive's current CEO, Fredrik Wester, is retiring after having taken the reins again, passing on duties to deputy CEO Mattias Lilja.",
+          "publishedAt": "2026-11-16T17:15:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+          "summary": "Xbox has revealed some more information about the upcoming console, though stops short of anything concrete or explanatory.",
+          "publishedAt": "2026-11-16T16:36:14.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Unity's new fellowship program offers cash and dedicated support for indie devs",
           "source": "Game Developer",
@@ -482,24 +518,6 @@
           "url": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
           "summary": "It's not entirely clear what those expectations were, but Take-Two Interactive CEO Strauss Zelnick is boasting about the game's sales on the eve of its long-anticipated release.",
           "publishedAt": "2026-11-10T17:49:05.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-          "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
-          "publishedAt": "2026-11-09T17:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-          "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-          "publishedAt": "2026-11-09T16:39:06.000Z",
           "tag": "News",
           "_example": false
         }
