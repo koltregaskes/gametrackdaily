@@ -1,278 +1,278 @@
 {
-  "generated": "2026-11-17T14:08:01.000Z",
+  "generated": "2026-11-18T14:04:00.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-17T14:08:01.000Z",
+      "generatedAt": "2026-11-18T14:04:00.000Z",
       "items": [
         {
-          "title": "Deadlock Has Convinced Me We Should All Be Role-Playing In Competitive Games",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/deadlock-has-convinced-me-we-should-all-be-role-playing-in-competitive-games/",
-          "summary": "Every time I enter the team lobby in Deadlock , I start a match by sending one message: “HI IM REM.” Rem is a rat/crow/cat-looking fantasy critter in Valve's online team-based shooter Deadlock. The game blends genre elements from both team-based hero shooters and multiplayer online battle arena games. The developers still describe it as being in “early development,” but it’s already widely popular. Deadlock had more than 300,000 concurrent players on Steam in October, according to SteamDB, and the game has already inspired a vibrant fandom on social media platforms like TikTok and Instagram. I",
-          "publishedAt": "2026-11-17T14:08:01.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/",
-          "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
-          "publishedAt": "2026-11-17T13:12:39.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
-          "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes. \"We've made some security fixes to the system software,\" the very short update notes read . Notably, this is the fourth PS5 firmware update since October 1 , and typically there's a buffer period of several months between downloads. While Sony hasn't confirmed it, the current thinking is that the company is shoring up its defenses for the release of GTA 6 to prevent the game from being pirated. The new firmware will be mandatory for new game releases",
-          "publishedAt": "2026-11-17T13:01:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
-          "summary": "Another committee for the committee pile.",
-          "publishedAt": "2026-11-17T12:55:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
+          "title": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
-          "summary": "As part of a summit meeting in Manchester yesterday, the IWGB Game Workers union have joined up with other unions spanning the Republic of Ireland's GWUI, Germany's GDRT, Italy's FIOM-CGIL, France's STJV, and Spain's CSVI to publish a manifesto that aims to \"bring to light the risks and dangers genAI poses to the workforce\" for consumers, workers and publishers alike. The manifesto states that \"GenAI is currently harming the games industry, its workers and the games they produce,\" and suggests actions that can be taken by all to reduce harm done to the industry. The manifesto specifies the \"se",
-          "publishedAt": "2026-11-17T12:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
+          "summary": "GTA 6 launches on console today. It's widely expected to sell more copies than main character Lucia Caminos has skin pores , more copies than there are words even in Eurogamer's five-star review , which I believe Chris Tapsell has written specifically to exhaust and destroy such neurones as I have remaining. And yet, staff at Rockstar Games are apparently worrying about being laid off, as development winds down and investors start to bicker about Line Going Up Even More. In an article supporting this week's month's historic union vote at Rockstar North, one of the game's animation programmers ",
+          "publishedAt": "2026-11-18T14:04:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
+          "title": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
-          "summary": "Unity 's next venture, amidst rumours of it being bought out by the Saudi Arabian Public Investment Fund, is the Unity Fellowship , a grant program that offers $50k in cash to Unity-using indie devs that plan release a game within a year - without asking for recoup, revenue share, creative control or IP ownership in exchange. I don't need to tell you that all sounds too good to be true, even with the Unity engine requirement, but in fairness, the company has form for handing out cash. The Unity for Humanity grant, just earlier this year, spread $600K across ten different indie projects focused",
-          "publishedAt": "2026-11-17T12:00:10.000Z",
+          "url": "https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms",
+          "summary": "In a first substantial update since acquiring SteamDB from its founders back in September, the owners of Nexus Mods have outlined some new additions coming to , the two sides in the deal have announced some additions coming to the community-run backend database. Affiliate links aimed at providing options to help folks find the cheapest price for a game and a new tab dedicated to the mods Nexus host for a game are incoming, as work on behind-the-scenes improvements continues. Read more",
+          "publishedAt": "2026-11-18T13:25:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
-          "summary": "Something's gotta give, something's gotta give, something's gotta give.",
-          "publishedAt": "2026-11-17T11:56:46.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
-          "summary": "Investigation into Megaspeed first started in 2024.",
-          "publishedAt": "2026-11-17T11:50:33.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
-          "summary": "There's always room for a bit more polish.",
-          "publishedAt": "2026-11-17T11:47:29.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Xbox Game Pass Is Losing 8 More Games In November",
+          "title": "GTA 6 Owner Take-Two&#8217;s Stock Explodes After High Review Scores, But It&#8217;s Still Down Massively This Year",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/",
-          "summary": "Don't get too comfortable with your Xbox Game Pass library, because you never know which game will be removed from it next. This month, several more games are on their way out on November 30, so say goodbye to deadly xenomorphs, even deadlier house spiders, and a Cold War battleground infested with killer robots. One of the biggest departures this month is Aliens: Dark Descent . It's a solid entry in the Aliens franchise if you don't mind some base-management chores, as it nails the atmosphere of the classic sequel while giving you plenty of acid-blooded bugs to mow down. This month will also ",
-          "publishedAt": "2026-11-17T11:40:28.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-owner-take-twos-stock-explodes-after-high-review-scores-but-its-still-down-massively-this-year/",
+          "summary": "After more than 10 years of waiting, Rockstar's GTA 6 is finally available now (at least in New Zealand and Australia ). The anticipation has been sky-high for both consumers and investors alike, and Rockstar's owner, Take-Two, is seeing a huge uplift in its share price today after the game's overwhelmingly positive reviews landed. The US stock market doesn't officially open until 9:30 AM ET, but ahead of that, Take-Two shares are up close to 7% in pre-market trading. If this holds, it would boost Take-Two's total market cap by billions, and it could go even higher. Stock analysts expected sha",
+          "publishedAt": "2026-11-18T13:16:55.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+          "title": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
-          "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
-          "publishedAt": "2026-11-17T11:30:45.000Z",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+          "summary": "Someone, please, think of the gamers.",
+          "publishedAt": "2026-11-18T12:57:35.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics",
+          "title": "Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
-          "summary": "It's amazing what a difference a few lines of preamble can make to your understanding of a game. Out now on PC, Steel Gullet is a factory engineering puzzler that, while notable for its meticulous interest in thermodynamics, broadly compares to the foundational work of Zachtronics , together with more recent and focussed conveyor belt wranglers such as Modulus . Resources come in, and you arrange machines on a grid to transform them into something else, before sliding them into an output hopper. The difference is that you're doing this inside a huge walking fortress city, which stamps across t",
-          "publishedAt": "2026-11-17T11:30:00.000Z",
+          "url": "https://www.rockpapershotgun.com/chronicles-medieval-devs-raw-power-are-bankrupt-but-their-sandbox-rpg-lives-on-at-a-new-studio-co-founded-by-satisfactory-devs-coffee-stain",
+          "summary": "Goat Simulator and Satisfactory outfit Coffee Stain Group have bought the intellectual property rights and assets for Chronicles: Medieval, the Tom Hardy-garnished strategy RPG that was originally in development at now-bankrupt Raw Power Games. The game will now be made by a new developer, owned 25% by a few former Raw Power devs and 75% by Coffee Stain. Coffee Stain will fund the game's on-going development. Read more",
+          "publishedAt": "2026-11-18T12:53:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Star Wars Galactic Racer will get local split-screen multiplayer in early 2027 with new 'Free Play' mode, finally letting racers yell at one another in a tangible space",
+          "title": "GTA 6&#8217;s GTA+ Subscription Includes A Free Supercar, Discounts, And More",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/",
+          "summary": "Grand Theft Auto 6 is rolling out worldwide, and if you have a GTA+ subscription, you can pick up extra goodies for your trip to Vice City. Developer Rockstar Games has revealed that it'll be evolving its subscription service to cover both GTA Online and GTA 6, and for $8 a month, players can unlock several in-game benefits, including store discounts, more public transit options, and better haggling power. If you've preordered GTA 6, you'll automatically get a month of GTA+ for free. One thing to note: the services below are only available while you're subscribed, so if your membership expires",
+          "publishedAt": "2026-11-18T12:22:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+          "summary": "Only 62 bird varieties, though.",
+          "publishedAt": "2026-11-18T12:16:29.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "All GTA 6 Cheats And How To Unlock Them",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/",
+          "summary": "At first glance, it might seem like Grand Theft Auto 6 has no cheats system. However, it's a GTA game, so it does exist in there somewhere--there are just a few prerequisites you need to complete before you can use it. In fact, if you try to use any of these GTA 6 cheat codes before you've completed the below steps, you'll be unsuccessful. We loaded a fresh save to test that, so you don't have to. There are also challenges tied to each of the cheat codes, so it could be quite some time before you unlock them all. Having said that, the game does take into account the challenges you've already c",
+          "publishedAt": "2026-11-18T12:13:22.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "PC remains GTA 6's last hope for 60fps smoothness as Rockstar confirm such an option isn't coming to even the swankiest consoles",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
-          "summary": "Split-screen multiplayer is often treated by developers as a forgotten vestige of a bygone age, something to be left behind as the standardisation of online play makes it redundant, especially following the pandemic. It's considered unlikely that you'll have another human being in your home to pick up a controller with you, and since you've inevitably got an internet connection, why not just use that to connect to anyone in the world? I find there's a unique beauty in playing something shoulder to shoulder on a couch with another person, and it seems Fuse Games sees that light too, with Star W",
-          "publishedAt": "2026-11-17T11:00:10.000Z",
+          "url": "https://www.rockpapershotgun.com/pc-remains-gta-6s-last-hope-for-60fps-smoothness-as-rockstar-confirm-such-an-option-isnt-coming-to-even-the-swankiest-consoles",
+          "summary": "As you've probably heard, GTA 6 is out on consoles this week and targeting 30 FPS on that hardware. Despite reports claiming one may not be far away, there's still no official word on a PC port, hence why we've not got a review that delves deep into analysis of just how central to the experience the smell reaction system is. The wait for confirmation of a PC version continues, then, and it looks like that might well be the only chance people get to play the crime sandbox at 60fps, with Rockstar having confirmed that higher frame rate modes aren't en-route to even the most beefy of consoles. Re",
+          "publishedAt": "2026-11-18T12:06:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
-          "summary": "Grand Theft Auto 6 is on a rolling launch, which means everyone's getting access at different times.",
-          "publishedAt": "2026-11-17T11:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How HoYoverse Is Keeping Petit Planet&#8217;s AI NPCs From Harassing Players",
+          "title": "GTA 6 Tips: Everything I Wish I Knew Before I Started Playing",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
-          "summary": "As generative AI enters live-service games, conversational NPCs present exciting creative possibilities for those who choose to use them. However, it also presents a serious moderation challenge. In HoYoverse's upcoming cozy life sim Petit Planet , players can visit a local cafe run by an AI-driven NPC called Nalo. Nalo will remember past conversations and use them to deliver dynamic, personalized responses. However, during closed beta testing, some unsettling interactions involving heavy or self-destructive topics of conversation were noticed. Speaking to GameSpot at HoYoverse's recent media ",
-          "publishedAt": "2026-11-17T10:36:49.000Z",
+          "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/",
+          "summary": "Grand Theft Auto 6 is finally here. After 13 years, Rockstar's follow-up might even be bigger and deeper than you expected. With so much to do and see, we've rounded up 13 tips to help you stay healthy, wealthy, and well-armed in Vice City. Here are 13 things we wish we knew before we started playing GTA 6. Create healthy habits More than any other GTA game before it, Grand Theft Auto 6 leans into its simulation. This means you should eat, sleep, shower, and work out on a regular basis in order to maximize Jason and Lucia’s capabilities. While neglecting these activities won’t ruin the game, i",
+          "publishedAt": "2026-11-18T11:47:20.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+          "title": "GTA 6 Safe Codes And Robberies Guide",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/",
+          "summary": "Robberies are the lifeblood of Grand Theft Auto 6 , and there’s an art to doing them effectively. In this guide, we'll teach you how to rob everything from tiny convenience stores to high-security vaults. If you've started playing it for yourself, you've maybe already seen that safes require safe codes to open them quietly. We'll go over how those work, too, and explain why you can't actually rely on a GTA 6 safe codes list. How to do robberies in GTA 6 Let’s start with the basics. Before hitting a place of business, check the map to see its security level . Each store falls into one of three ",
+          "publishedAt": "2026-11-18T11:42:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "'If you don't bring Jensen back, I would not hire an outsider,' says Amazon boss Jeff Bezos, but Nvidia says it's going to look at internal and external candidates",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/",
+          "summary": "It's not an easy gig, that's for sure.",
+          "publishedAt": "2026-11-18T11:41:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
-          "summary": "A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis . Read more",
-          "publishedAt": "2026-11-17T10:27:30.000Z",
+          "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
+          "summary": "Freshly published bankruptcy documents for perennially troubled MindsEye developer Build A Rocket Boy have spelled out the scale of the company's debt, with around &pound;61.7 million owed to creditors. The documents also touch on founder Leslie Benzies and CEO Mark Gerhard's repeated claims that MindsEye is the victim of an organised sabotage campaign. The company's leaders have apparently taken out even more loans in order to fund legal action against the suspected perpetrators, with the promise of a healthy payout. I'm not holding my breath. Read more",
+          "publishedAt": "2026-11-18T11:31:20.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/",
-          "summary": "Rockstar Games has found an unexpected partner to show off one of GTA 6' s most impressive features: The Weather Channel. The US broadcaster has shared an exclusive look at Leonida's weather system via six new screenshots and forecasts that make the fictional destination sound like somewhere you'd need to check the weather before visiting. It's an unusual collaboration, but a very fitting one. GTA 6 takes place in Leonida, a fictional state inspired by Florida, where sunshine, torrential rain, thunderstorms and tropical storms are all part of the ecosystem. Who better to show off the unpredict",
-          "publishedAt": "2026-11-17T10:15:33.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+          "title": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
-          "summary": "This has ignited some fears within the community of the COD-ification of Battlefield.",
-          "publishedAt": "2026-11-17T09:57:28.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+          "summary": "A handy checklist for your criminal ambitions.",
+          "publishedAt": "2026-11-18T11:30:04.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+          "title": "Can You Keep Playing After Finishing GTA 6&#8217;s Story?",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/can-you-keep-playing-after-finishing-gta-6s-story/",
+          "summary": "Grand Theft Auto 6 is massive. It's inundated with seemingly endless side missions, activities, and other things to get lost in while you're roaming around the sprawling world of Leonida. With the campaign taking in excess of 65 hours to complete , you might be wondering if it's possible to continue playing once you're finished with the main missions, or if there's no turning back once you complete Jason and Lucia's storyline. The good news is that yes, you can continue playing GTA 6 after finishing the main campaign . That means there's plenty of time to get into the depths of Leonida if you'",
+          "publishedAt": "2026-11-18T11:26:12.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How Do You Save Your Game In GTA 6?",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-do-you-save-your-game-in-gta-6/",
+          "summary": "Now that GTA 6 is finally here, you might be wondering how to save your game. With so many options, side missions, and choices that impact the outcome of the story, it's tempting to reload a previous save to get the most out of your GTA 6 experience. While you can save your game, there are a couple of important caveats you should be aware of. Firstly, there are only 15 save slots available in GTA 6. This means you should pick your save points pretty carefully, as in an 80-hour game, there'll be many points where you might want to play conservatively. Right near the beginning of the game, for e",
+          "publishedAt": "2026-11-18T11:22:33.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Can You Replay Missions In GTA 6?",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/can-you-replay-missions-in-gta-6/",
+          "summary": "With GTA 6 finally in our hands, and after the biggest ever launch for a game, millions of people are now playing through Jason and Lucia's adventures. The main campaign follows the duo as they take on a series of missions, with their story unfolding more with each one. However, there are some missions where you might not be completely satisfied with the outcome, or perhaps you just want to relive some of your favorite ones. There are a few different options if you're feeling like this. First of all, you can't technically replay an old mission from the GTA 6 menu after it's been completed. To ",
+          "publishedAt": "2026-11-18T11:13:36.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 honor system: how your 'criminal profile' works",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/",
+          "summary": "What is a criminal profile, and how does it affect you in GTA 6?",
+          "publishedAt": "2026-11-18T11:06:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Has A Clever PS5 DualSense Trick For Keeping You Under The Speed Limit",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-clever-ps5-dualsense-trick-for-keeping-you-under-the-speed-limit/",
+          "summary": "While the urge to be an absolute menace in Grand Theft Auto 6 is strong, nothing stops you from playing as a law-abiding citizen who sticks to the speed limit between missions. This option to avoid attracting local law enforcement's attention will probably be best experienced on PS5, thanks to one key advantage: the DualSense controller and its adaptive triggers. On PS5, GTA 6 players can keep their vehicle from going over the speed limit, as the adaptive triggers provide resistance when you get close to the legal limit. That doesn't mean that you can't break past that barrier, but the adaptiv",
+          "publishedAt": "2026-11-18T11:00:58.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How Long To Beat GTA 6 &#8211; Full Missions List",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-long-to-beat-gta-6/",
+          "summary": "Grand Theft Auto 6 is finally in our grubby little hands, and after years (and years) of waiting, we've finished it. If you're just about to get into the game, you might be wondering just how much of a time sink it's going to be. While we recommend taking your time and exploring all of Leonida at your own pace, as games media we didn't quite have that luxury. The benefit for you is that we can give you a pretty good recommendation of how many hours you can expect it to take to complete GTA 6's main story. To finish GTA 6, you can expect to spend anywhere upwards of 65 hours on the main campaig",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to collect your GTA 6 Ultimate Edition bonuses",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/",
+          "summary": "Take advantage of those extra vendors, vehicles, and cosmetics you paid for.",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 romance guide: How Jason and Lucia's relationship actually works",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/",
+          "summary": "Is the outlaw couple hot together? Or are they running on empty?",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Here's every GTA 6 mission and chapter",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+          "summary": "Follow Jason and Lucia's journey through Leonida.",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
+          "summary": "Grab the '55 Vapid Stanier, plus some outfits and hair styles.",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "All GTA 6 cheats and how to unlock them",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+          "summary": "Get all the money, weapons, and fast cars you want.",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/100-hours-with-gta-6-a-sprawling-adventure-that-will-be-so-much-better-on-pc/",
+          "summary": "Surprise! We got an early look at GTA 6, too, even though it's only on console.",
+          "publishedAt": "2026-11-18T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Ex-Nvidia boss Jensen Huang offers to return if that's best for the company and America, Nvidia board essentially say 'nah, we're all good'",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
-          "summary": "PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games . One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse. Peripheral makers have, usually with the addition of more buttons, made many minor variations to this time-honored arrangement, but there's only ever been one real attempt to rethink it entirely for the PC: the Microsoft SideWinder Strategic Commander. Read more",
-          "publishedAt": "2026-11-17T09:31:20.000Z",
+          "url": "https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good",
+          "summary": "Nvidia's board have indicated that they aren't about to do a big u-turn and reappoint recently resigned CEO Jensen Huang, following his departure after multiple alleged instances of extramarital cavorting were reported by the press. Since his exit last week, Huang has indicated he'd be open to making such a return, were it deemed best for both the company and AMERICA. Read more",
+          "publishedAt": "2026-11-18T10:18:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How To Play GTA 6 Early On Xbox Using This Trick",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/",
-          "summary": "Due to GTA 6's non-simultaneous release , people in New Zealand will be the first in the world to play the highly anticipated open-world crime game when it releases at midnight local time there. If you want to become a Kiwi for a day and you plan to play on Xbox, you can trick your console into thinking it's in New Zealand to play early. The following trick has worked before, but there is no guarantee that it will work for you this time with GTA 6, or you might not want to do it at all. After all, Microsoft's own policy says people should only change their region if they have moved to a differ",
-          "publishedAt": "2026-11-17T09:19:03.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+          "title": "Elon Musk's mother is promoting a dress-up gacha game, for some reason",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
-          "summary": "Well, there's no accounting for taste.",
-          "publishedAt": "2026-11-16T22:34:55.000Z",
+          "url": "https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/",
+          "summary": "I mean, sure.",
+          "publishedAt": "2026-11-18T09:11:49.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
+          "title": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/",
-          "summary": "The crew retention on Newell's boats is six times the average on other superyachts.",
-          "publishedAt": "2026-11-16T22:05:57.000Z",
+          "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
+          "summary": "Half-Life 2 Resistance Crossbow, that you?",
+          "publishedAt": "2026-11-18T03:53:54.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+          "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
-          "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
-          "publishedAt": "2026-11-16T21:13:07.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-          "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
-          "publishedAt": "2026-11-16T20:57:03.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Delete GTA 6 For A Chance To Win Another Game",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
-          "summary": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other companies are using it to market their own games, including Devolver Digital. The publisher has announced that people can enter for a chance to win their upcoming game, Volvy's Adventure: Reslimed, by reposting the message below with a video of themselves deleting their GTA 6 pre-load. Of course, anyone who deletes their pre-load can install it again, though it might take some time given the game is 212GB . https://twitter.com/devolverdigital/status/2122404424983146756 The lucky winners will get a Stea",
-          "publishedAt": "2026-11-16T20:27:02.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
-          "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
-          "publishedAt": "2026-11-16T19:40:15.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Head Of GTA 6&#8217;s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
-          "summary": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't happen, and the head of GTA 6 's parent company played a role in bringing the movie to market. Strauss Zelnick, the current CEO of Rockstar Games owner Take-Two, was the president and COO of 20th Century Fox at the time--he was among the youngest-ever Hollywood CEOs at the age of 32. Warner Bros. was originally backing Home Alone and had actually begun production on the movie until budget concerns prompted the studio to pull the plug. \"Four days into production, they shut down the picture and canc",
-          "publishedAt": "2026-11-16T19:35:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This Noir Detective Game&#8217;s Vibrance Makes For An Eye-Catching Sequel",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/this-noir-detective-games-vibrance-makes-for-an-eye-catching-sequel/",
-          "summary": "How do you craft a sequel to Genesis Noir , a game that seems so unlike any other? In Feral Cat Den's abstract point-and-click adventure, the entire cosmos has been encapsulated in sleek, monochromatic illustrations, with characters, objects and shapes that swirl and pirouette in the endless, shimmering depth of a midnight sky. The game tells a tale about an ill-fated time traveler who, in typical noir fashion, has witnessed the femme fatale get shot by a mysterious other. And as he painstakingly follows the trail of her shooter across every dimension, every scene becomes a puzzle to solve. Pl",
-          "publishedAt": "2026-11-16T19:25:45.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "WoW: Forever&#8217;s Dungeons Have Gotten Yet Another Big Change",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/wow-forevers-dungeons-have-gotten-yet-another-big-change/",
-          "summary": "World of Warcraft: Forever's dungeons have changed once again, with developer Blizzard's most recent adjustment requiring an emergency hotfix to address players' outcry. Dungeons, specifically how much experience points players earn from them, have been one of Forever's most debated topics going back to the game's beta. Make them too lucrative, and players will just stay inside dungeons instead of questing out in the world. At the same time, Blizzard doesn't want dungeons to be one-time affairs, with players completing all their quests in a single run and never going back. Blizzard opened a ne",
-          "publishedAt": "2026-11-16T18:56:57.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
-          "summary": "We've all been there.",
-          "publishedAt": "2026-11-16T18:00:00.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
+          "summary": "There's a lot riding on Jason and Lucia.",
+          "publishedAt": "2026-11-18T00:35:59.000Z",
           "tag": "News",
           "_example": false
         }
@@ -281,7 +281,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-17T14:08:01.000Z",
+      "generatedAt": "2026-11-18T14:04:00.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,14 +351,50 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-17T14:08:01.000Z",
+      "generatedAt": "2026-11-18T14:04:00.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-17T14:08:01.000Z",
+      "generatedAt": "2026-11-18T14:04:00.000Z",
       "items": [
+        {
+          "title": "European Game Worker unions publish manifesto warning against unchecked AI usage",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+          "summary": "Members in Ireland, Spain, and Milan have come together to outline concerns, grievances, pitfalls, and proposed solutions surrounding Generative AI use.",
+          "publishedAt": "2026-11-17T21:21:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+          "summary": "The numerous categories of The Game Awards were largely dominated by Grand Theft Auto VI and The Legend of Zelda: Ocarina of Time, but there's plenty to talk about in this year's nominees.",
+          "publishedAt": "2026-11-17T19:29:31.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs",
+          "summary": "The Grammys are celebrating a suite of stellar video game soundtracks—but one indie dev says the academy rejected their score for being heavy on vocals.",
+          "publishedAt": "2026-11-17T17:30:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+          "summary": "Firaxis, a sibling studio to Take-Two's Rockstar Games, is known for games like Sid Meier's Civilization VII and Marvel's Midnight Suns.",
+          "publishedAt": "2026-11-17T16:07:35.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Riot unveils New Dawn, a major overhaul for League of Legends",
           "source": "Game Developer",
@@ -509,15 +545,6 @@
           "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
           "summary": "After being announced in 2023, the online multiplayer shooter will never see the light of day, according to a new report.",
           "publishedAt": "2026-11-11T16:19:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
-          "summary": "It's not entirely clear what those expectations were, but Take-Two Interactive CEO Strauss Zelnick is boasting about the game's sales on the eve of its long-anticipated release.",
-          "publishedAt": "2026-11-10T17:49:05.000Z",
           "tag": "News",
           "_example": false
         }
