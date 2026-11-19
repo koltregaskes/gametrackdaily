@@ -52,11 +52,11 @@ test('past events cannot become next, including starts less than a day ago', () 
   const a = app();
   const events = a.normaliseEvents({ events: [event({ title: 'Expired timed event', date: '2026-11-15', startAt: '2026-11-15T11:00:00Z' }), event({ title: 'Expired date-only event', date: '2026-11-14' })] });
   const html = a.renderEvents(data({ events }));
-  assert.match(html, /No upcoming events listed/);
+  assert.match(html, /No upcoming events confirmed yet/);
   assert.doesNotMatch(html, /Next event|data-countdown|LIVE/);
   assert.match(html, /Event archive/);
   const empty = a.renderEvents(data());
-  assert.match(empty, /No upcoming events listed/);
+  assert.match(empty, /No upcoming events confirmed yet/);
 });
 
 test('date-only events remain upcoming for their stated day and roll into the archive', () => {
@@ -64,7 +64,7 @@ test('date-only events remain upcoming for their stated day and roll into the ar
   const a = app();
   assert.match(a.renderEvents(data({ events: a.normaliseEvents(input) })), /Next event/);
   const tomorrow = app(now + 86400000);
-  assert.match(tomorrow.renderEvents(data({ events: tomorrow.normaliseEvents(input) })), /No upcoming events listed/);
+  assert.match(tomorrow.renderEvents(data({ events: tomorrow.normaliseEvents(input) })), /No upcoming events confirmed yet/);
 });
 
 test('sourced times count down, support both input names and sort by actual instant', () => {
@@ -146,7 +146,11 @@ test('real local manifests retain their own timestamps and missing event times t
   const stale = app(Date.parse(calendar.updatedAt) + 72 * 3600000 + 1);
   assert.ok(stale.renderReleases(loaded).includes('may be out of date'));
   const december = app(Date.parse('2026-12-15T12:00:00Z'));
-  assert.match(december.renderEvents(loaded), /No upcoming events listed/);
+  const launchDay = december.renderEvents(loaded);
+  const nextTitle = launchDay.match(/Next event<\/div>\s*<h2[^>]*>([^<]*)</)?.[1];
+  const nextSource = calendar.events.find(e => e.title === nextTitle);
+  if (nextTitle) assert.ok(nextSource.date >= '2026-12-15', `${nextTitle} is not in the past at launch`);
+  else assert.match(launchDay, /No upcoming events confirmed yet/);
   assert.match(a.renderReviews(loaded), /Unscored coverage/);
   assert.doesNotMatch(a.renderReviews(loaded), /score-stamp/);
 });
