@@ -1,278 +1,278 @@
 {
-  "generated": "2026-11-20T13:59:50.000Z",
+  "generated": "2026-11-21T13:09:55.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-20T13:59:50.000Z",
+      "generatedAt": "2026-11-21T13:09:55.000Z",
       "items": [
         {
-          "title": "Vote now for 2026's RPS 100: Reader Edition",
+          "title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+          "summary": "\"All the maps, events and battles exist\" for the next slice of the RPG.",
+          "publishedAt": "2026-11-21T13:09:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
+          "summary": "\"I sincerely hope the Rockstar team is successful in unionizing\".",
+          "publishedAt": "2026-11-21T11:51:01.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "What are we all playing this weekend?",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
-          "summary": "For the past six years, the team at RPS have got together to pick what we consider to be the best 100 games you can play on PC. There's very little science involved, and we try not to get too hung up on what games should make the cut. From year to year, our rankings and choices vary wildly as the formation and tastes of the team changes. However, our definitive list isn't always met with a chorus of approval and cheers of 'Hear, hear!', \"'Well done!', and 'Couldn't have said it better myself!', so we also have the RPS 100: Reader Edition. This is your chance to submit your ten favourite PC gam",
-          "publishedAt": "2026-11-20T13:59:50.000Z",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+          "summary": "Terrible news, readers. Not only have several members of the Treehouse abandoned us, citing flimsy excuses like \"James, you remember I've got that holiday booked, right?,\" many that remain have forsaken their duties and are playing something called a Play Station . What, all those Not GTA retrospectives we ran this week not inspiring enough for you? Can't even wait an indeterminate amount of time for a completely unconfirmed PC port? For what, some silly little cultural event of staggeringly vast and likely medium-altering importance? Whatever, was still made with union busting. Allegedly. On ",
+          "publishedAt": "2026-11-21T11:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+          "title": "Play GTA 6 In First Person With This Glitch",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/videos/play-gta-6-in-first-person-with-this-glitch/",
+          "summary": "So it turns out you can play GTA 6 in first person mode right now with a glitch. Check out the video on how to play in this mode. (Note it's probably going to get patched so enjoy it while it lasts)",
+          "publishedAt": "2026-11-21T01:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+          "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
+          "publishedAt": "2026-11-21T00:46:24.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I didn't realize Etsy was selling bridges now",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
+          "summary": "The company says its new generative AI training agreement will only be used for good. Why would anyone believe that?",
+          "publishedAt": "2026-11-21T00:00:36.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security/",
+          "summary": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, affecting everything from major banks and cellphone service providers to city governments and small businesses. Gaming has been one of many areas targeted: between arcade games on Sega's network going offline , 11 million Capcom IDs being compromised , and a high-schooler hacking Bandai-Namco , some major publishers have been suffering a string of embarrassments. One recent incident involved the PC launcher for the popular gacha action shooter NIKKE: Goddess of Victory , where malicious code wou",
+          "publishedAt": "2026-11-20T23:54:45.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
+          "summary": "Someone had to do it.",
+          "publishedAt": "2026-11-20T22:34:25.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This Had My Jaw On The Floor | GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/videos/this-had-my-jaw-on-the-floor-gta-6/",
+          "summary": "BOOM! A plane has crashed in the Leonida Grassrivers. Jason races over to the site of the impact to see what he can find, but he isn't the only one interested in the downed plane...",
+          "publishedAt": "2026-11-20T22:30:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+          "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
+          "publishedAt": "2026-11-20T22:02:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
+          "summary": "Pep up their step.",
+          "publishedAt": "2026-11-20T21:52:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Is Out, And People Are Planning To Party&#8211;Outside The Game In A Much Different World",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-is-out-and-people-are-planning-to-party-outside-the-game-in-a-much-different-world/",
+          "summary": "Rockstar Games finally released Grand Theft Auto 6 on Thursday. The game was highly anticipated because of, well, a lot of reasons. It’s a technical marvel that can simulate anything from doomscrolling on your phone to the thrill of hitting the club in the Miami-inspired Vice City. But it's not just about what you can do in the game. Since its release, a new viral trend on social media has emerged: People are saying they are going out, hitting the bar, and dancing--all in the real world--now that men are inside playing GTA 6. Now that Rockstar Games has released GTA 6, a lot of cisgender men w",
+          "publishedAt": "2026-11-20T21:25:06.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How To Play Golf (And Mini-Golf) In GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-to-play-golf-and-mini-golf-in-gta-6/",
+          "summary": "Golf is one of the most popular sports in the real state of Florida, so it's no surprise that Grand Theft Auto 6 offers plenty of ways to play golf in the fictional state of Leonida. GTA 6 offers two types of golf: mini-golf and traditional 18-hole golf, both of which are fully accessible from the start of the game. Leonida also features multiple courses for whichever version of golf you decide to play. There are some slightly different rules for mini-golf versus regular golf, but the mechanics for either of them will make sense after a couple of holes. Below, you can see all of the golf cours",
+          "publishedAt": "2026-11-20T21:12:09.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/",
+          "summary": "Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, in which he famously played the serial killer Dexter. Appearing on the Barstool Movies show, Hall said he was \"informed\" of the Easter eggs in GTA 6 about his character. \"I wasn't consulted,\" he said with a laugh. \"It's pretty cool to feel like [Dexter] has folded into the zeitgeist.\" https://twitter.com/BarstoolMovies_/status/2123853900789035061 After the GTA 6 Extended Look premiered in August, people immediately spotted what they thought was Dexter's apartment building from the TV show . Now ",
+          "publishedAt": "2026-11-20T20:50:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Best Guns In GTA 6 And All Guns To Buy",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/best-guns-in-gta-6-and-all-guns-to-buy/",
+          "summary": "Just like in every game before it, guns play a massive role throughout Grand Theft Auto 6 . Whether you're completing a story mission, heading off on a crime spree with Jason and Lucia, or partaking in one of the many side quests, you'll need some trusty guns available in your loadout. Luckily, GTA 6 comes stocked with a huge host of weapons for you to find or purchase in Leonida. However, some guns are locked behind story progression, while others are easy to miss when you're browsing through the selections at an Ammu-Nation store. With that in mind, here's every gun in GTA 6, along with some",
+          "publishedAt": "2026-11-20T20:43:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+          "summary": "It's easier to make successful games when you hold onto the people who know how.",
+          "publishedAt": "2026-11-20T20:41:34.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Don&#8217;t Blink: These Are The Fastest Cars In GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/dont-blink-these-are-the-fastest-cars-in-gta-6/",
+          "summary": "The state of Leonida is home to some of the rarest and most expensive cars we've ever seen in the Grand Theft Auto franchise. GTA 6 features over a dozen supercars, which are always the pinnacle of the vehicle food chain. While you'll likely take any supercar during the early or mid-game, you'll eventually want to drive the fastest car in GTA 6. Driving the fastest car in Leonida will require you to acquire a legendary vehicle or wait until your character can afford one later on in the story. With GTA 6's new car-stealing restrictions , you can't just take a supercar off the streets and make i",
+          "publishedAt": "2026-11-20T19:52:58.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Sets Even More Records",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
+          "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one , but that's just the start of understanding the impact of the game's release. For starters, the internet service provider Comcast announced that November 18--the final day of preloading--was the busiest day in the company's history in terms of demand. Peak traffic was 31% higher than an average day and a full 9.6% higher that the previous biggest day ever for traffic to ",
+          "publishedAt": "2026-11-20T19:52:51.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
+          "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
+          "publishedAt": "2026-11-20T19:51:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6&#8217;s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
+          "summary": "GTA 6 is an enormous hit--it's the biggest gaming release ever. Take-Two just announced that GTA 6 reach 32.5 million copies sold before release , with revenue reaching $3.79 billion through the end of the first day on sale on November 19. This makes it the biggest entertainment release--for any medium--in history, Take-Two said. For comparison, 2013's GTA 5 hit $800 million in revenue in its first 24 hours and $1 billion after its first three days , so GTA 6 is pacing well ahead of those numbers. GTA 5 launched at $60, compared to $80 for the cheapest version of GTA 6. For comparison, the all",
+          "publishedAt": "2026-11-20T19:30:17.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "You Should Bike More (In GTA 6)",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/you-should-bike-more-in-gta-6/",
+          "summary": "I'm several hours into Rockstar's behemoth video game, and as big as the GTA 6 map is, I've seldom needed (and even less often preferred) more than two wheels to get around. Biking in GTA 6 is awesome, and it's a safe bet to say you should be doing it more than you are.&nbsp; Sure, Grand Theft Auto 6 might imply heavy use of automobiles right there in its title, and there are plenty of amazing boats , planes , and cars to find--heck, there's even a tank . But none of these other ways to get from A to B really compare to a good old-fashioned bicycle.&nbsp; I'm an avid biker in real life, so I w",
+          "publishedAt": "2026-11-20T19:20:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "summary": "The platform says the new AI training policy is aimed solely at improving storefronts and tools, but not everyone is buying it.",
+          "publishedAt": "2026-11-20T19:02:52.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6&#8217;s Auto-Drive Feature Is Easy To Miss But Extremely Handy",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6s-auto-drive-feature-is-easy-to-miss-but-extremely-handy/",
+          "summary": "GTA 6 may still very much be a Grand Theft Auto game, but some fundamental changes--a stronger focus on realism, money being scarce --do a lot to shake things up. Driving might not feel totally different, but the decision-making behind choosing what to drive and how reckless to be on the road give that portion of the game a much different feel. But should you prefer not to drive yourself, you do have a choice, and it doesn't involve taking taxis or relying on public transportation. It can be easy to miss, due to how it's accessed, but there is an auto-drive option you can enable so your curren",
+          "publishedAt": "2026-11-20T18:30:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Has The Best Use Of PS5&#8217;s DualSense Controller Yet",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-has-the-best-use-of-ps5s-dualsense-controller-yet/",
+          "summary": "I expected Xbox Series X|S's Quick Resume to be the defining feature of this console generation, but it's been the unique features offered by PS5's DualSense controller that have actually provided the biggest edge for me. GTA 6 is not only the latest such example of this, but it's also the best example of leveraging the DualSense yet. The controller's speaker is used for some nice touches, like hearing your phone ring or chatter on the police scanner, but as is often the case, it's the DualSense triggers that make the more meaningful difference. These are leveraged in myriad ways that can sign",
+          "publishedAt": "2026-11-20T17:15:52.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
+          "summary": "Huang claims \"he couldn’t motivate them simply with money\".",
+          "publishedAt": "2026-11-20T16:52:44.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/",
+          "summary": "Yes, it's true: this man has no disc.",
+          "publishedAt": "2026-11-20T16:45:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+          "summary": "This special neckwear is helpful in robberies.",
+          "publishedAt": "2026-11-20T16:22:53.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
-          "summary": "As announced in a statement by Arika president Akira Nishitani (and translated by Time Extension, thank you), Akira Kurabayashi, a director at the combined dev/publishing studio and a creator whose work spans three decades and several genres, sadly passed away as a result of heart failure late last week. Read more",
-          "publishedAt": "2026-11-20T13:00:00.000Z",
+          "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+          "summary": "Ooh, an Nvidia-related story that isn't about their now former CEO allegedly getting amorous with someone. I wonder what it's abou-oh. Oh no. It looks like Nvidia's latest GeForce driver, 621.24, is needlessly writing vast amounts of data to PC SSDs. Read more",
+          "publishedAt": "2026-11-20T16:04:10.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Is Niko Bellic in GTA 6?",
+          "title": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
-          "summary": "And can you go bowling with him if so?",
-          "publishedAt": "2026-11-20T12:44:35.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+          "summary": "It's giving Charlie from It's Always Sunny in Philadelphia.",
+          "publishedAt": "2026-11-20T15:09:50.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
+          "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-          "summary": "Let's hope we actually see some performance gains from it.",
-          "publishedAt": "2026-11-20T12:40:28.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6&#8217;s Console Wars Are Already Over, And Xbox Lost",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/",
-          "summary": "Grand Theft Auto games have never shied away from satirizing life, and GTA 6 has plenty of digs at famous brands, trends, and people. Not even gaming is immune to GTA's patented satire, especially if you're playing on Xbox, because there's no escape from PlayStation — or its legally distinct cousin, the JoySystem. Early in GTA 6, you'll get to bond with Jason's best pal, Cal. After maximizing the energy of Jason's bachelor pad with a little feng shui redecorating, the duo settles in for a night of booze, drugs, and video games on Booby's JoyStation console, which looks very similar to a PS5. I",
-          "publishedAt": "2026-11-20T12:35:47.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
-          "summary": "I think most players will find Mandy.",
-          "publishedAt": "2026-11-20T12:26:52.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
-          "summary": "Ubisoft have revealed their Motherbrain. It's far less cool than it sounds. Rather than being a giant floating slab of thinky meat that can do telepathy, Motherbrain is a studio dedicated to doing development stuff with generative AI. As you might expect, it consists of the folks who worked on Ubisoft's \"first playable generative AI experience\". Read more",
-          "publishedAt": "2026-11-20T12:09:30.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "WoW: Forever item designer wants to 'get rid of BiS', encouraging players who want to sweatily optimise to bring unique sets of gear to raids",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-item-designer-wants-to-get-rid-of-bis-encouraging-players-who-want-to-sweatily-optimise-to-bring-unique-sets-of-gear-to-raids/",
-          "summary": "\"I think your BiS should be different every single boss.\"",
-          "publishedAt": "2026-11-20T12:07:57.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/",
-          "summary": "\"There may be an item that is master looter BiS.\"",
-          "publishedAt": "2026-11-20T11:52:22.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How to fix the railing in GTA 6",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs/",
-          "summary": "Complete Jason's house repairs before Lucia arrives.",
-          "publishedAt": "2026-11-20T11:34:11.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Has Aliens, And Here&#8217;s How To Find Them",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-has-aliens-and-heres-how-to-find-them/",
-          "summary": "The truth is out there! Unidentified Flying Objects are once again whizzing around in Grand Theft Auto 6 , but compared to previous games, you can have a close encounter of the third kind this time. So far, two distinct UFO mysteries have been revealed in GTA 6, and if you're looking to meet visitors from another world, here's how you can find them. Alien encounter 1: The abduction Once you've completed Chapter 1 of GTA 6, you'll want to head northwest of the Starlet Motel in Kelly County, after 2 AM. Make certain that you are alone. While you're on the road, keep an eye out for a stranded veh",
-          "publishedAt": "2026-11-20T11:26:37.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
-          "summary": "There is a registry fix, but it's surprising to see the driver package still available to download.",
-          "publishedAt": "2026-11-20T11:05:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
-          "summary": "Cyberleek, the GTA 6 leaker or leakers who shared a bunch of alleged gameplay earlier this year, are now claiming to have released a nearly complete in-development build of the crimsim's Xbox version. Continuing their established grift, the leaker or leakers are threatening to release the main executable file they've withheld unless people pump up the value of their cryptocurrency. Read more",
-          "publishedAt": "2026-11-20T10:42:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Modders reckon GTA 6 will be playable on PC within a week",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/",
-          "summary": "That's if Rockstar can't take it down first.",
-          "publishedAt": "2026-11-20T10:33:56.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
-          "summary": "Valve giveth, and Valve taketh away in their latest Steam Machine availability update . The dinky SteamOS PC continues to have a terrible time with AI industry-inflicted hardware parts shortages , which at least for its flagship 2TB model, have become such a problem that Valve are suspending new orders until further notice. While Valve's post says that they \"have wrapped up sending purchase invites out to all remaining 2TB reservation holders\" &ndash; meaning if you'd previously reserved one, you'll still get your chance to buy &ndash; \"supply restraints\" have put the kibosh on any new orders ",
-          "publishedAt": "2026-11-20T10:05:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All WAiNK Curiosities In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-waink-curiosities-in-gta-6/",
-          "summary": "Grand Theft Auto 6 , much like its predecessors in the hit series, is chock-full of strange and mysterious happenings. One activity, in particular, has you scrounging the state of Leonida in search of odd stuff. Some of these just look a bit off, while others seem as though they don’t even belong in our world. If you manage to scan these using your app, they can be tallied as part of your WAiNK Curiosities collection. In This Article WAiNK Curiosities in Mariana County WAiNK Curiosity #1: Christmas House WAiNK Curiosity #2: Plunge Masters Deep Sea Chalet WAiNK Curiosity #3: Abismo Key Carcass ",
-          "publishedAt": "2026-11-20T09:05:44.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All WAiNK Landmarks In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-waink-landmarks-in-gta-6/",
-          "summary": "There are a total of 31 WAiNK Landmarks in Grand Theft Auto 6 . Similar to other related points-of-interest, these structures dot the towns and counties of Leonida, and you have to keep your eyes peeled if you want to find all of them. In This Article WAiNK Landmarks in Mariana County WAiNK Landmark #1: Badger R&amp;D Tower WAiNK Landmark #2: Thicc Herbie WAiNK Landmark #3: Riquezas Key Radome WAiNK Landmarks in Mariana County If you want to scan these WAiNK Landmarks in one go, you can drive from Jason’s home while heading to the southwestern tip of the zone. WAiNK Landmark #1: Badger R&amp;D",
-          "publishedAt": "2026-11-20T09:02:01.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All WAiNK Sculptures In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-waink-sculptures-in-gta-6/",
-          "summary": "The vistas of Leonida in Grand Theft Auto 6 have their fair share of artworks and architecture made by skilled craftsmen. In the same vein, there are also unique WAiNK Sculptures found in various locations. All of these can be scanned using the trusty WAiNK app on your phone. In This Article WAiNK Sculptures in Mariana County WAiNK Sculpture #1: The Wonder Whale WAiNK Sculpture #2: Fatal Incursion Plaque WAiNK Sculpture #3: Triangler Sculpture WAiNK Sculpture #4: Grassrivers Visitor Center Statue WAiNK Sculptures in Mariana County You’ll stumble upon a few WAiNK Sculptures while tackling main ",
-          "publishedAt": "2026-11-20T08:59:54.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All Magazines, Books, And Comics In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/",
-          "summary": "Fancy spending some time reading stuff in Grand Theft Auto 6 ? There are plenty of magazines, books, and comics for you to find in the game. Some offer insights about life in Leonida, while others are humorous jabs and general whimsy. There are even ones that offer additional information , with points-of-interest that get marked on your map. Magazines, Books, and Comics in Mariana County The first major zone in the game, Mariana County, has several reading materials for you to discover. In fact, a bunch of them can be found inside Jason’s home. Note: We don’t want to spoil all the details, but",
-          "publishedAt": "2026-11-20T08:54:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Retrieve All Lost And Damaged Cars In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-retrieve-all-lost-and-damaged-cars-in-gta-6/",
-          "summary": "It goes without saying that, at some point, you're going to lose, damage, or destroy your favorite car in Grand Theft Auto 6 . It's a rite of passage in the GTA world, and with how fragile some vehicles can be in Leonida, you're going to need to retrieve your car at one time or another. However, sometimes losing a car or motorcycle is out of your control, especially if you're doing story missions or side content. GTA 6 will often remove your vehicle from the map or replace it with another, leaving you wondering how to get your previous vehicle back. Whether your vehicle's been replaced, lost, ",
-          "publishedAt": "2026-11-20T08:52:27.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Make Money Fast In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/how-to-make-money-fast-in-gta-6/",
-          "summary": "Money is important in GTAVI, and each chapter introduces new ways to earn cash. Here are some of the best ways to make money in each chapter.",
-          "publishedAt": "2026-11-20T01:49:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Get A Tank In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-get-a-tank-in-gta-6/",
-          "summary": "Leonida is a state with plenty of powerful machinery. From high-powered weapons to devastatingly fast vehicles, you can have quite the arsenal at your disposal in Grand Theft Auto 6 . However, if you're searching for the ultimate combination of weapons and transportation, then you'll want to get your hands on a tank. For decades in GTA, tanks have been the vehicle that players use when they want to go on a true six-star Wanted level rampage. Tanks are extremely difficult to take down, have a variety of weapons to use, and can crush anything in their path. Naturally, a vehicle as powerful as a ",
-          "publishedAt": "2026-11-20T01:27:37.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Save Guns And Weapons You Find In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-save-weapons-you-find-in-gta-6/",
-          "summary": "Weapons are arguably the most important items that you can equip for Jason and Lucia in Grand Theft Auto 6 . Whether it's a pistol that helps with sticky situations or an assault rifle for elaborate robberies , you need a weapon on both characters at all times to survive in Leonida. While GTA 6 features over 100 unique weapons to find and use, just picking one up doesn't automatically mean you get to keep it equipped for the rest of the game. Rockstar Games has completely reworked the weapons system, and you need to take some extra steps to save any weapons that you find or have used in the pa",
-          "publishedAt": "2026-11-20T01:15:20.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
-          "summary": "Would you pay $7.99 a month for one car and some in-game discounts?",
-          "publishedAt": "2026-11-20T01:01:43.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 is playable in first-person, here's how to activate it",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-          "summary": "I guess that's why the cars have speedometers.",
-          "publishedAt": "2026-11-20T01:00:12.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
-          "summary": "The leaked file is apparently around 200 GB.",
-          "publishedAt": "2026-11-19T23:17:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Help: I can't stop obeying traffic laws in GTA 6",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
-          "summary": "What's happening to me!?",
-          "publishedAt": "2026-11-19T22:46:37.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
-          "summary": "The PS5 triggers are changing how I drive in GTA.",
-          "publishedAt": "2026-11-19T22:28:33.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-          "summary": "Collect 'em all, eventually.",
-          "publishedAt": "2026-11-19T22:20:56.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting/",
-          "summary": "We have GTA 6 at home.",
-          "publishedAt": "2026-11-19T22:00:43.000Z",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+          "summary": "There are other PC games to play, you know.",
+          "publishedAt": "2026-11-20T14:29:35.000Z",
           "tag": "News",
           "_example": false
         }
@@ -281,7 +281,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-20T13:59:50.000Z",
+      "generatedAt": "2026-11-21T13:09:55.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,14 +351,41 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-20T13:59:50.000Z",
+      "generatedAt": "2026-11-21T13:09:55.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-20T13:59:50.000Z",
+      "generatedAt": "2026-11-21T13:09:55.000Z",
       "items": [
+        {
+          "title": "Grand Theft Auto VI is now the biggest video game launch in history",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+          "summary": "Day-one retails sales for Grand Theft Auto VI crossed $3.79 billion, and Take-Two sold 32.5 million copies before the game even released.",
+          "publishedAt": "2026-11-20T21:50:59.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Ubisoft misses forecast and bets big on AI development",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+          "summary": "The French publisher plunges on first-half year earnings, though has a few bright spots in its portfolio.",
+          "publishedAt": "2026-11-20T18:37:58.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+          "summary": "We're chatting with creative director Mikael Kasurinen about the process of making the challenging development decisions behind Control Resonant.",
+          "publishedAt": "2026-11-20T15:14:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
           "source": "Game Developer",
@@ -473,33 +500,6 @@
           "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
           "summary": "Ten selected developers will receive $50,000 as well as 'resources, support, and networks' for the final leg of their development journey.",
           "publishedAt": "2026-11-16T13:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
-          "summary": "The Digital Fairness Act, if adopted, could massively change the way some games are developed and published not just in Europe, but across the globe.",
-          "publishedAt": "2026-11-13T18:32:59.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Development secrets of Dressmaker, ft. Ruan Rothmann &amp; Sara Laubscher",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-          "summary": "Dressmaker is the kind of story indie devs dream of—so what did it take to bring the surprise hit of 2026 to life?",
-          "publishedAt": "2026-11-13T16:05:43.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
-          "summary": "After a stroke left him unable to do the voice of the Witcher series' main character anymore, Jacek Rozenek consented to using AI for Witcher 3's next expansion.",
-          "publishedAt": "2026-11-13T15:28:34.000Z",
           "tag": "News",
           "_example": false
         }
