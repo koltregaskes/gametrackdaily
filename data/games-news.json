@@ -1,11 +1,263 @@
 {
-  "generated": "2026-11-21T13:09:55.000Z",
+  "generated": "2026-11-22T12:44:48.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-21T13:09:55.000Z",
+      "generatedAt": "2026-11-22T12:44:48.000Z",
       "items": [
+        {
+          "title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+          "summary": "Despite this, Howard Scott Warshaw thinks AI will be a \"super positive thing\" for the industry.",
+          "publishedAt": "2026-11-22T12:44:48.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The Sunday Papers",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+          "summary": "Sundays are for googling local purveyors of live Christmas trees, the sole upside of no longer having a cat being that you can once again enjoy the smell of chopped woodland without the risk of it poisoning a family member. Well, then again, I mean... empirically speaking, you're probably just assuming that your human loved ones haven't eaten spruce needles. Can you say for an absolute fact that they wouldn't ? Fortunately, while your nan is off having her stomach pumped, you can pass the time by reading some good words from this week. Read more",
+          "publishedAt": "2026-11-22T11:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+          "summary": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\"",
+          "publishedAt": "2026-11-22T10:54:09.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+          "summary": "Her book's being written by award-winning author Tasha Suri.",
+          "publishedAt": "2026-11-22T03:03:45.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+          "summary": "You gotta hand it to them, but the payout sounds like it would have been small potatoes to the company.",
+          "publishedAt": "2026-11-21T23:40:42.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
+          "summary": "Since the beginning of the year, I have watched almost 150 films. I know this, because over the past few years, I've become one of those people&hellip; a Letterboxd user. Gasp! I know, I know, but I don't think I'm too insufferable about it. I'll only do a joke review in the hopes of like farming if I think it's genuinely funny! But many of these films were watched digitally, meaning I don't have a bunch of DVDs to admire on a shelf. So what am I to do? Well, I could check out Alt Video, a not quite job simulator where you can use your Letterboxd account or media server to fill up a digital, f",
+          "publishedAt": "2026-11-21T22:50:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+          "summary": "November 19 marked the highest-traffic day in the ISP's history.",
+          "publishedAt": "2026-11-21T21:42:29.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
+          "summary": "I am both a bit too young and a bit too very not American to have ever experienced public-access television, but it's something that's always fascinated me. For those too young to have even heard of it, or just not in the know, it essentially allowed anyone to broadcast their own shows through cable TV. A proto YouTube, if you will. It's obviously not what it was any more, given the advent of the internet, but in NIGHTEYE.TV , it may be making a digital, more interactive return. Read more",
+          "publishedAt": "2026-11-21T21:27:20.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
+          "summary": "In the name of \"more immersive and engaging player experiences,\" of course.",
+          "publishedAt": "2026-11-21T21:16:16.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
+          "summary": "Meet with your lawyer or wait and do it later?",
+          "publishedAt": "2026-11-21T20:32:43.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+          "summary": "Oh I do love an eldritch horror creature, I do, especially one that at first glance may only be slightly different from what I'm used to seeing. Eldritch Empathy, then, seems like a grand ole game to satisfy my wanton need to experience such things. It's a puzzle roguelite that isn't exactly a Papers Please -like but certainly feels reminiscent of one, where you have to \"analyse corrupted creatures, purify their emotions and learn how to communicate with an eldritch being.\" Read more",
+          "publishedAt": "2026-11-21T18:57:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+          "summary": "\"You can't help but take it a little bit personally\".",
+          "publishedAt": "2026-11-21T18:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+          "summary": "Toby Fox is a purposefully mysterious person. It was probably a wise choice on his part, obfuscating his current appearance with everyone's favourite annoying dog, essentially never speaking aloud in livestreams and instead using a text-to-speech bot, and posting only when there's notable enough Deltarune updates of if it would be very funny. But as it turns out, that sense of mystery extends to the team that's making Deltarune too, as Fox won't tell his devs how the game ends until they've built enough of it. Read more",
+          "publishedAt": "2026-11-21T17:54:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to steal the BF Bandito in GTA 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
+          "summary": "Track down this white off-roader for Moses.",
+          "publishedAt": "2026-11-21T17:34:25.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
+          "summary": "Keeping our streets safe.",
+          "publishedAt": "2026-11-21T17:08:06.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "This Musical Adventure Tells A Very British Tale Through Deep Cleaning And Ghost Busting",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/this-musical-adventure-tells-a-very-british-tale-through-deep-cleaning-and-ghost-busting/",
+          "summary": "Don’t let the title fool you; the Grand Hotel is definitely haunted in There Are No Ghosts at The Grand, a supernatural clean-‘em-up where you’ll renovate a dilapidated building, investigate ghastly happenings, and break into song with fellow townsfolk. Your janitorial duties include blasting old furniture into smithereens, repainting the walls, and sprucing up a botanical garden with new plants and an outdoor fountain. There are the occasional phantoms and mutated, bloodthirsty spiders, but don’t worry; it’s largely relaxing, therapeutic work, especially with a versatile toolkit by your side-",
+          "publishedAt": "2026-11-21T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
+          "summary": "I'd almost forgotten what it was like.",
+          "publishedAt": "2026-11-21T17:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+          "summary": "The original Darkest Dungeon may have gotten some new DLC earlier this year , but that doesn't mean that Red Hook Studios are abandoning their sequel. No, in fact the next bit of DLC for Darkest Dungeon 2 was teased only a couple of weeks ago, with a new trailer shared today actually showing off what it's all about. Read more",
+          "publishedAt": "2026-11-21T16:53:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 La Cascara Motel safe code",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
+          "summary": "Open the safe on the top floor of this ruined motel.",
+          "publishedAt": "2026-11-21T16:36:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to find the Avery Pawn Shop safe code in GTA 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
+          "summary": "Crack the case in the Hit Avery Pawn mission.",
+          "publishedAt": "2026-11-21T16:30:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "The most unforgivable crime in GTA 6 is that TV placement",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/",
+          "summary": "Jason and Cal do their best to redecorate the bach' pad but c'mon boys, a TV in front of a giant glass door? We can do better.",
+          "publishedAt": "2026-11-21T16:16:37.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "As a kid, I didn't have a monster in my attic, I had a LAN",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/",
+          "summary": "I'm not boasting. OK, I am a bit.",
+          "publishedAt": "2026-11-21T16:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How to unlock the Brooks Boatworks safe in GTA 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+          "summary": "And find a new gun, lots of pills and plenty of cash.",
+          "publishedAt": "2026-11-21T15:51:59.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/",
+          "summary": "They do make them like they used to.",
+          "publishedAt": "2026-11-21T15:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+          "summary": "Find cars for Wyman to fix the 67' Sirius Transgressor.",
+          "publishedAt": "2026-11-21T14:43:05.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+          "summary": "\"Persona 6 is not the end\".",
+          "publishedAt": "2026-11-21T14:31:07.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Bowling Alley safe code",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/",
+          "summary": "Crack this safe during the Hit Kingpin Bowling mission.",
+          "publishedAt": "2026-11-21T13:49:37.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 is a cozy game",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/",
+          "summary": "The best parts of GTA 6 happen when everyone puts their guns away.",
+          "publishedAt": "2026-11-21T13:45:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
         {
           "title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
           "source": "PC Gamer",
@@ -23,265 +275,13 @@
           "publishedAt": "2026-11-21T11:51:01.000Z",
           "tag": "News",
           "_example": false
-        },
-        {
-          "title": "What are we all playing this weekend?",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
-          "summary": "Terrible news, readers. Not only have several members of the Treehouse abandoned us, citing flimsy excuses like \"James, you remember I've got that holiday booked, right?,\" many that remain have forsaken their duties and are playing something called a Play Station . What, all those Not GTA retrospectives we ran this week not inspiring enough for you? Can't even wait an indeterminate amount of time for a completely unconfirmed PC port? For what, some silly little cultural event of staggeringly vast and likely medium-altering importance? Whatever, was still made with union busting. Allegedly. On ",
-          "publishedAt": "2026-11-21T11:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Play GTA 6 In First Person With This Glitch",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/play-gta-6-in-first-person-with-this-glitch/",
-          "summary": "So it turns out you can play GTA 6 in first person mode right now with a glitch. Check out the video on how to play in this mode. (Note it's probably going to get patched so enjoy it while it lasts)",
-          "publishedAt": "2026-11-21T01:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-          "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
-          "publishedAt": "2026-11-21T00:46:24.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "I didn't realize Etsy was selling bridges now",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
-          "summary": "The company says its new generative AI training agreement will only be used for good. Why would anyone believe that?",
-          "publishedAt": "2026-11-21T00:00:36.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security/",
-          "summary": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, affecting everything from major banks and cellphone service providers to city governments and small businesses. Gaming has been one of many areas targeted: between arcade games on Sega's network going offline , 11 million Capcom IDs being compromised , and a high-schooler hacking Bandai-Namco , some major publishers have been suffering a string of embarrassments. One recent incident involved the PC launcher for the popular gacha action shooter NIKKE: Goddess of Victory , where malicious code wou",
-          "publishedAt": "2026-11-20T23:54:45.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
-          "summary": "Someone had to do it.",
-          "publishedAt": "2026-11-20T22:34:25.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "This Had My Jaw On The Floor | GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/this-had-my-jaw-on-the-floor-gta-6/",
-          "summary": "BOOM! A plane has crashed in the Leonida Grassrivers. Jason races over to the site of the impact to see what he can find, but he isn't the only one interested in the downed plane...",
-          "publishedAt": "2026-11-20T22:30:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
-          "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
-          "publishedAt": "2026-11-20T22:02:48.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
-          "summary": "Pep up their step.",
-          "publishedAt": "2026-11-20T21:52:04.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Is Out, And People Are Planning To Party&#8211;Outside The Game In A Much Different World",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-is-out-and-people-are-planning-to-party-outside-the-game-in-a-much-different-world/",
-          "summary": "Rockstar Games finally released Grand Theft Auto 6 on Thursday. The game was highly anticipated because of, well, a lot of reasons. It’s a technical marvel that can simulate anything from doomscrolling on your phone to the thrill of hitting the club in the Miami-inspired Vice City. But it's not just about what you can do in the game. Since its release, a new viral trend on social media has emerged: People are saying they are going out, hitting the bar, and dancing--all in the real world--now that men are inside playing GTA 6. Now that Rockstar Games has released GTA 6, a lot of cisgender men w",
-          "publishedAt": "2026-11-20T21:25:06.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Play Golf (And Mini-Golf) In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-play-golf-and-mini-golf-in-gta-6/",
-          "summary": "Golf is one of the most popular sports in the real state of Florida, so it's no surprise that Grand Theft Auto 6 offers plenty of ways to play golf in the fictional state of Leonida. GTA 6 offers two types of golf: mini-golf and traditional 18-hole golf, both of which are fully accessible from the start of the game. Leonida also features multiple courses for whichever version of golf you decide to play. There are some slightly different rules for mini-golf versus regular golf, but the mechanics for either of them will make sense after a couple of holes. Below, you can see all of the golf cours",
-          "publishedAt": "2026-11-20T21:12:09.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/",
-          "summary": "Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, in which he famously played the serial killer Dexter. Appearing on the Barstool Movies show, Hall said he was \"informed\" of the Easter eggs in GTA 6 about his character. \"I wasn't consulted,\" he said with a laugh. \"It's pretty cool to feel like [Dexter] has folded into the zeitgeist.\" https://twitter.com/BarstoolMovies_/status/2123853900789035061 After the GTA 6 Extended Look premiered in August, people immediately spotted what they thought was Dexter's apartment building from the TV show . Now ",
-          "publishedAt": "2026-11-20T20:50:55.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Best Guns In GTA 6 And All Guns To Buy",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/best-guns-in-gta-6-and-all-guns-to-buy/",
-          "summary": "Just like in every game before it, guns play a massive role throughout Grand Theft Auto 6 . Whether you're completing a story mission, heading off on a crime spree with Jason and Lucia, or partaking in one of the many side quests, you'll need some trusty guns available in your loadout. Luckily, GTA 6 comes stocked with a huge host of weapons for you to find or purchase in Leonida. However, some guns are locked behind story progression, while others are easy to miss when you're browsing through the selections at an Ammu-Nation store. With that in mind, here's every gun in GTA 6, along with some",
-          "publishedAt": "2026-11-20T20:43:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
-          "summary": "It's easier to make successful games when you hold onto the people who know how.",
-          "publishedAt": "2026-11-20T20:41:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Don&#8217;t Blink: These Are The Fastest Cars In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/dont-blink-these-are-the-fastest-cars-in-gta-6/",
-          "summary": "The state of Leonida is home to some of the rarest and most expensive cars we've ever seen in the Grand Theft Auto franchise. GTA 6 features over a dozen supercars, which are always the pinnacle of the vehicle food chain. While you'll likely take any supercar during the early or mid-game, you'll eventually want to drive the fastest car in GTA 6. Driving the fastest car in Leonida will require you to acquire a legendary vehicle or wait until your character can afford one later on in the story. With GTA 6's new car-stealing restrictions , you can't just take a supercar off the streets and make i",
-          "publishedAt": "2026-11-20T19:52:58.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Sets Even More Records",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
-          "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one , but that's just the start of understanding the impact of the game's release. For starters, the internet service provider Comcast announced that November 18--the final day of preloading--was the busiest day in the company's history in terms of demand. Peak traffic was 31% higher than an average day and a full 9.6% higher that the previous biggest day ever for traffic to ",
-          "publishedAt": "2026-11-20T19:52:51.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
-          "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
-          "publishedAt": "2026-11-20T19:51:48.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6&#8217;s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
-          "summary": "GTA 6 is an enormous hit--it's the biggest gaming release ever. Take-Two just announced that GTA 6 reach 32.5 million copies sold before release , with revenue reaching $3.79 billion through the end of the first day on sale on November 19. This makes it the biggest entertainment release--for any medium--in history, Take-Two said. For comparison, 2013's GTA 5 hit $800 million in revenue in its first 24 hours and $1 billion after its first three days , so GTA 6 is pacing well ahead of those numbers. GTA 5 launched at $60, compared to $80 for the cheapest version of GTA 6. For comparison, the all",
-          "publishedAt": "2026-11-20T19:30:17.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "You Should Bike More (In GTA 6)",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/you-should-bike-more-in-gta-6/",
-          "summary": "I'm several hours into Rockstar's behemoth video game, and as big as the GTA 6 map is, I've seldom needed (and even less often preferred) more than two wheels to get around. Biking in GTA 6 is awesome, and it's a safe bet to say you should be doing it more than you are.&nbsp; Sure, Grand Theft Auto 6 might imply heavy use of automobiles right there in its title, and there are plenty of amazing boats , planes , and cars to find--heck, there's even a tank . But none of these other ways to get from A to B really compare to a good old-fashioned bicycle.&nbsp; I'm an avid biker in real life, so I w",
-          "publishedAt": "2026-11-20T19:20:18.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
-          "summary": "The platform says the new AI training policy is aimed solely at improving storefronts and tools, but not everyone is buying it.",
-          "publishedAt": "2026-11-20T19:02:52.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6&#8217;s Auto-Drive Feature Is Easy To Miss But Extremely Handy",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6s-auto-drive-feature-is-easy-to-miss-but-extremely-handy/",
-          "summary": "GTA 6 may still very much be a Grand Theft Auto game, but some fundamental changes--a stronger focus on realism, money being scarce --do a lot to shake things up. Driving might not feel totally different, but the decision-making behind choosing what to drive and how reckless to be on the road give that portion of the game a much different feel. But should you prefer not to drive yourself, you do have a choice, and it doesn't involve taking taxis or relying on public transportation. It can be easy to miss, due to how it's accessed, but there is an auto-drive option you can enable so your curren",
-          "publishedAt": "2026-11-20T18:30:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6 Has The Best Use Of PS5&#8217;s DualSense Controller Yet",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-has-the-best-use-of-ps5s-dualsense-controller-yet/",
-          "summary": "I expected Xbox Series X|S's Quick Resume to be the defining feature of this console generation, but it's been the unique features offered by PS5's DualSense controller that have actually provided the biggest edge for me. GTA 6 is not only the latest such example of this, but it's also the best example of leveraging the DualSense yet. The controller's speaker is used for some nice touches, like hearing your phone ring or chatter on the police scanner, but as is often the case, it's the DualSense triggers that make the more meaningful difference. These are leveraged in myriad ways that can sign",
-          "publishedAt": "2026-11-20T17:15:52.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
-          "summary": "Huang claims \"he couldn’t motivate them simply with money\".",
-          "publishedAt": "2026-11-20T16:52:44.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/",
-          "summary": "Yes, it's true: this man has no disc.",
-          "publishedAt": "2026-11-20T16:45:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
-          "summary": "This special neckwear is helpful in robberies.",
-          "publishedAt": "2026-11-20T16:22:53.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
-          "summary": "Ooh, an Nvidia-related story that isn't about their now former CEO allegedly getting amorous with someone. I wonder what it's abou-oh. Oh no. It looks like Nvidia's latest GeForce driver, 621.24, is needlessly writing vast amounts of data to PC SSDs. Read more",
-          "publishedAt": "2026-11-20T16:04:10.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
-          "summary": "It's giving Charlie from It's Always Sunny in Philadelphia.",
-          "publishedAt": "2026-11-20T15:09:50.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
-          "summary": "There are other PC games to play, you know.",
-          "publishedAt": "2026-11-20T14:29:35.000Z",
-          "tag": "News",
-          "_example": false
         }
       ]
     },
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-21T13:09:55.000Z",
+      "generatedAt": "2026-11-22T12:44:48.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,13 +351,13 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-21T13:09:55.000Z",
+      "generatedAt": "2026-11-22T12:44:48.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-21T13:09:55.000Z",
+      "generatedAt": "2026-11-22T12:44:48.000Z",
       "items": [
         {
           "title": "Grand Theft Auto VI is now the biggest video game launch in history",
