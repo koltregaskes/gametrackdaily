@@ -12,6 +12,15 @@ This repo is set up as a static GitHub Pages site. It intentionally does not inc
 
 Those `Reviews` and `Previews` rails are curated coverage from the wider games press. They are not intended to become a personal house-review publication.
 
+Empty or unavailable news feeds and release calendars do not generate example
+headlines or release dates. A calendar with no upcoming dates shows an empty
+schedule and retains its undated watchlist. Missing timestamps retain the
+unverified-update notice. Recorded news source failures produce a coverage
+warning on Home, News (including individual rails), and Reviews even when the
+edition timestamp is recent; raw provider errors are not displayed. Missing
+article attribution is labelled `Source unavailable`, rather than borrowing a
+rail name. These states describe the stored manifests, not live source checks.
+
 The public shell now uses the Arcade design system and focused pages instead of cramming everything into one surface:
 - `releases.html` for the Arcade release radar and platform-filtered schedule
 - `games.html` for the full lineup

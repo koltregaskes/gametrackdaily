@@ -1,6 +1,6 @@
 /* GameTrackDaily Arcade app
    Vanilla JS renderer for the static GitHub Pages site.
-   Public data stays in data/*.json; provisional design rows stay clearly marked.
+   Public data stays in data/*.json; empty feeds never generate example coverage.
 */
 
 (() => {
@@ -56,34 +56,6 @@
       desc: "Hands-on impressions, showcase reactions, and unscored first looks.",
       sources: ["IGN", "GameSpot", "Eurogamer", "PC Gamer", "GamesRadar+", "PlayStation Blog", "Xbox Wire"],
     },
-  ];
-
-  const PROVISIONAL_RELEASES = [
-    { id: "crimson-skylines", title: "Crimson Skylines", date: "2026-05-19", platforms: ["pc", "xbox"], launcher: ["Steam", "Game Pass"], hype: "high", genre: "Strategy", _example: true },
-    { id: "garrison-final-mile", title: "Garrison: Final Mile", date: "2026-05-22", platforms: ["pc", "ps"], launcher: ["Steam", "PS Store"], hype: "med", genre: "Tactical shooter", _example: true },
-    { id: "driftcourt", title: "Driftcourt", date: "2026-05-26", platforms: ["pc"], launcher: ["Steam"], hype: "low", genre: "Racing", _example: true },
-    { id: "vector-trials-2", title: "Vector Trials 2", date: "2026-05-27", platforms: ["pc"], launcher: ["Steam", "GOG"], hype: "med", genre: "Arcade", _example: true },
-    { id: "slow-light-engine", title: "Slow Light Engine", date: "2026-06-03", platforms: ["ps"], launcher: ["PS Store"], hype: "high", genre: "Adventure", _example: true },
-    { id: "mandate-2029-demo", title: "Mandate 2029 demo", date: "2026-06-06", platforms: ["browser"], launcher: ["Web"], hype: "ours", ours: true, genre: "Political strategy", _example: true },
-    { id: "holdback-republic", title: "Holdback Republic", date: "2026-06-12", platforms: ["pc", "xbox"], launcher: ["Steam", "Xbox Store", "Game Pass"], hype: "med", genre: "RPG", _example: true },
-    { id: "civicrise-beta", title: "Civicrise beta", date: "2026-06-18", platforms: ["browser"], launcher: ["Web"], hype: "ours", ours: true, genre: "City builder", _example: true },
-    { id: "azure-flag", title: "Azure Flag", date: "2026-06-25", platforms: ["pc", "xbox", "ps"], launcher: ["Steam", "Xbox Store", "PS Store"], hype: "high", genre: "Open world", _example: true },
-    { id: "swarmbreaker-public", title: "Swarmbreaker public build", date: "2026-07-02", platforms: ["pc"], launcher: ["itch.io"], hype: "ours", ours: true, genre: "Arcade", _example: true },
-  ];
-
-  const PROVISIONAL_NEWS = [
-    { feed: "dev", t: "Godot 5 hits stable with a redesigned visual scripting layer", src: "Game Developer", h: "example", tag: "engine", _example: true },
-    { feed: "dev", t: "Steamworks adds long-form Direct review notes for unreleased titles", src: "Steamworks", h: "example", tag: "platform", _example: true },
-    { feed: "dev", t: "Unity 7's render pipelines unify under one configurable graph", src: "Unity", h: "example", tag: "engine", _example: true },
-    { feed: "gaming", t: "PlayStation reorganises first-party output around longer windows", src: "Eurogamer", h: "example", tag: "platform", platforms: ["ps"], _example: true },
-    { feed: "gaming", t: "Xbox confirms Game Pass day-one slate for the summer showcase", src: "Xbox Wire", h: "example", tag: "platform", platforms: ["xbox"], _example: true },
-    { feed: "gaming", t: "Valve quietly tightens refund rules for early-access leavers", src: "PC Gamer", h: "example", tag: "platform", platforms: ["pc"], _example: true },
-    { feed: "review", t: "Crimson Skylines: a tense, restrained 8/10", src: "Rock Paper Shotgun", h: "example", tag: "review", score: 8, platforms: ["pc", "xbox"], _example: true },
-    { feed: "review", t: "Garrison: Final Mile: a difficult, durable shooter", src: "PC Gamer", h: "example", tag: "review", score: 82, platforms: ["pc", "ps"], _example: true },
-    { feed: "review", t: "Vector Trials 2: sequel finds its rhythm late", src: "Eurogamer", h: "example", tag: "review", score: 7, platforms: ["pc"], _example: true },
-    { feed: "preview", t: "Hands-on: Slow Light Engine's traversal loop", src: "Edge", h: "example", tag: "preview", platforms: ["ps"], _example: true },
-    { feed: "preview", t: "Holdback Republic preview: politics meets party RPG", src: "Eurogamer", h: "example", tag: "preview", platforms: ["pc", "xbox"], _example: true },
-    { feed: "preview", t: "Dune: Awakening preview: survival with politics layered in", src: "PC Gamer", h: "example", tag: "preview", platforms: ["pc"], _example: true },
   ];
 
   const fallbackLiteracy = [
@@ -242,7 +214,7 @@
         fromManifest.push({
           feed: rail.id,
           t: item.title || item.t,
-          src: item.source || item.src || feed.title,
+          src: item.source || item.src || "Source unavailable",
           h: readableAge(item.publishedAt),
           tag: item.tag || item.category || rail.title,
           platforms: normalisePlatforms(item.platforms || item.platformFocus),
@@ -254,7 +226,7 @@
         });
       });
     });
-    return fromManifest.length ? fromManifest : PROVISIONAL_NEWS;
+    return fromManifest;
   }
 
   function railForFeed(feedId) {
@@ -272,6 +244,13 @@
 
   function newsFreshnessNotice(value) {
     return dataFreshnessNotice(value, "News feed", "news");
+  }
+
+  function newsCoverageNotice(meta) {
+    const count = meta.newsFailedSourceCount;
+    return Number.isInteger(count) && count > 0
+      ? `<div class="notice" role="status" data-news-coverage="incomplete"><span class="acc">Coverage incomplete</span><span>${count} news source${count === 1 ? "" : "s"} could not be refreshed. Some coverage may be missing or retained from an earlier edition.</span></div>`
+      : "";
   }
 
   function dataFreshnessNotice(value, label, kind) {
@@ -353,10 +332,10 @@
     const datedFutureReleases = (releaseCalendar.releases || [])
       .filter((release) => release.date && new Date(`${release.date}T23:59:59Z`).getTime() >= NOW())
       .map(normaliseRelease);
-    const usingProvisionalReleases = datedFutureReleases.length === 0;
+    const usingProvisionalReleases = datedFutureReleases.some(item => item._example);
 
     const undated = (releaseCalendar.undated || []).map(normaliseRelease);
-    const releases = (usingProvisionalReleases ? PROVISIONAL_RELEASES : datedFutureReleases).map(normaliseRelease);
+    const releases = datedFutureReleases;
     const news = normaliseNews(gamesNews);
 
     return {
@@ -374,7 +353,8 @@
         releaseNotice: releaseCalendar.notice,
         newsNotice: gamesNews.notice,
         usingProvisionalReleases,
-        usingProvisionalNews: news.every((item) => item._example),
+        usingProvisionalNews: news.some((item) => item._example),
+        newsFailedSourceCount: Array.isArray(gamesNews.failedSources) ? gamesNews.failedSources.length : 0,
       },
     };
   }
@@ -573,6 +553,7 @@
 
       <section class="shell">
         ${sectionHead("TRACKING", "Release and event watch", `<a class="btn btn--ghost btn--small" href="releases.html">Open schedule <span class="arrow">-></span></a>`)}
+        ${!data.releases.length ? `<div class="notice"><span class="acc">No upcoming releases listed</span><span>Check the official sources and the undated watchlist for updates.</span></div>` : ""}
         ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
         ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
         <div class="cols-4 rise-stagger">
@@ -598,6 +579,7 @@
         ${sectionHead("WIRE", "Tonight's signal", `<span class="tag">${data.news.length} items</span><a class="btn btn--ghost btn--small" href="news.html">Open wire <span class="arrow">-></span></a>`)}
         ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
         ${newsFreshnessNotice(data.meta.newsUpdated)}
+        ${newsCoverageNotice(data.meta)}
         <div class="cols-4">
           ${RAILS.map((rail) => {
             const items = data.news.filter((item) => item.feed === rail.id).slice(0, 2);
@@ -754,8 +736,9 @@
         ${sourceTimestamp(data.meta.releaseUpdated, "Release calendar")}
         ${dataFreshnessNotice(data.meta.releaseUpdated, "Release calendar", "release")}
         ${igdbCredit()}
+        ${!data.releases.length ? `<div class="notice"><span class="acc">No upcoming releases listed</span><span>Check the official sources and the undated watchlist for updates.</span></div>` : ""}
         ${alias ? `<div class="notice"><span class="acc">Route note</span><span><code>calendar.html</code> is kept as a public-safe alias. The arcade design's canonical release surface is <a href="releases.html">releases.html</a>.</span></div>` : ""}
-        ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>The public release manifest is currently seeded and has no future dated release rows. The visible dated slate uses handoff examples until the release tracker is refreshed.</span></div>` : ""}
+        ${data.meta.usingProvisionalReleases ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>Some rows in the public release manifest are marked as examples. Verify dates against official sources before planning.</span></div>` : ""}
         <div class="filter-row" style="margin-top:26px">
           ${filterButton("all", "All", "var(--ink)", true)}
           ${filterButton("pc", "PC", "var(--pc)")}
@@ -920,6 +903,7 @@
           : "Game-dev craft, platform and industry stories, review coverage, and previews. Headlines open the outlet that published them."}</p>
         ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
         ${newsFreshnessNotice(data.meta.newsUpdated)}
+        ${newsCoverageNotice(data.meta)}
         <div class="tabs-row" style="margin-top:28px">
           <button class="tab-button" style="--filter:var(--ink)" data-rail-tab="all" aria-pressed="${forcedRail ? "false" : "true"}">All rails</button>
           ${RAILS.map((rail) => `<button class="tab-button" style="--filter:${rail.colour}" data-rail-tab="${rail.id}" aria-pressed="${forcedRail === rail.id ? "true" : "false"}">${esc(rail.title)}</button>`).join("")}
@@ -974,6 +958,7 @@
         <p class="hero-lede">Reviews and previews from the wider games press. GameTrackDaily curates the coverage and explains the scoring language; it does not pretend to be the critic.</p>
         ${sourceTimestamp(data.meta.newsUpdated, "News feed")}
         ${newsFreshnessNotice(data.meta.newsUpdated)}
+        ${newsCoverageNotice(data.meta)}
         ${data.meta.usingProvisionalNews ? `<div class="notice"><span class="acc">◇ PROVISIONAL</span><span>Review rows are example coverage until the public news pipeline publishes real coverage.</span></div>` : ""}
       </section>
       ${featured ? `
