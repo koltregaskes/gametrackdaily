@@ -1,278 +1,278 @@
 {
-  "generated": "2026-11-26T14:57:30.000Z",
+  "generated": "2026-11-27T14:21:18.000Z",
   "feeds": [
     {
       "id": "gaming",
       "title": "Gaming News",
-      "generatedAt": "2026-11-26T14:57:30.000Z",
+      "generatedAt": "2026-11-27T14:21:18.000Z",
       "items": [
         {
-          "title": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
+          "title": "Make the PC gamer in your life very happy with the best Black Friday gift ideas under $50",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/make-the-pc-gamer-in-your-life-very-happy-with-the-best-black-friday-gift-ideas-under-usd50/",
+          "summary": "The PC gamer in your life could be you, that's okay, too.",
+          "publishedAt": "2026-11-27T14:21:18.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I Was Wrong About GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/videos/i-was-wrong-about-gta-6/",
+          "summary": "I expected GTA 6 to be a pretty version of a familiar game. It is, but there's much more to it than that.",
+          "publishedAt": "2026-11-27T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Alan Wake Dev’s Forgotten TV-Action Game Hybrid Is At A Huge Discount Right Now",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/alan-wake-devs-forgotten-tv-action-game-hybrid-is-at-a-huge-discount-right-now/",
+          "summary": "I loved Quantum Break . In fact, I dare say that I still love it to this day. Combining Remedy’s pizzazz for third-person shooters with the boldness to add TV show elements to the narrative experience, Quantum Break’s time-bending power fantasy is one that hooked me from start to finish. After playing it at launch, I let the dust settle before playing it once again in the early 2020s, and now, it’s time for another playthrough—and you may as well join me when it’s this cheap. After Alan Wake’s horror-led approach, with Stephen King vibes oozing from the entire experience, I don’t think any of ",
+          "publishedAt": "2026-11-27T14:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "I Was Wrong About GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/i-was-wrong-about-gta-6/",
+          "summary": "Some months ago, I wrote about how, even prior to its full reveal, we already knew what GTA 6 was going to be . Although not unique to the franchise by any means, GTA games had always followed a very clear formula, rarely upending it in any meaningful way. I strongly suspected that the 13-year wait for GTA 6 would result in a very pretty version of a very familiar game. As release approached, I worried that for all of the praise heaped upon its story and incredible level of detail, all of that was merely a veneer on the same game we've been playing for 25 years. And in many ways, that is true;",
+          "publishedAt": "2026-11-27T13:00:00.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Physical media is cool again, baby, so drop the needle on some videogame vinyls this Black Friday",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/physical-media-is-cool-again-baby-so-drop-the-needle-on-some-videogame-vinyls-this-black-friday/",
+          "summary": "Music you can hold in your hands!",
+          "publishedAt": "2026-11-27T12:56:27.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "\"A new era\" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
-          "summary": "Ubisoft, they of the recently revealed generative AI-focused game studio Motherbrain , have denied they're forcing new games being pitched by their developers to integrate use of genAI as a rule. The publishers' statement comes in the wake of a report claiming that Ubisoft devs with pitches that don't use genAI are required to explain in detail why they've decided it isn't suitable for the game being outlined. Read more",
-          "publishedAt": "2026-11-26T14:57:30.000Z",
+          "url": "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
+          "summary": "Pick up your feet, mayflies! Fatshark's co-op rat-whacker Warhammer: Vermintide 2 is getting some new mod tools. It already has a public SDK and modding framework, you say? Ah, but the new mod tools are better. They are a public-facing incarnation of the very same digital spellcraft Fatshark use to create the official levels and characters. Read more",
+          "publishedAt": "2026-11-27T12:52:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
-          "summary": "Scan the No Flusher graffiti to steal the fastest car in the game.",
-          "publishedAt": "2026-11-26T14:37:19.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/",
-          "summary": "Be a master controller on the cheap.",
-          "publishedAt": "2026-11-26T14:20:36.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Hidden Control Options In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/hidden-control-options-in-gta-6/",
-          "summary": "Grand Theft Auto 6 has a bunch of hidden commands never explained, we show off a couple you can pull off.",
-          "publishedAt": "2026-11-26T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Destiny 2&#8217;s Returning Content Makes This The Perfect Time To Grab Its Complete DLC Bundle",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/destiny-2s-returning-content-makes-this-the-perfect-time-to-grab-its-complete-dlc-bundle/",
-          "summary": "I have a love-hate relationship with Destiny 2 . I love the game and hate the fact that most of the content from Forsaken and before has essentially vanished, making it harder to recommend to newcomers. With active development set to end after the release of Renegades in The Fate Saga, the fact that much of The Light and Darkness Saga was unplayable was a sad fate. Now, Bungie is bringing back older content, sweeping open the door to the vault, and that means getting the entire Destiny 2 experience at a low price is worth picking up. Destiny 2 is at its best when you can play through the entir",
-          "publishedAt": "2026-11-26T14:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Should you participate in GTA 6's Safe Word mission?",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not/",
-          "summary": "Grab the lotion.",
-          "publishedAt": "2026-11-26T13:03:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "GTA 6&#8217;s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-furry-rescue-mission-is-a-little-weird-but-the-rewards-are-worth-it/",
-          "summary": "No matter what you do in GTA 6 , it pales in comparison to being a Furry in that game. Anyone looking to externalize their inner animal spirit is in danger of being hunted, and you'll find out for yourself just how much the fictional state of Leonida hates Furries when you're given the chance to save one of them from being murdered by the cops. Should you help them? Absolutely, if you want an easy payday or a new weapon for your arsenal. How to find Chase the Fox Like several other missions in GTA 6, helping out the Furry resistance appears to trigger randomly. The mission takes place after Ch",
-          "publishedAt": "2026-11-26T12:42:42.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "You Can Find Lucia&#8217;s Discarded Gun From The GTA 6 Prologue",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/you-can-find-lucias-discarded-gun-from-the-gta-6-prologue/",
-          "summary": "In the prologue sequence for GTA 6 , Lucia finds herself in a bit of trouble, forced to discard a handgun she'd used to hold up a store. However, it's not lost forever. You can return to the store and find the gun nearby, but this is easier to do in Chapter 3, once you've made it to Vice City. To find the gun, you'll want to head to the Little Cuba area of Vice City, just off the large highway. There's an area with Rosita's Cuban Cafe and the payday loans shop that Lucia holds up. The gun isn't found on the street; you'll have to take to the rooftops and search for it. The pink marker shows wh",
-          "publishedAt": "2026-11-26T12:18:26.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "\"Clearly not everything has gone well\" during Fable's lengthy creation, says Playground boss, but the \"original vision\" remains intact despite taking cues from other RPGs",
+          "title": "Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's \"most complex\" class yet, alongside a pet system and the promise of \"assassin cats\"",
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs",
-          "summary": "The Fable reboot is finally set to kick the release chicken (I'm not sure that's an established phrase anywhere in the world, but roll with it) early next year, following a not small amount of time in development and multiple delays . Despite that long time in the oven having made it necessary to look beyond just the series' classic entries for RPG inspiration, Playground Games' Fable general manager has said the team's \"original vision\" of what a Fable game needs to be hasn't changed. Read more",
-          "publishedAt": "2026-11-26T12:07:00.000Z",
+          "url": "https://www.rockpapershotgun.com/drone-pilots-have-come-to-cyber-knights-flashpoint-the-stealth-tactics-games-most-complex-class-yet-alongside-a-pet-system-and-the-promise-of-assassin-cats",
+          "summary": "How dare you accuse me of being a friendless loser! I have loads of friends! Their names are R2-D2 and Clippy and Arnold and Rosie the Maid. They all live in my rucksack, ready and waiting should I need somebody to dupe a security guard or fill the air around me with explosive chaff. All except Clippy, that is. He's too chonky to stuff in a bag, which can make for tricky mission extractions, but he compensates for that with his generous selection of *voice drops six octaves* FULLY LOADED AUTOCANNONS. With friends like these, who needs human allies? It's time to play stealth tactics sim Cyber K",
+          "publishedAt": "2026-11-27T12:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Forget the turkey, the best thing on your plate this Thanksgiving is this RTX 5070 laptop for just $1,300",
+          "title": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator",
+          "summary": "'Yay, GTA 6 is out on consoles and lots of people are playing it' is a fairly harmless thing to say. Unless you're, I dunno, a development platform mentioning that in a post celebrating the recent success of a PS5 emulator used for making unofficial PC ports of console games. You know, the sorts of unofficial PC ports vibecoders and proper coders having been scrambling to make of GTA 6 since its Xbox executable was allegedly leaked . The sorts of unofficial PC ports publishers like Rockstar tend to quickly move to have taken down . Read more",
+          "publishedAt": "2026-11-27T11:27:40.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How To Get A Helicopter In GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/how-to-get-a-helicopter-in-gta-6/",
+          "summary": "You’ll spend so many hours driving across the state of Leonida in Grand Theft Auto 6 , that your feet will start to ache in the real world. But there are still other modes of travel that you can try out. And, yes, you can take to the skies as well on board a helicopter. In This Article Helicopter spawns in Grand Theft Auto 6 Early-game option: Buckingham Maverick Military helicopters in GTA 6 Amphibious helicopters Rooftop helipads in Vice City Helicopter spawns in Grand Theft Auto 6 As of the time of this writing, there’s no clear way to permanently own a helicopter in GTA 6. These vehicles c",
+          "publishedAt": "2026-11-27T11:14:27.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "How To Steal And Register Cars With Advanced Trackers In GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-advanced-trackers-steal-register-cars/",
+          "summary": "Grand Theft Auto 6 has a massive world, and you can be sure that there are thousands of vehicles driving across the countryside at any given point in time. While the vast majority can be hijacked without worries--well, aside from cops that might see you--a select few have anti-theft devices that make them an unbearable hassle. Thankfully, there are ways to steal vehicles with Advanced Trackers. Advanced Trackers: How exactly do they work? The Advanced Trackers in GTA 6 can be seen if you scan most high-end vehicles like sports cars and luxury cars. Basically, if it looks expensive and sells fo",
+          "publishedAt": "2026-11-27T11:12:27.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "All GTA 6 Book Swap Locations",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/all-gta-6-book-swap-locations/",
+          "summary": "Those who grew up in the 80s and 90s would remember things known as gamebooks, the precursors to modern-day role-playing and narrative-driven games. You might recall the Choose Your Own Adventure series and R.L. Stine’s Give Yourself Goosebumps, which presented you with choices, making you turn page after page to see the outcome. Further back, we had classics like the Sorcery series and The Warlock of Firetop Mountain--co-written by authors Steve Jackson and Ian Livingstone, who coincidentally also founded Games Workshop (yes, the very company that owns Warhammer). Grand Theft Auto 6 pays homa",
+          "publishedAt": "2026-11-27T11:08:23.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "GTA 6 Has Massive Underground Caves Worth Diving Into",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-selkie-hole-underwater-cave-tunnel/",
+          "summary": "Take a break from all the car chases and crimes in Grand Theft Auto 6 , and relax in the quaint Emerald Springs resort. Oh, what's that? Is there something interesting nearby? Yes, it looks like a tourist attraction, the Selkie Hole, is worth a look. Perhaps there are hidden rewards that await you in the depths of the underwater cave. In This Article Where to find the Selkie Hole in Grand Theft Auto 6 The blue pools Cave diving for rewards and following the ropes More tunnels and meteorites Potential for more secrets: The Hollow Earth theory Where to find the Selkie Hole in Grand Theft Auto 6 ",
+          "publishedAt": "2026-11-27T11:02:04.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Xbox Game Pass Kicks Off December With Horror, Cozy Adventures, And More",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-kicks-off-december-with-horror-cozy-adventures-and-more/",
+          "summary": "One last month of 2026 brings two more waves of Xbox Game Pass titles to close out the year. Subscribers can once again look forward to some new arrivals in the Xbox Game Pass library, ranging from gruesome co-op action to wholesome adventures featuring helpful mice on a mission. These announcements typically come in two waves, with a sneak peek split between them, so while this list isn’t complete yet, we do know what you can expect in the first half of December. As usual, we’ll update this page once Xbox reveals the full lineup for this first batch. For now, you can look forward to an eclect",
+          "publishedAt": "2026-11-27T10:58:44.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "All NoFlusher Tags In GTA 6",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/all-noflusher-tags-in-gta-6/",
+          "summary": "Grand Theft Auto 6 has several moments that rely heavily on over-the-top silliness. One, in particular, involves poo. Specifically, it’s about a group of individuals who do not want people to waste their, uh, waste, for fear of cloning and other sinister machinations. So, when you’re ready, it’s time to meet the gang and collect the NoFlusher Tags. In This Article The NoFlusher narrative arcs in Grand Theft Auto 6 NoFlusher tag locations NoFlusher Tag #1 NoFlusher Tag #2 NoFlusher Tag #3 NoFlusher Tag #4 NoFlusher Tag #5 NoFlusher Tag #6 NoFlusher Tag #7 NoFlusher Tag #8 NoFlusher Tag #9 NoFlu",
+          "publishedAt": "2026-11-27T10:56:55.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Where To Find All 1010 Murals In GTA 6 To Get A Free Car And Garage",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-1010-murals-grotti-cheetah/",
+          "summary": "Around halfway through Grand Theft Auto 6 ’s campaign, you’ll reach Vice City. You’ll spend several hours just tackling missions and gathering collectibles. While you’re at it, we encourage you to look for the 1010 Murals as well. That’s because this activity is somewhat missable and the rewards--the ‘95 Grotti Cheetah and a free garage--are things you definitely want. In This Article 1010 Murals activity requirement and mechanics Map: 1010 Murals in Vice City Mural #1: Compliance Theater Mural #2: Extraction Service Mural #3: Loophole Architecture Mural #4: You Signed the Terms and Conditions",
+          "publishedAt": "2026-11-27T10:49:50.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/forget-the-turkey-the-best-thing-on-your-plate-this-thanksgiving-is-this-rtx-5070-laptop-for-just-usd1-299/",
-          "summary": "And there's a 32 GB version for a tiny bit more.",
-          "publishedAt": "2026-11-26T12:00:26.000Z",
+          "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+          "summary": "Turns out they weren't meant to be that hard to kill after all.",
+          "publishedAt": "2026-11-27T04:27:55.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it",
+          "title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-fixes-one-of-its-most-annoying-endgame-quests-the-literal-day-after-i-do-it/",
-          "summary": "I'm taking this personally.",
-          "publishedAt": "2026-11-26T11:11:17.000Z",
+          "url": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/",
+          "summary": "Just think what you'll be able to do with those extra 156 KB they're freeing up.",
+          "publishedAt": "2026-11-27T01:39:07.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "All Missing Persons locations in GTA 6",
+          "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-          "summary": "Catch Port Gellhorn's creepy serial killer and end the 20-year mystery.",
-          "publishedAt": "2026-11-26T05:24:13.000Z",
+          "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+          "summary": "Holy Sigmar, bless this ravaged body.",
+          "publishedAt": "2026-11-27T01:28:24.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
+          "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
-          "summary": "The store page boasts \"over 800,000 copies sold worldwide\" but user reviews have sunk to Mostly Negative.",
-          "publishedAt": "2026-11-26T05:03:03.000Z",
+          "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
+          "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff.",
+          "publishedAt": "2026-11-26T23:00:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Mario, Pikachu, And Other Gaming Icon Balloons Won&#8217;t Be Flying This Thanksgiving",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/mario-pikachu-and-other-gaming-icon-balloons-wont-be-flying-this-thanksgiving/",
-          "summary": "New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fierce windstorms. Unfortunately for countless families who have made it a holiday tradition to turn on the TV and watch giant totems of pop culture sail in the streets of the great city, the Macy's Thanksgiving Day Parade has been officially delayed due to a forecast of rain and windstorms--a first in its 100-year history. In recent years, gaming icons have become more and more prominent during the parade. Beginning in 1993, a balloon of Sonic the Hedgehog marked the first game character to float a",
-          "publishedAt": "2026-11-26T01:05:39.000Z",
+          "title": "Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game",
+          "summary": "Maths is not my strong suit, I make no secret of this, so when I come face to face with something like sudoku I will admit to recoiling in fear at having to confront this issue. Numbers don't make sense to me at the best of times, and now I have to figure out the specific placements of them whereby each number can only be used once per section, and each column and row have to all contain numbers one through nine? Terrifying! No, thanks, I'd much rather do the exact same thing but with, I don't know, skeletons and ghouls and the like. Which, conveniently, is more or less what Dungoku offers, a ",
+          "publishedAt": "2026-11-26T22:50:40.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+          "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
-          "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
-          "publishedAt": "2026-11-25T22:36:12.000Z",
+          "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
+          "summary": "Dawn of War 4 writer John French lays out how it works.",
+          "publishedAt": "2026-11-26T22:30:59.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
+          "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
-          "summary": "I hate those guys.",
-          "publishedAt": "2026-11-25T22:32:23.000Z",
+          "url": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+          "summary": "Guess who just got yelled at?",
+          "publishedAt": "2026-11-26T22:29:06.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How To Unlock The Alien Questline in GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/videos/how-to-unlock-the-alien-questline-in-gta-6/",
-          "summary": "Aliens are real (In Grand Theft Auto VI) and we’re going to show you exactly how to kick off and complete the secret UFO missions in Rockstar’s open world game.",
-          "publishedAt": "2026-11-25T22:00:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
+          "title": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
-          "summary": "Exoprimal was intriguing, but it never caught fire with players.",
-          "publishedAt": "2026-11-25T21:37:51.000Z",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/",
+          "summary": "Blizzard's latest patch prevents Alterac Valley from being a glorified reputation farm.",
+          "publishedAt": "2026-11-26T22:05:00.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
+          "title": "Your mothership is a giant pinball machine and your ball is its defence system in Appulse, a top-down roguelite shooter that's out now",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now",
+          "summary": "Pinball remains such an intoxicating game because it's one where you have to constantly be on your toes. As the tiny metal sphere bats about the place, it's down to you to hit it at just the right time so as to keep racking up points upon points. It's a game of skill as much as it is luck. It is also incredibly silly, which is why I'm so tickled by Appulse, a sci-fi pinball roguelite top-down shooter that launched today wherein your ball is actually the main defence system on your spaceship. Read more",
+          "publishedAt": "2026-11-26T21:31:10.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
-          "summary": "Nvidia is also not under investigation, according to US Attorney General Todd Blanche.",
-          "publishedAt": "2026-11-25T21:31:41.000Z",
+          "url": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
+          "summary": "Updates to Steam's 'Discounts and Events' page are now live, and Valve wants to show them off.",
+          "publishedAt": "2026-11-26T20:20:02.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "GTA 6 vault: How to open them during big bank jobs",
+          "title": "HARK THE GHOUL is a Victorian gothic dungeon crawler RPG that features a trench-coat-wearing rat man who wants to sell you rats a la counterfeit watches",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+          "summary": "I'm a simple person. I see an anthropomorphic rat man who opens up his trench coat that is filled with regular rats in the same manner as one would with counterfeit watches in a trailer for a video game, I add it to my wishlist. There really isn't much I need in life, but that certainly fulfills those needs. And it's exactly what HARK THE GHOUL is offering, an action-adventure, dungeon crawler RPG set in a weird and nasty Victorian gothic city with an emphasis on free exploration. Read more",
+          "publishedAt": "2026-11-26T18:53:30.000Z",
+          "tag": "News",
+          "_example": false
+        },
+        {
+          "title": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-          "summary": "You can make well over $100,000 in a single crime if you open the bank vault and safe deposit boxes.",
-          "publishedAt": "2026-11-25T21:31:26.000Z",
+          "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
+          "summary": "Aeternum Game Studios does have a question, though: \"Is it just us, or does the universe have it in for us?\"",
+          "publishedAt": "2026-11-26T18:31:22.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How To Talk To Your Relatives (And Their Cool-Ass Kids) About GTA 6 This Thanksgiving",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-talk-to-your-relatives-and-their-cool-ass-kids-about-gta-6-this-thanksgiving/",
-          "summary": "Every Thanksgiving brings the possibility of fraught conversations. Your sister's divorce. Your second cousin's polycule. Politics . So surely one of the biggest entertainment launches of all time, and certainly the biggest one of the year, will come up in conversation. Your relatives might not know much about Grand Theft Auto 6, and as the designated video gamer of the family, all eyes may turn to you to explain what's going on. How do you broach this delicate topic with your loved ones? How do you explain what's so special and momentous about this moment in video games? Do you show them Mand",
-          "publishedAt": "2026-11-25T20:29:49.000Z",
+          "title": "Warhammer 40,000: Space Marine 2's latest updates introduces a Weekly Clash mode that shakes up PvP with some constricting modifiers",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+          "summary": "In as booming a monster truck rally commentator voice as you can imagine: ARE YOU READY TO GET DECIMATED??? Yes? Yippee! Because I've got some good news for you. The latest update for Warhammer 40,000: Space Marine 2 is here, appropriately dubbed the Decimation update, which adds in a new mode and more. Read more",
+          "publishedAt": "2026-11-26T17:58:30.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "How To Rob Banks In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-how-to-rob-banks/",
-          "summary": "It goes without saying that you’ll commit countless crimes in Grand Theft Auto 6 . From punching hapless civilians and stealing their cars, to threatening storeowners as you take their hard-earned cash, the world is yours for the taking. Now, you’re about to level up as you rob banks all over Leonida. In This Article Requirements before you rob banks in GTA 6 Dye Pack Jammer Snap Gun Yasmani as a fence Classifications of bank jobs in Leonida Tips before you start your break in Suppressors/silencers Alternate entrances Disguises Focus mode: Alarms, cameras, and security Raking in cash and deali",
-          "publishedAt": "2026-11-25T20:28:16.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Open Bank Vaults In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/how-to-break-into-bank-vaults-in-gta-6/",
-          "summary": "From the start of Chapter 4 in Grand Theft Auto 6 , you'll get the opportunity to rob banks in GTA 6 . Previously, you could rob pawn shops, jewelry stores, and other small-time locations. However, after receiving the Dye Pack Jammer from Karim, you can rob big-time banks by stealing all of its marked bills. Robbing a big bank has its challenges, though, and one of the tougher problems they present is breaking into the vault. Every big bank has a vault you can rob in GTA 6, but they can't be opened using traditional methods. If you want the biggest score possible, though, you'll have to learn ",
-          "publishedAt": "2026-11-25T20:27:49.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+          "title": "Black Friday SSD deals 2026",
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-          "summary": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update.",
-          "publishedAt": "2026-11-25T20:23:51.000Z",
+          "url": "https://www.pcgamer.com/black-friday-ssd-deals/",
+          "summary": "The big day is here, surely someone wants to give us a big ol' SSD deal...",
+          "publishedAt": "2026-11-26T17:33:16.000Z",
           "tag": "News",
           "_example": false
         },
         {
-          "title": "Fastest Land, Air, And Sea Vehicles In GTA 6 And How To Get Them",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/fastest-land-air-and-sea-vehicles-in-gta-6-and-how-to-get-them/",
-          "summary": "From the moment you set foot on the map of Leonida, you likely have a side goal of acquiring the fastest vehicle possible in Grand Theft Auto 6 . It might not be your immediate objective, especially seeing as you're stuck with a single car until Chapter 2, but the thought is always lurking in the back of your mind. Even after you get the ability to own and register vehicles, though, you still have little to no idea which vehicles are actually the fastest in GTA 6. Whether you're searching for a car, motorcycle, boat, or plane, there's no way to know what's the fastest until you WAiNK every veh",
-          "publishedAt": "2026-11-25T20:20:34.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "All Missable Missions In GTA 6 And How To Start Them",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-missable-missions-in-gta-6-and-how-to-start-them/",
-          "summary": "Strangers and Freaks have returned in GTA 6. Though you only see these missable side missions referred to in that way in the Achievement and Trophy lists, there are still some weird NPCs who offer wild missions across Leonida. Instead of being called \"Strangers and Freaks\" missions, you'll just see a character's initials in an icon on your map. As a general tip, their mission markers are black icons with pink lettering, the inverse of a main-story mission's color coding--pink icons with black lettering. These aren't missable missions in the sense that you lose them directly because of how time",
-          "publishedAt": "2026-11-25T19:40:20.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "What Is The Point Of No Return In The GTA 6 Story?",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/what-is-the-point-of-no-return-in-the-gta-6-story/",
-          "summary": "We've never seen a main story in the Grand Theft Auto franchise like the one in GTA 6 . It's an absolute behemoth, stretching across five chapters and just under 100 main story missions. It'll take you at least around 45-50 hours to get through the story if you're solely focusing on it. However, if you're also partaking in some side content, then you'll want to know when the \"point of no return\" is during the GTA 6 story. This is essentially when the game locks you out of anything aside from reaching the end credits and finishing the story. So, if you want to finish up any loose ends in Leonid",
-          "publishedAt": "2026-11-25T19:31:46.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "How To Complete The Project Rumba Secret In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-project-rumba-brainwash/",
-          "summary": "There are a lot of secrets left to be discovered in Grand Theft Auto 6 . Some have an eerie flair as they delve into the supernatural, while others are hilarious Easter eggs and references. Then, there are those that have you going deep down a rabbit hole of real-world conspiracy theories and clandestine plots. One of these is Project Rumba, which pertains to an assassination carried out decades prior. We’ve got all the details right here, but we’ve also included a few spoilers . In This Article How to start Project Rumba in Grand Theft Auto 6 The first loop and second loops: Getting your bear",
-          "publishedAt": "2026-11-25T19:10:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Where To Find President Russo’s Bunkers In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-bunker-president-russo/",
-          "summary": "Grand Theft Auto 6 has its fair share of secrets. While the vast majority can be found in building interiors and far-flung islands, a few are located deep underground in long-abandoned facilities. In fact, a couple of these are President Russo’s bunkers, which explains what happened to the slain leader. We discuss all the details in this guide, but be ready for spoilers , too. In This Article How to start your investigation into President Russo’s assassination Meet Jose Bermudez The clues in Jose Bermudez’s apartment President Russo’s bunker #1: Sharktooth Island The conference room How to ope",
-          "publishedAt": "2026-11-25T19:10:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "The Creepiest Paranormal Mysteries In GTA 6",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-paranormal-mysteries-ghosts-occult/",
-          "summary": "Playing Grand Theft Auto 6 is like experiencing what it’s like to come up within the criminal underworld of the fictional state of Leonida. There are car chases, robberies, assaults, drug runs, and mechanized rampages galore. But if you look past these everyday happenings, you’ll start to feel that something darker lurks beneath the surface--events and entities that seem to defy all logic, enough to unnerve even the most hardened individual. Here are some of the creepiest paranormal mysteries that you can discover in the game. In This Article Bigfoot/Skunk Ape Aliens Gellhorn’s Missing Tourist",
-          "publishedAt": "2026-11-25T19:10:00.000Z",
+          "title": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+          "summary": "The Witcher 3 Remastered continues to recieve tweaks ahead of the Songs of the Past expansion arriving next year to whisk Gerry from the River off on a fresh adventure. Following some bloomin' improvements in October , its latest patch does a bunch of skill and mutation balancing, alongside further technical tweaks and fixes for some funky bugs. Read more",
+          "publishedAt": "2026-11-26T17:00:00.000Z",
           "tag": "News",
           "_example": false
         }
@@ -281,7 +281,7 @@
     {
       "id": "review",
       "title": "Reviews",
-      "generatedAt": "2026-11-26T14:57:30.000Z",
+      "generatedAt": "2026-11-27T14:21:18.000Z",
       "items": [
         {
           "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
@@ -351,13 +351,13 @@
     {
       "id": "preview",
       "title": "Previews",
-      "generatedAt": "2026-11-26T14:57:30.000Z",
+      "generatedAt": "2026-11-27T14:21:18.000Z",
       "items": []
     },
     {
       "id": "dev",
       "title": "Game Dev",
-      "generatedAt": "2026-11-26T14:57:30.000Z",
+      "generatedAt": "2026-11-27T14:21:18.000Z",
       "items": [
         {
           "title": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
@@ -419,24 +419,6 @@
           "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
           "summary": "We're chatting with creative director Mikael Kasurinen about the process of making the challenging development decisions behind Control Resonant.",
           "publishedAt": "2026-11-20T15:14:40.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
-          "summary": "The cuts come from the Montréal and Quebec City offices, two studios that have historically benefited from sizable subsidies offered by the Canadian government to bolster the country's game development industry.",
-          "publishedAt": "2026-11-19T17:53:00.000Z",
-          "tag": "News",
-          "_example": false
-        },
-        {
-          "title": "Why greenlighting Dressmaker wasn't an easy decision to make",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-          "summary": "Pre-production data said Dressmaker might not find an audience. Free Lives pushed past those numbers to make a bona fide hit.",
-          "publishedAt": "2026-11-19T15:57:43.000Z",
           "tag": "News",
           "_example": false
         }
